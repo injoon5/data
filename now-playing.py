@@ -3,11 +3,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-url: str = 'https://api.music.apple.com/v1/me/recent/played/tracks'
+url: str = f'http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=injoon5&api_key={os.environ["LAST_FM_PUBLIC_API_KEY"]}&format=json'
 
 headers: dict = {
-    'Authorization': f'Bearer {os.environ["APPLE_MUSIC_DEV_TOKEN"]}',
-    'Music-User-Token': os.environ['APPLE_MUSIC_USER_TOKEN'],
     'Accept': 'application/json',
     'Content-Type': 'application/json',
 }
