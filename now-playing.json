@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
+          }
+        ],
+        "mbid": "97bf8860-d3e0-474f-a203-e4c1871898d8",
+        "album": {
+          "mbid": "",
+          "#text": "Light Switch - Single"
+        },
+        "name": "Light Switch",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch"
+      },
+      {
+        "artist": {
+          "mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+          "#text": "Marshmello & Jonas Brothers"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82c93001869911eb3370b35b99716d62.jpg"
+          }
+        ],
+        "mbid": "1a1d8764-ab20-4c61-951a-c24bc25d9c82",
+        "album": {
+          "mbid": "",
+          "#text": "Leave Before You Love Me - Single"
+        },
+        "name": "Leave Before You Love Me",
+        "url": "https://www.last.fm/music/Marshmello+&+Jonas+Brothers/_/Leave+Before+You+Love+Me",
+        "date": {
+          "uts": "1674746921",
+          "#text": "26 Jan 2023, 15:28"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "008824c6-6753-4737-8e83-9030134cd589",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1674746762",
+          "#text": "26 Jan 2023, 15:26"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +138,11 @@
           "#text": "Justice (The Complete Edition)"
         },
         "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
+        "date": {
+          "uts": "1674746584",
+          "#text": "26 Jan 2023, 15:23"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1673605639",
           "#text": "13 Jan 2023, 10:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
-          "#text": "U2"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39999b9a182dd6c84faf760a22aeb9bc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39999b9a182dd6c84faf760a22aeb9bc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39999b9a182dd6c84faf760a22aeb9bc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39999b9a182dd6c84faf760a22aeb9bc.jpg"
-          }
-        ],
-        "mbid": "4b0e7f18-4e58-3283-ba2e-b0eb499620c0",
-        "album": {
-          "mbid": "",
-          "#text": "The Joshua Tree (30th Anniversary Super Deluxe Edition)"
-        },
-        "name": "With or Without You",
-        "url": "https://www.last.fm/music/U2/_/With+or+Without+You",
-        "date": {
-          "uts": "1673605388",
-          "#text": "13 Jan 2023, 10:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "162c9d3f-f2c7-490e-a1a9-f9528892bc22",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1673605127",
-          "#text": "13 Jan 2023, 10:18"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Purple Disco Machine & Sophie and the Giants"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef161d445ffb68ac76ff3eff92362a80.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef161d445ffb68ac76ff3eff92362a80.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef161d445ffb68ac76ff3eff92362a80.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef161d445ffb68ac76ff3eff92362a80.jpg"
-          }
-        ],
-        "mbid": "77672377-86ae-480c-acf7-31022e76f6c4",
-        "album": {
-          "mbid": "",
-          "#text": "Exotica (Deluxe)"
-        },
-        "name": "In The Dark",
-        "url": "https://www.last.fm/music/Purple+Disco+Machine+&+Sophie+and+the+Giants/_/In+The+Dark",
-        "date": {
-          "uts": "1673604925",
-          "#text": "13 Jan 2023, 10:15"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3843"
+      "total": "3846"
     }
   }
 }
