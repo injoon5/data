@@ -1,7 +1,7 @@
 name: Find out what Injoon is listening to
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/3 * * * *'
   push:
     branches:
       - main
