@@ -1,6 +1,6 @@
 # Now Playing
 
-> What is Sunghyun listening to right now?
+> What is Injoon listening to right now?
 
 ## API Usage
 
