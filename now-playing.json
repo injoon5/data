@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Sam Smith"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f90a1d204a37d09493834154e215abb.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "In the Lonely Hour (Drowning Shadows Videos Edition)"
+        },
+        "name": "Stay with Me (feat. Mary J. Blige) [Radio Edit]",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sam+Smith/_/Stay+with+Me+(feat.+Mary+J.+Blige)+%5BRadio+Edit%5D"
+      },
+      {
+        "artist": {
+          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "#text": "Sam Smith"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f90a1d204a37d09493834154e215abb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f90a1d204a37d09493834154e215abb.jpg"
+          }
+        ],
+        "mbid": "3eb2e95f-262e-4090-8e83-9ed9eea93cf0",
+        "album": {
+          "mbid": "",
+          "#text": "In the Lonely Hour (Drowning Shadows Videos Edition)"
+        },
+        "name": "I'm Not the Only One",
+        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
+        "date": {
+          "uts": "1674745438",
+          "#text": "26 Jan 2023, 15:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96a015c94b3888c74e37546f806d2415.jpg"
+          }
+        ],
+        "mbid": "2445f788-914f-4893-9a6d-5de91d7db4f9",
+        "album": {
+          "mbid": "",
+          "#text": "Illuminate (Deluxe)"
+        },
+        "name": "Treat You Better",
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/Treat+You+Better",
+        "date": {
+          "uts": "1674745223",
+          "#text": "26 Jan 2023, 15:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
           "#text": "Shawn Mendes"
         },
@@ -31,10 +138,11 @@
           "#text": "Illuminate (Deluxe)"
         },
         "name": "There's Nothing Holdin' Me Back",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/There%27s+Nothing+Holdin%27+Me+Back"
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/There%27s+Nothing+Holdin%27+Me+Back",
+        "date": {
+          "uts": "1674745027",
+          "#text": "26 Jan 2023, 14:57"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1673015671",
           "#text": "06 Jan 2023, 14:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
-          "#text": "Keane"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0edcad43571042b0b3a5898a4e07274e.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0edcad43571042b0b3a5898a4e07274e.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0edcad43571042b0b3a5898a4e07274e.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0edcad43571042b0b3a5898a4e07274e.png"
-          }
-        ],
-        "mbid": "08496fce-8f54-319b-bec0-24e9fb61aae0",
-        "album": {
-          "mbid": "00cc55b5-ad1e-31a2-86e1-bef39e86005e",
-          "#text": "Hopes and Fears"
-        },
-        "name": "We Might as Well Be Strangers",
-        "url": "https://www.last.fm/music/Keane/_/We+Might+as+Well+Be+Strangers",
-        "date": {
-          "uts": "1673015475",
-          "#text": "06 Jan 2023, 14:31"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
-          "#text": "Jethro Tull"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e8b997abe54b975eebf2466ea626404.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e8b997abe54b975eebf2466ea626404.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e8b997abe54b975eebf2466ea626404.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e8b997abe54b975eebf2466ea626404.jpg"
-          }
-        ],
-        "mbid": "02bd1f65-7d09-4f64-97b0-ce5848a8daef",
-        "album": {
-          "mbid": "",
-          "#text": "Stormwatch (2004 Bonus Tracks Edition)"
-        },
-        "name": "Elegy",
-        "url": "https://www.last.fm/music/Jethro+Tull/_/Elegy",
-        "date": {
-          "uts": "1673015270",
-          "#text": "06 Jan 2023, 14:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e019bc6-5c23-4935-94f0-4a896631d846",
-          "#text": "Jonas Brothers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/461e07702e419883e41140bf2902fa28.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/461e07702e419883e41140bf2902fa28.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/461e07702e419883e41140bf2902fa28.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/461e07702e419883e41140bf2902fa28.png"
-          }
-        ],
-        "mbid": "31148286-91df-454f-a309-8e16767fac61",
-        "album": {
-          "mbid": "1a004927-b667-4787-a8c5-2c8d9999ca99",
-          "#text": "Happiness Begins"
-        },
-        "name": "Sucker",
-        "url": "https://www.last.fm/music/Jonas+Brothers/_/Sucker",
-        "date": {
-          "uts": "1673015069",
-          "#text": "06 Jan 2023, 14:24"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3835"
+      "total": "3838"
     }
   }
 }
