@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/anaclumos/now-playing/main/now-playing.json
 
 ## Technical Review
 
-Learn how it's made: [cho.sh/r/62764C](https://cho.sh/r/62764C)
+Forked and edited from: [cho.sh/r/62764C](https://cho.sh/r/62764C)
