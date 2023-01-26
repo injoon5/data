@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+          "#text": "Bon Jovi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/17633748ce267254f57e200e0ba3b86b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/17633748ce267254f57e200e0ba3b86b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/17633748ce267254f57e200e0ba3b86b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/17633748ce267254f57e200e0ba3b86b.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "05594f1b-9c48-4bc1-9683-1edb4bb08e55",
+          "#text": "Crush"
+        },
+        "name": "It's My Life",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Bon+Jovi/_/It%27s+My+Life"
+      },
+      {
+        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
@@ -25,16 +60,89 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "mbid": "adb04ab7-2de1-411d-a91c-2ff83b060299",
         "album": {
           "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
           "#text": "CHARLIE"
         },
-        "name": "Charlie Be Quiet!",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1674743084",
+          "#text": "26 Jan 2023, 14:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
+        "date": {
+          "uts": "1674742880",
+          "#text": "26 Jan 2023, 14:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "There\u2019s a First Time for Everything",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
+        "date": {
+          "uts": "1674742710",
+          "#text": "26 Jan 2023, 14:18"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1673013064",
           "#text": "06 Jan 2023, 13:51"
         }
-      },
-      {
-        "artist": {
-          "mbid": "124cec07-44f1-4a99-9aaa-96a5bb9ec0bd",
-          "#text": "Lukas Graham"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "0914ce72-5cff-431a-b93e-c6368715ba05",
-          "#text": "Lukas Graham"
-        },
-        "name": "7 Years",
-        "url": "https://www.last.fm/music/Lukas+Graham/_/7+Years",
-        "date": {
-          "uts": "1673012830",
-          "#text": "06 Jan 2023, 13:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "60f7b450-59dc-4be7-8b88-383fb4f66322",
-          "#text": "lovelytheband"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/001e808f2b9c63eb7f406bfb5624e6ff.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/001e808f2b9c63eb7f406bfb5624e6ff.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/001e808f2b9c63eb7f406bfb5624e6ff.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/001e808f2b9c63eb7f406bfb5624e6ff.jpg"
-          }
-        ],
-        "mbid": "313de8f1-d2f5-4841-b41e-842ad8f72796",
-        "album": {
-          "mbid": "7afadabc-a58f-4444-9fae-f0bda687b9e7",
-          "#text": "Finding It Hard To Smile"
-        },
-        "name": "broken",
-        "url": "https://www.last.fm/music/lovelytheband/_/broken",
-        "date": {
-          "uts": "1673012608",
-          "#text": "06 Jan 2023, 13:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4",
-          "#text": "Mariah Carey"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bb3379b58792def6b5d832fc74e71963.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bb3379b58792def6b5d832fc74e71963.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bb3379b58792def6b5d832fc74e71963.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb3379b58792def6b5d832fc74e71963.png"
-          }
-        ],
-        "mbid": "a6fab057-cf3a-4456-950e-d3edaf219326",
-        "album": {
-          "mbid": "2cd98c57-4d2c-3890-88ec-939393144131",
-          "#text": "Merry Christmas"
-        },
-        "name": "All I Want for Christmas Is You",
-        "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You",
-        "date": {
-          "uts": "1671548271",
-          "#text": "20 Dec 2022, 14:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3823"
+      "total": "3826"
     }
   }
 }
