@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
-          "#text": "Ava Max"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/37dfe562db17a361888b838c4ccdb78f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/37dfe562db17a361888b838c4ccdb78f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/37dfe562db17a361888b838c4ccdb78f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37dfe562db17a361888b838c4ccdb78f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "051359f1-5a20-4e7e-afe4-e162ba11ac85",
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
         "album": {
-          "mbid": "1b3767ba-6008-4c26-8935-46265672207e",
-          "#text": "Heaven & Hell"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "So Am I",
+        "name": "Changes",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I"
+        "url": "https://www.last.fm/music/Lauv/_/Changes"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Changes",
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1674744251",
+          "#text": "26 Jan 2023, 14:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Holy (feat. Chance the Rapper) - Single"
+        },
+        "name": "Holy (feat. Chance the Rapper)",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Holy+(feat.+Chance+the+Rapper)",
+        "date": {
+          "uts": "1674744063",
+          "#text": "26 Jan 2023, 14:41"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1673014384",
           "#text": "06 Jan 2023, 14:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-          "#text": "Ariana Grande"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6976a07ab1b39c9d6b363572361bbf2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6976a07ab1b39c9d6b363572361bbf2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6976a07ab1b39c9d6b363572361bbf2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6976a07ab1b39c9d6b363572361bbf2.jpg"
-          }
-        ],
-        "mbid": "16346fdd-9577-454a-bcca-638289c2c691",
-        "album": {
-          "mbid": "07b342a3-134c-4e45-afdf-233d7dc3a47a",
-          "#text": "My Everything"
-        },
-        "name": "Break Free (feat. Zedd)",
-        "url": "https://www.last.fm/music/Ariana+Grande/_/Break+Free+(feat.+Zedd)",
-        "date": {
-          "uts": "1673014176",
-          "#text": "06 Jan 2023, 14:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "18fa2604-c608-4e1a-9b9d-05d7360c5817",
-          "#text": "GAYLE"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa2e09b780166e32c2ae488da9e5e606.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa2e09b780166e32c2ae488da9e5e606.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa2e09b780166e32c2ae488da9e5e606.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa2e09b780166e32c2ae488da9e5e606.jpg"
-          }
-        ],
-        "mbid": "ff9b610d-a780-4096-a984-54691e742fdf",
-        "album": {
-          "mbid": "",
-          "#text": "abc (nicer) - Single"
-        },
-        "name": "abc (nicer)",
-        "url": "https://www.last.fm/music/GAYLE/_/abc+(nicer)",
-        "date": {
-          "uts": "1673013984",
-          "#text": "06 Jan 2023, 14:06"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3830"
+      "total": "3832"
     }
   }
 }
