@@ -31,10 +31,11 @@
           "#text": "Light Switch - Single"
         },
         "name": "Light Switch",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
+        "date": {
+          "uts": "1674747091",
+          "#text": "26 Jan 2023, 15:31"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1673605862",
           "#text": "13 Jan 2023, 10:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "124cec07-44f1-4a99-9aaa-96a5bb9ec0bd",
-          "#text": "Lukas Graham"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad8fe92674a8429eb0c16832e30c5ebc.png"
-          }
-        ],
-        "mbid": "023e4e3e-1549-4de3-8e80-98e987ab7254",
-        "album": {
-          "mbid": "0914ce72-5cff-431a-b93e-c6368715ba05",
-          "#text": "Lukas Graham"
-        },
-        "name": "Mama Said",
-        "url": "https://www.last.fm/music/Lukas+Graham/_/Mama+Said",
-        "date": {
-          "uts": "1673605639",
-          "#text": "13 Jan 2023, 10:27"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3846"
+      "total": "3847"
     }
   }
 }
