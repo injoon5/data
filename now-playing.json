@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "That's Hilarious",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "That's Hilarious",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
+        "date": {
+          "uts": "1674742439",
+          "#text": "26 Jan 2023, 14:13"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          }
+        ],
+        "mbid": "64aae95a-18fd-46b7-a973-d262e306edf7",
+        "album": {
+          "mbid": "",
+          "#text": "Celestial - Single"
+        },
+        "name": "Celestial",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
+        "date": {
+          "uts": "1674742261",
+          "#text": "26 Jan 2023, 14:11"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "AJR"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1671548047",
           "#text": "20 Dec 2022, 14:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "2f548675-008d-4332-876c-108b0c7ab9c5",
-          "#text": "Sia"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89a9887a4de80874d25188682987e312.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89a9887a4de80874d25188682987e312.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89a9887a4de80874d25188682987e312.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89a9887a4de80874d25188682987e312.jpg"
-          }
-        ],
-        "mbid": "dc8dad55-44ac-41d0-986b-c7a5ae3b09e5",
-        "album": {
-          "mbid": "",
-          "#text": "Everyday is Christmas (Deluxe)"
-        },
-        "name": "Snowman",
-        "url": "https://www.last.fm/music/Sia/_/Snowman",
-        "date": {
-          "uts": "1671547860",
-          "#text": "20 Dec 2022, 14:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran & Elton John"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceb680bed283222cef08ff1ff775d8ae.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceb680bed283222cef08ff1ff775d8ae.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceb680bed283222cef08ff1ff775d8ae.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceb680bed283222cef08ff1ff775d8ae.jpg"
-          }
-        ],
-        "mbid": "452e5192-1d86-4fc0-98fe-67c20057a1a6",
-        "album": {
-          "mbid": "",
-          "#text": "Merry Christmas - Single"
-        },
-        "name": "Merry Christmas",
-        "url": "https://www.last.fm/music/Ed+Sheeran+&+Elton+John/_/Merry+Christmas",
-        "date": {
-          "uts": "1671547672",
-          "#text": "20 Dec 2022, 14:47"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3820"
+      "total": "3822"
     }
   }
 }
