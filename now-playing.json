@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96a015c94b3888c74e37546f806d2415.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96a015c94b3888c74e37546f806d2415.jpg"
+          }
+        ],
+        "mbid": "da45d6de-fac1-4cdc-aa36-9b7a35ac8e5f",
+        "album": {
+          "mbid": "",
+          "#text": "Illuminate (Deluxe)"
+        },
+        "name": "There's Nothing Holdin' Me Back",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/There%27s+Nothing+Holdin%27+Me+Back"
+      },
+      {
+        "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de33650984273a54786a0fe33fefb4.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "If I Can't Have You - Single"
+        },
+        "name": "If I Can't Have You",
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/If+I+Can%27t+Have+You",
+        "date": {
+          "uts": "1674744828",
+          "#text": "26 Jan 2023, 14:53"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "Paris in the Rain",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1674744630",
+          "#text": "26 Jan 2023, 14:50"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1673015069",
           "#text": "06 Jan 2023, 14:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
-          "#text": "Maroon 5"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/103aa20a67beffa98240fac2891ebc77.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Red Pill Blues (Deluxe)"
-        },
-        "name": "What Lovers Do (feat. SZA)",
-        "url": "https://www.last.fm/music/Maroon+5/_/What+Lovers+Do+(feat.+SZA)",
-        "date": {
-          "uts": "1673014878",
-          "#text": "06 Jan 2023, 14:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b4d32cff-f19e-455f-86c4-f347d824ca61",
-          "#text": "Eurythmics"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0764d3767a034082c0950a4bbfb46ba4.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0764d3767a034082c0950a4bbfb46ba4.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0764d3767a034082c0950a4bbfb46ba4.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0764d3767a034082c0950a4bbfb46ba4.png"
-          }
-        ],
-        "mbid": "6aea6bf8-204b-3404-a904-64c9a0648e32",
-        "album": {
-          "mbid": "",
-          "#text": "Eurythmics: Greatest Hits"
-        },
-        "name": "Sweet Dreams (Are Made of This)",
-        "url": "https://www.last.fm/music/Eurythmics/_/Sweet+Dreams+(Are+Made+of+This)",
-        "date": {
-          "uts": "1673014632",
-          "#text": "06 Jan 2023, 14:17"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3833"
+      "total": "3835"
     }
   }
 }
