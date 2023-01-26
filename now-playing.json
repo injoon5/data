@@ -25,16 +25,52 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
         "album": {
           "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
           "#text": "CHARLIE"
         },
-        "name": "That's Hilarious",
+        "name": "Charlie Be Quiet!",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Charlie Be Quiet!",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
+        "date": {
+          "uts": "1674742577",
+          "#text": "26 Jan 2023, 14:16"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1671548271",
           "#text": "20 Dec 2022, 14:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Kevin Bacon & Old 97's"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2c8f5d7845e2db822d058c78b7ee9ee5.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2c8f5d7845e2db822d058c78b7ee9ee5.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2c8f5d7845e2db822d058c78b7ee9ee5.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c8f5d7845e2db822d058c78b7ee9ee5.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "1f02da12-db5a-454d-9c5d-ef97c6e03e91",
-          "#text": "The Guardians of the Galaxy Holiday Special (Original Soundtrack)"
-        },
-        "name": "Here It Is Christmastime",
-        "url": "https://www.last.fm/music/Kevin+Bacon+&+Old+97%27s/_/Here+It+Is+Christmastime",
-        "date": {
-          "uts": "1671548047",
-          "#text": "20 Dec 2022, 14:54"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "77",
       "page": "1",
       "perPage": "50",
-      "total": "3822"
+      "total": "3823"
     }
   }
 }
