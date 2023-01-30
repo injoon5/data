@@ -31,10 +31,11 @@
           "#text": "The Tale of the Druids"
         },
         "name": "Laha",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Cosmic+Koala+&+Lucid+Keys/_/Laha"
+        "url": "https://www.last.fm/music/Cosmic+Koala+&+Lucid+Keys/_/Laha",
+        "date": {
+          "uts": "1675057931",
+          "#text": "30 Jan 2023, 05:52"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1673775098",
           "#text": "15 Jan 2023, 09:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
-          "#text": "Portugal. The Man"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d56dc3794dfe83224f8257a27c6864ac.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d56dc3794dfe83224f8257a27c6864ac.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d56dc3794dfe83224f8257a27c6864ac.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d56dc3794dfe83224f8257a27c6864ac.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "5c2bebae-731f-44a4-8407-d49cc25917e3",
-          "#text": "Woodstock"
-        },
-        "name": "Feel It Still",
-        "url": "https://www.last.fm/music/Portugal.+The+Man/_/Feel+It+Still",
-        "date": {
-          "uts": "1673774915",
-          "#text": "15 Jan 2023, 09:28"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3851"
+      "total": "3852"
     }
   }
 }
