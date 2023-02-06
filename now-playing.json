@@ -4,6 +4,41 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "sokodomo"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Episode 2 - Single"
+        },
+        "name": "\ud68c\uc804\ubaa9\ub9c8 (feat. Zion.T & \uc6d0\uc288\ud0c0\uc778)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/sokodomo/_/%ED%9A%8C%EC%A0%84%EB%AA%A9%EB%A7%88+(feat.+Zion.T+&+%EC%9B%90%EC%8A%88%ED%83%80%EC%9D%B8)"
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Cosmic Koala & Lucid Keys"
         },
         "streamable": "0",
@@ -241,7 +276,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82c93001869911eb3370b35b99716d62.jpg"
           }
         ],
-        "mbid": "1a1d8764-ab20-4c61-951a-c24bc25d9c82",
+        "mbid": "db7476a2-88ea-41ed-b381-f382b6534f13",
         "album": {
           "mbid": "",
           "#text": "Leave Before You Love Me - Single"
@@ -925,7 +960,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/294bff7713f4e2152e257db8857857d9.jpg"
           }
         ],
-        "mbid": "97a782f9-856a-44e3-a13c-1e34854cff05",
+        "mbid": "ee095319-c349-4414-894b-ed879f0d9bdd",
         "album": {
           "mbid": "",
           "#text": "GHOST TOWN - Single"
@@ -1753,7 +1788,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2d8d2388059a3e1ec6f9620810692a9.jpg"
           }
         ],
-        "mbid": "0521e050-5eb0-4e46-aaa0-88241aa8da1b",
+        "mbid": "2d040649-f6d8-420a-a215-191cf34dc64b",
         "album": {
           "mbid": "",
           "#text": "Trampoline - Single"
