@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "9ce0515d-cc88-4df6-8a2e-d231c13cb2c2",
+          "#text": "American Authors"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01bccad9d7be4980c9fdbcec3be695c9.jpg"
+          }
+        ],
+        "mbid": "d580bdb7-873d-4d37-b6bb-7fc9facb4f41",
+        "album": {
+          "mbid": "17cdc284-7cf1-468f-96bb-fa3be1a597e0",
+          "#text": "Oh, What a Life"
+        },
+        "name": "Best Day Of My Life (Acoustic)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/American+Authors/_/Best+Day+Of+My+Life+(Acoustic)"
+      },
+      {
+        "artist": {
+          "mbid": "4757df70-6c3e-46b8-99c0-a68644595c9a",
+          "#text": "Julia Michaels"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a4d6fa02f38cabbe207bab91aeac1c0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a4d6fa02f38cabbe207bab91aeac1c0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a4d6fa02f38cabbe207bab91aeac1c0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a4d6fa02f38cabbe207bab91aeac1c0.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Nervous System - EP"
+        },
+        "name": "Issues",
+        "url": "https://www.last.fm/music/Julia+Michaels/_/Issues",
+        "date": {
+          "uts": "1676278333",
+          "#text": "13 Feb 2023, 08:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Charlie Puth & \uc815\uad6d"
         },
@@ -31,10 +102,11 @@
           "#text": "CHARLIE"
         },
         "name": "Left And Right",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth+&+%EC%A0%95%EA%B5%AD/_/Left+And+Right"
+        "url": "https://www.last.fm/music/Charlie+Puth+&+%EC%A0%95%EA%B5%AD/_/Left+And+Right",
+        "date": {
+          "uts": "1676278198",
+          "#text": "13 Feb 2023, 08:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1673776792",
           "#text": "15 Jan 2023, 09:59"
         }
-      },
-      {
-        "artist": {
-          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
-          "#text": "The Kid LAROI & Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54a8ba1b68322fab1b9b8059b0f46afa.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54a8ba1b68322fab1b9b8059b0f46afa.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54a8ba1b68322fab1b9b8059b0f46afa.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54a8ba1b68322fab1b9b8059b0f46afa.jpg"
-          }
-        ],
-        "mbid": "fda5ae17-c5ba-4596-a6c3-c70aab59042c",
-        "album": {
-          "mbid": "",
-          "#text": "F*CK LOVE 3: OVER YOU"
-        },
-        "name": "STAY",
-        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY",
-        "date": {
-          "uts": "1673776613",
-          "#text": "15 Jan 2023, 09:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "AJR"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d2cfc8f0a56b84009a201debda694d9.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d2cfc8f0a56b84009a201debda694d9.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d2cfc8f0a56b84009a201debda694d9.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d2cfc8f0a56b84009a201debda694d9.png"
-          }
-        ],
-        "mbid": "2a6cc3a1-1a6d-4bfa-84d5-39e599acb226",
-        "album": {
-          "mbid": "",
-          "#text": "i won't - single"
-        },
-        "name": "I Won't",
-        "url": "https://www.last.fm/music/AJR/_/I+Won%27t",
-        "date": {
-          "uts": "1673776459",
-          "#text": "15 Jan 2023, 09:54"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3858"
+      "total": "3860"
     }
   }
 }
