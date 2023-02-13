@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Charlie Puth & \uc815\uad6d"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "CHARLIE"
+        },
+        "name": "Left And Right",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth+&+%EC%A0%95%EA%B5%AD/_/Left+And+Right"
+      },
+      {
+        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
@@ -10,31 +45,32 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/487d59cf6e26cd13074a5630c17aaa87.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/548ddc92a61f79f77e832ad3d66d110f.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/487d59cf6e26cd13074a5630c17aaa87.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/548ddc92a61f79f77e832ad3d66d110f.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/487d59cf6e26cd13074a5630c17aaa87.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/548ddc92a61f79f77e832ad3d66d110f.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/487d59cf6e26cd13074a5630c17aaa87.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/548ddc92a61f79f77e832ad3d66d110f.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "88516e03-1ee1-4753-9fb6-f2d39cee2fe5",
         "album": {
-          "mbid": "",
-          "#text": "Nine Track Mind Deluxe"
+          "mbid": "1d906de8-a701-4c5f-9663-f74fdd8ffe53",
+          "#text": "Voicenotes"
         },
-        "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/We+Don%27t+Talk+Anymore+(feat.+Selena+Gomez)"
+        "name": "How Long",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/How+Long",
+        "date": {
+          "uts": "1676278021",
+          "#text": "13 Feb 2023, 08:47"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1673776459",
           "#text": "15 Jan 2023, 09:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
-          "#text": "The Killers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d83c5d906703a8c8042285d0902d9cf4.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d83c5d906703a8c8042285d0902d9cf4.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d83c5d906703a8c8042285d0902d9cf4.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d83c5d906703a8c8042285d0902d9cf4.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "044ef3c8-6b25-4fac-8f88-5c982df90a72",
-          "#text": "Hot Fuss"
-        },
-        "name": "Mr. Brightside",
-        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
-        "date": {
-          "uts": "1673776263",
-          "#text": "15 Jan 2023, 09:51"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3857"
+      "total": "3858"
     }
   }
 }
