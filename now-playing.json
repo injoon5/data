@@ -3,41 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "9ce0515d-cc88-4df6-8a2e-d231c13cb2c2",
-          "#text": "American Authors"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01bccad9d7be4980c9fdbcec3be695c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01bccad9d7be4980c9fdbcec3be695c9.jpg"
-          }
-        ],
-        "mbid": "d580bdb7-873d-4d37-b6bb-7fc9facb4f41",
-        "album": {
-          "mbid": "17cdc284-7cf1-468f-96bb-fa3be1a597e0",
-          "#text": "Oh, What a Life"
-        },
-        "name": "Best Day Of My Life (Acoustic)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/American+Authors/_/Best+Day+Of+My+Life+(Acoustic)"
-      },
-      {
-        "artist": {
           "mbid": "4757df70-6c3e-46b8-99c0-a68644595c9a",
           "#text": "Julia Michaels"
         },
