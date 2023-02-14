@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+          "#text": "OneRepublic"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c0c054f55d956580c578a72f4ffc94c8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c0c054f55d956580c578a72f4ffc94c8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c0c054f55d956580c578a72f4ffc94c8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0c054f55d956580c578a72f4ffc94c8.jpg"
+          }
+        ],
+        "mbid": "c0960a94-073f-460f-9197-4754f34aa335",
+        "album": {
+          "mbid": "",
+          "#text": "Sunshine - Single"
+        },
+        "name": "Sunshine",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/OneRepublic/_/Sunshine"
+      },
+      {
+        "artist": {
           "mbid": "4757df70-6c3e-46b8-99c0-a68644595c9a",
           "#text": "Julia Michaels"
         },
