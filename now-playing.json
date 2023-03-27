@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          }
+        ],
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
+        "album": {
+          "mbid": "",
+          "#text": "- (Deluxe)"
+        },
+        "name": "Eyes Closed",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0824b2f023119d2e46357d70e1d0ba88.jpg"
+          }
+        ],
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
+        "album": {
+          "mbid": "",
+          "#text": "- (Deluxe)"
+        },
+        "name": "Eyes Closed",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
+        "date": {
+          "uts": "1679901570",
+          "#text": "27 Mar 2023, 07:19"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
           "#text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1673862790",
           "#text": "16 Jan 2023, 09:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
-          "#text": "Ava Max"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63c291a1d6282fb9a6cbaf21efb7a757.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63c291a1d6282fb9a6cbaf21efb7a757.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63c291a1d6282fb9a6cbaf21efb7a757.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63c291a1d6282fb9a6cbaf21efb7a757.jpg"
-          }
-        ],
-        "mbid": "39951e7b-9391-467a-802b-c78d02508041",
-        "album": {
-          "mbid": "",
-          "#text": "Sweet but Psycho - Single"
-        },
-        "name": "Sweet but Psycho",
-        "url": "https://www.last.fm/music/Ava+Max/_/Sweet+but+Psycho",
-        "date": {
-          "uts": "1673862611",
-          "#text": "16 Jan 2023, 09:50"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3865"
+      "total": "3866"
     }
   }
 }
