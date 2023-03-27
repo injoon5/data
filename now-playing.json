@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "dacc2d64-7e59-42a8-87a9-10c53919aff2",
+          "#text": "Clean Bandit"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf83c869fd23c0044488e2011a385756.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "What Is Love? (Deluxe)"
+        },
+        "name": "Symphony (feat. Zara Larsson)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Clean+Bandit/_/Symphony+(feat.+Zara+Larsson)"
+      },
+      {
+        "artist": {
+          "mbid": "dacc2d64-7e59-42a8-87a9-10c53919aff2",
+          "#text": "Clean Bandit"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf83c869fd23c0044488e2011a385756.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf83c869fd23c0044488e2011a385756.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "What Is Love? (Deluxe)"
+        },
+        "name": "Symphony (feat. Zara Larsson)",
+        "url": "https://www.last.fm/music/Clean+Bandit/_/Symphony+(feat.+Zara+Larsson)",
+        "date": {
+          "uts": "1679902231",
+          "#text": "27 Mar 2023, 07:30"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
           "#text": "Shawn Mendes"
         },
@@ -31,10 +102,11 @@
           "#text": "Handwritten (Deluxe Edition)"
         },
         "name": "Stitches",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches"
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
+        "date": {
+          "uts": "1679902020",
+          "#text": "27 Mar 2023, 07:27"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1674739554",
           "#text": "26 Jan 2023, 13:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f018307055339656a43de6f27b992268.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f018307055339656a43de6f27b992268.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f018307055339656a43de6f27b992268.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f018307055339656a43de6f27b992268.jpg"
-          }
-        ],
-        "mbid": "342bd6b8-ebe6-47bf-bfae-7fa98d540752",
-        "album": {
-          "mbid": "",
-          "#text": "Blue Neighbourhood (Deluxe)"
-        },
-        "name": "YOUTH",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH",
-        "date": {
-          "uts": "1674739354",
-          "#text": "26 Jan 2023, 13:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a082b4a74818af63e01bd5331974e239.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a082b4a74818af63e01bd5331974e239.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a082b4a74818af63e01bd5331974e239.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a082b4a74818af63e01bd5331974e239.jpg"
-          }
-        ],
-        "mbid": "342bd6b8-ebe6-47bf-bfae-7fa98d540752",
-        "album": {
-          "mbid": "1fa2d99a-d754-499f-ba6c-8fac8c43ab18",
-          "#text": "Blue Neighbourhood"
-        },
-        "name": "YOUTH",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH",
-        "date": {
-          "uts": "1674739166",
-          "#text": "26 Jan 2023, 13:19"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3867"
+      "total": "3869"
     }
   }
 }
