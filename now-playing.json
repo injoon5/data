@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+          "#text": "The Kid LAROI & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9882a978f68a95ab19f066f2ae98c443.jpg"
+          }
+        ],
+        "mbid": "fda5ae17-c5ba-4596-a6c3-c70aab59042c",
+        "album": {
+          "mbid": "",
+          "#text": "STAY - Single"
+        },
+        "name": "STAY",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY"
+      },
+      {
+        "artist": {
+          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+          "#text": "The Kid LAROI & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9882a978f68a95ab19f066f2ae98c443.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9882a978f68a95ab19f066f2ae98c443.jpg"
+          }
+        ],
+        "mbid": "fda5ae17-c5ba-4596-a6c3-c70aab59042c",
+        "album": {
+          "mbid": "",
+          "#text": "STAY - Single"
+        },
+        "name": "STAY",
+        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY",
+        "date": {
+          "uts": "1681016316",
+          "#text": "09 Apr 2023, 04:58"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e3d5b5ec-101a-4529-9f2d-01dca64cf44e",
           "#text": "Anne-Marie"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1674742880",
           "#text": "26 Jan 2023, 14:21"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "There\u2019s a First Time for Everything",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
-        "date": {
-          "uts": "1674742710",
-          "#text": "26 Jan 2023, 14:18"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3873"
+      "total": "3874"
     }
   }
 }
