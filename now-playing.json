@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
+        },
+        "name": "Hold On",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "680f16ac-d179-42f2-960b-cb96f28fabda",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Never Not",
+        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
+        "date": {
+          "uts": "1690888098",
+          "#text": "01 Aug 2023, 11:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Charlie Be Quiet!",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
+        "date": {
+          "uts": "1690887929",
+          "#text": "01 Aug 2023, 11:05"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +138,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Invisible Things",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things"
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1690887765",
+          "#text": "01 Aug 2023, 11:02"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1674745852",
           "#text": "26 Jan 2023, 15:10"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f90a1d204a37d09493834154e215abb.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Videos Edition)"
-        },
-        "name": "Stay with Me (feat. Mary J. Blige) [Radio Edit]",
-        "url": "https://www.last.fm/music/Sam+Smith/_/Stay+with+Me+(feat.+Mary+J.+Blige)+%5BRadio+Edit%5D",
-        "date": {
-          "uts": "1674745652",
-          "#text": "26 Jan 2023, 15:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f90a1d204a37d09493834154e215abb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f90a1d204a37d09493834154e215abb.jpg"
-          }
-        ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Videos Edition)"
-        },
-        "name": "I'm Not the Only One",
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
-        "date": {
-          "uts": "1674745438",
-          "#text": "26 Jan 2023, 15:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96a015c94b3888c74e37546f806d2415.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96a015c94b3888c74e37546f806d2415.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96a015c94b3888c74e37546f806d2415.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96a015c94b3888c74e37546f806d2415.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Illuminate (Deluxe)"
-        },
-        "name": "Treat You Better",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Treat+You+Better",
-        "date": {
-          "uts": "1674745223",
-          "#text": "26 Jan 2023, 15:00"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3886"
+      "total": "3889"
     }
   }
 }
