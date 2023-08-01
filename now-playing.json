@@ -31,10 +31,11 @@
           "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
         },
         "name": "Off My Face",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1690886261",
+          "#text": "01 Aug 2023, 10:37"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1674744251",
           "#text": "26 Jan 2023, 14:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Holy (feat. Chance the Rapper) - Single"
-        },
-        "name": "Holy (feat. Chance the Rapper)",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Holy+(feat.+Chance+the+Rapper)",
-        "date": {
-          "uts": "1674744063",
-          "#text": "26 Jan 2023, 14:41"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3880"
+      "total": "3881"
     }
   }
 }
