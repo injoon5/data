@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
+          "#text": "Sam Fischer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          }
+        ],
+        "mbid": "311675de-6538-4e48-a949-302895bae72d",
+        "album": {
+          "mbid": "",
+          "#text": "This City - Single"
+        },
+        "name": "This City",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City"
+      },
+      {
+        "artist": {
+          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
+          "#text": "Sam Fischer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ceaad1c726a21fe286a9c12b4df739.jpg"
+          }
+        ],
+        "mbid": "311675de-6538-4e48-a949-302895bae72d",
+        "album": {
+          "mbid": "",
+          "#text": "This City - Single"
+        },
+        "name": "This City",
+        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
+        "date": {
+          "uts": "1690890268",
+          "#text": "01 Aug 2023, 11:44"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +102,11 @@
           "#text": "Purpose (Deluxe)"
         },
         "name": "Love Yourself",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
+        "date": {
+          "uts": "1690890053",
+          "#text": "01 Aug 2023, 11:40"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1675057804",
           "#text": "30 Jan 2023, 05:50"
         }
-      },
-      {
-        "artist": {
-          "mbid": "cbad43e0-f510-4deb-a979-26a5ea8c24b7",
-          "#text": "G Mills, Chris Mazuera & tender spring"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "468354c3-c30e-4b0b-ab8a-5ae7729d43c1",
-        "album": {
-          "mbid": "",
-          "#text": "Tranquility - EP"
-        },
-        "name": "Icicles",
-        "url": "https://www.last.fm/music/G+Mills,+Chris+Mazuera+&+tender+spring/_/Icicles",
-        "date": {
-          "uts": "1675057655",
-          "#text": "30 Jan 2023, 05:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Two Scents & Mondo Loops"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Lately"
-        },
-        "name": "Silver Moon",
-        "url": "https://www.last.fm/music/Two+Scents+&+Mondo+Loops/_/Silver+Moon",
-        "date": {
-          "uts": "1675057511",
-          "#text": "30 Jan 2023, 05:45"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "78",
       "page": "1",
       "perPage": "50",
-      "total": "3898"
+      "total": "3900"
     }
   }
 }
