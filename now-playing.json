@@ -25,16 +25,124 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+      },
+      {
+        "artist": {
+          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
+          "#text": "Richard Marx"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9e1672688044905c93876f363558f34.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9e1672688044905c93876f363558f34.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9e1672688044905c93876f363558f34.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9e1672688044905c93876f363558f34.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
+          "#text": "Repeat Offender"
+        },
+        "name": "Right Here Waiting",
+        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
+        "date": {
+          "uts": "1693552010",
+          "#text": "01 Sep 2023, 07:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "2df03232-d68c-4aa1-9b87-a3fa0a35bd2a",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Satellite",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Satellite",
+        "date": {
+          "uts": "1693551768",
+          "#text": "01 Sep 2023, 07:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
         "mbid": "0b842091-6c1e-46a5-8177-b71132450b21",
         "album": {
           "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
           "#text": "~how i'm feeling~"
         },
         "name": "Modern Loneliness",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness"
+        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness",
+        "date": {
+          "uts": "1693551533",
+          "#text": "01 Sep 2023, 06:58"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1676278021",
           "#text": "13 Feb 2023, 08:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/487d59cf6e26cd13074a5630c17aaa87.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/487d59cf6e26cd13074a5630c17aaa87.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/487d59cf6e26cd13074a5630c17aaa87.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/487d59cf6e26cd13074a5630c17aaa87.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Nine Track Mind Deluxe"
-        },
-        "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/We+Don%27t+Talk+Anymore+(feat.+Selena+Gomez)",
-        "date": {
-          "uts": "1676277811",
-          "#text": "13 Feb 2023, 08:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "97bf8860-d3e0-474f-a203-e4c1871898d8",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Light Switch",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
-        "date": {
-          "uts": "1676277610",
-          "#text": "13 Feb 2023, 08:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/548ddc92a61f79f77e832ad3d66d110f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/548ddc92a61f79f77e832ad3d66d110f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/548ddc92a61f79f77e832ad3d66d110f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/548ddc92a61f79f77e832ad3d66d110f.jpg"
-          }
-        ],
-        "mbid": "19b6d048-f981-40e9-8235-a5acf969e5df",
-        "album": {
-          "mbid": "1d906de8-a701-4c5f-9663-f74fdd8ffe53",
-          "#text": "Voicenotes"
-        },
-        "name": "Attention",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Attention",
-        "date": {
-          "uts": "1676277412",
-          "#text": "13 Feb 2023, 08:36"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3904"
+      "total": "3907"
     }
   }
 }
