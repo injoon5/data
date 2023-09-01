@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
-          "#text": "Sam Fischer"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65ceaad1c726a21fe286a9c12b4df739.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ceaad1c726a21fe286a9c12b4df739.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "311675de-6538-4e48-a949-302895bae72d",
+        "mbid": "0b842091-6c1e-46a5-8177-b71132450b21",
         "album": {
-          "mbid": "",
-          "#text": "This City - Single"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "This City",
+        "name": "Modern Loneliness",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City"
+        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          }
+        ],
+        "mbid": "3cbde18a-b49c-4de3-9cf8-76a58245d7ef",
+        "album": {
+          "mbid": "",
+          "#text": "Without You - EP"
+        },
+        "name": "Love Somebody",
+        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
+        "date": {
+          "uts": "1693551335",
+          "#text": "01 Sep 2023, 06:55"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1676277412",
           "#text": "13 Feb 2023, 08:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Charlie Be Quiet!",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
-        "date": {
-          "uts": "1676277244",
-          "#text": "13 Feb 2023, 08:34"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3903"
+      "total": "3904"
     }
   }
 }
