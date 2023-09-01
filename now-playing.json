@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Make It Right (feat. Lauv) - Single"
+        },
+        "name": "Make It Right (feat. Lauv)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/_/Make+It+Right+(feat.+Lauv)"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Make It Right (feat. Lauv) - Single"
+        },
+        "name": "Make It Right (feat. Lauv)",
+        "url": "https://www.last.fm/music/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/_/Make+It+Right+(feat.+Lauv)",
+        "date": {
+          "uts": "1693550761",
+          "#text": "01 Sep 2023, 06:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
           "#text": "Sam Fischer"
         },
@@ -1249,7 +1320,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
           }
         ],
-        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
+        "mbid": "c90a356d-5af7-47a9-8fb5-0c593fbe6cdb",
         "album": {
           "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
           "#text": "- (Deluxe)"
@@ -1764,50 +1835,14 @@
           "uts": "1675057931",
           "#text": "30 Jan 2023, 05:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Osaki & Tibeauthetraveler"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "51a42b33-98c2-46ae-aa60-3ccabcddd968",
-        "album": {
-          "mbid": "",
-          "#text": "New Beginnings - EP"
-        },
-        "name": "New Beginnings",
-        "url": "https://www.last.fm/music/Osaki+&+Tibeauthetraveler/_/New+Beginnings",
-        "date": {
-          "uts": "1675057804",
-          "#text": "30 Jan 2023, 05:50"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "78",
+      "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3900"
+      "total": "3901"
     }
   }
 }
