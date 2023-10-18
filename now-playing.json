@@ -3,38 +3,75 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "JOHN.k"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
         "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "A LOT",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Changes",
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1697593433",
+          "#text": "18 Oct 2023, 01:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
         },
-        "url": "https://www.last.fm/music/JOHN.k/_/A+LOT"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1697593280",
+          "#text": "18 Oct 2023, 01:41"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1679902231",
           "#text": "27 Mar 2023, 07:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Handwritten (Deluxe Edition)"
-        },
-        "name": "Stitches",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
-        "date": {
-          "uts": "1679902020",
-          "#text": "27 Mar 2023, 07:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
-          "#text": "Maroon 5"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/103aa20a67beffa98240fac2891ebc77.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/103aa20a67beffa98240fac2891ebc77.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Red Pill Blues (Deluxe)"
-        },
-        "name": "Girls Like You (feat. Cardi B)",
-        "url": "https://www.last.fm/music/Maroon+5/_/Girls+Like+You+(feat.+Cardi+B)",
-        "date": {
-          "uts": "1679901786",
-          "#text": "27 Mar 2023, 07:23"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3916"
+      "total": "3918"
     }
   }
 }
