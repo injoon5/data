@@ -4,6 +4,42 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Ben Platt & Dear Evan Hansen Choir"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d042b5b72f650c217a9cee161e62f0f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d042b5b72f650c217a9cee161e62f0f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d042b5b72f650c217a9cee161e62f0f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d042b5b72f650c217a9cee161e62f0f.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Dear Evan Hansen (Original Motion Picture Soundtrack)"
+        },
+        "name": "Waving Through A Window (From the \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
+        "url": "https://www.last.fm/music/Ben+Platt+&+Dear+Evan+Hansen+Choir/_/Waving+Through+A+Window+(From+the+%E2%80%9CDear+Evan+Hansen%E2%80%9D+Original+Motion+Picture+Soundtrack)",
+        "date": {
+          "uts": "1700196638",
+          "#text": "17 Nov 2023, 04:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Ben Platt, Kristolyn Lloyd, Will Roland, Laura Dreyfuss & Original Broadway Cast of Dear Evan Hansen"
         },
         "streamable": "0",
@@ -31,10 +67,11 @@
           "#text": "Dear Evan Hansen (Original Broadway Cast Recording)"
         },
         "name": "You Will Be Found",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ben+Platt,+Kristolyn+Lloyd,+Will+Roland,+Laura+Dreyfuss+&+Original+Broadway+Cast+of+Dear+Evan+Hansen/_/You+Will+Be+Found"
+        "url": "https://www.last.fm/music/Ben+Platt,+Kristolyn+Lloyd,+Will+Roland,+Laura+Dreyfuss+&+Original+Broadway+Cast+of+Dear+Evan+Hansen/_/You+Will+Be+Found",
+        "date": {
+          "uts": "1700196471",
+          "#text": "17 Nov 2023, 04:47"
+        }
       },
       {
         "artist": {
@@ -420,7 +457,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "8ad0f3bb-04f9-4cee-935c-30d32c767c1a",
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
         "album": {
           "mbid": "",
           "#text": "Top Gun: Maverick (Music from the Motion Picture)"
@@ -1763,78 +1800,6 @@
           "uts": "1684340306",
           "#text": "17 May 2023, 16:18"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
-        },
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
-        "date": {
-          "uts": "1683462098",
-          "#text": "07 May 2023, 12:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
-          "#text": "The Kid LAROI & Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9882a978f68a95ab19f066f2ae98c443.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9882a978f68a95ab19f066f2ae98c443.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9882a978f68a95ab19f066f2ae98c443.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9882a978f68a95ab19f066f2ae98c443.jpg"
-          }
-        ],
-        "mbid": "70bb4cd2-8852-4728-9fd7-0d0d8f2600d5",
-        "album": {
-          "mbid": "",
-          "#text": "STAY - Single"
-        },
-        "name": "STAY",
-        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY",
-        "date": {
-          "uts": "1681016316",
-          "#text": "09 Apr 2023, 04:58"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3923"
+      "total": "3925"
     }
   }
 }
