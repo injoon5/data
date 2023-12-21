@@ -10,6 +10,42 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "138d7520-9b70-49c8-b6e5-df41b489fc5d",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sims",
+        "url": "https://www.last.fm/music/Lauv/_/Sims",
+        "date": {
+          "uts": "1703147605",
+          "#text": "21 Dec 2023, 08:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
           },
           {
@@ -31,10 +67,11 @@
           "#text": "All 4 Nothing"
         },
         "name": "Stranger",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Stranger"
+        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "date": {
+          "uts": "1703147444",
+          "#text": "21 Dec 2023, 08:30"
+        }
       },
       {
         "artist": {
@@ -1284,7 +1321,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "8ad0f3bb-04f9-4cee-935c-30d32c767c1a",
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
         "album": {
           "mbid": "",
           "#text": "Top Gun: Maverick (Music from the Motion Picture)"
@@ -1763,78 +1800,6 @@
           "uts": "1690890268",
           "#text": "01 Aug 2023, 11:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Love Yourself",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
-        "date": {
-          "uts": "1690890053",
-          "#text": "01 Aug 2023, 11:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
-          "#text": "Sam Ryder"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          }
-        ],
-        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
-        "album": {
-          "mbid": "",
-          "#text": "More - Single"
-        },
-        "name": "More",
-        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
-        "date": {
-          "uts": "1690889823",
-          "#text": "01 Aug 2023, 11:37"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3947"
+      "total": "3949"
     }
   }
 }
