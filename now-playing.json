@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
+        },
+        "name": "Loving You Girl (feat. Hkeem)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)"
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
+        },
+        "name": "Loving You Girl (feat. Hkeem)",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
+        "date": {
+          "uts": "1703148121",
+          "#text": "21 Dec 2023, 08:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1703147960",
+          "#text": "21 Dec 2023, 08:39"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
+          }
+        ],
+        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
+        "album": {
+          "mbid": "",
+          "#text": "Medicine - Single"
+        },
+        "name": "Medicine",
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
+        "date": {
+          "uts": "1703147787",
+          "#text": "21 Dec 2023, 08:36"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -1321,7 +1464,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
+        "mbid": "8ad0f3bb-04f9-4cee-935c-30d32c767c1a",
         "album": {
           "mbid": "",
           "#text": "Top Gun: Maverick (Music from the Motion Picture)"
@@ -1692,122 +1835,14 @@
           "uts": "1693551166",
           "#text": "01 Sep 2023, 06:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Love of My Life",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
-        "date": {
-          "uts": "1693550972",
-          "#text": "01 Sep 2023, 06:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "\ubc29\ud0c4\uc18c\ub144\ub2e8"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Make It Right (feat. Lauv) - Single"
-        },
-        "name": "Make It Right (feat. Lauv)",
-        "url": "https://www.last.fm/music/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/_/Make+It+Right+(feat.+Lauv)",
-        "date": {
-          "uts": "1693550761",
-          "#text": "01 Sep 2023, 06:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
-          "#text": "Sam Fischer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
-        "album": {
-          "mbid": "",
-          "#text": "This City - Single"
-        },
-        "name": "This City",
-        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
-        "date": {
-          "uts": "1690890268",
-          "#text": "01 Aug 2023, 11:44"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "79",
+      "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3949"
+      "total": "3952"
     }
   }
 }
