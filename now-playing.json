@@ -31,6 +31,113 @@
           "#text": "All 4 Nothing"
         },
         "name": "Stranger",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Stranger"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0b842091-6c1e-46a5-8177-b71132450b21",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Modern Loneliness",
+        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness",
+        "date": {
+          "uts": "1703147231",
+          "#text": "21 Dec 2023, 08:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "a beautiful blur"
+        },
+        "name": "XXL",
+        "url": "https://www.last.fm/music/Lany/_/XXL",
+        "date": {
+          "uts": "1703147007",
+          "#text": "21 Dec 2023, 08:23"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
         "url": "https://www.last.fm/music/Lauv/_/Stranger",
         "date": {
           "uts": "1701501013",
@@ -1728,78 +1835,6 @@
           "uts": "1690889823",
           "#text": "01 Aug 2023, 11:37"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1690889620",
-          "#text": "01 Aug 2023, 11:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
-          "#text": "Richard Marx"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
-          "#text": "Repeat Offender"
-        },
-        "name": "Right Here Waiting",
-        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
-        "date": {
-          "uts": "1690889399",
-          "#text": "01 Aug 2023, 11:29"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "79",
       "page": "1",
       "perPage": "50",
-      "total": "3945"
+      "total": "3947"
     }
   }
 }
