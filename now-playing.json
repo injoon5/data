@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired..."
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
+          }
+        ],
+        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
+        "album": {
+          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
+          "#text": "gg bb xx (deluxe)"
+        },
+        "name": "dna",
+        "url": "https://www.last.fm/music/Lany/_/dna",
+        "date": {
+          "uts": "1705289751",
+          "#text": "15 Jan 2024, 03:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Feelings",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1705289567",
+          "#text": "15 Jan 2024, 03:32"
+        }
       },
       {
         "artist": {
@@ -204,7 +276,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9882a978f68a95ab19f066f2ae98c443.jpg"
           }
         ],
-        "mbid": "70bb4cd2-8852-4728-9fd7-0d0d8f2600d5",
+        "mbid": "fda5ae17-c5ba-4596-a6c3-c70aab59042c",
         "album": {
           "mbid": "",
           "#text": "STAY - Single"
@@ -240,7 +312,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
           }
         ],
-        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "mbid": "103786ed-74db-4f7f-bab9-5dafa3b93975",
         "album": {
           "mbid": "",
           "#text": "Angel Baby - Single"
@@ -492,7 +564,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
           }
         ],
-        "mbid": "c7cc2f43-6185-4ce7-8c3e-e3f7285f4818",
+        "mbid": "97bf8860-d3e0-474f-a203-e4c1871898d8",
         "album": {
           "mbid": "",
           "#text": "Light Switch - Single"
@@ -636,7 +708,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
           }
         ],
-        "mbid": "38dcf114-af5f-4816-baca-b755e2400697",
+        "mbid": "2a0e6123-9673-47f8-acf8-de20c5e7265b",
         "album": {
           "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
           "#text": "\u00f7 (Deluxe)"
@@ -1572,7 +1644,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92262af4400a20ae87c278e98d9b41dc.jpg"
           }
         ],
-        "mbid": "051205ad-ef0c-4b08-89ef-1fe0a0425d08",
+        "mbid": "0f17edfe-4a37-490d-a720-d8b482490d23",
         "album": {
           "mbid": "",
           "#text": "Doo-Wops & Hooligans (Deluxe)"
@@ -1763,78 +1835,6 @@
           "uts": "1700196471",
           "#text": "17 Nov 2023, 04:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "\ub9c8\ub974\ud0c0 \uc544\ub974\ud5e4\ub9ac\uce58, Georg Maximilian H\u00f6rtnagel, \ub12c\uc1a1 \ud504\ub808\uc774\ub9ac, \uae30\ub3c8 \ud06c\ub808\uba38, Isabelle Van Keulen, Tabea Zimmerman, \ubbf8\uc0e4 \ub9c8\uc774\uc2a4\ud0a4, Irena Grafenauer, Eduard Brunner, Markus Steckeler & Edith Salmen-Weber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Saint-Sa\u00ebns: Carnival des Animaux"
-        },
-        "name": "Le Carnaval des Animaux: Finale",
-        "url": "https://www.last.fm/music/%EB%A7%88%EB%A5%B4%ED%83%80+%EC%95%84%EB%A5%B4%ED%97%A4%EB%A6%AC%EC%B9%98,+Georg+Maximilian+H%C3%B6rtnagel,+%EB%84%AC%EC%86%A1+%ED%94%84%EB%A0%88%EC%9D%B4%EB%A6%AC,+%EA%B8%B0%EB%8F%88+%ED%81%AC%EB%A0%88%EB%A8%B8,+Isabelle+Van+Keulen,+Tabea+Zimmerman,+%EB%AF%B8%EC%83%A4+%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%82%A4,+Irena+Grafenauer,+Eduard+Brunner,+Markus+Steckeler+&+Edith+Salmen-Weber/_/Le+Carnaval+des+Animaux:+Finale",
-        "date": {
-          "uts": "1700196032",
-          "#text": "17 Nov 2023, 04:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "\ub9c8\ub974\ud0c0 \uc544\ub974\ud5e4\ub9ac\uce58, Georg Maximilian H\u00f6rtnagel, \ub12c\uc1a1 \ud504\ub808\uc774\ub9ac, \uae30\ub3c8 \ud06c\ub808\uba38, Isabelle Van Keulen, Tabea Zimmerman, \ubbf8\uc0e4 \ub9c8\uc774\uc2a4\ud0a4, Irena Grafenauer, Eduard Brunner, Markus Steckeler & Edith Salmen-Weber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Saint-Sa\u00ebns: Carnival des Animaux"
-        },
-        "name": "Le Carnaval des Animaux: Poules et Coqs",
-        "url": "https://www.last.fm/music/%EB%A7%88%EB%A5%B4%ED%83%80+%EC%95%84%EB%A5%B4%ED%97%A4%EB%A6%AC%EC%B9%98,+Georg+Maximilian+H%C3%B6rtnagel,+%EB%84%AC%EC%86%A1+%ED%94%84%EB%A0%88%EC%9D%B4%EB%A6%AC,+%EA%B8%B0%EB%8F%88+%ED%81%AC%EB%A0%88%EB%A8%B8,+Isabelle+Van+Keulen,+Tabea+Zimmerman,+%EB%AF%B8%EC%83%A4+%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%82%A4,+Irena+Grafenauer,+Eduard+Brunner,+Markus+Steckeler+&+Edith+Salmen-Weber/_/Le+Carnaval+des+Animaux:+Poules+et+Coqs",
-        "date": {
-          "uts": "1700195813",
-          "#text": "17 Nov 2023, 04:36"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3971"
+      "total": "3973"
     }
   }
 }
