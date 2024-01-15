@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1705292912",
+          "#text": "15 Jan 2024, 04:28"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
           "#text": "Harry Styles"
         },
@@ -493,7 +529,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9882a978f68a95ab19f066f2ae98c443.jpg"
           }
         ],
-        "mbid": "70bb4cd2-8852-4728-9fd7-0d0d8f2600d5",
+        "mbid": "21d852bf-c5ab-4cfb-b1fb-9e8067f6de02",
         "album": {
           "mbid": "",
           "#text": "STAY - Single"
@@ -1764,42 +1800,6 @@
           "uts": "1701498512",
           "#text": "02 Dec 2023, 06:28"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          }
-        ],
-        "mbid": "d51bba5b-dcb3-4348-a687-7be80f3ec890",
-        "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
-        },
-        "name": "Out of Time",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Out+of+Time",
-        "date": {
-          "uts": "1701498298",
-          "#text": "02 Dec 2023, 06:24"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3980"
+      "total": "3981"
     }
   }
 }
