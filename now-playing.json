@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "There\u2019s a First Time for Everything",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
+        "date": {
+          "uts": "1705289404",
+          "#text": "15 Jan 2024, 03:30"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "2397f45f-9b1a-4768-9546-c601476f0912",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1705289233",
+          "#text": "15 Jan 2024, 03:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv & LANY"
         },
         "streamable": "0",
@@ -1728,78 +1835,6 @@
           "uts": "1700195813",
           "#text": "17 Nov 2023, 04:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "\ub9c8\ub974\ud0c0 \uc544\ub974\ud5e4\ub9ac\uce58, Georg Maximilian H\u00f6rtnagel, \ub12c\uc1a1 \ud504\ub808\uc774\ub9ac, \uae30\ub3c8 \ud06c\ub808\uba38, Isabelle Van Keulen, Tabea Zimmerman, \ubbf8\uc0e4 \ub9c8\uc774\uc2a4\ud0a4, Irena Grafenauer, Eduard Brunner, Markus Steckeler & Edith Salmen-Weber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Saint-Sa\u00ebns: Carnival des Animaux"
-        },
-        "name": "Le Carnaval des Animaux: Introduction et Marche royale du Lion",
-        "url": "https://www.last.fm/music/%EB%A7%88%EB%A5%B4%ED%83%80+%EC%95%84%EB%A5%B4%ED%97%A4%EB%A6%AC%EC%B9%98,+Georg+Maximilian+H%C3%B6rtnagel,+%EB%84%AC%EC%86%A1+%ED%94%84%EB%A0%88%EC%9D%B4%EB%A6%AC,+%EA%B8%B0%EB%8F%88+%ED%81%AC%EB%A0%88%EB%A8%B8,+Isabelle+Van+Keulen,+Tabea+Zimmerman,+%EB%AF%B8%EC%83%A4+%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%82%A4,+Irena+Grafenauer,+Eduard+Brunner,+Markus+Steckeler+&+Edith+Salmen-Weber/_/Le+Carnaval+des+Animaux:+Introduction+et+Marche+royale+du+Lion",
-        "date": {
-          "uts": "1700195761",
-          "#text": "17 Nov 2023, 04:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "\ub8e8\ud2b8\ube44\ud788 \ud310 \ubca0\ud1a0\ubca4"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "'Ode to Joy' Final Chorus from Schiller"
-        },
-        "name": "Ode to Joy",
-        "url": "https://www.last.fm/music/%EB%A3%A8%ED%8A%B8%EB%B9%84%ED%9E%88+%ED%8C%90+%EB%B2%A0%ED%86%A0%EB%B2%A4/_/Ode+to+Joy",
-        "date": {
-          "uts": "1700195174",
-          "#text": "17 Nov 2023, 04:26"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3969"
+      "total": "3971"
     }
   }
 }
