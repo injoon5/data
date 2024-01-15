@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "That's Hilarious",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
+        "date": {
+          "uts": "1705290077",
+          "#text": "15 Jan 2024, 03:41"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv & Troye Sivan"
         },
@@ -31,10 +102,11 @@
           "#text": "i'm so tired... - Single"
         },
         "name": "i'm so tired...",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired..."
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1705289922",
+          "#text": "15 Jan 2024, 03:38"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1700196915",
           "#text": "17 Nov 2023, 04:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Ben Platt & Dear Evan Hansen Choir"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d042b5b72f650c217a9cee161e62f0f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d042b5b72f650c217a9cee161e62f0f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d042b5b72f650c217a9cee161e62f0f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d042b5b72f650c217a9cee161e62f0f.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dear Evan Hansen (Original Motion Picture Soundtrack)"
-        },
-        "name": "Waving Through A Window (From the \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
-        "url": "https://www.last.fm/music/Ben+Platt+&+Dear+Evan+Hansen+Choir/_/Waving+Through+A+Window+(From+the+%E2%80%9CDear+Evan+Hansen%E2%80%9D+Original+Motion+Picture+Soundtrack)",
-        "date": {
-          "uts": "1700196638",
-          "#text": "17 Nov 2023, 04:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Ben Platt, Kristolyn Lloyd, Will Roland, Laura Dreyfuss & Original Broadway Cast of Dear Evan Hansen"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5f6bda0fb3113547b66d3e5e6d127787.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5f6bda0fb3113547b66d3e5e6d127787.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5f6bda0fb3113547b66d3e5e6d127787.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f6bda0fb3113547b66d3e5e6d127787.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dear Evan Hansen (Original Broadway Cast Recording)"
-        },
-        "name": "You Will Be Found",
-        "url": "https://www.last.fm/music/Ben+Platt,+Kristolyn+Lloyd,+Will+Roland,+Laura+Dreyfuss+&+Original+Broadway+Cast+of+Dear+Evan+Hansen/_/You+Will+Be+Found",
-        "date": {
-          "uts": "1700196471",
-          "#text": "17 Nov 2023, 04:47"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3973"
+      "total": "3975"
     }
   }
 }
