@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "\uc815\uad6d & Latto"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
         "album": {
           "mbid": "",
-          "#text": "Seven - Single"
+          "#text": "I Like Me Better - Single"
         },
-        "name": "Seven",
+        "name": "I Like Me Better",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/%EC%A0%95%EA%B5%AD+&+Latto/_/Seven"
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I Like Me Better - Single"
+        },
+        "name": "I Like Me Better",
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1706712635",
+          "#text": "31 Jan 2024, 14:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "dhruv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          }
+        ],
+        "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
+        "album": {
+          "mbid": "",
+          "#text": "Double Take - Single"
+        },
+        "name": "double take",
+        "url": "https://www.last.fm/music/dhruv/_/double+take",
+        "date": {
+          "uts": "1706712450",
+          "#text": "31 Jan 2024, 14:47"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1706702765",
           "#text": "31 Jan 2024, 12:06"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1706702608",
-          "#text": "31 Jan 2024, 12:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1706702411",
-          "#text": "31 Jan 2024, 12:00"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "81",
       "page": "1",
       "perPage": "50",
-      "total": "4045"
+      "total": "4047"
     }
   }
 }
