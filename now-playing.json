@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "JOHN.k"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "2397f45f-9b1a-4768-9546-c601476f0912",
         "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
         },
-        "name": "A LOT",
+        "name": "Loser",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/JOHN.k/_/A+LOT"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "2397f45f-9b1a-4768-9546-c601476f0912",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1706701374",
+          "#text": "31 Jan 2024, 11:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Daylight",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
+        "date": {
+          "uts": "1706701189",
+          "#text": "31 Jan 2024, 11:39"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1701500401",
           "#text": "02 Dec 2023, 07:00"
         }
-      },
-      {
-        "artist": {
-          "mbid": "502b3244-0f7d-470c-99e9-b17fe6bcaabf",
-          "#text": "Bobby Helms"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4073849c10aa5afbe216dd58759ddc1b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4073849c10aa5afbe216dd58759ddc1b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4073849c10aa5afbe216dd58759ddc1b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4073849c10aa5afbe216dd58759ddc1b.jpg"
-          }
-        ],
-        "mbid": "8d967ffa-1d02-3df0-86cc-233a21a13921",
-        "album": {
-          "mbid": "",
-          "#text": "Jingle Bell Rock / Captain Santa Claus (And His Reindeer Space Patrol) - Single"
-        },
-        "name": "Jingle Bell Rock",
-        "url": "https://www.last.fm/music/Bobby+Helms/_/Jingle+Bell+Rock",
-        "date": {
-          "uts": "1701500214",
-          "#text": "02 Dec 2023, 06:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JOHN.k"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "9fa33e9b-fa85-4f97-a25a-32c8696f6b98",
-          "#text": "love + everything else"
-        },
-        "name": "parachute",
-        "url": "https://www.last.fm/music/JOHN.k/_/parachute",
-        "date": {
-          "uts": "1701500069",
-          "#text": "02 Dec 2023, 06:54"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3989"
+      "total": "3991"
     }
   }
 }
