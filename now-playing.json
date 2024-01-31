@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "JOHN.k"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "9fa33e9b-fa85-4f97-a25a-32c8696f6b98",
+          "#text": "love + everything else"
+        },
+        "name": "parachute",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/JOHN.k/_/parachute"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JOHN.k"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "9fa33e9b-fa85-4f97-a25a-32c8696f6b98",
+          "#text": "love + everything else"
+        },
+        "name": "parachute",
+        "url": "https://www.last.fm/music/JOHN.k/_/parachute",
+        "date": {
+          "uts": "1706707295",
+          "#text": "31 Jan 2024, 13:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1706707136",
+          "#text": "31 Jan 2024, 13:18"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +138,11 @@
           "#text": "Purpose (Deluxe)"
         },
         "name": "Love Yourself",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
+        "date": {
+          "uts": "1706706937",
+          "#text": "31 Jan 2024, 13:15"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1705289404",
           "#text": "15 Jan 2024, 03:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "2397f45f-9b1a-4768-9546-c601476f0912",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Loser",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
-        "date": {
-          "uts": "1705289233",
-          "#text": "15 Jan 2024, 03:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1705289014",
-          "#text": "15 Jan 2024, 03:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          }
-        ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
-        "album": {
-          "mbid": "",
-          "#text": "I Like Me Better - Single"
-        },
-        "name": "I Like Me Better",
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
-        "date": {
-          "uts": "1705288799",
-          "#text": "15 Jan 2024, 03:19"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "81",
       "page": "1",
       "perPage": "50",
-      "total": "4017"
+      "total": "4020"
     }
   }
 }
