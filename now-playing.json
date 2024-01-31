@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
-          "#text": "The Police"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Adrenaline",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Adrenaline"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
-          "#text": "The Police"
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
         },
-        "name": "Every Breath You Take",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
+          "uts": "1706700635",
+          "#text": "31 Jan 2024, 11:30"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
-        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "There\u2019s a First Time for Everything",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
+        "date": {
+          "uts": "1706700484",
+          "#text": "31 Jan 2024, 11:28"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1701499679",
           "#text": "02 Dec 2023, 06:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
-          }
-        ],
-        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
-        "album": {
-          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
-          "#text": "Last Birthday"
-        },
-        "name": "Like 1999",
-        "url": "https://www.last.fm/music/Valley/_/Like+1999",
-        "date": {
-          "uts": "1701499511",
-          "#text": "02 Dec 2023, 06:45"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
-          "#text": "Justice (The Complete Edition)"
-        },
-        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
-        "date": {
-          "uts": "1701499338",
-          "#text": "02 Dec 2023, 06:42"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "80",
       "page": "1",
       "perPage": "50",
-      "total": "3985"
+      "total": "3987"
     }
   }
 }
