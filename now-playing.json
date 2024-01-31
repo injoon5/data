@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+          "#text": "Zedd, Maren Morris & Grey"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "The Middle - Single"
+        },
+        "name": "The Middle",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Zedd,+Maren+Morris+&+Grey/_/The+Middle"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
+        "date": {
+          "uts": "1706711138",
+          "#text": "31 Jan 2024, 14:25"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
           "#text": "Jeremy Zucker"
         },
@@ -31,10 +102,11 @@
           "#text": "summer, - EP"
         },
         "name": "comethru",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
+        "date": {
+          "uts": "1706710943",
+          "#text": "31 Jan 2024, 14:22"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1706701189",
           "#text": "31 Jan 2024, 11:39"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JOHN.k"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
-        },
-        "name": "A LOT",
-        "url": "https://www.last.fm/music/JOHN.k/_/A+LOT",
-        "date": {
-          "uts": "1706701015",
-          "#text": "31 Jan 2024, 11:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Adrenaline",
-        "url": "https://www.last.fm/music/Lauv/_/Adrenaline",
-        "date": {
-          "uts": "1706700822",
-          "#text": "31 Jan 2024, 11:33"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "81",
       "page": "1",
       "perPage": "50",
-      "total": "4037"
+      "total": "4039"
     }
   }
 }
