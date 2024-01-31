@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+          "#text": "5 Seconds of Summer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          }
+        ],
+        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
+        "album": {
+          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
+          "#text": "CALM"
+        },
+        "name": "High",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High"
+      },
+      {
+        "artist": {
+          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+          "#text": "5 Seconds of Summer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          }
+        ],
+        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
+        "album": {
+          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
+          "#text": "CALM"
+        },
+        "name": "High",
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
+        "date": {
+          "uts": "1706714315",
+          "#text": "31 Jan 2024, 15:18"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Kids Are Born Stars",
+        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars",
+        "date": {
+          "uts": "1706714132",
+          "#text": "31 Jan 2024, 15:15"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
+        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "date": {
+          "uts": "1706713957",
+          "#text": "31 Jan 2024, 15:12"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +174,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Sweatpants",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Sweatpants"
+        "url": "https://www.last.fm/music/Lauv/_/Sweatpants",
+        "date": {
+          "uts": "1706713776",
+          "#text": "31 Jan 2024, 15:09"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1706704710",
           "#text": "31 Jan 2024, 12:38"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
-          "#text": "Andrea Bocelli"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          }
-        ],
-        "mbid": "e7849d42-666b-4641-a9b6-53d451fe8311",
-        "album": {
-          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
-          "#text": "Amore"
-        },
-        "name": "Can't Help Falling In Love (Live At Lake Las Vegas/2005)",
-        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+In+Love+(Live+At+Lake+Las+Vegas%2F2005)",
-        "date": {
-          "uts": "1706704513",
-          "#text": "31 Jan 2024, 12:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
-        "date": {
-          "uts": "1706704328",
-          "#text": "31 Jan 2024, 12:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
-          "#text": "Starship"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "572b6b42-3494-438d-a3d9-0fbf39ebded8",
-          "#text": "Knee Deep in the Hoopla"
-        },
-        "name": "Sara",
-        "url": "https://www.last.fm/music/Starship/_/Sara",
-        "date": {
-          "uts": "1706704099",
-          "#text": "31 Jan 2024, 12:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "0514675d-b112-492b-99d5-ac5001be0812",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret Of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1706703791",
-          "#text": "31 Jan 2024, 12:23"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4052"
+      "total": "4056"
     }
   }
 }
