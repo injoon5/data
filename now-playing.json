@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
+        "album": {
+          "mbid": "",
+          "#text": "Paper Plane - Single"
+        },
+        "name": "Paper Plane",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
+        "date": {
+          "uts": "1706711881",
+          "#text": "31 Jan 2024, 14:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Changes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Changes"
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1706711736",
+          "#text": "31 Jan 2024, 14:35"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1706702032",
           "#text": "31 Jan 2024, 11:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
-          "#text": "Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92262af4400a20ae87c278e98d9b41dc.jpg"
-          }
-        ],
-        "mbid": "0070ec3b-2f03-46e6-83d5-ae7c5ad11d6e",
-        "album": {
-          "mbid": "",
-          "#text": "Doo-Wops & Hooligans (Deluxe)"
-        },
-        "name": "Talking to the Moon",
-        "url": "https://www.last.fm/music/Bruno+Mars/_/Talking+to+the+Moon",
-        "date": {
-          "uts": "1706701823",
-          "#text": "31 Jan 2024, 11:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
-          "#text": "Glass Animals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
-          "#text": "Dreamland"
-        },
-        "name": "Heat Waves",
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
-        "date": {
-          "uts": "1706701595",
-          "#text": "31 Jan 2024, 11:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "81",
       "page": "1",
       "perPage": "50",
-      "total": "4041"
+      "total": "4043"
     }
   }
 }
