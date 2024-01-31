@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "1fdc1560-aa29-4a9a-8d1e-993065b0b419",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sweatpants",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Sweatpants"
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "a7fd563b-fd78-4f02-9ebc-89cabaf75c72",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1706713596",
+          "#text": "31 Jan 2024, 15:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          }
+        ],
+        "mbid": "3cbde18a-b49c-4de3-9cf8-76a58245d7ef",
+        "album": {
+          "mbid": "",
+          "#text": "Without You - EP"
+        },
+        "name": "Love Somebody",
+        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
+        "date": {
+          "uts": "1706713447",
+          "#text": "31 Jan 2024, 15:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1706713265",
+          "#text": "31 Jan 2024, 15:01"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
           "#text": "Sam Smith"
         },
@@ -31,10 +174,11 @@
           "#text": "In the Lonely Hour (Drowning Shadows Edition)"
         },
         "name": "I'm Not the Only One",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One"
+        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
+        "date": {
+          "uts": "1706713027",
+          "#text": "31 Jan 2024, 14:57"
+        }
       },
       {
         "artist": {
@@ -1691,158 +1835,14 @@
           "uts": "1706703791",
           "#text": "31 Jan 2024, 12:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1706703540",
-          "#text": "31 Jan 2024, 12:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1706703349",
-          "#text": "31 Jan 2024, 12:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          }
-        ],
-        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
-        "album": {
-          "mbid": "",
-          "#text": "Love U Like That - Single"
-        },
-        "name": "Love U Like That",
-        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
-        "date": {
-          "uts": "1706703141",
-          "#text": "31 Jan 2024, 12:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Rainbow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
-          "#text": "Down to Earth"
-        },
-        "name": "Since You Been Gone",
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
-        "date": {
-          "uts": "1706702937",
-          "#text": "31 Jan 2024, 12:08"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "81",
+      "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4048"
+      "total": "4052"
     }
   }
 }
