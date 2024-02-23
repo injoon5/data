@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
+          "mbid": "",
+          "#text": "\uc815\uad6d & Latto"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "I Like Me Better - Single"
+          "#text": "Seven - Single"
         },
-        "name": "I Like Me Better",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+        "name": "Seven",
+        "url": "https://www.last.fm/music/%EC%A0%95%EA%B5%AD+&+Latto/_/Seven",
+        "date": {
+          "uts": "1708707484",
+          "#text": "23 Feb 2024, 16:58"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1706709522",
           "#text": "31 Jan 2024, 13:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          }
-        ],
-        "mbid": "558dcecf-1d02-470a-873d-5015b4287c15",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1706709317",
-          "#text": "31 Jan 2024, 13:55"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4079"
+      "total": "4080"
     }
   }
 }
