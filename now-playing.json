@@ -31,10 +31,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Sad Forever",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever"
+        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
+        "date": {
+          "uts": "1708711837",
+          "#text": "23 Feb 2024, 18:10"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1706712071",
           "#text": "31 Jan 2024, 14:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
-        "album": {
-          "mbid": "",
-          "#text": "Paper Plane - Single"
-        },
-        "name": "Paper Plane",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
-        "date": {
-          "uts": "1706711881",
-          "#text": "31 Jan 2024, 14:38"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4092"
+      "total": "4093"
     }
   }
 }
