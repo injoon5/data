@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Purpose (Deluxe)"
+        },
+        "name": "Sorry",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry"
+      },
+      {
+        "artist": {
+          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
+          "#text": "Trevor Daniel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          }
+        ],
+        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
+        "album": {
+          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
+          "#text": "Nicotine"
+        },
+        "name": "Falling",
+        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
+        "date": {
+          "uts": "1708710858",
+          "#text": "23 Feb 2024, 17:54"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Justice (The Complete Edition)"
         },
         "name": "Hold On",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On",
+        "date": {
+          "uts": "1708710693",
+          "#text": "23 Feb 2024, 17:51"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1706711138",
           "#text": "31 Jan 2024, 14:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "summer, - EP"
-        },
-        "name": "comethru",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
-        "date": {
-          "uts": "1706710943",
-          "#text": "31 Jan 2024, 14:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0b842091-6c1e-46a5-8177-b71132450b21",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Modern Loneliness",
-        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness",
-        "date": {
-          "uts": "1706710726",
-          "#text": "31 Jan 2024, 14:18"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4086"
+      "total": "4088"
     }
   }
 }
