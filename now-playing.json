@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
+          }
+        ],
+        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
+          }
+        ],
+        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
+        "date": {
+          "uts": "1708706932",
+          "#text": "23 Feb 2024, 16:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          }
+        ],
+        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
+        "album": {
+          "mbid": "",
+          "#text": "Love U Like That - Single"
+        },
+        "name": "Love U Like That",
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
+        "date": {
+          "uts": "1708706718",
+          "#text": "23 Feb 2024, 16:45"
+        }
+      },
+      {
+        "artist": {
           "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
           "#text": "Paul Young"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1706708865",
           "#text": "31 Jan 2024, 13:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "a beautiful blur"
-        },
-        "name": "Out Of My League",
-        "url": "https://www.last.fm/music/Lany/_/Out+Of+My+League",
-        "date": {
-          "uts": "1706708631",
-          "#text": "31 Jan 2024, 13:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-          "#text": "Eric Clapton"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "4645ee33-5e85-4af9-b321-70d55b1db029",
-          "#text": "Classic Eric Clapton"
-        },
-        "name": "Wonderful Tonight",
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Wonderful+Tonight",
-        "date": {
-          "uts": "1706708417",
-          "#text": "31 Jan 2024, 13:40"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4075"
+      "total": "4077"
     }
   }
 }
