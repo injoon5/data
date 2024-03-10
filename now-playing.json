@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "a0abff27-5580-4d16-860a-cbceaff32d60",
+          "#text": "Moow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dc7fb8087336493594cb7159cb2cd74.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dc7fb8087336493594cb7159cb2cd74.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dc7fb8087336493594cb7159cb2cd74.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dc7fb8087336493594cb7159cb2cd74.jpg"
+          }
+        ],
+        "mbid": "231a43f2-f10d-406c-93fa-17875672d2a9",
+        "album": {
+          "mbid": "39fe02c8-c712-4f36-81ec-1e6487819e3c",
+          "#text": "I can't tell you how much it hurts"
+        },
+        "name": "baby",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Moow/_/baby"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Yawnathan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Gems - Single"
+        },
+        "name": "Gems",
+        "url": "https://www.last.fm/music/Yawnathan/_/Gems",
+        "date": {
+          "uts": "1710080667",
+          "#text": "10 Mar 2024, 14:24"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0019fbf6-8ec4-4312-a37c-5e4b895ec130",
           "#text": "Daniel Fridell"
         },
@@ -31,10 +102,11 @@
           "#text": "My Piano Is Mellow - Single"
         },
         "name": "Mellow Green",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Daniel+Fridell/_/Mellow+Green"
+        "url": "https://www.last.fm/music/Daniel+Fridell/_/Mellow+Green",
+        "date": {
+          "uts": "1710080464",
+          "#text": "10 Mar 2024, 14:21"
+        }
       },
       {
         "artist": {
@@ -1464,7 +1536,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
           }
         ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "mbid": "76ea7007-baa4-4343-92ad-bca4d1fe292f",
         "album": {
           "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
           "#text": "The Secret Of Association"
@@ -1763,78 +1835,6 @@
           "uts": "1708398545",
           "#text": "20 Feb 2024, 03:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
-        "date": {
-          "uts": "1706716176",
-          "#text": "31 Jan 2024, 15:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
-          "#text": "Sam Fischer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
-        "album": {
-          "mbid": "",
-          "#text": "This City - Single"
-        },
-        "name": "This City",
-        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
-        "date": {
-          "uts": "1706715987",
-          "#text": "31 Jan 2024, 15:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "83",
       "page": "1",
       "perPage": "50",
-      "total": "4114"
+      "total": "4116"
     }
   }
 }
