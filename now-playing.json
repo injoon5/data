@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "space cwby & Thomorrow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "PARLOR TRICK - Single"
+        },
+        "name": "PARLOR TRICK",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/space+cwby+&+Thomorrow/_/PARLOR+TRICK"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "wacho"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Intermission II - Single"
+        },
+        "name": "Intermission II",
+        "url": "https://www.last.fm/music/wacho/_/Intermission+II",
+        "date": {
+          "uts": "1710081794",
+          "#text": "10 Mar 2024, 14:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Halibab Matador"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "Souvenirs"
         },
         "name": "Ocean/Sea",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Halibab+Matador/_/Ocean%2FSea"
+        "url": "https://www.last.fm/music/Halibab+Matador/_/Ocean%2FSea",
+        "date": {
+          "uts": "1710081647",
+          "#text": "10 Mar 2024, 14:40"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1708692443",
           "#text": "23 Feb 2024, 12:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Smells Like Me",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
-        "date": {
-          "uts": "1708692173",
-          "#text": "23 Feb 2024, 12:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "When I'm Still Getting Over You (feat. Paige) - Single"
-        },
-        "name": "When I'm Still Getting Over You (feat. Paige)",
-        "url": "https://www.last.fm/music/Peder+Elias/_/When+I%27m+Still+Getting+Over+You+(feat.+Paige)",
-        "date": {
-          "uts": "1708691974",
-          "#text": "23 Feb 2024, 12:39"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "83",
       "page": "1",
       "perPage": "50",
-      "total": "4122"
+      "total": "4124"
     }
   }
 }
