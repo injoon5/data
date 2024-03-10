@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Sharks Deli"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Memories Point"
+        },
+        "name": "Le Conte",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sharks+Deli/_/Le+Conte"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sharks Deli"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Memories Point"
+        },
+        "name": "Le Conte",
+        "url": "https://www.last.fm/music/Sharks+Deli/_/Le+Conte",
+        "date": {
+          "uts": "1710078301",
+          "#text": "10 Mar 2024, 13:45"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "1077e53e-c8e8-4492-9813-31f71677e6f9",
+          "#text": "Blue Wednesday"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loose Ends - Single"
+        },
+        "name": "Loose Ends",
+        "url": "https://www.last.fm/music/Blue+Wednesday/_/Loose+Ends",
+        "date": {
+          "uts": "1710078152",
+          "#text": "10 Mar 2024, 13:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Birocratic & G Mills"
         },
         "streamable": "0",
@@ -31,10 +138,11 @@
           "#text": "Shoobedoo - EP"
         },
         "name": "Shoobedoo",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Birocratic+&+G+Mills/_/Shoobedoo"
+        "url": "https://www.last.fm/music/Birocratic+&+G+Mills/_/Shoobedoo",
+        "date": {
+          "uts": "1710077995",
+          "#text": "10 Mar 2024, 13:39"
+        }
       },
       {
         "artist": {
@@ -924,7 +1032,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
           }
         ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "mbid": "76ea7007-baa4-4343-92ad-bca4d1fe292f",
         "album": {
           "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
           "#text": "The Secret Of Association"
@@ -1727,122 +1835,14 @@
           "uts": "1706713776",
           "#text": "31 Jan 2024, 15:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          }
-        ],
-        "mbid": "a7fd563b-fd78-4f02-9ebc-89cabaf75c72",
-        "album": {
-          "mbid": "",
-          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
-        },
-        "name": "Off My Face",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
-        "date": {
-          "uts": "1706713596",
-          "#text": "31 Jan 2024, 15:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          }
-        ],
-        "mbid": "3cbde18a-b49c-4de3-9cf8-76a58245d7ef",
-        "album": {
-          "mbid": "",
-          "#text": "Without You - EP"
-        },
-        "name": "Love Somebody",
-        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
-        "date": {
-          "uts": "1706713447",
-          "#text": "31 Jan 2024, 15:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1706713265",
-          "#text": "31 Jan 2024, 15:01"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "82",
+      "totalPages": "83",
       "page": "1",
       "perPage": "50",
-      "total": "4099"
+      "total": "4102"
     }
   }
 }
