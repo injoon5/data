@@ -3,8 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Jikuru & Lola"
+          "mbid": "83b4d0e0-fa2b-42f6-be5b-6379ca536b88",
+          "#text": "goson"
         },
         "streamable": "0",
         "image": [
@@ -25,16 +25,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "c0e617a0-195b-412b-b7f2-35ed43036c0d",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Missing Page - Single"
+          "#text": "Daylight - Single"
         },
-        "name": "Missing Page",
+        "name": "Daylight",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Jikuru+&+Lola/_/Missing+Page"
+        "url": "https://www.last.fm/music/goson/_/Daylight"
+      },
+      {
+        "artist": {
+          "mbid": "83b4d0e0-fa2b-42f6-be5b-6379ca536b88",
+          "#text": "goson"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Daylight - Single"
+        },
+        "name": "Daylight",
+        "url": "https://www.last.fm/music/goson/_/Daylight",
+        "date": {
+          "uts": "1710077584",
+          "#text": "10 Mar 2024, 13:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Pistachio"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "e0d893b8-66f9-415b-a100-7d931b7a2696",
+        "album": {
+          "mbid": "",
+          "#text": "whoops i'm napping - EP"
+        },
+        "name": "splash splash",
+        "url": "https://www.last.fm/music/Pistachio/_/splash+splash",
+        "date": {
+          "uts": "1710077432",
+          "#text": "10 Mar 2024, 13:30"
+        }
       },
       {
         "artist": {
@@ -780,7 +852,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
           }
         ],
-        "mbid": "76ea7007-baa4-4343-92ad-bca4d1fe292f",
+        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
         "album": {
           "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
           "#text": "The Secret Of Association"
@@ -1763,78 +1835,6 @@
           "uts": "1706712821",
           "#text": "31 Jan 2024, 14:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          }
-        ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
-        "album": {
-          "mbid": "",
-          "#text": "I Like Me Better - Single"
-        },
-        "name": "I Like Me Better",
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
-        "date": {
-          "uts": "1706712635",
-          "#text": "31 Jan 2024, 14:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "dhruv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          }
-        ],
-        "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
-        "album": {
-          "mbid": "",
-          "#text": "Double Take - Single"
-        },
-        "name": "double take",
-        "url": "https://www.last.fm/music/dhruv/_/double+take",
-        "date": {
-          "uts": "1706712450",
-          "#text": "31 Jan 2024, 14:47"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "82",
       "page": "1",
       "perPage": "50",
-      "total": "4095"
+      "total": "4097"
     }
   }
 }
