@@ -3,8 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
+          "mbid": "",
+          "#text": "\ub370\uc774\uc2dd\uc2a4"
         },
         "streamable": "0",
         "image": [
@@ -28,13 +28,14 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Colorblind - Single"
+          "#text": "Every Day6 February - Single"
         },
-        "name": "colorblind",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Mokita/_/colorblind"
+        "name": "\uc608\ubee4\uc5b4",
+        "url": "https://www.last.fm/music/%EB%8D%B0%EC%9D%B4%EC%8B%9D%EC%8A%A4/_/%EC%98%88%EB%BB%A4%EC%96%B4",
+        "date": {
+          "uts": "1710756246",
+          "#text": "18 Mar 2024, 10:04"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1708711222",
           "#text": "23 Feb 2024, 18:00"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Sorry",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry",
-        "date": {
-          "uts": "1708711039",
-          "#text": "23 Feb 2024, 17:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "83",
       "page": "1",
       "perPage": "50",
-      "total": "4138"
+      "total": "4139"
     }
   }
 }
