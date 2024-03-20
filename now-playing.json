@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Kids Are Born Stars",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Kids Are Born Stars",
+        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars",
+        "date": {
+          "uts": "1710949258",
+          "#text": "20 Mar 2024, 15:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JOHN.k"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "fe3e6fd2-993e-45b5-9409-6c02514d5435",
+        "album": {
+          "mbid": "9fa33e9b-fa85-4f97-a25a-32c8696f6b98",
+          "#text": "love + everything else"
+        },
+        "name": "If We Never Met",
+        "url": "https://www.last.fm/music/JOHN.k/_/If+We+Never+Met",
+        "date": {
+          "uts": "1710949092",
+          "#text": "20 Mar 2024, 15:38"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +138,11 @@
           "#text": "gg bb xx"
         },
         "name": "up to me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/up+to+me"
+        "url": "https://www.last.fm/music/Lany/_/up+to+me",
+        "date": {
+          "uts": "1710948935",
+          "#text": "20 Mar 2024, 15:35"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1710078876",
           "#text": "10 Mar 2024, 13:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7457a3b7-55d3-43ff-affa-dfec50518078",
-          "#text": "Tropics"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d2a5b041db033b3f4cf53b4cec3449df.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d2a5b041db033b3f4cf53b4cec3449df.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d2a5b041db033b3f4cf53b4cec3449df.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2a5b041db033b3f4cf53b4cec3449df.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "49c71423-fdcb-425f-8e13-a36547cd380d",
-          "#text": "Nothing Strange"
-        },
-        "name": "Hyphae",
-        "url": "https://www.last.fm/music/Tropics/_/Hyphae",
-        "date": {
-          "uts": "1710078694",
-          "#text": "10 Mar 2024, 13:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Halibab Matador"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Souvenirs"
-        },
-        "name": "Skyline",
-        "url": "https://www.last.fm/music/Halibab+Matador/_/Skyline",
-        "date": {
-          "uts": "1710078490",
-          "#text": "10 Mar 2024, 13:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sharks Deli"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Memories Point"
-        },
-        "name": "Le Conte",
-        "url": "https://www.last.fm/music/Sharks+Deli/_/Le+Conte",
-        "date": {
-          "uts": "1710078301",
-          "#text": "10 Mar 2024, 13:45"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4151"
+      "total": "4154"
     }
   }
 }
