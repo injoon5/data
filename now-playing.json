@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "a beautiful blur"
+        },
+        "name": "Out Of My League",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Out+Of+My+League"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "a beautiful blur"
+        },
+        "name": "Love At First Fight",
+        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
+        "date": {
+          "uts": "1710949840",
+          "#text": "20 Mar 2024, 15:50"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +102,11 @@
           "#text": "Celestial - Single"
         },
         "name": "Celestial",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
+        "date": {
+          "uts": "1710949638",
+          "#text": "20 Mar 2024, 15:47"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1710079359",
           "#text": "10 Mar 2024, 14:02"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Birocratic & G Mills"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Shoobedoo - EP"
-        },
-        "name": "Aquatic Dressage",
-        "url": "https://www.last.fm/music/Birocratic+&+G+Mills/_/Aquatic+Dressage",
-        "date": {
-          "uts": "1710079237",
-          "#text": "10 Mar 2024, 14:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Calming Hearts"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Last Genius - EP"
-        },
-        "name": "I Gotta Crow",
-        "url": "https://www.last.fm/music/Calming+Hearts/_/I+Gotta+Crow",
-        "date": {
-          "uts": "1710079078",
-          "#text": "10 Mar 2024, 13:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4155"
+      "total": "4157"
     }
   }
 }
