@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "fadbe78b-7421-46da-802a-f72d139ea15f",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Late Night Talking",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Harry+Styles/_/Late+Night+Talking"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
+        },
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
+          "uts": "1710947472",
+          "#text": "20 Mar 2024, 15:11"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1710947308",
+          "#text": "20 Mar 2024, 15:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          }
+        ],
+        "mbid": "558dcecf-1d02-470a-873d-5015b4287c15",
+        "album": {
+          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
+          "#text": "AUSTIN (Bonus)"
+        },
+        "name": "Chemical",
+        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
+        "date": {
+          "uts": "1710947134",
+          "#text": "20 Mar 2024, 15:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          }
+        ],
+        "mbid": "cde003ae-073b-4561-96f7-b06149ed15fb",
+        "album": {
+          "mbid": "",
+          "#text": "Strawberries & Cigarettes - Single"
+        },
+        "name": "Strawberries & Cigarettes",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes",
+        "date": {
+          "uts": "1710946936",
+          "#text": "20 Mar 2024, 15:02"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Japuya"
         },
@@ -31,10 +210,11 @@
           "#text": "mitakiu - Single"
         },
         "name": "mitakiu",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Japuya/_/mitakiu"
+        "url": "https://www.last.fm/music/Japuya/_/mitakiu",
+        "date": {
+          "uts": "1710946764",
+          "#text": "20 Mar 2024, 14:59"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1710077216",
           "#text": "10 Mar 2024, 13:26"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          }
-        ],
-        "mbid": "d92b1690-480b-4606-b371-db6059c030c7",
-        "album": {
-          "mbid": "",
-          "#text": "Celestial - Single"
-        },
-        "name": "Celestial",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
-        "date": {
-          "uts": "1708736628",
-          "#text": "24 Feb 2024, 01:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1708711837",
-          "#text": "23 Feb 2024, 18:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1708711626",
-          "#text": "23 Feb 2024, 18:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "680f16ac-d179-42f2-960b-cb96f28fabda",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Never Not",
-        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
-        "date": {
-          "uts": "1708711411",
-          "#text": "23 Feb 2024, 18:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1708711222",
-          "#text": "23 Feb 2024, 18:00"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "83",
       "page": "1",
       "perPage": "50",
-      "total": "4139"
+      "total": "4144"
     }
   }
 }
