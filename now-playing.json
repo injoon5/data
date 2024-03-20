@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
-          "#text": "Lady Gaga"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "597d414a-1637-491f-b486-9f5f07d04358",
+        "mbid": "80e4e8f9-a430-4602-8acf-2dfdc6f5e034",
         "album": {
           "mbid": "",
-          "#text": "Top Gun: Maverick (Music from the Motion Picture)"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "Hold My Hand",
+        "name": "The Story Never Ends",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand"
+        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1710951099",
+          "#text": "20 Mar 2024, 16:11"
+        }
       },
       {
         "artist": {
@@ -528,7 +564,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           }
         ],
-        "mbid": "efeda16e-7021-45e8-9482-8294d1f63669",
+        "mbid": "d51bba5b-dcb3-4348-a687-7be80f3ec890",
         "album": {
           "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
           "#text": "Dawn FM"
@@ -1799,42 +1835,6 @@
           "uts": "1710079785",
           "#text": "10 Mar 2024, 14:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "CRFT, Lightheart & No\u00e9 Mina"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Nocturne - Single"
-        },
-        "name": "Nocturne",
-        "url": "https://www.last.fm/music/CRFT,+Lightheart+&+No%C3%A9+Mina/_/Nocturne",
-        "date": {
-          "uts": "1710079637",
-          "#text": "10 Mar 2024, 14:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4159"
+      "total": "4160"
     }
   }
 }
