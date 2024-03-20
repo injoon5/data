@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
+          }
+        ],
+        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
+        "album": {
+          "mbid": "",
+          "#text": "Reasons You Should Care - EP"
+        },
+        "name": "Outside",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside"
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
+          }
+        ],
+        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
+        "album": {
+          "mbid": "",
+          "#text": "Reasons You Should Care - EP"
+        },
+        "name": "Outside",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
+        "date": {
+          "uts": "1710952176",
+          "#text": "20 Mar 2024, 16:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I Like Me Better - Single"
+        },
+        "name": "I Like Me Better",
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1710951941",
+          "#text": "20 Mar 2024, 16:25"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "2397f45f-9b1a-4768-9546-c601476f0912",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1710951694",
+          "#text": "20 Mar 2024, 16:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "dhruv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/087c84df33fd5010cf79bbad8c4c136b.jpg"
+          }
+        ],
+        "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
+        "album": {
+          "mbid": "",
+          "#text": "Double Take - Single"
+        },
+        "name": "double take",
+        "url": "https://www.last.fm/music/dhruv/_/double+take",
+        "date": {
+          "uts": "1710951504",
+          "#text": "20 Mar 2024, 16:18"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +210,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "The Story Never Ends",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends"
+        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends",
+        "date": {
+          "uts": "1710951330",
+          "#text": "20 Mar 2024, 16:15"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1710080667",
           "#text": "10 Mar 2024, 14:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0019fbf6-8ec4-4312-a37c-5e4b895ec130",
-          "#text": "Daniel Fridell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "My Piano Is Mellow - Single"
-        },
-        "name": "Mellow Green",
-        "url": "https://www.last.fm/music/Daniel+Fridell/_/Mellow+Green",
-        "date": {
-          "uts": "1710080464",
-          "#text": "10 Mar 2024, 14:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Desh, delaney. & No\u00e9 Mina"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Like U Got What I Need - Single"
-        },
-        "name": "like u got what i need",
-        "url": "https://www.last.fm/music/Desh,+delaney.+&+No%C3%A9+Mina/_/like+u+got+what+i+need",
-        "date": {
-          "uts": "1710080256",
-          "#text": "10 Mar 2024, 14:17"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Middleneck, wowflower & CRFT"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Ultimate Fist Bump - Single"
-        },
-        "name": "Ultimate Fist Bump",
-        "url": "https://www.last.fm/music/Middleneck,+wowflower+&+CRFT/_/Ultimate+Fist+Bump",
-        "date": {
-          "uts": "1710080115",
-          "#text": "10 Mar 2024, 14:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Cosmic Quest"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "majestic exclusives"
-        },
-        "name": "Crystalline Lotus",
-        "url": "https://www.last.fm/music/Cosmic+Quest/_/Crystalline+Lotus",
-        "date": {
-          "uts": "1710079951",
-          "#text": "10 Mar 2024, 14:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Leave & Bezzix"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dahlia - Single"
-        },
-        "name": "Dahlia",
-        "url": "https://www.last.fm/music/Leave+&+Bezzix/_/Dahlia",
-        "date": {
-          "uts": "1710079785",
-          "#text": "10 Mar 2024, 14:09"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4160"
+      "total": "4165"
     }
   }
 }
