@@ -3,38 +3,146 @@
     "track": [
       {
         "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
           }
         ],
-        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Reasons You Should Care - EP"
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
         },
-        "name": "Outside",
+        "name": "Loving You Girl (feat. Hkeem)",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside"
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)"
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
+        },
+        "name": "Loving You Girl (feat. Hkeem)",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
+        "date": {
+          "uts": "1710952712",
+          "#text": "20 Mar 2024, 16:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "a7fd563b-fd78-4f02-9ebc-89cabaf75c72",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1710952545",
+          "#text": "20 Mar 2024, 16:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
+        "date": {
+          "uts": "1710952365",
+          "#text": "20 Mar 2024, 16:32"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1710081033",
           "#text": "10 Mar 2024, 14:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "546e0568-f65d-488c-8a3c-a754bd55d261",
-          "#text": "paris91"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dockside - Single"
-        },
-        "name": "Dockside",
-        "url": "https://www.last.fm/music/paris91/_/Dockside",
-        "date": {
-          "uts": "1710080893",
-          "#text": "10 Mar 2024, 14:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a0abff27-5580-4d16-860a-cbceaff32d60",
-          "#text": "Moow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dc7fb8087336493594cb7159cb2cd74.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dc7fb8087336493594cb7159cb2cd74.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dc7fb8087336493594cb7159cb2cd74.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dc7fb8087336493594cb7159cb2cd74.jpg"
-          }
-        ],
-        "mbid": "231a43f2-f10d-406c-93fa-17875672d2a9",
-        "album": {
-          "mbid": "39fe02c8-c712-4f36-81ec-1e6487819e3c",
-          "#text": "I can't tell you how much it hurts"
-        },
-        "name": "baby",
-        "url": "https://www.last.fm/music/Moow/_/baby",
-        "date": {
-          "uts": "1710080783",
-          "#text": "10 Mar 2024, 14:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Yawnathan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Gems - Single"
-        },
-        "name": "Gems",
-        "url": "https://www.last.fm/music/Yawnathan/_/Gems",
-        "date": {
-          "uts": "1710080667",
-          "#text": "10 Mar 2024, 14:24"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4165"
+      "total": "4168"
     }
   }
 }
