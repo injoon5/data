@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           }
         ],
-        "mbid": "c90a356d-5af7-47a9-8fb5-0c593fbe6cdb",
+        "mbid": "",
         "album": {
-          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
-          "#text": "- (Deluxe)"
+          "mbid": "",
+          "#text": "summer, - EP"
         },
-        "name": "Eyes Closed",
+        "name": "comethru",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Adrenaline",
+        "url": "https://www.last.fm/music/Lauv/_/Adrenaline",
+        "date": {
+          "uts": "1711097220",
+          "#text": "22 Mar 2024, 08:47"
+        }
       },
       {
         "artist": {
@@ -1356,7 +1392,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           }
         ],
-        "mbid": "d51bba5b-dcb3-4348-a687-7be80f3ec890",
+        "mbid": "efeda16e-7021-45e8-9482-8294d1f63669",
         "album": {
           "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
           "#text": "Dawn FM"
@@ -1799,42 +1835,6 @@
           "uts": "1710083251",
           "#text": "10 Mar 2024, 15:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "jobii"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Green Cascade - Single"
-        },
-        "name": "Green Cascade",
-        "url": "https://www.last.fm/music/jobii/_/Green+Cascade",
-        "date": {
-          "uts": "1710083096",
-          "#text": "10 Mar 2024, 15:04"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4182"
+      "total": "4183"
     }
   }
 }
