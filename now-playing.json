@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
+          }
+        ],
+        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
+        "date": {
+          "uts": "1711097941",
+          "#text": "22 Mar 2024, 08:59"
+        }
+      },
+      {
+        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
@@ -31,10 +67,11 @@
           "#text": "CHARLIE"
         },
         "name": "Charlie Be Quiet!",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
+        "date": {
+          "uts": "1711097769",
+          "#text": "22 Mar 2024, 08:56"
+        }
       },
       {
         "artist": {
@@ -1464,7 +1501,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           }
         ],
-        "mbid": "d51bba5b-dcb3-4348-a687-7be80f3ec890",
+        "mbid": "efeda16e-7021-45e8-9482-8294d1f63669",
         "album": {
           "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
           "#text": "Dawn FM"
@@ -1763,78 +1800,6 @@
           "uts": "1710475940",
           "#text": "15 Mar 2024, 04:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Redseal"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "palms. - Single"
-        },
-        "name": "palms.",
-        "url": "https://www.last.fm/music/Redseal/_/palms.",
-        "date": {
-          "uts": "1710083678",
-          "#text": "10 Mar 2024, 15:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Harry Hawaii"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Remember - Single"
-        },
-        "name": "Remember",
-        "url": "https://www.last.fm/music/Harry+Hawaii/_/Remember",
-        "date": {
-          "uts": "1710083541",
-          "#text": "10 Mar 2024, 15:12"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "84",
       "page": "1",
       "perPage": "50",
-      "total": "4185"
+      "total": "4187"
     }
   }
 }
