@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Rainbow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+          "#text": "Down to Earth"
+        },
+        "name": "Since You Been Gone",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Rainbow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+          "#text": "Down to Earth"
+        },
+        "name": "Since You Been Gone",
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
+        "date": {
+          "uts": "1711791038",
+          "#text": "30 Mar 2024, 09:30"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -31,10 +102,11 @@
           "#text": "After Hours"
         },
         "name": "Blinding Lights",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "date": {
+          "uts": "1711790840",
+          "#text": "30 Mar 2024, 09:27"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1711105647",
           "#text": "22 Mar 2024, 11:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Enluv & Molly McPhaul"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "beats nobody asked for"
-        },
-        "name": "floating by",
-        "url": "https://www.last.fm/music/Enluv+&+Molly+McPhaul/_/floating+by",
-        "date": {
-          "uts": "1711105530",
-          "#text": "22 Mar 2024, 11:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "xander. & S\u00f8ren S\u00f8strom"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7822552f58e264894d4a59465b3fff19.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7822552f58e264894d4a59465b3fff19.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7822552f58e264894d4a59465b3fff19.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7822552f58e264894d4a59465b3fff19.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "All In Time - Single"
-        },
-        "name": "Water Falls",
-        "url": "https://www.last.fm/music/xander.+&+S%C3%B8ren+S%C3%B8strom/_/Water+Falls",
-        "date": {
-          "uts": "1711105358",
-          "#text": "22 Mar 2024, 11:02"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4253"
+      "total": "4255"
     }
   }
 }
