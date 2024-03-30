@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Rainbow"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
         "album": {
-          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
-          "#text": "Down to Earth"
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
         },
-        "name": "Since You Been Gone",
+        "name": "i'm so tired...",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone"
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired..."
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1711791448",
+          "#text": "30 Mar 2024, 09:37"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
+          "#text": "Sam Ryder"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          }
+        ],
+        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
+        "album": {
+          "mbid": "",
+          "#text": "More - Single"
+        },
+        "name": "More",
+        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
+        "date": {
+          "uts": "1711791253",
+          "#text": "30 Mar 2024, 09:34"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1711105901",
           "#text": "22 Mar 2024, 11:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "13d95485-6e88-45d9-a9cc-feb99f5a1d18",
-          "#text": "Stan Forebee"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "a7d433d5-0569-4525-8244-bf8d9990ff1d",
-        "album": {
-          "mbid": "",
-          "#text": "Chillhop Essentials Spring 2024"
-        },
-        "name": "Anglers Rest",
-        "url": "https://www.last.fm/music/Stan+Forebee/_/Anglers+Rest",
-        "date": {
-          "uts": "1711105762",
-          "#text": "22 Mar 2024, 11:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "176186ff-c212-4732-9f02-eecfd83b14f6",
-          "#text": "Knowsum"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef811dc5dd1e816b01c537daa035ab02.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef811dc5dd1e816b01c537daa035ab02.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef811dc5dd1e816b01c537daa035ab02.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef811dc5dd1e816b01c537daa035ab02.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Surfin on your Wave"
-        },
-        "name": "Ha Long",
-        "url": "https://www.last.fm/music/Knowsum/_/Ha+Long",
-        "date": {
-          "uts": "1711105647",
-          "#text": "22 Mar 2024, 11:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4255"
+      "total": "4257"
     }
   }
 }
