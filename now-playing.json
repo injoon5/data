@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Invisible Things",
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1711790221",
+          "#text": "30 Mar 2024, 09:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "I Like Me Better - Single"
         },
         "name": "I Like Me Better",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1711790023",
+          "#text": "30 Mar 2024, 09:13"
+        }
       },
       {
         "artist": {
@@ -1763,86 +1835,14 @@
           "uts": "1711105094",
           "#text": "22 Mar 2024, 10:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "65e10c0a-a5b4-4621-883e-fb0e545059a0",
-          "#text": "Timothy Infinite"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Pool Day"
-        },
-        "name": "Midday Hoops",
-        "url": "https://www.last.fm/music/Timothy+Infinite/_/Midday+Hoops",
-        "date": {
-          "uts": "1711104967",
-          "#text": "22 Mar 2024, 10:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "d9a0e6a0-bef7-449b-a39f-259ee4e4564a",
-          "#text": "PRGMAT"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Too Good to Be True - Single"
-        },
-        "name": "Too Good to Be True",
-        "url": "https://www.last.fm/music/PRGMAT/_/Too+Good+to+Be+True",
-        "date": {
-          "uts": "1711104841",
-          "#text": "22 Mar 2024, 10:54"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "85",
+      "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4249"
+      "total": "4251"
     }
   }
 }
