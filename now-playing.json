@@ -4,37 +4,73 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & Troye Sivan"
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
         "album": {
           "mbid": "",
-          "#text": "i'm so tired... - Single"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "i'm so tired...",
+        "name": "Comfortable",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired..."
+        "url": "https://www.last.fm/music/Lauv/_/Comfortable"
+      },
+      {
+        "artist": {
+          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+          "#text": "Eric Clapton"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "4645ee33-5e85-4af9-b321-70d55b1db029",
+          "#text": "Classic Eric Clapton"
+        },
+        "name": "Wonderful Tonight",
+        "url": "https://www.last.fm/music/Eric+Clapton/_/Wonderful+Tonight",
+        "date": {
+          "uts": "1711791642",
+          "#text": "30 Mar 2024, 09:40"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1711106049",
           "#text": "22 Mar 2024, 11:14"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Kubi"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Clouds & Conversations - Single"
-        },
-        "name": "Clouds & Conversations",
-        "url": "https://www.last.fm/music/Kubi/_/Clouds+&+Conversations",
-        "date": {
-          "uts": "1711105901",
-          "#text": "22 Mar 2024, 11:11"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4257"
+      "total": "4258"
     }
   }
 }
