@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          }
+        ],
+        "mbid": "0ba86acb-1399-485a-a28b-6a95494c96bc",
+        "album": {
+          "mbid": "",
+          "#text": "Love Somebody Like You - Single"
+        },
+        "name": "love somebody like you",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Joan/_/love+somebody+like+you"
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
+          }
+        ],
+        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
+        "album": {
+          "mbid": "",
+          "#text": "It Takes Two - Single"
+        },
+        "name": "It Takes Two",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
+        "date": {
+          "uts": "1712044180",
+          "#text": "02 Apr 2024, 07:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Changes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Changes"
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1712044020",
+          "#text": "02 Apr 2024, 07:47"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1711758363",
           "#text": "30 Mar 2024, 00:26"
         }
-      },
-      {
-        "artist": {
-          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
-          "#text": "Glass Animals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
-          "#text": "Dreamland"
-        },
-        "name": "Heat Waves",
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
-        "date": {
-          "uts": "1711758125",
-          "#text": "30 Mar 2024, 00:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "summer, - EP"
-        },
-        "name": "comethru",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
-        "date": {
-          "uts": "1711757913",
-          "#text": "30 Mar 2024, 00:18"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4265"
+      "total": "4267"
     }
   }
 }
