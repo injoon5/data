@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "5cbbbadb-4c62-40f8-8238-d30abd08e0ee",
+          "#text": "a-ha"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          }
+        ],
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "album": {
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
+        },
+        "name": "Take On Me",
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
+        "date": {
+          "uts": "1712324778",
+          "#text": "05 Apr 2024, 13:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
           "#text": "Post Malone"
         },
@@ -31,10 +67,11 @@
           "#text": "Hollywood's Bleeding"
         },
         "name": "Circles",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles"
+        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
+        "date": {
+          "uts": "1712324556",
+          "#text": "05 Apr 2024, 13:42"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1711766532",
           "#text": "30 Mar 2024, 02:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "53969964-673a-4407-9396-3087be9245f6",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "As It Was",
-        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
-        "date": {
-          "uts": "1711766343",
-          "#text": "30 Mar 2024, 02:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
-        },
-        "name": "U Sometimes",
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
-        "date": {
-          "uts": "1711758575",
-          "#text": "30 Mar 2024, 00:29"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4268"
+      "total": "4270"
     }
   }
 }
