@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
-          "#text": "Sam Fischer"
+          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
+          "#text": "Glass Animals"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
           }
         ],
-        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
+        "mbid": "",
         "album": {
-          "mbid": "",
-          "#text": "This City - Single"
+          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
+          "#text": "Dreamland"
         },
-        "name": "This City",
+        "name": "Heat Waves",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City"
+        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves"
+      },
+      {
+        "artist": {
+          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
+          "#text": "Glass Animals"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
+          "#text": "Dreamland"
+        },
+        "name": "Heat Waves",
+        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
+        "date": {
+          "uts": "1712326348",
+          "#text": "05 Apr 2024, 14:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+          "#text": "The Police"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
+          "#text": "The Police"
+        },
+        "name": "Every Breath You Take",
+        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
+        "date": {
+          "uts": "1712326102",
+          "#text": "05 Apr 2024, 14:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "53969964-673a-4407-9396-3087be9245f6",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "As It Was",
+        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
+        "date": {
+          "uts": "1712325891",
+          "#text": "05 Apr 2024, 14:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Adrenaline",
+        "url": "https://www.last.fm/music/Lauv/_/Adrenaline",
+        "date": {
+          "uts": "1712325705",
+          "#text": "05 Apr 2024, 14:01"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1711768024",
           "#text": "30 Mar 2024, 03:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
-          "#text": "Richard Marx"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
-          "#text": "Repeat Offender"
-        },
-        "name": "Right Here Waiting",
-        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
-        "date": {
-          "uts": "1711767761",
-          "#text": "30 Mar 2024, 03:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Love Yourself",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
-        "date": {
-          "uts": "1711767511",
-          "#text": "30 Mar 2024, 02:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7b545a9d-0be7-4a32-90ff-154489117216",
-          "#text": "Joel Corry"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Head & Heart (feat. MNEK) - Single"
-        },
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://www.last.fm/music/Joel+Corry/_/Head+&+Heart+(feat.+MNEK)",
-        "date": {
-          "uts": "1711767312",
-          "#text": "30 Mar 2024, 02:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
-          "#text": "David Alexander"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing Alone - Single"
-        },
-        "name": "Dancing Alone",
-        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone",
-        "date": {
-          "uts": "1711767129",
-          "#text": "30 Mar 2024, 02:52"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4273"
+      "total": "4277"
     }
   }
 }
