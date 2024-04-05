@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
+        },
+        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)"
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
+        },
+        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
+        "date": {
+          "uts": "1712331654",
+          "#text": "05 Apr 2024, 15:40"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +102,11 @@
           "#text": "A LOT - Single"
         },
         "name": "A LOT",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/A+LOT"
+        "url": "https://www.last.fm/music/John+K/_/A+LOT",
+        "date": {
+          "uts": "1712331463",
+          "#text": "05 Apr 2024, 15:37"
+        }
       },
       {
         "artist": {
@@ -1763,86 +1835,14 @@
           "uts": "1711790646",
           "#text": "30 Mar 2024, 09:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1711790437",
-          "#text": "30 Mar 2024, 09:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Invisible Things",
-        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
-        "date": {
-          "uts": "1711790221",
-          "#text": "30 Mar 2024, 09:17"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "86",
+      "totalPages": "87",
       "page": "1",
       "perPage": "50",
-      "total": "4300"
+      "total": "4302"
     }
   }
 }
