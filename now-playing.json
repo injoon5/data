@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
-          "#text": "Glass Animals"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1712327121",
+          "#text": "05 Apr 2024, 14:25"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
+          }
+        ],
+        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
+        "album": {
+          "mbid": "",
+          "#text": "Light Switch - Single"
+        },
+        "name": "Light Switch",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
+        "date": {
+          "uts": "1712326912",
+          "#text": "05 Apr 2024, 14:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
-          "#text": "Dreamland"
+          "mbid": "",
+          "#text": "When I'm Still Getting Over You (feat. Paige) - Single"
         },
-        "name": "Heat Waves",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "When I'm Still Getting Over You (feat. Paige)",
+        "url": "https://www.last.fm/music/Peder+Elias/_/When+I%27m+Still+Getting+Over+You+(feat.+Paige)",
+        "date": {
+          "uts": "1712326732",
+          "#text": "05 Apr 2024, 14:18"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+          "#text": "5 Seconds of Summer"
         },
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          }
+        ],
+        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
+        "album": {
+          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
+          "#text": "CALM"
+        },
+        "name": "High",
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
+        "date": {
+          "uts": "1712326557",
+          "#text": "05 Apr 2024, 14:15"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1711768936",
           "#text": "30 Mar 2024, 03:22"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
-          "#text": "Starship"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "572b6b42-3494-438d-a3d9-0fbf39ebded8",
-          "#text": "Knee Deep in the Hoopla"
-        },
-        "name": "Sara",
-        "url": "https://www.last.fm/music/Starship/_/Sara",
-        "date": {
-          "uts": "1711768707",
-          "#text": "30 Mar 2024, 03:18"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Yorke & joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95d66fcae200650a5e6ac8014f745363.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "ten feet tall - EP"
-        },
-        "name": "Window Shopping",
-        "url": "https://www.last.fm/music/Yorke+&+joan/_/Window+Shopping",
-        "date": {
-          "uts": "1711768460",
-          "#text": "30 Mar 2024, 03:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1711768256",
-          "#text": "30 Mar 2024, 03:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Castle on the Hill",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
-        "date": {
-          "uts": "1711768024",
-          "#text": "30 Mar 2024, 03:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "86",
       "page": "1",
       "perPage": "50",
-      "total": "4277"
+      "total": "4281"
     }
   }
 }
