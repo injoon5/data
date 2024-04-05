@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "264b7da6-ef65-46bd-a913-a15024aac013",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Happier",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier"
+      },
+      {
+        "artist": {
+          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+          "#text": "Lady Gaga"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          }
+        ],
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
+        "album": {
+          "mbid": "",
+          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
+        },
+        "name": "Hold My Hand",
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
+        "date": {
+          "uts": "1712333575",
+          "#text": "05 Apr 2024, 16:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1712333367",
+          "#text": "05 Apr 2024, 16:09"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I Like Me Better - Single"
+        },
+        "name": "I Like Me Better",
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1712333173",
+          "#text": "05 Apr 2024, 16:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
+          "#text": "Allure"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          }
+        ],
+        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
+        "album": {
+          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
+          "#text": "Reunion"
+        },
+        "name": "From Paris With Love",
+        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
+        "date": {
+          "uts": "1712332992",
+          "#text": "05 Apr 2024, 16:03"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
           "#text": "Jeremy Zucker"
         },
@@ -31,10 +210,11 @@
           "#text": "summer, - EP"
         },
         "name": "comethru",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
+        "date": {
+          "uts": "1712332817",
+          "#text": "05 Apr 2024, 16:00"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1712043430",
           "#text": "02 Apr 2024, 07:37"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "2df03232-d68c-4aa1-9b87-a3fa0a35bd2a",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Satellite",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Satellite",
-        "date": {
-          "uts": "1712043221",
-          "#text": "02 Apr 2024, 07:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
-          "#text": "Zedd, Maren Morris & Grey"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04b0a8a0d928925a03bac9c6ec7c3383.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "The Middle - Single"
-        },
-        "name": "The Middle",
-        "url": "https://www.last.fm/music/Zedd,+Maren+Morris+&+Grey/_/The+Middle",
-        "date": {
-          "uts": "1711800512",
-          "#text": "30 Mar 2024, 12:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Like Strangers Do - Single"
-        },
-        "name": "Like Strangers Do",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
-        "date": {
-          "uts": "1711799935",
-          "#text": "30 Mar 2024, 11:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Comfortable",
-        "url": "https://www.last.fm/music/Lauv/_/Comfortable",
-        "date": {
-          "uts": "1711791835",
-          "#text": "30 Mar 2024, 09:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-          "#text": "Eric Clapton"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "4645ee33-5e85-4af9-b321-70d55b1db029",
-          "#text": "Classic Eric Clapton"
-        },
-        "name": "Wonderful Tonight",
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Wonderful+Tonight",
-        "date": {
-          "uts": "1711791642",
-          "#text": "30 Mar 2024, 09:40"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "87",
       "page": "1",
       "perPage": "50",
-      "total": "4307"
+      "total": "4312"
     }
   }
 }
