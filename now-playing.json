@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
           }
         ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "mbid": "",
         "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
+          "mbid": "",
+          "#text": "Purpose (Deluxe)"
         },
-        "name": "Smells Like Me",
+        "name": "Love Yourself",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          }
+        ],
+        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
+        "album": {
+          "mbid": "",
+          "#text": "Bad Habits - Single"
+        },
+        "name": "Bad Habits",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
+        "date": {
+          "uts": "1712372103",
+          "#text": "06 Apr 2024, 02:55"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1712325891",
           "#text": "05 Apr 2024, 14:04"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Adrenaline",
-        "url": "https://www.last.fm/music/Lauv/_/Adrenaline",
-        "date": {
-          "uts": "1712325705",
-          "#text": "05 Apr 2024, 14:01"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "87",
       "page": "1",
       "perPage": "50",
-      "total": "4323"
+      "total": "4324"
     }
   }
 }
