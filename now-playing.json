@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "082630d2-615a-4e68-aab6-23488b9055a7",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "I Don\u2019t Think That I Like Her",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "082630d2-615a-4e68-aab6-23488b9055a7",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "I Don\u2019t Think That I Like Her",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her",
+        "date": {
+          "uts": "1712371561",
+          "#text": "06 Apr 2024, 02:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
           "#text": "Troye Sivan"
         },
@@ -31,10 +102,11 @@
           "#text": "Angel Baby - Single"
         },
         "name": "Angel Baby",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby"
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1712371357",
+          "#text": "06 Apr 2024, 02:42"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712325317",
           "#text": "05 Apr 2024, 13:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          }
-        ],
-        "mbid": "1dd3bee1-652b-4658-9d89-14dd762ab4a1",
-        "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
-        },
-        "name": "Take My Breath",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Take+My+Breath",
-        "date": {
-          "uts": "1712325062",
-          "#text": "05 Apr 2024, 13:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5cbbbadb-4c62-40f8-8238-d30abd08e0ee",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take On Me",
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
-        "date": {
-          "uts": "1712324778",
-          "#text": "05 Apr 2024, 13:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "87",
       "page": "1",
       "perPage": "50",
-      "total": "4319"
+      "total": "4321"
     }
   }
 }
