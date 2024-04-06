@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
-          "#text": "David Alexander"
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Dancing Alone - Single"
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
         },
-        "name": "Dancing Alone",
+        "name": "Loving You Girl (feat. Hkeem)",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone"
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1712375383",
+          "#text": "06 Apr 2024, 03:49"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "a7fd563b-fd78-4f02-9ebc-89cabaf75c72",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1712375220",
+          "#text": "06 Apr 2024, 03:47"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712329422",
           "#text": "05 Apr 2024, 15:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "5d27a55a-5731-4ef5-a3ad-d5b44251db0f",
-          "#text": "JP Saxe"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
-          }
-        ],
-        "mbid": "0398c9d8-c8db-4022-942a-dd1d414a402d",
-        "album": {
-          "mbid": "",
-          "#text": "Hey Stupid, I Love You - Single"
-        },
-        "name": "Hey Stupid, I Love You",
-        "url": "https://www.last.fm/music/JP+Saxe/_/Hey+Stupid,+I+Love+You",
-        "date": {
-          "uts": "1712329228",
-          "#text": "05 Apr 2024, 15:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Comfortable",
-        "url": "https://www.last.fm/music/Lauv/_/Comfortable",
-        "date": {
-          "uts": "1712329055",
-          "#text": "05 Apr 2024, 14:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "87",
       "page": "1",
       "perPage": "50",
-      "total": "4339"
+      "total": "4341"
     }
   }
 }
