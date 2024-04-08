@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "779d1126-e48c-43f2-8b51-005f3b116d7e",
+          "#text": "Kelsea Ballerini & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ecc393c3dfaf94f4fdcf38c789134272.jpg"
+          }
+        ],
+        "mbid": "5b10d0fa-99e8-4dc5-bdf3-cff3e03051dc",
+        "album": {
+          "mbid": "",
+          "#text": "I Quit Drinking - Single"
+        },
+        "name": "I Quit Drinking",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Kelsea+Ballerini+&+LANY/_/I+Quit+Drinking"
+      },
+      {
+        "artist": {
           "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
           "#text": "Khalid"
         },
