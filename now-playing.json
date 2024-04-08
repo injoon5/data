@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Love of My Life",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life"
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Love of My Life",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
+        "date": {
+          "uts": "1712569314",
+          "#text": "08 Apr 2024, 09:41"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -31,10 +102,11 @@
           "#text": "The Band CAMINO"
         },
         "name": "Who Do You Think You Are?",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F"
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F",
+        "date": {
+          "uts": "1712569115",
+          "#text": "08 Apr 2024, 09:38"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712332992",
           "#text": "05 Apr 2024, 16:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "summer, - EP"
-        },
-        "name": "comethru",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
-        "date": {
-          "uts": "1712332817",
-          "#text": "05 Apr 2024, 16:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Love of My Life",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
-        "date": {
-          "uts": "1712332631",
-          "#text": "05 Apr 2024, 15:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4356"
+      "total": "4358"
     }
   }
 }
