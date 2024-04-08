@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
           }
         ],
-        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
         "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
+          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
+          "#text": "- (Deluxe)"
         },
-        "name": "Love of My Life",
+        "name": "Eyes Closed",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed"
+      },
+      {
+        "artist": {
+          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
+          "#text": "Allure"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          }
+        ],
+        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
+        "album": {
+          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
+          "#text": "Reunion"
+        },
+        "name": "From Paris With Love",
+        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
+        "date": {
+          "uts": "1712569630",
+          "#text": "08 Apr 2024, 09:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "There\u2019s a First Time for Everything",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
+        "date": {
+          "uts": "1712569480",
+          "#text": "08 Apr 2024, 09:44"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712333367",
           "#text": "05 Apr 2024, 16:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          }
-        ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
-        "album": {
-          "mbid": "",
-          "#text": "I Like Me Better - Single"
-        },
-        "name": "I Like Me Better",
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
-        "date": {
-          "uts": "1712333173",
-          "#text": "05 Apr 2024, 16:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
-        "date": {
-          "uts": "1712332992",
-          "#text": "05 Apr 2024, 16:03"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4358"
+      "total": "4360"
     }
   }
 }
