@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+          "#text": "Paul Young"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
+          }
+        ],
+        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "album": {
+          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
+          "#text": "The Secret Of Association"
+        },
+        "name": "Every Time You Go Away",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away"
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "a-ha"
         },
@@ -31,10 +66,11 @@
           "#text": "Hunting High And Low (Deluxe Edition)"
         },
         "name": "Take On Me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me"
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
+        "date": {
+          "uts": "1712937211",
+          "#text": "12 Apr 2024, 15:53"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1712927579",
           "#text": "12 Apr 2024, 13:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Castle on the Hill",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
-        "date": {
-          "uts": "1712927316",
-          "#text": "12 Apr 2024, 13:08"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4436"
+      "total": "4437"
     }
   }
 }
