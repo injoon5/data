@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f77479adf0864e8f813758c71896ffda.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "idle - EP"
+        },
+        "name": "Talk Is Overrated (feat. blackbear)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Talk+Is+Overrated+(feat.+blackbear)"
+      },
+      {
+        "artist": {
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "summer, - EP"
+        },
+        "name": "comethru",
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
+        "date": {
+          "uts": "1712932721",
+          "#text": "12 Apr 2024, 14:38"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +102,11 @@
           "#text": "Purpose (Deluxe)"
         },
         "name": "Love Yourself",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
+        "date": {
+          "uts": "1712932513",
+          "#text": "12 Apr 2024, 14:35"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712912820",
           "#text": "12 Apr 2024, 09:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "Stranger",
-        "url": "https://www.last.fm/music/Lauv/_/Stranger",
-        "date": {
-          "uts": "1712570315",
-          "#text": "08 Apr 2024, 09:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          }
-        ],
-        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
-        "album": {
-          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
-          "#text": "Nicotine"
-        },
-        "name": "Falling",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
-        "date": {
-          "uts": "1712570152",
-          "#text": "08 Apr 2024, 09:55"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4412"
+      "total": "4414"
     }
   }
 }
