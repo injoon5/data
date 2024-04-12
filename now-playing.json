@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
           }
         ],
-        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
         "album": {
-          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
-          "#text": "Last Birthday"
+          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
+          "#text": "- (Deluxe)"
         },
-        "name": "Like 1999",
+        "name": "Eyes Closed",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Valley/_/Like+1999"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed"
+      },
+      {
+        "artist": {
+          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
+          "#text": "Sam Fischer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
+        "album": {
+          "mbid": "",
+          "#text": "This City - Single"
+        },
+        "name": "This City",
+        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
+        "date": {
+          "uts": "1712929763",
+          "#text": "12 Apr 2024, 13:49"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1712377141",
           "#text": "06 Apr 2024, 04:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          }
-        ],
-        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
-        "album": {
-          "mbid": "",
-          "#text": "something special (hi) - Single"
-        },
-        "name": "something special",
-        "url": "https://www.last.fm/music/Joan/_/something+special",
-        "date": {
-          "uts": "1712376933",
-          "#text": "06 Apr 2024, 04:15"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4398"
+      "total": "4399"
     }
   }
 }
