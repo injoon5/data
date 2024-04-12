@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+          "#text": "Sam Smith"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
+          }
+        ],
+        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
+        "album": {
+          "mbid": "",
+          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
+        },
+        "name": "I'm Not the Only One",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One"
+      },
+      {
+        "artist": {
+          "mbid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
+          "#text": "Tom Grennan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "ffb9fe24-e726-44e3-9db9-b8820932343f",
+        "album": {
+          "mbid": "",
+          "#text": "All These Nights - Single"
+        },
+        "name": "All These Nights",
+        "url": "https://www.last.fm/music/Tom+Grennan/_/All+These+Nights",
+        "date": {
+          "uts": "1712942414",
+          "#text": "12 Apr 2024, 17:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          }
+        ],
+        "mbid": "e1a8083b-0d37-4e0e-bfdc-1899efd9ca7d",
+        "album": {
+          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
+          "#text": "Dawn FM"
+        },
+        "name": "Less Than Zero",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Less+Than+Zero",
+        "date": {
+          "uts": "1712942230",
+          "#text": "12 Apr 2024, 17:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Rainbow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+          "#text": "Down to Earth"
+        },
+        "name": "Since You Been Gone",
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
+        "date": {
+          "uts": "1712942025",
+          "#text": "12 Apr 2024, 17:13"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "love + everything else"
+        },
+        "name": "if we never met",
+        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
+        "date": {
+          "uts": "1712941853",
+          "#text": "12 Apr 2024, 17:10"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
           "#text": "Fiji Blue"
         },
@@ -31,10 +210,11 @@
           "#text": "Waves - Single"
         },
         "name": "Waves",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves"
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
+        "date": {
+          "uts": "1712941701",
+          "#text": "12 Apr 2024, 17:08"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1712932513",
           "#text": "12 Apr 2024, 14:35"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
-          "#text": "Richard Marx"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
-          "#text": "Repeat Offender"
-        },
-        "name": "Right Here Waiting",
-        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
-        "date": {
-          "uts": "1712932264",
-          "#text": "12 Apr 2024, 14:31"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1712932018",
-          "#text": "12 Apr 2024, 14:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          }
-        ],
-        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
-        "album": {
-          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
-          "#text": "Nicotine"
-        },
-        "name": "Falling",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
-        "date": {
-          "uts": "1712931831",
-          "#text": "12 Apr 2024, 14:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          }
-        ],
-        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
-        "album": {
-          "mbid": "",
-          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
-        },
-        "name": "Off My Face",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
-        "date": {
-          "uts": "1712931670",
-          "#text": "12 Apr 2024, 14:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
-          }
-        ],
-        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
-        "album": {
-          "mbid": "",
-          "#text": "Light Switch - Single"
-        },
-        "name": "Light Switch",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
-        "date": {
-          "uts": "1712931498",
-          "#text": "12 Apr 2024, 14:18"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4457"
+      "total": "4462"
     }
   }
 }
