@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Stranger"
+      },
+      {
+        "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          }
+        ],
+        "mbid": "19bad7bc-88fd-419c-9bb4-6665f2dfb2d2",
+        "album": {
+          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
+          "#text": "The Band CAMINO"
+        },
+        "name": "Roses",
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses",
+        "date": {
+          "uts": "1712935228",
+          "#text": "12 Apr 2024, 15:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          }
+        ],
+        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
+        "album": {
+          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
+          "#text": "tryhard"
+        },
+        "name": "See Through",
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
+        "date": {
+          "uts": "1712935046",
+          "#text": "12 Apr 2024, 15:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
+        },
+        "name": "Loving You Girl (feat. Hkeem)",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
+        "date": {
+          "uts": "1712934869",
+          "#text": "12 Apr 2024, 15:14"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +174,11 @@
           "#text": "gg bb xx (deluxe)"
         },
         "name": "dna",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/dna"
+        "url": "https://www.last.fm/music/Lany/_/dna",
+        "date": {
+          "uts": "1712934694",
+          "#text": "12 Apr 2024, 15:11"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1712925313",
           "#text": "12 Apr 2024, 12:35"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "There\u2019s a First Time for Everything",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
-        "date": {
-          "uts": "1712925142",
-          "#text": "12 Apr 2024, 12:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Charlie Be Quiet!",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
-        "date": {
-          "uts": "1712925010",
-          "#text": "12 Apr 2024, 12:30"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "That's Hilarious",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
-        "date": {
-          "uts": "1712924872",
-          "#text": "12 Apr 2024, 12:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1712924696",
-          "#text": "12 Apr 2024, 12:24"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4423"
+      "total": "4427"
     }
   }
 }
