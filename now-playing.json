@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Oasis"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "d40d7b70-570f-4494-a51a-4aa389f45e70",
         "album": {
           "mbid": "",
-          "#text": "Supersonic - Single"
+          "#text": "Celestial - Single"
         },
-        "name": "Supersonic",
+        "name": "Celestial",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Oasis/_/Supersonic"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial"
+      },
+      {
+        "artist": {
+          "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+          "#text": "Taylor Swift"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          }
+        ],
+        "mbid": "1a722d7d-27e8-492c-b576-9de450eb8a61",
+        "album": {
+          "mbid": "091ad434-48f7-4027-b3d5-939606f52f5c",
+          "#text": "Lover"
+        },
+        "name": "Cruel Summer",
+        "url": "https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer",
+        "date": {
+          "uts": "1712926315",
+          "#text": "12 Apr 2024, 12:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+          "#text": "Ellie Goulding"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
+          }
+        ],
+        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
+        "album": {
+          "mbid": "",
+          "#text": "Delirium (Deluxe)"
+        },
+        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)",
+        "date": {
+          "uts": "1712926097",
+          "#text": "12 Apr 2024, 12:48"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712373930",
           "#text": "06 Apr 2024, 03:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1712373746",
-          "#text": "06 Apr 2024, 03:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "7dcbc1be-4257-4d64-b915-045dfb23ae88",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Photograph",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
-        "date": {
-          "uts": "1712373514",
-          "#text": "06 Apr 2024, 03:18"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4380"
+      "total": "4382"
     }
   }
 }
