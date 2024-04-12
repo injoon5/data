@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Like Strangers Do - Single"
+        },
+        "name": "Like Strangers Do",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do"
+      },
+      {
+        "artist": {
+          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
+          "#text": "David Alexander"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Dancing Alone - Single"
+        },
+        "name": "Dancing Alone",
+        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone",
+        "date": {
+          "uts": "1712933778",
+          "#text": "12 Apr 2024, 14:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
           "#text": "Fiji Blue"
         },
@@ -31,10 +102,11 @@
           "#text": "Reasons You Should Care - EP"
         },
         "name": "Outside",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside"
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
+        "date": {
+          "uts": "1712933592",
+          "#text": "12 Apr 2024, 14:53"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712923835",
           "#text": "12 Apr 2024, 12:10"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sam Smith & Normani"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          }
-        ],
-        "mbid": "5e3652ca-1e7f-4a5e-ad7a-d825432c99e2",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing with a Stranger - Single"
-        },
-        "name": "Dancing With A Stranger",
-        "url": "https://www.last.fm/music/Sam+Smith+&+Normani/_/Dancing+With+A+Stranger",
-        "date": {
-          "uts": "1712923653",
-          "#text": "12 Apr 2024, 12:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de33650984273a54786a0fe33fefb4.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "If I Can't Have You - Single"
-        },
-        "name": "If I Can't Have You",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/If+I+Can%27t+Have+You",
-        "date": {
-          "uts": "1712923468",
-          "#text": "12 Apr 2024, 12:04"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4417"
+      "total": "4419"
     }
   }
 }
