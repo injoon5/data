@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          }
+        ],
+        "mbid": "f7b2cdfb-d7ed-4f8f-82bd-06b47e95bce9",
+        "album": {
+          "mbid": "",
+          "#text": "Twenty Something - Single"
+        },
+        "name": "Twenty Something",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Nightly/_/Twenty+Something"
+      },
+      {
+        "artist": {
+          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
+          "#text": "Glass Animals"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
+          "#text": "Dreamland"
+        },
+        "name": "Heat Waves",
+        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
+        "date": {
+          "uts": "1712938946",
+          "#text": "12 Apr 2024, 16:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
+          }
+        ],
+        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
+        "album": {
+          "mbid": "",
+          "#text": "Medicine - Single"
+        },
+        "name": "Medicine",
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
+        "date": {
+          "uts": "1712938723",
+          "#text": "12 Apr 2024, 16:18"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "138d7520-9b70-49c8-b6e5-df41b489fc5d",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sims",
+        "url": "https://www.last.fm/music/Lauv/_/Sims",
+        "date": {
+          "uts": "1712938534",
+          "#text": "12 Apr 2024, 16:15"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +174,11 @@
           "#text": "All 4 Nothing"
         },
         "name": "Kids Are Born Stars",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars"
+        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars",
+        "date": {
+          "uts": "1712938363",
+          "#text": "12 Apr 2024, 16:12"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1712929206",
           "#text": "12 Apr 2024, 13:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "53969964-673a-4407-9396-3087be9245f6",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "As It Was",
-        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
-        "date": {
-          "uts": "1712929015",
-          "#text": "12 Apr 2024, 13:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
-          "#text": "Starship"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e62bbd0522a80cb1cdcd929904f0ef73.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "572b6b42-3494-438d-a3d9-0fbf39ebded8",
-          "#text": "Knee Deep in the Hoopla"
-        },
-        "name": "Sara",
-        "url": "https://www.last.fm/music/Starship/_/Sara",
-        "date": {
-          "uts": "1712928785",
-          "#text": "12 Apr 2024, 13:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Daylight",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
-        "date": {
-          "uts": "1712928558",
-          "#text": "12 Apr 2024, 13:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Love At First Fight",
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
-        "date": {
-          "uts": "1712928378",
-          "#text": "12 Apr 2024, 13:26"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4441"
+      "total": "4445"
     }
   }
 }
