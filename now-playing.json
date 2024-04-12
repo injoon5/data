@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "#text": "Bruno Mars"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92262af4400a20ae87c278e98d9b41dc.jpg"
+          }
+        ],
+        "mbid": "0070ec3b-2f03-46e6-83d5-ae7c5ad11d6e",
+        "album": {
+          "mbid": "",
+          "#text": "Doo-Wops & Hooligans (Deluxe)"
+        },
+        "name": "Talking to the Moon",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Talking+to+the+Moon"
+      },
+      {
+        "artist": {
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "#text": "Bruno Mars"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92262af4400a20ae87c278e98d9b41dc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92262af4400a20ae87c278e98d9b41dc.jpg"
+          }
+        ],
+        "mbid": "0070ec3b-2f03-46e6-83d5-ae7c5ad11d6e",
+        "album": {
+          "mbid": "",
+          "#text": "Doo-Wops & Hooligans (Deluxe)"
+        },
+        "name": "Talking to the Moon",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Talking+to+the+Moon",
+        "date": {
+          "uts": "1712930925",
+          "#text": "12 Apr 2024, 14:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
+        "album": {
+          "mbid": "",
+          "#text": "Paper Plane - Single"
+        },
+        "name": "Paper Plane",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
+        "date": {
+          "uts": "1712930752",
+          "#text": "12 Apr 2024, 14:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
+          "#text": "Sam Ryder"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          }
+        ],
+        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
+        "album": {
+          "mbid": "",
+          "#text": "More - Single"
+        },
+        "name": "More",
+        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
+        "date": {
+          "uts": "1712930572",
+          "#text": "12 Apr 2024, 14:02"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +174,11 @@
           "#text": "A LOT - Single"
         },
         "name": "A LOT",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/A+LOT"
+        "url": "https://www.last.fm/music/John+K/_/A+LOT",
+        "date": {
+          "uts": "1712930366",
+          "#text": "12 Apr 2024, 13:59"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1712568898",
           "#text": "08 Apr 2024, 09:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Lonely Eyes",
-        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
-        "date": {
-          "uts": "1712568687",
-          "#text": "08 Apr 2024, 09:31"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "fca4c781-a0b1-4a9d-bc94-e4d325bc57e6",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Circles",
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
-        "date": {
-          "uts": "1712568480",
-          "#text": "08 Apr 2024, 09:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Love Yourself",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
-        "date": {
-          "uts": "1712568255",
-          "#text": "08 Apr 2024, 09:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          }
-        ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
-        "album": {
-          "mbid": "",
-          "#text": "I Like Me Better - Single"
-        },
-        "name": "I Like Me Better",
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
-        "date": {
-          "uts": "1712568039",
-          "#text": "08 Apr 2024, 09:20"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4401"
+      "total": "4405"
     }
   }
 }
