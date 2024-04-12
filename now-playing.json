@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-          "#text": "BTS"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b22494fbc419657a12f478e95cf9db9b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b22494fbc419657a12f478e95cf9db9b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b22494fbc419657a12f478e95cf9db9b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22494fbc419657a12f478e95cf9db9b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
         "album": {
-          "mbid": "",
-          "#text": "Make It Right (feat. Lauv) - Single"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Make It Right (feat. Lauv)",
+        "name": "Feelings",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/BTS/_/Make+It+Right+(feat.+Lauv)"
+        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1712936787",
+          "#text": "12 Apr 2024, 15:46"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Invisible Things",
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1712936594",
+          "#text": "12 Apr 2024, 15:43"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712927099",
           "#text": "12 Apr 2024, 13:04"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1712926896",
-          "#text": "12 Apr 2024, 13:01"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
-        },
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
-        "date": {
-          "uts": "1712926696",
-          "#text": "12 Apr 2024, 12:58"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4433"
+      "total": "4435"
     }
   }
 }
