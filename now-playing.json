@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Wish You Loved Me - Single"
+        },
+        "name": "i wish you loved me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me"
+      },
+      {
+        "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Wish You Loved Me - Single"
+        },
+        "name": "i wish you loved me",
+        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
+        "date": {
+          "uts": "1712928181",
+          "#text": "12 Apr 2024, 13:23"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
+          }
+        ],
+        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
+        "album": {
+          "mbid": "",
+          "#text": "It Takes Two - Single"
+        },
+        "name": "It Takes Two",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
+        "date": {
+          "uts": "1712928001",
+          "#text": "12 Apr 2024, 13:20"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +138,11 @@
           "#text": "\u00f7 (Deluxe)"
         },
         "name": "Happier",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier",
+        "date": {
+          "uts": "1712927814",
+          "#text": "12 Apr 2024, 13:16"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1712375550",
           "#text": "06 Apr 2024, 03:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          }
-        ],
-        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
-        "album": {
-          "mbid": "",
-          "#text": "i'm so tired... - Single"
-        },
-        "name": "i'm so tired...",
-        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
-        "date": {
-          "uts": "1712375383",
-          "#text": "06 Apr 2024, 03:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          }
-        ],
-        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
-        "album": {
-          "mbid": "",
-          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
-        },
-        "name": "Off My Face",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
-        "date": {
-          "uts": "1712375220",
-          "#text": "06 Apr 2024, 03:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
-          "#text": "David Alexander"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing Alone - Single"
-        },
-        "name": "Dancing Alone",
-        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone",
-        "date": {
-          "uts": "1712375041",
-          "#text": "06 Apr 2024, 03:44"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4388"
+      "total": "4391"
     }
   }
 }
