@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Purpose (Deluxe)"
+        },
+        "name": "Love Yourself",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+      },
+      {
+        "artist": {
           "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
           "#text": "Richard Marx"
         },
@@ -31,10 +66,11 @@
           "#text": "Repeat Offender"
         },
         "name": "Right Here Waiting",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting"
+        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
+        "date": {
+          "uts": "1712932264",
+          "#text": "12 Apr 2024, 14:31"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1712570152",
           "#text": "08 Apr 2024, 09:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7b545a9d-0be7-4a32-90ff-154489117216",
-          "#text": "Joel Corry"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Head & Heart (feat. MNEK) - Single"
-        },
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://www.last.fm/music/Joel+Corry/_/Head+&+Heart+(feat.+MNEK)",
-        "date": {
-          "uts": "1712569990",
-          "#text": "08 Apr 2024, 09:53"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "89",
       "page": "1",
       "perPage": "50",
-      "total": "4411"
+      "total": "4412"
     }
   }
 }
