@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          }
+        ],
+        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
+        "album": {
+          "mbid": "",
+          "#text": "Strawberries & Cigarettes - Single"
+        },
+        "name": "Strawberries & Cigarettes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes"
+      },
+      {
+        "artist": {
+          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+          "#text": "Khalid"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
+          "#text": "Free Spirit"
+        },
+        "name": "Talk (feat. Disclosure)",
+        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
+        "date": {
+          "uts": "1712942839",
+          "#text": "12 Apr 2024, 17:27"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
           "#text": "Sam Smith"
         },
@@ -31,10 +102,11 @@
           "#text": "In the Lonely Hour (Drowning Shadows Edition)"
         },
         "name": "I'm Not the Only One",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One"
+        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
+        "date": {
+          "uts": "1712942610",
+          "#text": "12 Apr 2024, 17:23"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712932908",
           "#text": "12 Apr 2024, 14:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "summer, - EP"
-        },
-        "name": "comethru",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
-        "date": {
-          "uts": "1712932721",
-          "#text": "12 Apr 2024, 14:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Love Yourself",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
-        "date": {
-          "uts": "1712932513",
-          "#text": "12 Apr 2024, 14:35"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4462"
+      "total": "4464"
     }
   }
 }
