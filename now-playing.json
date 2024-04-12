@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          }
+        ],
+        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
+        "album": {
+          "mbid": "",
+          "#text": "Bad Habits - Single"
+        },
+        "name": "Bad Habits",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits"
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "date": {
+          "uts": "1712923039",
+          "#text": "12 Apr 2024, 11:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
           "#text": "Starship"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1712334550",
           "#text": "05 Apr 2024, 16:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
-          }
-        ],
-        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
-        "album": {
-          "mbid": "",
-          "#text": "Waves - Single"
-        },
-        "name": "Waves",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
-        "date": {
-          "uts": "1712334351",
-          "#text": "05 Apr 2024, 16:25"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "88",
       "page": "1",
       "perPage": "50",
-      "total": "4365"
+      "total": "4366"
     }
   }
 }
