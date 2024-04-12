@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1712940864",
+          "#text": "12 Apr 2024, 16:54"
+        }
+      },
+      {
+        "artist": {
           "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
           "#text": "Lady Gaga"
         },
@@ -10,31 +46,32 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           }
         ],
         "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
         "album": {
           "mbid": "",
-          "#text": "Top Gun: Maverick (Music from the Motion Picture)"
+          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
         },
         "name": "Hold My Hand",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand"
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
+        "date": {
+          "uts": "1712940603",
+          "#text": "12 Apr 2024, 16:50"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1712930925",
           "#text": "12 Apr 2024, 14:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
-        "album": {
-          "mbid": "",
-          "#text": "Paper Plane - Single"
-        },
-        "name": "Paper Plane",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
-        "date": {
-          "uts": "1712930752",
-          "#text": "12 Apr 2024, 14:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
-          "#text": "Sam Ryder"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          }
-        ],
-        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
-        "album": {
-          "mbid": "",
-          "#text": "More - Single"
-        },
-        "name": "More",
-        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
-        "date": {
-          "uts": "1712930572",
-          "#text": "12 Apr 2024, 14:02"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4452"
+      "total": "4454"
     }
   }
 }
