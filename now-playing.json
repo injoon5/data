@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "GROWING PAINS - Single"
+        },
+        "name": "Growing Pains",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains"
+      },
+      {
+        "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "GROWING PAINS - Single"
+        },
+        "name": "Growing Pains",
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains",
+        "date": {
+          "uts": "1712975155",
+          "#text": "13 Apr 2024, 02:25"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
           "#text": "Valley"
         },
@@ -31,10 +102,11 @@
           "#text": "sucks to see you doing better (extended)"
         },
         "name": "homebody",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Valley/_/homebody"
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1712974958",
+          "#text": "13 Apr 2024, 02:22"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712934129",
           "#text": "12 Apr 2024, 15:02"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Like Strangers Do - Single"
-        },
-        "name": "Like Strangers Do",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
-        "date": {
-          "uts": "1712933959",
-          "#text": "12 Apr 2024, 14:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
-          "#text": "David Alexander"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing Alone - Single"
-        },
-        "name": "Dancing Alone",
-        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone",
-        "date": {
-          "uts": "1712933778",
-          "#text": "12 Apr 2024, 14:56"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4468"
+      "total": "4470"
     }
   }
 }
