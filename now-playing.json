@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "The Weeknd & Ariana Grande"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419086d31cc73d879e0a179dcdd1f138.jpg"
+          }
+        ],
+        "mbid": "5c88a540-7f18-4ce7-b64f-29879a0d6452",
+        "album": {
+          "mbid": "",
+          "#text": "Save Your Tears (Remix) - Single"
+        },
+        "name": "Save Your Tears (Remix)",
+        "url": "https://www.last.fm/music/The+Weeknd+&+Ariana+Grande/_/Save+Your+Tears+(Remix)",
+        "date": {
+          "uts": "1713024513",
+          "#text": "13 Apr 2024, 16:08"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1712934694",
           "#text": "12 Apr 2024, 15:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "61da985b-0841-4e0a-8400-539b6e14e330",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Out Of My League",
-        "url": "https://www.last.fm/music/Lany/_/Out+Of+My+League",
-        "date": {
-          "uts": "1712934503",
-          "#text": "12 Apr 2024, 15:08"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4472"
+      "total": "4473"
     }
   }
 }
