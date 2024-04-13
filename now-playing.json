@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
-          "#text": "MAX & Ali Gatie"
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
           }
         ],
-        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
+        "mbid": "1dd3bee1-652b-4658-9d89-14dd762ab4a1",
         "album": {
-          "mbid": "",
-          "#text": "WHO HURT YOU? (Deluxe)"
+          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
+          "#text": "Dawn FM"
         },
-        "name": "Butterflies",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies"
+        "name": "Take My Breath",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Take+My+Breath",
+        "date": {
+          "uts": "1712978776",
+          "#text": "13 Apr 2024, 03:26"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1712934503",
           "#text": "12 Apr 2024, 15:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
-          "#text": "Hugo Helmig"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          }
-        ],
-        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
-        "album": {
-          "mbid": "",
-          "#text": "Champagne Problems - Single"
-        },
-        "name": "Champagne Problems",
-        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
-        "date": {
-          "uts": "1712934309",
-          "#text": "12 Apr 2024, 15:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4471"
+      "total": "4472"
     }
   }
 }
