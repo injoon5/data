@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
+          "#text": "MAX & Ali Gatie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
+        "album": {
+          "mbid": "",
+          "#text": "WHO HURT YOU? (Deluxe)"
+        },
+        "name": "Butterflies",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies"
+      },
+      {
+        "artist": {
+          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
+          "#text": "MAX & Ali Gatie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b185bb240b26000619afa912285064a0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b185bb240b26000619afa912285064a0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b185bb240b26000619afa912285064a0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b185bb240b26000619afa912285064a0.jpg"
+          }
+        ],
+        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
+        "album": {
+          "mbid": "",
+          "#text": "WHO HURT YOU? (Deluxe)"
+        },
+        "name": "Butterflies",
+        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies",
+        "date": {
+          "uts": "1712978510",
+          "#text": "13 Apr 2024, 03:21"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
           "#text": "AJ Mitchell"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1712934309",
           "#text": "12 Apr 2024, 15:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
-          "#text": "5 Seconds of Summer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          }
-        ],
-        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
-        "album": {
-          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
-          "#text": "CALM"
-        },
-        "name": "High",
-        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
-        "date": {
-          "uts": "1712934129",
-          "#text": "12 Apr 2024, 15:02"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4470"
+      "total": "4471"
     }
   }
 }
