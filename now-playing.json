@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
+        "date": {
+          "uts": "1713081553",
+          "#text": "14 Apr 2024, 07:59"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "The Weeknd & Ariana Grande"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1712934869",
           "#text": "12 Apr 2024, 15:14"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1712934694",
-          "#text": "12 Apr 2024, 15:11"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4473"
+      "total": "4474"
     }
   }
 }
