@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
+          }
+        ],
+        "mbid": "56b20928-9041-46ac-865c-acb9c4b24882",
+        "album": {
+          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
+          "#text": "This Room is White"
+        },
+        "name": "Swim",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Valley/_/Swim"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "5b2c2647-4fd9-4a91-a61c-0adc160954a5",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1713455440",
+          "#text": "18 Apr 2024, 15:50"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +102,11 @@
           "#text": "Justice (The Complete Edition)"
         },
         "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
+        "date": {
+          "uts": "1713455238",
+          "#text": "18 Apr 2024, 15:47"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713348802",
           "#text": "17 Apr 2024, 10:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          }
-        ],
-        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
-        "album": {
-          "mbid": "",
-          "#text": "something special (hi) - Single"
-        },
-        "name": "something special",
-        "url": "https://www.last.fm/music/Joan/_/something+special",
-        "date": {
-          "uts": "1713348641",
-          "#text": "17 Apr 2024, 10:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
-          }
-        ],
-        "mbid": "56b20928-9041-46ac-865c-acb9c4b24882",
-        "album": {
-          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
-          "#text": "This Room is White"
-        },
-        "name": "Swim",
-        "url": "https://www.last.fm/music/Valley/_/Swim",
-        "date": {
-          "uts": "1713348442",
-          "#text": "17 Apr 2024, 10:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4526"
+      "total": "4528"
     }
   }
 }
