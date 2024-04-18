@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
           }
         ],
-        "mbid": "264b7da6-ef65-46bd-a913-a15024aac013",
+        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
         "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
+          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
+          "#text": "gg bb xx (deluxe)"
         },
-        "name": "Happier",
+        "name": "dna",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier"
+        "url": "https://www.last.fm/music/Lany/_/dna"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
+          }
+        ],
+        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
+        "album": {
+          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
+          "#text": "gg bb xx (deluxe)"
+        },
+        "name": "dna",
+        "url": "https://www.last.fm/music/Lany/_/dna",
+        "date": {
+          "uts": "1713451646",
+          "#text": "18 Apr 2024, 14:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
+        },
+        "name": "Hold On",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On",
+        "date": {
+          "uts": "1713451470",
+          "#text": "18 Apr 2024, 14:44"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712942230",
           "#text": "12 Apr 2024, 17:17"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Rainbow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
-          "#text": "Down to Earth"
-        },
-        "name": "Since You Been Gone",
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
-        "date": {
-          "uts": "1712942025",
-          "#text": "12 Apr 2024, 17:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "if we never met",
-        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
-        "date": {
-          "uts": "1712941853",
-          "#text": "12 Apr 2024, 17:10"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4508"
+      "total": "4510"
     }
   }
 }
