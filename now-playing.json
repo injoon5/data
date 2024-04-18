@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "1dd3bee1-652b-4658-9d89-14dd762ab4a1",
+        "mbid": "1fdc1560-aa29-4a9a-8d1e-993065b0b419",
         "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Take My Breath",
+        "name": "Sweatpants",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Take+My+Breath"
+        "url": "https://www.last.fm/music/Lauv/_/Sweatpants"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "1fdc1560-aa29-4a9a-8d1e-993065b0b419",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sweatpants",
+        "url": "https://www.last.fm/music/Lauv/_/Sweatpants",
+        "date": {
+          "uts": "1713454841",
+          "#text": "18 Apr 2024, 15:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
+          }
+        ],
+        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
+        "album": {
+          "mbid": "",
+          "#text": "Light Switch - Single"
+        },
+        "name": "Light Switch",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
+        "date": {
+          "uts": "1713454650",
+          "#text": "18 Apr 2024, 15:37"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713348217",
           "#text": "17 Apr 2024, 10:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1abaa483a3e4f9193b74525fd2d563d6.jpg"
-          }
-        ],
-        "mbid": "0ba86acb-1399-485a-a28b-6a95494c96bc",
-        "album": {
-          "mbid": "",
-          "#text": "Love Somebody Like You - Single"
-        },
-        "name": "love somebody like you",
-        "url": "https://www.last.fm/music/Joan/_/love+somebody+like+you",
-        "date": {
-          "uts": "1713081809",
-          "#text": "14 Apr 2024, 08:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Thinking Out Loud",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
-        "date": {
-          "uts": "1713081553",
-          "#text": "14 Apr 2024, 07:59"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4523"
+      "total": "4525"
     }
   }
 }
