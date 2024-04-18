@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
+        "album": {
+          "mbid": "",
+          "#text": "Paper Plane - Single"
+        },
+        "name": "Paper Plane",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane"
+      },
+      {
+        "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          }
+        ],
+        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
+        "album": {
+          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
+          "#text": "tryhard"
+        },
+        "name": "See Through",
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
+        "date": {
+          "uts": "1713426393",
+          "#text": "18 Apr 2024, 07:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
           "#text": "Harry Styles"
         },
@@ -31,10 +102,11 @@
           "#text": "Harry's House"
         },
         "name": "Love of My Life",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life"
+        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
+        "date": {
+          "uts": "1713426207",
+          "#text": "18 Apr 2024, 07:43"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712937954",
           "#text": "12 Apr 2024, 16:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Love of My Life",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
-        "date": {
-          "uts": "1712937748",
-          "#text": "12 Apr 2024, 16:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret Of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1712937490",
-          "#text": "12 Apr 2024, 15:58"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4487"
+      "total": "4489"
     }
   }
 }
