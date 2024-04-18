@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+          "#text": "5 Seconds of Summer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          }
+        ],
+        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
+        "album": {
+          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
+          "#text": "CALM"
+        },
+        "name": "High",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "082630d2-615a-4e68-aab6-23488b9055a7",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "I Don\u2019t Think That I Like Her",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her",
+        "date": {
+          "uts": "1713453620",
+          "#text": "18 Apr 2024, 15:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Be Alright // U Sometimes - Single"
+        },
+        "name": "U Sometimes",
+        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
+        "date": {
+          "uts": "1713453444",
+          "#text": "18 Apr 2024, 15:17"
+        }
+      },
+      {
+        "artist": {
           "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
           "#text": "Glass Animals"
         },
@@ -31,10 +138,11 @@
           "#text": "Dreamland"
         },
         "name": "Heat Waves",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves"
+        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
+        "date": {
+          "uts": "1713453238",
+          "#text": "18 Apr 2024, 15:13"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1712978510",
           "#text": "13 Apr 2024, 03:21"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "GROWING PAINS - Single"
-        },
-        "name": "Growing Pains",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains",
-        "date": {
-          "uts": "1712975155",
-          "#text": "13 Apr 2024, 02:25"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
-          }
-        ],
-        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
-        "album": {
-          "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
-        },
-        "name": "homebody",
-        "url": "https://www.last.fm/music/Valley/_/homebody",
-        "date": {
-          "uts": "1712974958",
-          "#text": "13 Apr 2024, 02:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1712974778",
-          "#text": "13 Apr 2024, 02:19"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4517"
+      "total": "4520"
     }
   }
 }
