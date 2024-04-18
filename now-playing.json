@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "date": {
+          "uts": "1713455883",
+          "#text": "18 Apr 2024, 15:58"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
           "#text": "Valley"
         },
@@ -31,10 +102,11 @@
           "#text": "This Room is White"
         },
         "name": "Swim",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Valley/_/Swim"
+        "url": "https://www.last.fm/music/Valley/_/Swim",
+        "date": {
+          "uts": "1713455663",
+          "#text": "18 Apr 2024, 15:54"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713349177",
           "#text": "17 Apr 2024, 10:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7b545a9d-0be7-4a32-90ff-154489117216",
-          "#text": "Joel Corry"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Head & Heart (feat. MNEK) - Single"
-        },
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://www.last.fm/music/Joel+Corry/_/Head+&+Heart+(feat.+MNEK)",
-        "date": {
-          "uts": "1713348968",
-          "#text": "17 Apr 2024, 10:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
-        "date": {
-          "uts": "1713348802",
-          "#text": "17 Apr 2024, 10:13"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4528"
+      "total": "4530"
     }
   }
 }
