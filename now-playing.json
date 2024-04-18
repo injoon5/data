@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Lonely Eyes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Lonely Eyes",
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
+        "date": {
+          "uts": "1713457699",
+          "#text": "18 Apr 2024, 16:28"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "7dcbc1be-4257-4d64-b915-045dfb23ae88",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Photograph",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
+        "date": {
+          "uts": "1713457473",
+          "#text": "18 Apr 2024, 16:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jung Kook & Latto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          }
+        ],
+        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+        "album": {
+          "mbid": "",
+          "#text": "Seven - Single"
+        },
+        "name": "Seven",
+        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
+        "date": {
+          "uts": "1713457248",
+          "#text": "18 Apr 2024, 16:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1713457074",
+          "#text": "18 Apr 2024, 16:17"
+        }
+      },
+      {
+        "artist": {
           "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
           "#text": "Lady Gaga"
         },
@@ -10,31 +189,32 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
           }
         ],
         "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
         "album": {
           "mbid": "",
-          "#text": "Top Gun: Maverick (Music from the Motion Picture)"
+          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
         },
         "name": "Hold My Hand",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand"
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
+        "date": {
+          "uts": "1713456880",
+          "#text": "18 Apr 2024, 16:14"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1713426393",
           "#text": "18 Apr 2024, 07:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Love of My Life",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
-        "date": {
-          "uts": "1713426207",
-          "#text": "18 Apr 2024, 07:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Like Strangers Do - Single"
-        },
-        "name": "Like Strangers Do",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
-        "date": {
-          "uts": "1713426031",
-          "#text": "18 Apr 2024, 07:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
-          "#text": "Toto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
-          }
-        ],
-        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
-        "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
-        },
-        "name": "Africa",
-        "url": "https://www.last.fm/music/Toto/_/Africa",
-        "date": {
-          "uts": "1713424107",
-          "#text": "18 Apr 2024, 07:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
-          "#text": "Toto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
-          }
-        ],
-        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
-        "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
-        },
-        "name": "Africa",
-        "url": "https://www.last.fm/music/Toto/_/Africa",
-        "date": {
-          "uts": "1713421378",
-          "#text": "18 Apr 2024, 06:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
-          }
-        ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
-        },
-        "name": "I'm Not the Only One",
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
-        "date": {
-          "uts": "1713349908",
-          "#text": "17 Apr 2024, 10:31"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4533"
+      "total": "4538"
     }
   }
 }
