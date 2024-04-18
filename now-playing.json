@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
-          "#text": "The Ivy"
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
         "album": {
           "mbid": "",
-          "#text": "Have You Ever Been in Love - Single"
+          "#text": "something special (hi) - Single"
         },
-        "name": "Have You Ever Been in Love",
+        "name": "something special",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love"
+        "url": "https://www.last.fm/music/Joan/_/something+special"
+      },
+      {
+        "artist": {
+          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+          "#text": "OneRepublic"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          }
+        ],
+        "mbid": "d3dc5001-3342-4749-ba04-0c820c5241cc",
+        "album": {
+          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
+          "#text": "Waking Up"
+        },
+        "name": "Secrets",
+        "url": "https://www.last.fm/music/OneRepublic/_/Secrets",
+        "date": {
+          "uts": "1713450484",
+          "#text": "18 Apr 2024, 14:28"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1712941104",
           "#text": "12 Apr 2024, 16:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
-          "#text": "Toto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
-          }
-        ],
-        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
-        "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
-        },
-        "name": "Africa",
-        "url": "https://www.last.fm/music/Toto/_/Africa",
-        "date": {
-          "uts": "1712940864",
-          "#text": "12 Apr 2024, 16:54"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4503"
+      "total": "4504"
     }
   }
 }
