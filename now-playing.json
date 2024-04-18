@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "264b7da6-ef65-46bd-a913-a15024aac013",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Happier",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "264b7da6-ef65-46bd-a913-a15024aac013",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Happier",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier",
+        "date": {
+          "uts": "1713451280",
+          "#text": "18 Apr 2024, 14:41"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Bad Habits - Single"
         },
         "name": "Bad Habits",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
+        "date": {
+          "uts": "1713451061",
+          "#text": "18 Apr 2024, 14:37"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1712941853",
           "#text": "12 Apr 2024, 17:10"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
-          }
-        ],
-        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
-        "album": {
-          "mbid": "",
-          "#text": "Waves - Single"
-        },
-        "name": "Waves",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
-        "date": {
-          "uts": "1712941701",
-          "#text": "12 Apr 2024, 17:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
-          "#text": "The Police"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
-          "#text": "The Police"
-        },
-        "name": "Every Breath You Take",
-        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
-        "date": {
-          "uts": "1712941509",
-          "#text": "12 Apr 2024, 17:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4506"
+      "total": "4508"
     }
   }
 }
