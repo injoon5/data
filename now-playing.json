@@ -33,6 +33,42 @@
         "name": "Africa",
         "url": "https://www.last.fm/music/Toto/_/Africa",
         "date": {
+          "uts": "1713424107",
+          "#text": "18 Apr 2024, 07:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
           "uts": "1713421378",
           "#text": "18 Apr 2024, 06:22"
         }
@@ -1764,42 +1800,6 @@
           "uts": "1712937211",
           "#text": "12 Apr 2024, 15:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "680f16ac-d179-42f2-960b-cb96f28fabda",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Never Not",
-        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
-        "date": {
-          "uts": "1712936988",
-          "#text": "12 Apr 2024, 15:49"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "90",
       "page": "1",
       "perPage": "50",
-      "total": "4485"
+      "total": "4486"
     }
   }
 }
