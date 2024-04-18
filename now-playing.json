@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
           }
         ],
-        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
+        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
         "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
+          "mbid": "",
+          "#text": "Reasons You Should Care - EP"
         },
-        "name": "Lonely Eyes",
+        "name": "Outside",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes"
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside"
+      },
+      {
+        "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32e03602845c3a59f8f8b316a84d4fcd.jpg"
+          }
+        ],
+        "mbid": "f7b2cdfb-d7ed-4f8f-82bd-06b47e95bce9",
+        "album": {
+          "mbid": "",
+          "#text": "Twenty Something - Single"
+        },
+        "name": "Twenty Something",
+        "url": "https://www.last.fm/music/Nightly/_/Twenty+Something",
+        "date": {
+          "uts": "1713458035",
+          "#text": "18 Apr 2024, 16:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
+          "#text": "Hugo Helmig"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          }
+        ],
+        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
+        "album": {
+          "mbid": "",
+          "#text": "Champagne Problems - Single"
+        },
+        "name": "Champagne Problems",
+        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
+        "date": {
+          "uts": "1713457887",
+          "#text": "18 Apr 2024, 16:31"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713426856",
           "#text": "18 Apr 2024, 07:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
-        "album": {
-          "mbid": "",
-          "#text": "Paper Plane - Single"
-        },
-        "name": "Paper Plane",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
-        "date": {
-          "uts": "1713426694",
-          "#text": "18 Apr 2024, 07:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          }
-        ],
-        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
-        "album": {
-          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
-          "#text": "tryhard"
-        },
-        "name": "See Through",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
-        "date": {
-          "uts": "1713426393",
-          "#text": "18 Apr 2024, 07:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "91",
       "page": "1",
       "perPage": "50",
-      "total": "4538"
+      "total": "4540"
     }
   }
 }
