@@ -3,6 +3,221 @@
     "track": [
       {
         "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "GROWING PAINS - Single"
+        },
+        "name": "Growing Pains",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          }
+        ],
+        "mbid": "d40d7b70-570f-4494-a51a-4aa389f45e70",
+        "album": {
+          "mbid": "",
+          "#text": "Celestial - Single"
+        },
+        "name": "Celestial",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
+        "date": {
+          "uts": "1713528773",
+          "#text": "19 Apr 2024, 12:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
+          }
+        ],
+        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
+        "album": {
+          "mbid": "",
+          "#text": "Waves - Single"
+        },
+        "name": "Waves",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
+        "date": {
+          "uts": "1713528601",
+          "#text": "19 Apr 2024, 12:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
+        "date": {
+          "uts": "1713528443",
+          "#text": "19 Apr 2024, 12:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1713528254",
+          "#text": "19 Apr 2024, 12:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+          "#text": "Taylor Swift"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81fbd21feee8ac0eeea93cdc118745bb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81fbd21feee8ac0eeea93cdc118745bb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81fbd21feee8ac0eeea93cdc118745bb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81fbd21feee8ac0eeea93cdc118745bb.jpg"
+          }
+        ],
+        "mbid": "74fb3457-7db6-486d-be0b-af896a3925d9",
+        "album": {
+          "mbid": "3caf3d66-5b6c-4e0d-856a-af7f294ea0ff",
+          "#text": "THE TORTURED POETS DEPARTMENT"
+        },
+        "name": "The Tortured Poets Department",
+        "url": "https://www.last.fm/music/Taylor+Swift/_/The+Tortured+Poets+Department",
+        "date": {
+          "uts": "1713528011",
+          "#text": "19 Apr 2024, 12:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
           "#text": "Troye Sivan"
         },
@@ -1620,186 +1835,6 @@
           "uts": "1713451280",
           "#text": "18 Apr 2024, 14:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          }
-        ],
-        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
-        "album": {
-          "mbid": "",
-          "#text": "Bad Habits - Single"
-        },
-        "name": "Bad Habits",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
-        "date": {
-          "uts": "1713451061",
-          "#text": "18 Apr 2024, 14:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Love At First Fight",
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
-        "date": {
-          "uts": "1713450850",
-          "#text": "18 Apr 2024, 14:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          }
-        ],
-        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
-        "album": {
-          "mbid": "",
-          "#text": "something special (hi) - Single"
-        },
-        "name": "something special",
-        "url": "https://www.last.fm/music/Joan/_/something+special",
-        "date": {
-          "uts": "1713450674",
-          "#text": "18 Apr 2024, 14:31"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          }
-        ],
-        "mbid": "d3dc5001-3342-4749-ba04-0c820c5241cc",
-        "album": {
-          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
-          "#text": "Waking Up"
-        },
-        "name": "Secrets",
-        "url": "https://www.last.fm/music/OneRepublic/_/Secrets",
-        "date": {
-          "uts": "1713450484",
-          "#text": "18 Apr 2024, 14:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
-          "#text": "The Ivy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Have You Ever Been in Love - Single"
-        },
-        "name": "Have You Ever Been in Love",
-        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love",
-        "date": {
-          "uts": "1713450267",
-          "#text": "18 Apr 2024, 14:24"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4552"
+      "total": "4557"
     }
   }
 }
