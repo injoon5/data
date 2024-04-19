@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Charlie Be Quiet!",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
+        "date": {
+          "uts": "1713531059",
+          "#text": "19 Apr 2024, 12:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
+          "#text": "Trevor Daniel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          }
+        ],
+        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
+        "album": {
+          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
+          "#text": "Nicotine"
+        },
+        "name": "Falling",
+        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
+        "date": {
+          "uts": "1713530915",
+          "#text": "19 Apr 2024, 12:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
+        "date": {
+          "uts": "1713530694",
+          "#text": "19 Apr 2024, 12:44"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
           "#text": "Harry Styles"
         },
@@ -31,10 +174,11 @@
           "#text": "Harry's House"
         },
         "name": "Late Night Talking",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Harry+Styles/_/Late+Night+Talking"
+        "url": "https://www.last.fm/music/Harry+Styles/_/Late+Night+Talking",
+        "date": {
+          "uts": "1713530464",
+          "#text": "19 Apr 2024, 12:41"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1713453620",
           "#text": "18 Apr 2024, 15:20"
         }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
-        },
-        "name": "U Sometimes",
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
-        "date": {
-          "uts": "1713453444",
-          "#text": "18 Apr 2024, 15:17"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
-          "#text": "Glass Animals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
-          "#text": "Dreamland"
-        },
-        "name": "Heat Waves",
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
-        "date": {
-          "uts": "1713453238",
-          "#text": "18 Apr 2024, 15:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Loving You Girl (feat. Hkeem) - Single"
-        },
-        "name": "Loving You Girl (feat. Hkeem)",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
-        "date": {
-          "uts": "1713453032",
-          "#text": "18 Apr 2024, 15:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "45b7cba8-aca0-46bc-8202-326e830aee4d",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1713452833",
-          "#text": "18 Apr 2024, 15:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4565"
+      "total": "4569"
     }
   }
 }
