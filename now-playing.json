@@ -3,41 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Handwritten (Deluxe Edition)"
-        },
-        "name": "Stitches",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches"
-      },
-      {
-        "artist": {
           "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
           "#text": "Jeremy Zucker"
         },
