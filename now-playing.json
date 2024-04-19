@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
+          "#text": "Richard Marx"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
+          "#text": "Repeat Offender"
+        },
+        "name": "Right Here Waiting",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting"
+      },
+      {
+        "artist": {
+          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
+          "#text": "Richard Marx"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
+          "#text": "Repeat Offender"
+        },
+        "name": "Right Here Waiting",
+        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting",
+        "date": {
+          "uts": "1713535142",
+          "#text": "19 Apr 2024, 13:59"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "Paris in the Rain",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1713534908",
+          "#text": "19 Apr 2024, 13:55"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713456880",
           "#text": "18 Apr 2024, 16:14"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          }
-        ],
-        "mbid": "47c359d7-9823-49e6-a66e-03e00a3fbcd2",
-        "album": {
-          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
-          "#text": "Waking Up"
-        },
-        "name": "Good Life",
-        "url": "https://www.last.fm/music/OneRepublic/_/Good+Life",
-        "date": {
-          "uts": "1713456640",
-          "#text": "18 Apr 2024, 16:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1713456335",
-          "#text": "18 Apr 2024, 16:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4581"
+      "total": "4583"
     }
   }
 }
