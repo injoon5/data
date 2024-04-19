@@ -33,6 +33,42 @@
         "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
         "date": {
+          "uts": "1713569686",
+          "#text": "19 Apr 2024, 23:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
+        },
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
           "uts": "1713539837",
           "#text": "19 Apr 2024, 15:17"
         }
@@ -1764,42 +1800,6 @@
           "uts": "1713458451",
           "#text": "18 Apr 2024, 16:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
-          }
-        ],
-        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
-        "album": {
-          "mbid": "",
-          "#text": "Reasons You Should Care - EP"
-        },
-        "name": "Outside",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
-        "date": {
-          "uts": "1713458262",
-          "#text": "18 Apr 2024, 16:37"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4590"
+      "total": "4591"
     }
   }
 }
