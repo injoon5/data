@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "a-ha"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          }
+        ],
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "album": {
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
+        },
+        "name": "Take On Me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "a-ha"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          }
+        ],
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "album": {
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
+        },
+        "name": "Take On Me",
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
+        "date": {
+          "uts": "1713527496",
+          "#text": "19 Apr 2024, 11:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
+          "#text": "Sam Fischer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
+        "album": {
+          "mbid": "",
+          "#text": "This City - Single"
+        },
+        "name": "This City",
+        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
+        "date": {
+          "uts": "1713527283",
+          "#text": "19 Apr 2024, 11:48"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -1728,86 +1835,14 @@
           "uts": "1713450083",
           "#text": "18 Apr 2024, 14:21"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Smells Like Me",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
-        "date": {
-          "uts": "1713449902",
-          "#text": "18 Apr 2024, 14:18"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
-          "#text": "The Police"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
-          "#text": "The Police"
-        },
-        "name": "Every Breath You Take",
-        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
-        "date": {
-          "uts": "1713449673",
-          "#text": "18 Apr 2024, 14:14"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "91",
+      "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4549"
+      "total": "4551"
     }
   }
 }
