@@ -10,6 +10,78 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
+        },
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
+          "uts": "1713539837",
+          "#text": "19 Apr 2024, 15:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Charlie Be Quiet!",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
+        "date": {
+          "uts": "1713536449",
+          "#text": "19 Apr 2024, 14:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
@@ -1728,78 +1800,6 @@
           "uts": "1713458262",
           "#text": "18 Apr 2024, 16:37"
         }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          }
-        ],
-        "mbid": "f7b2cdfb-d7ed-4f8f-82bd-06b47e95bce9",
-        "album": {
-          "mbid": "",
-          "#text": "Twenty Something - Single"
-        },
-        "name": "Twenty Something",
-        "url": "https://www.last.fm/music/Nightly/_/Twenty+Something",
-        "date": {
-          "uts": "1713458035",
-          "#text": "18 Apr 2024, 16:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
-          "#text": "Hugo Helmig"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          }
-        ],
-        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
-        "album": {
-          "mbid": "",
-          "#text": "Champagne Problems - Single"
-        },
-        "name": "Champagne Problems",
-        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
-        "date": {
-          "uts": "1713457887",
-          "#text": "18 Apr 2024, 16:31"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4588"
+      "total": "4590"
     }
   }
 }
