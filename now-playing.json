@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "a-ha"
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
           }
         ],
-        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
         "album": {
           "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
+          "#text": "Angel Baby - Single"
         },
-        "name": "Take On Me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me"
+        "name": "Angel Baby",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1713527720",
+          "#text": "19 Apr 2024, 11:55"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1713450267",
           "#text": "18 Apr 2024, 14:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
-          }
-        ],
-        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
-        "album": {
-          "mbid": "",
-          "#text": "It Takes Two - Single"
-        },
-        "name": "It Takes Two",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
-        "date": {
-          "uts": "1713450083",
-          "#text": "18 Apr 2024, 14:21"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "92",
       "page": "1",
       "perPage": "50",
-      "total": "4551"
+      "total": "4552"
     }
   }
 }
