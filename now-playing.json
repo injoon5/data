@@ -3,38 +3,183 @@
     "track": [
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "80e4e8f9-a430-4602-8acf-2dfdc6f5e034",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "The Story Never Ends",
+        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends",
+        "date": {
+          "uts": "1713578835",
+          "#text": "20 Apr 2024, 02:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "if this is the last time",
+        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
+        "date": {
+          "uts": "1713578618",
+          "#text": "20 Apr 2024, 02:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1713578435",
+          "#text": "20 Apr 2024, 02:00"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
-          "#text": "After Hours"
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
         },
-        "name": "Blinding Lights",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
+        "date": {
+          "uts": "1713578258",
+          "#text": "20 Apr 2024, 01:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
+          "#text": "Sam Ryder"
         },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          }
+        ],
+        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
+        "album": {
+          "mbid": "",
+          "#text": "More - Single"
+        },
+        "name": "More",
+        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
+        "date": {
+          "uts": "1713578045",
+          "#text": "20 Apr 2024, 01:54"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1800,6 @@
           "uts": "1713531556",
           "#text": "19 Apr 2024, 12:59"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          }
-        ],
-        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
-        "album": {
-          "mbid": "",
-          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
-        },
-        "name": "Off My Face",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
-        "date": {
-          "uts": "1713531392",
-          "#text": "19 Apr 2024, 12:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Feelings",
-        "url": "https://www.last.fm/music/Lauv/_/Feelings",
-        "date": {
-          "uts": "1713531218",
-          "#text": "19 Apr 2024, 12:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Charlie Be Quiet!",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!",
-        "date": {
-          "uts": "1713531059",
-          "#text": "19 Apr 2024, 12:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          }
-        ],
-        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
-        "album": {
-          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
-          "#text": "Nicotine"
-        },
-        "name": "Falling",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
-        "date": {
-          "uts": "1713530915",
-          "#text": "19 Apr 2024, 12:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Thinking Out Loud",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
-        "date": {
-          "uts": "1713530694",
-          "#text": "19 Apr 2024, 12:44"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4616"
+      "total": "4621"
     }
   }
 }
