@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
-          "#text": "Andrea Bocelli"
+          "mbid": "",
+          "#text": "Jung Kook & Latto"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
           }
         ],
-        "mbid": "e7849d42-666b-4641-a9b6-53d451fe8311",
+        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
         "album": {
-          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
-          "#text": "Amore"
+          "mbid": "",
+          "#text": "Seven - Single"
         },
-        "name": "Can't Help Falling In Love (Live At Lake Las Vegas/2005)",
+        "name": "Seven",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+In+Love+(Live+At+Lake+Las+Vegas%2F2005)"
+        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jung Kook & Latto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          }
+        ],
+        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+        "album": {
+          "mbid": "",
+          "#text": "Seven - Single"
+        },
+        "name": "Seven",
+        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
+        "date": {
+          "uts": "1713580810",
+          "#text": "20 Apr 2024, 02:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
+          }
+        ],
+        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
+        "album": {
+          "mbid": "",
+          "#text": "Medicine - Single"
+        },
+        "name": "Medicine",
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
+        "date": {
+          "uts": "1713580615",
+          "#text": "20 Apr 2024, 02:36"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713533906",
           "#text": "19 Apr 2024, 13:38"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "XXL",
-        "url": "https://www.last.fm/music/Lany/_/XXL",
-        "date": {
-          "uts": "1713533671",
-          "#text": "19 Apr 2024, 13:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "Stranger",
-        "url": "https://www.last.fm/music/Lauv/_/Stranger",
-        "date": {
-          "uts": "1713533486",
-          "#text": "19 Apr 2024, 13:31"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4624"
+      "total": "4626"
     }
   }
 }
