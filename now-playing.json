@@ -3,38 +3,146 @@
     "track": [
       {
         "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
           }
         ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
+        "mbid": "558dcecf-1d02-470a-873d-5015b4287c15",
         "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
+          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
+          "#text": "AUSTIN (Bonus)"
         },
-        "name": "I'm Not the Only One",
+        "name": "Chemical",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One"
+        "url": "https://www.last.fm/music/Post+Malone/_/Chemical"
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
+          }
+        ],
+        "mbid": "558dcecf-1d02-470a-873d-5015b4287c15",
+        "album": {
+          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
+          "#text": "AUSTIN (Bonus)"
+        },
+        "name": "Chemical",
+        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
+        "date": {
+          "uts": "1713604237",
+          "#text": "20 Apr 2024, 09:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Castle on the Hill",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
+        "date": {
+          "uts": "1713604014",
+          "#text": "20 Apr 2024, 09:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1713603781",
+          "#text": "20 Apr 2024, 09:03"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1713578258",
           "#text": "20 Apr 2024, 01:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
-          "#text": "Sam Ryder"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          }
-        ],
-        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
-        "album": {
-          "mbid": "",
-          "#text": "More - Single"
-        },
-        "name": "More",
-        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
-        "date": {
-          "uts": "1713578045",
-          "#text": "20 Apr 2024, 01:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
-          "#text": "After Hours"
-        },
-        "name": "Blinding Lights",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
-        "date": {
-          "uts": "1713577830",
-          "#text": "20 Apr 2024, 01:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          }
-        ],
-        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
-        "album": {
-          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
-          "#text": "tryhard"
-        },
-        "name": "See Through",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
-        "date": {
-          "uts": "1713577639",
-          "#text": "20 Apr 2024, 01:47"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4664"
+      "total": "4667"
     }
   }
 }
