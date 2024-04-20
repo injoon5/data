@@ -3,41 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love"
-      },
-      {
-        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
