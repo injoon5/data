@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
           }
         ],
-        "mbid": "b95bd361-a22f-4af3-8e75-fee67dcb228b",
+        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
         "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
+          "mbid": "",
+          "#text": "Light Switch - Single"
         },
-        "name": "Who Do You Think You Are?",
+        "name": "Light Switch",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch"
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Daylight",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
+        "date": {
+          "uts": "1713599056",
+          "#text": "20 Apr 2024, 07:44"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1713572016",
           "#text": "20 Apr 2024, 00:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Lauv/_/Changes",
-        "date": {
-          "uts": "1713571801",
-          "#text": "20 Apr 2024, 00:10"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4648"
+      "total": "4649"
     }
   }
 }
