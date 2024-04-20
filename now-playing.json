@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Stranger"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
+        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "date": {
+          "uts": "1713603151",
+          "#text": "20 Apr 2024, 08:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "Never Not",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Never+Not"
+        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
+        "date": {
+          "uts": "1713602965",
+          "#text": "20 Apr 2024, 08:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713577253",
           "#text": "20 Apr 2024, 01:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Handwritten (Deluxe Edition)"
-        },
-        "name": "Stitches",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
-        "date": {
-          "uts": "1713577038",
-          "#text": "20 Apr 2024, 01:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take On Me",
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
-        "date": {
-          "uts": "1713576821",
-          "#text": "20 Apr 2024, 01:33"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4660"
+      "total": "4662"
     }
   }
 }
