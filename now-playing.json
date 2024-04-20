@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Jung Kook & Latto"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
         "album": {
-          "mbid": "",
-          "#text": "Seven - Single"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Seven",
+        "name": "Lonely Eyes",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven"
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes"
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e0169d32677677478a1135edf414e42.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e0169d32677677478a1135edf414e42.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e0169d32677677478a1135edf414e42.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e0169d32677677478a1135edf414e42.png"
+          }
+        ],
+        "mbid": "e2d6c1c4-8310-4fab-b55d-28cd52e94a3c",
+        "album": {
+          "mbid": "",
+          "#text": "A LOT - Single"
+        },
+        "name": "A LOT",
+        "url": "https://www.last.fm/music/John+K/_/A+LOT",
+        "date": {
+          "uts": "1713580994",
+          "#text": "20 Apr 2024, 02:43"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1713534116",
           "#text": "19 Apr 2024, 13:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Perfect",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Perfect",
-        "date": {
-          "uts": "1713533906",
-          "#text": "19 Apr 2024, 13:38"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4626"
+      "total": "4627"
     }
   }
 }
