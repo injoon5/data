@@ -31,10 +31,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Lonely Eyes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes"
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
+        "date": {
+          "uts": "1713581184",
+          "#text": "20 Apr 2024, 02:46"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1713534288",
           "#text": "19 Apr 2024, 13:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
-          "#text": "Tom Grennan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ffb9fe24-e726-44e3-9db9-b8820932343f",
-        "album": {
-          "mbid": "",
-          "#text": "All These Nights - Single"
-        },
-        "name": "All These Nights",
-        "url": "https://www.last.fm/music/Tom+Grennan/_/All+These+Nights",
-        "date": {
-          "uts": "1713534116",
-          "#text": "19 Apr 2024, 13:41"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4627"
+      "total": "4628"
     }
   }
 }
