@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+          "#text": "Andrea Bocelli"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          }
+        ],
+        "mbid": "e7849d42-666b-4641-a9b6-53d451fe8311",
+        "album": {
+          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
+          "#text": "Amore"
+        },
+        "name": "Can't Help Falling In Love (Live At Lake Las Vegas/2005)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+In+Love+(Live+At+Lake+Las+Vegas%2F2005)"
+      },
+      {
+        "artist": {
+          "mbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+          "#text": "Andrea Bocelli"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          }
+        ],
+        "mbid": "e7849d42-666b-4641-a9b6-53d451fe8311",
+        "album": {
+          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
+          "#text": "Amore"
+        },
+        "name": "Can't Help Falling In Love (Live At Lake Las Vegas/2005)",
+        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+In+Love+(Live+At+Lake+Las+Vegas%2F2005)",
+        "date": {
+          "uts": "1713580410",
+          "#text": "20 Apr 2024, 02:33"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +102,11 @@
           "#text": "x (Deluxe Edition)"
         },
         "name": "Photograph",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
+        "date": {
+          "uts": "1713580177",
+          "#text": "20 Apr 2024, 02:29"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713533486",
           "#text": "19 Apr 2024, 13:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "Kids Are Born Stars",
-        "url": "https://www.last.fm/music/Lauv/_/Kids+Are+Born+Stars",
-        "date": {
-          "uts": "1713533311",
-          "#text": "19 Apr 2024, 13:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
-          "#text": "Khalid"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
-          "#text": "Free Spirit"
-        },
-        "name": "Talk (feat. Disclosure)",
-        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
-        "date": {
-          "uts": "1713533117",
-          "#text": "19 Apr 2024, 13:25"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "93",
       "page": "1",
       "perPage": "50",
-      "total": "4622"
+      "total": "4624"
     }
   }
 }
