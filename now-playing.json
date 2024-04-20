@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
+          "#text": "Allure"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          }
+        ],
+        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
+        "album": {
+          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
+          "#text": "Reunion"
+        },
+        "name": "From Paris With Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "That's Hilarious",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
+        "date": {
+          "uts": "1713601747",
+          "#text": "20 Apr 2024, 08:29"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
           "#text": "Trevor Daniel"
         },
@@ -31,10 +102,11 @@
           "#text": "Alone - Single"
         },
         "name": "Alone",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Alone"
+        "url": "https://www.last.fm/music/Trevor+Daniel/_/Alone",
+        "date": {
+          "uts": "1713601581",
+          "#text": "20 Apr 2024, 08:26"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713576167",
           "#text": "20 Apr 2024, 01:22"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          }
-        ],
-        "mbid": "47c359d7-9823-49e6-a66e-03e00a3fbcd2",
-        "album": {
-          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
-          "#text": "Waking Up"
-        },
-        "name": "Good Life",
-        "url": "https://www.last.fm/music/OneRepublic/_/Good+Life",
-        "date": {
-          "uts": "1713575957",
-          "#text": "20 Apr 2024, 01:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "61da985b-0841-4e0a-8400-539b6e14e330",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Out Of My League",
-        "url": "https://www.last.fm/music/Lany/_/Out+Of+My+League",
-        "date": {
-          "uts": "1713575727",
-          "#text": "20 Apr 2024, 01:15"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4655"
+      "total": "4657"
     }
   }
 }
