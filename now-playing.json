@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
+          }
+        ],
+        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
+        "album": {
+          "mbid": "",
+          "#text": "Medicine - Single"
+        },
+        "name": "Medicine",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          }
+        ],
+        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
+        "album": {
+          "mbid": "",
+          "#text": "Bad Habits - Single"
+        },
+        "name": "Bad Habits",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
+        "date": {
+          "uts": "1714199964",
+          "#text": "27 Apr 2024, 06:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
@@ -31,10 +102,11 @@
           "#text": "CHARLIE"
         },
         "name": "There\u2019s a First Time for Everything",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
+        "date": {
+          "uts": "1714199781",
+          "#text": "27 Apr 2024, 06:36"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1713598870",
           "#text": "20 Apr 2024, 07:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "if we never met",
-        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
-        "date": {
-          "uts": "1713598695",
-          "#text": "20 Apr 2024, 07:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
-          }
-        ],
-        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
-        "album": {
-          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
-          "#text": "- (Deluxe)"
-        },
-        "name": "Eyes Closed",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
-        "date": {
-          "uts": "1713598524",
-          "#text": "20 Apr 2024, 07:35"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4695"
+      "total": "4697"
     }
   }
 }
