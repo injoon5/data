@@ -3,6 +3,329 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
+        },
+        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)"
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1714183500",
+          "#text": "27 Apr 2024, 02:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1714183257",
+          "#text": "27 Apr 2024, 02:00"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Castle on the Hill",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
+        "date": {
+          "uts": "1714182977",
+          "#text": "27 Apr 2024, 01:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          }
+        ],
+        "mbid": "0ba86acb-1399-485a-a28b-6a95494c96bc",
+        "album": {
+          "mbid": "",
+          "#text": "Love Somebody Like You - Single"
+        },
+        "name": "love somebody like you",
+        "url": "https://www.last.fm/music/Joan/_/love+somebody+like+you",
+        "date": {
+          "uts": "1714182732",
+          "#text": "27 Apr 2024, 01:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
+          "#text": "Allure"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
+          }
+        ],
+        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
+        "album": {
+          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
+          "#text": "Reunion"
+        },
+        "name": "From Paris With Love",
+        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
+        "date": {
+          "uts": "1714182536",
+          "#text": "27 Apr 2024, 01:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+          "#text": "Khalid"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
+          "#text": "Free Spirit"
+        },
+        "name": "Talk (feat. Disclosure)",
+        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
+        "date": {
+          "uts": "1714182354",
+          "#text": "27 Apr 2024, 01:45"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "love + everything else"
+        },
+        "name": "if we never met",
+        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
+        "date": {
+          "uts": "1714182183",
+          "#text": "27 Apr 2024, 01:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
+          }
+        ],
+        "mbid": "e1a8083b-0d37-4e0e-bfdc-1899efd9ca7d",
+        "album": {
+          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
+          "#text": "Dawn FM"
+        },
+        "name": "Less Than Zero",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Less+Than+Zero",
+        "date": {
+          "uts": "1714181948",
+          "#text": "27 Apr 2024, 01:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
           "#text": "Sam Fischer"
         },
@@ -1512,294 +1835,6 @@
           "uts": "1713584423",
           "#text": "20 Apr 2024, 03:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "ex i never had",
-        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
-        "date": {
-          "uts": "1713584155",
-          "#text": "20 Apr 2024, 03:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Lonely Eyes",
-        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
-        "date": {
-          "uts": "1713581184",
-          "#text": "20 Apr 2024, 02:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e0169d32677677478a1135edf414e42.png"
-          }
-        ],
-        "mbid": "e2d6c1c4-8310-4fab-b55d-28cd52e94a3c",
-        "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
-        },
-        "name": "A LOT",
-        "url": "https://www.last.fm/music/John+K/_/A+LOT",
-        "date": {
-          "uts": "1713580994",
-          "#text": "20 Apr 2024, 02:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jung Kook & Latto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          }
-        ],
-        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
-        "album": {
-          "mbid": "",
-          "#text": "Seven - Single"
-        },
-        "name": "Seven",
-        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
-        "date": {
-          "uts": "1713580810",
-          "#text": "20 Apr 2024, 02:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
-          "#text": "New Hope Club"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
-          }
-        ],
-        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
-        "album": {
-          "mbid": "",
-          "#text": "Medicine - Single"
-        },
-        "name": "Medicine",
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
-        "date": {
-          "uts": "1713580615",
-          "#text": "20 Apr 2024, 02:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
-          "#text": "Andrea Bocelli"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
-          }
-        ],
-        "mbid": "e7849d42-666b-4641-a9b6-53d451fe8311",
-        "album": {
-          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
-          "#text": "Amore"
-        },
-        "name": "Can't Help Falling In Love (Live At Lake Las Vegas/2005)",
-        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+In+Love+(Live+At+Lake+Las+Vegas%2F2005)",
-        "date": {
-          "uts": "1713580410",
-          "#text": "20 Apr 2024, 02:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "7dcbc1be-4257-4d64-b915-045dfb23ae88",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Photograph",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
-        "date": {
-          "uts": "1713580177",
-          "#text": "20 Apr 2024, 02:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
-          }
-        ],
-        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
-        "album": {
-          "mbid": "",
-          "#text": "Waves - Single"
-        },
-        "name": "Waves",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
-        "date": {
-          "uts": "1713579999",
-          "#text": "20 Apr 2024, 02:26"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4671"
+      "total": "4679"
     }
   }
 }
