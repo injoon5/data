@@ -31,10 +31,11 @@
           "#text": "gg bb xx"
         },
         "name": "ex i never had",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had"
+        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
+        "date": {
+          "uts": "1714196979",
+          "#text": "27 Apr 2024, 05:49"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1713585323",
           "#text": "20 Apr 2024, 03:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "1fdc1560-aa29-4a9a-8d1e-993065b0b419",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sweatpants",
-        "url": "https://www.last.fm/music/Lauv/_/Sweatpants",
-        "date": {
-          "uts": "1713585140",
-          "#text": "20 Apr 2024, 03:52"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4682"
+      "total": "4683"
     }
   }
 }
