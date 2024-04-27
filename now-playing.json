@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
+          }
+        ],
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
+        "album": {
+          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
+          "#text": "- (Deluxe)"
+        },
+        "name": "Eyes Closed",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
+        "date": {
+          "uts": "1714200383",
+          "#text": "27 Apr 2024, 06:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
           "#text": "New Hope Club"
         },
@@ -31,10 +67,11 @@
           "#text": "Medicine - Single"
         },
         "name": "Medicine",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine"
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
+        "date": {
+          "uts": "1714200183",
+          "#text": "27 Apr 2024, 06:43"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1713599231",
           "#text": "20 Apr 2024, 07:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
-          }
-        ],
-        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Daylight",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
-        "date": {
-          "uts": "1713599056",
-          "#text": "20 Apr 2024, 07:44"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          }
-        ],
-        "mbid": "b95bd361-a22f-4af3-8e75-fee67dcb228b",
-        "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
-        },
-        "name": "Who Do You Think You Are?",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F",
-        "date": {
-          "uts": "1713598870",
-          "#text": "20 Apr 2024, 07:41"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "94",
       "page": "1",
       "perPage": "50",
-      "total": "4697"
+      "total": "4699"
     }
   }
 }
