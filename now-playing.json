@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Purpose (Deluxe)"
+        },
+        "name": "Love Yourself",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "b32c0968-ee42-42c5-bcf7-142b07ff1e11",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Love of My Life",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Love+of+My+Life",
+        "date": {
+          "uts": "1714634260",
+          "#text": "02 May 2024, 07:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1714634068",
+          "#text": "02 May 2024, 07:14"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
           "#text": "Starship"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1713601186",
           "#text": "20 Apr 2024, 08:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1713600979",
-          "#text": "20 Apr 2024, 08:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-          "#text": "BTS"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22494fbc419657a12f478e95cf9db9b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Make It Right (feat. Lauv) - Single"
-        },
-        "name": "Make It Right (feat. Lauv)",
-        "url": "https://www.last.fm/music/BTS/_/Make+It+Right+(feat.+Lauv)",
-        "date": {
-          "uts": "1713599733",
-          "#text": "20 Apr 2024, 07:55"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4701"
+      "total": "4703"
     }
   }
 }
