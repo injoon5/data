@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          }
+        ],
+        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
+        "album": {
+          "mbid": "",
+          "#text": "Love U Like That - Single"
+        },
+        "name": "Love U Like That",
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
+        "date": {
+          "uts": "1714634696",
+          "#text": "02 May 2024, 07:24"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +67,11 @@
           "#text": "Purpose (Deluxe)"
         },
         "name": "Love Yourself",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
+        "date": {
+          "uts": "1714634473",
+          "#text": "02 May 2024, 07:21"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1713601581",
           "#text": "20 Apr 2024, 08:26"
         }
-      },
-      {
-        "artist": {
-          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
-          "#text": "Khalid"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
-          "#text": "Free Spirit"
-        },
-        "name": "Talk (feat. Disclosure)",
-        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
-        "date": {
-          "uts": "1713601390",
-          "#text": "20 Apr 2024, 08:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          }
-        ],
-        "mbid": "d40d7b70-570f-4494-a51a-4aa389f45e70",
-        "album": {
-          "mbid": "",
-          "#text": "Celestial - Single"
-        },
-        "name": "Celestial",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
-        "date": {
-          "uts": "1713601186",
-          "#text": "20 Apr 2024, 08:19"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4703"
+      "total": "4705"
     }
   }
 }
