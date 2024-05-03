@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
-          "#text": "Owl City"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71a14744ae084406afed2566027b5f1c.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71a14744ae084406afed2566027b5f1c.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71a14744ae084406afed2566027b5f1c.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71a14744ae084406afed2566027b5f1c.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
+        "album": {
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
+        },
+        "name": "XXL",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/XXL"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
+        "album": {
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
+        },
+        "name": "XXL",
+        "url": "https://www.last.fm/music/Lany/_/XXL",
+        "date": {
+          "uts": "1714748970",
+          "#text": "03 May 2024, 15:09"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sad Forever",
+        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
+        "date": {
+          "uts": "1714748764",
+          "#text": "03 May 2024, 15:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Ocean Eyes (Deluxe Version)"
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
         },
-        "name": "Fireflies",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
+          "uts": "1714748580",
+          "#text": "03 May 2024, 15:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
-        "url": "https://www.last.fm/music/Owl+City/_/Fireflies"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "1fdc1560-aa29-4a9a-8d1e-993065b0b419",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sweatpants",
+        "url": "https://www.last.fm/music/Lauv/_/Sweatpants",
+        "date": {
+          "uts": "1714748399",
+          "#text": "03 May 2024, 14:59"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1713604419",
           "#text": "20 Apr 2024, 09:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          }
-        ],
-        "mbid": "558dcecf-1d02-470a-873d-5015b4287c15",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1713604237",
-          "#text": "20 Apr 2024, 09:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Castle on the Hill",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
-        "date": {
-          "uts": "1713604014",
-          "#text": "20 Apr 2024, 09:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Paris in the Rain",
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
-        "date": {
-          "uts": "1713603781",
-          "#text": "20 Apr 2024, 09:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
-          }
-        ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
-        },
-        "name": "I'm Not the Only One",
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
-        "date": {
-          "uts": "1713603552",
-          "#text": "20 Apr 2024, 08:59"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4713"
+      "total": "4717"
     }
   }
 }
