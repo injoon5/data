@@ -3,6 +3,114 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          }
+        ],
+        "mbid": "5ae26299-b8c8-4b94-975a-b28ce3dc73f3",
+        "album": {
+          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
+          "#text": "Nine Track Mind"
+        },
+        "name": "Dangerously",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
+        "date": {
+          "uts": "1714796850",
+          "#text": "04 May 2024, 04:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Yorke & joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95d66fcae200650a5e6ac8014f745363.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95d66fcae200650a5e6ac8014f745363.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95d66fcae200650a5e6ac8014f745363.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95d66fcae200650a5e6ac8014f745363.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "ten feet tall - EP"
+        },
+        "name": "Window Shopping",
+        "url": "https://www.last.fm/music/Yorke+&+joan/_/Window+Shopping",
+        "date": {
+          "uts": "1714796649",
+          "#text": "04 May 2024, 04:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
+          "#text": "Owl City"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71a14744ae084406afed2566027b5f1c.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Ocean Eyes (Deluxe Version)"
+        },
+        "name": "Fireflies",
+        "url": "https://www.last.fm/music/Owl+City/_/Fireflies",
+        "date": {
+          "uts": "1714796434",
+          "#text": "04 May 2024, 04:20"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -1692,114 +1800,6 @@
           "uts": "1714198788",
           "#text": "27 Apr 2024, 06:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          }
-        ],
-        "mbid": "30163fc6-b059-404d-b203-9ff60f1922e2",
-        "album": {
-          "mbid": "",
-          "#text": "Potential - Single"
-        },
-        "name": "Potential",
-        "url": "https://www.last.fm/music/Lauv/_/Potential",
-        "date": {
-          "uts": "1714198537",
-          "#text": "27 Apr 2024, 06:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de33650984273a54786a0fe33fefb4.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "If I Can't Have You - Single"
-        },
-        "name": "If I Can't Have You",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/If+I+Can%27t+Have+You",
-        "date": {
-          "uts": "1714198349",
-          "#text": "27 Apr 2024, 06:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          }
-        ],
-        "mbid": "f7b2cdfb-d7ed-4f8f-82bd-06b47e95bce9",
-        "album": {
-          "mbid": "",
-          "#text": "Twenty Something - Single"
-        },
-        "name": "Twenty Something",
-        "url": "https://www.last.fm/music/Nightly/_/Twenty+Something",
-        "date": {
-          "uts": "1714198114",
-          "#text": "27 Apr 2024, 06:08"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4737"
+      "total": "4740"
     }
   }
 }
