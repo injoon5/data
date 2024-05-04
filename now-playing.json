@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
+          }
+        ],
+        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
+        "album": {
+          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
+          "#text": "tryhard"
+        },
+        "name": "See Through",
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
+        "date": {
+          "uts": "1714793759",
+          "#text": "04 May 2024, 03:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "Super Far",
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1714793566",
+          "#text": "04 May 2024, 03:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
           "#text": "Lady Gaga"
         },
@@ -1728,78 +1800,6 @@
           "uts": "1714182732",
           "#text": "27 Apr 2024, 01:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
-        "date": {
-          "uts": "1714182536",
-          "#text": "27 Apr 2024, 01:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
-          "#text": "Khalid"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
-          "#text": "Free Spirit"
-        },
-        "name": "Talk (feat. Disclosure)",
-        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
-        "date": {
-          "uts": "1714182354",
-          "#text": "27 Apr 2024, 01:45"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4723"
+      "total": "4725"
     }
   }
 }
