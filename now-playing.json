@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "7229480f-dbab-4314-8d45-d6fa34ac85ce",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1714794689",
+          "#text": "04 May 2024, 03:51"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1714183738",
           "#text": "27 Apr 2024, 02:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
-          }
-        ],
-        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
-        "album": {
-          "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
-        },
-        "name": "homebody",
-        "url": "https://www.last.fm/music/Valley/_/homebody",
-        "date": {
-          "uts": "1714183500",
-          "#text": "27 Apr 2024, 02:05"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4728"
+      "total": "4729"
     }
   }
 }
