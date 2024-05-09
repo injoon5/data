@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "ef31e286-a7f7-4a55-ba95-4166240800cf",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Made in Hollywood",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Made+in+Hollywood"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "ef31e286-a7f7-4a55-ba95-4166240800cf",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Made in Hollywood",
+        "url": "https://www.last.fm/music/Lany/_/Made+in+Hollywood",
+        "date": {
+          "uts": "1715251258",
+          "#text": "09 May 2024, 10:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Malibu Nights"
         },
         "name": "Thru These Tears",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears"
+        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
+        "date": {
+          "uts": "1715251048",
+          "#text": "09 May 2024, 10:37"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1714200570",
           "#text": "27 Apr 2024, 06:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
-          }
-        ],
-        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
-        "album": {
-          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
-          "#text": "- (Deluxe)"
-        },
-        "name": "Eyes Closed",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
-        "date": {
-          "uts": "1714200383",
-          "#text": "27 Apr 2024, 06:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
-          "#text": "New Hope Club"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1890e542770e5ac3151ef16de26c3cde.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1890e542770e5ac3151ef16de26c3cde.jpg"
-          }
-        ],
-        "mbid": "0c2e44ea-f902-46a1-8f29-847bc9b07199",
-        "album": {
-          "mbid": "",
-          "#text": "Medicine - Single"
-        },
-        "name": "Medicine",
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
-        "date": {
-          "uts": "1714200183",
-          "#text": "27 Apr 2024, 06:43"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4747"
+      "total": "4749"
     }
   }
 }
