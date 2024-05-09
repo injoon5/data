@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "if this is the last time",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          }
+        ],
+        "mbid": "fb198f0d-af1d-46cc-84eb-b1a3e139487a",
+        "album": {
+          "mbid": "",
+          "#text": "A Beautiful Blur (Deluxe)"
+        },
+        "name": "Heartbreak Can Wait",
+        "url": "https://www.last.fm/music/Lany/_/Heartbreak+Can+Wait",
+        "date": {
+          "uts": "1715253329",
+          "#text": "09 May 2024, 11:15"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "A Beautiful Blur (Deluxe)"
         },
         "name": "XXL",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/XXL"
+        "url": "https://www.last.fm/music/Lany/_/XXL",
+        "date": {
+          "uts": "1715253125",
+          "#text": "09 May 2024, 11:12"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1714635809",
           "#text": "02 May 2024, 07:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "9d0a9e5c-a765-40ab-837e-99b0bb197f6c",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Circles",
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
-        "date": {
-          "uts": "1714635635",
-          "#text": "02 May 2024, 07:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "a3f311aa-5b2b-4d74-81ca-79b164e16784",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Adrenaline",
-        "url": "https://www.last.fm/music/Lauv/_/Adrenaline",
-        "date": {
-          "uts": "1714635425",
-          "#text": "02 May 2024, 07:37"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "96",
       "page": "1",
       "perPage": "50",
-      "total": "4757"
+      "total": "4759"
     }
   }
 }
