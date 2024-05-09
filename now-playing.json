@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "3f143c17-744d-4141-b511-54cccbecaa97",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "you!",
+        "url": "https://www.last.fm/music/Lany/_/you!",
+        "date": {
+          "uts": "1715235495",
+          "#text": "09 May 2024, 06:18"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Cleffy"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1714199244",
           "#text": "27 Apr 2024, 06:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1714199053",
-          "#text": "27 Apr 2024, 06:24"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "95",
       "page": "1",
       "perPage": "50",
-      "total": "4741"
+      "total": "4742"
     }
   }
 }
