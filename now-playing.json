@@ -31,10 +31,11 @@
           "#text": "LANY"
         },
         "name": "13",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/13"
+        "url": "https://www.last.fm/music/Lany/_/13",
+        "date": {
+          "uts": "1715340364",
+          "#text": "10 May 2024, 11:26"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1714792604",
           "#text": "04 May 2024, 03:16"
         }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
-          }
-        ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
-        },
-        "name": "I'm Not the Only One",
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
-        "date": {
-          "uts": "1714784040",
-          "#text": "04 May 2024, 00:54"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "96",
       "page": "1",
       "perPage": "50",
-      "total": "4767"
+      "total": "4768"
     }
   }
 }
