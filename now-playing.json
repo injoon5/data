@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+          "#text": "Ellie Goulding"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
+          }
+        ],
+        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
+        "album": {
+          "mbid": "",
+          "#text": "Delirium (Deluxe)"
+        },
+        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Feelings",
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1715347975",
+          "#text": "10 May 2024, 13:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
           "#text": "Valley"
         },
@@ -31,10 +102,11 @@
           "#text": "sucks to see you doing better (extended)"
         },
         "name": "homebody",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Valley/_/homebody"
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1715347785",
+          "#text": "10 May 2024, 13:29"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715251258",
           "#text": "09 May 2024, 10:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "2eb16e7f-e095-4706-a3d7-6e3c92e3802e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Thru These Tears",
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
-        "date": {
-          "uts": "1715251048",
-          "#text": "09 May 2024, 10:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "62840516-4987-4f6f-b6b4-0dc4be70caba",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "quit",
-        "url": "https://www.last.fm/music/Lany/_/quit",
-        "date": {
-          "uts": "1715250846",
-          "#text": "09 May 2024, 10:34"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "96",
       "page": "1",
       "perPage": "50",
-      "total": "4796"
+      "total": "4798"
     }
   }
 }
