@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "08bdd7d0-cbca-4ec8-9678-4754c499d992",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "Good Girls",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Good+Girls"
+      },
+      {
+        "artist": {
+          "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+          "#text": "Sabrina Carpenter"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a50d7ff9cadcc2ca322a122f65c358ce.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a50d7ff9cadcc2ca322a122f65c358ce.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a50d7ff9cadcc2ca322a122f65c358ce.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a50d7ff9cadcc2ca322a122f65c358ce.png"
+          }
+        ],
+        "mbid": "d3efc8d3-90e7-4696-8eda-2cab5ebc050d",
+        "album": {
+          "mbid": "",
+          "#text": "Espresso - Single"
+        },
+        "name": "Espresso",
+        "url": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso",
+        "date": {
+          "uts": "1715367076",
+          "#text": "10 May 2024, 18:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "kinda  - EP"
         },
         "name": "pink skies",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/pink+skies"
+        "url": "https://www.last.fm/music/Lany/_/pink+skies",
+        "date": {
+          "uts": "1715366959",
+          "#text": "10 May 2024, 18:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715356513",
           "#text": "10 May 2024, 15:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
-          }
-        ],
-        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
-        "album": {
-          "mbid": "",
-          "#text": "Light Switch - Single"
-        },
-        "name": "Light Switch",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
-        "date": {
-          "uts": "1715356290",
-          "#text": "10 May 2024, 15:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
-          "#text": "Justice (The Complete Edition)"
-        },
-        "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Peaches+(feat.+Daniel+Caesar+&+GIV%C4%92ON)",
-        "date": {
-          "uts": "1715356098",
-          "#text": "10 May 2024, 15:48"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4888"
+      "total": "4890"
     }
   }
 }
