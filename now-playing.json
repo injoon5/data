@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "28d93e0c-2779-4cdd-8513-82cb179c5460",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Dumb Stuff",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Dumb+Stuff"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "28d93e0c-2779-4cdd-8513-82cb179c5460",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Dumb Stuff",
+        "url": "https://www.last.fm/music/Lany/_/Dumb+Stuff",
+        "date": {
+          "uts": "1715362618",
+          "#text": "10 May 2024, 17:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "Super Far",
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1715362438",
+          "#text": "10 May 2024, 17:33"
+        }
+      },
+      {
+        "artist": {
           "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
           "#text": "Joan"
         },
@@ -31,10 +138,11 @@
           "#text": "something special (hi) - Single"
         },
         "name": "something special",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Joan/_/something+special"
+        "url": "https://www.last.fm/music/Joan/_/something+special",
+        "date": {
+          "uts": "1715362328",
+          "#text": "10 May 2024, 17:32"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1715352767",
           "#text": "10 May 2024, 14:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          }
-        ],
-        "mbid": "19bad7bc-88fd-419c-9bb4-6665f2dfb2d2",
-        "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
-        },
-        "name": "Roses",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses",
-        "date": {
-          "uts": "1715352578",
-          "#text": "10 May 2024, 14:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cbed4aa2d6107cd660cf1c90b7d8653.jpg"
-          }
-        ],
-        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
-        "album": {
-          "mbid": "",
-          "#text": "I Like Me Better - Single"
-        },
-        "name": "I Like Me Better",
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
-        "date": {
-          "uts": "1715352388",
-          "#text": "10 May 2024, 14:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          }
-        ],
-        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
-        "album": {
-          "mbid": "",
-          "#text": "i'm so tired... - Single"
-        },
-        "name": "i'm so tired...",
-        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
-        "date": {
-          "uts": "1715352209",
-          "#text": "10 May 2024, 14:43"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4868"
+      "total": "4871"
     }
   }
 }
