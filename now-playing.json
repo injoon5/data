@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
           }
         ],
-        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
         "album": {
           "mbid": "",
-          "#text": "Strawberries & Cigarettes - Single"
+          "#text": "sucks to see you doing better (extended)"
         },
-        "name": "Strawberries & Cigarettes",
+        "name": "homebody",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes"
+        "url": "https://www.last.fm/music/Valley/_/homebody"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          }
+        ],
+        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
+        "album": {
+          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
+          "#text": "Nine Track Mind"
+        },
+        "name": "Dangerously",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
+        "date": {
+          "uts": "1715347589",
+          "#text": "10 May 2024, 13:26"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1715250846",
           "#text": "09 May 2024, 10:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad853258a14f64405d0cf907ca1aa004.jpg"
-          }
-        ],
-        "mbid": "1456676b-9303-47e6-b22e-0d8f3f58c8b1",
-        "album": {
-          "mbid": "",
-          "#text": "I Loved You. - EP"
-        },
-        "name": "4EVER!",
-        "url": "https://www.last.fm/music/Lany/_/4EVER!",
-        "date": {
-          "uts": "1715250643",
-          "#text": "09 May 2024, 10:30"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "96",
       "page": "1",
       "perPage": "50",
-      "total": "4795"
+      "total": "4796"
     }
   }
 }
