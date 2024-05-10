@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          }
+        ],
+        "mbid": "30163fc6-b059-404d-b203-9ff60f1922e2",
+        "album": {
+          "mbid": "",
+          "#text": "Potential - Single"
+        },
+        "name": "Potential",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Potential"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81ca4a9413f8be1c57a8aa6c02854898.jpg"
+          }
+        ],
+        "mbid": "30163fc6-b059-404d-b203-9ff60f1922e2",
+        "album": {
+          "mbid": "",
+          "#text": "Potential - Single"
+        },
+        "name": "Potential",
+        "url": "https://www.last.fm/music/Lauv/_/Potential",
+        "date": {
+          "uts": "1715352038",
+          "#text": "10 May 2024, 14:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv & LANY"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Mean It",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1715351832",
+          "#text": "10 May 2024, 14:37"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715342120",
           "#text": "10 May 2024, 11:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1715340364",
-          "#text": "10 May 2024, 11:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "aabdeac0-a8aa-4965-9873-44e64d8d8864",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "ILYSB",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB",
-        "date": {
-          "uts": "1715340141",
-          "#text": "10 May 2024, 11:22"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "97",
       "page": "1",
       "perPage": "50",
-      "total": "4816"
+      "total": "4818"
     }
   }
 }
