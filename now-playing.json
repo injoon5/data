@@ -10,31 +10,103 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
           }
         ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
         "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
         },
-        "name": "13",
+        "name": "up to me",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/13"
+        "url": "https://www.last.fm/music/Lany/_/up+to+me"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "up to me",
+        "url": "https://www.last.fm/music/Lany/_/up+to+me",
+        "date": {
+          "uts": "1715342304",
+          "#text": "10 May 2024, 11:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "08833721-f5cf-457a-adc2-15be95a017be",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "I Don't Wanna Love You Anymore",
+        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore",
+        "date": {
+          "uts": "1715342120",
+          "#text": "10 May 2024, 11:55"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1714792985",
           "#text": "04 May 2024, 03:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          }
-        ],
-        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
-        "album": {
-          "mbid": "",
-          "#text": "Strawberries & Cigarettes - Single"
-        },
-        "name": "Strawberries & Cigarettes",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes",
-        "date": {
-          "uts": "1714792789",
-          "#text": "04 May 2024, 03:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Comfortable",
-        "url": "https://www.last.fm/music/Lauv/_/Comfortable",
-        "date": {
-          "uts": "1714792604",
-          "#text": "04 May 2024, 03:16"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "96",
       "page": "1",
       "perPage": "50",
-      "total": "4768"
+      "total": "4770"
     }
   }
 }
