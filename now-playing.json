@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+          "#text": "Paul Young"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
+          }
+        ],
+        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "album": {
+          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
+          "#text": "The Secret Of Association"
+        },
+        "name": "Every Time You Go Away",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away"
+      },
+      {
+        "artist": {
+          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+          "#text": "Paul Young"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
+          }
+        ],
+        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "album": {
+          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
+          "#text": "The Secret Of Association"
+        },
+        "name": "Every Time You Go Away",
+        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
+        "date": {
+          "uts": "1715351031",
+          "#text": "10 May 2024, 14:23"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
+        "album": {
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
+        },
+        "name": "Love At First Fight",
+        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
+        "date": {
+          "uts": "1715350773",
+          "#text": "10 May 2024, 14:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          }
+        ],
+        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
+        "album": {
+          "mbid": "",
+          "#text": "Strawberries & Cigarettes - Single"
+        },
+        "name": "Strawberries & Cigarettes",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes",
+        "date": {
+          "uts": "1715350578",
+          "#text": "10 May 2024, 14:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "That's Hilarious",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
+        "date": {
+          "uts": "1715350402",
+          "#text": "10 May 2024, 14:13"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +210,11 @@
           "#text": "\u00f7 (Deluxe)"
         },
         "name": "Happier",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Happier",
+        "date": {
+          "uts": "1715350224",
+          "#text": "10 May 2024, 14:10"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1715339541",
           "#text": "10 May 2024, 11:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "7fd2cd61-5f56-4d01-b77f-18c7f3a31d9e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Malibu Nights",
-        "url": "https://www.last.fm/music/Lany/_/Malibu+Nights",
-        "date": {
-          "uts": "1715339291",
-          "#text": "10 May 2024, 11:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1715339058",
-          "#text": "10 May 2024, 11:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1715338853",
-          "#text": "10 May 2024, 11:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "if this is the last time",
-        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
-        "date": {
-          "uts": "1715258100",
-          "#text": "09 May 2024, 12:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          }
-        ],
-        "mbid": "fb198f0d-af1d-46cc-84eb-b1a3e139487a",
-        "album": {
-          "mbid": "",
-          "#text": "A Beautiful Blur (Deluxe)"
-        },
-        "name": "Heartbreak Can Wait",
-        "url": "https://www.last.fm/music/Lany/_/Heartbreak+Can+Wait",
-        "date": {
-          "uts": "1715253329",
-          "#text": "09 May 2024, 11:15"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "97",
       "page": "1",
       "perPage": "50",
-      "total": "4808"
+      "total": "4813"
     }
   }
 }
