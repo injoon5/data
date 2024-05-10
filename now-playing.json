@@ -60,6 +60,42 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
           }
         ],
+        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "13",
+        "url": "https://www.last.fm/music/Lany/_/13",
+        "date": {
+          "uts": "1715363607",
+          "#text": "10 May 2024, 17:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
         "mbid": "aabdeac0-a8aa-4965-9873-44e64d8d8864",
         "album": {
           "mbid": "",
@@ -1799,42 +1835,6 @@
           "uts": "1715353558",
           "#text": "10 May 2024, 15:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63a2568d5e7de4d07474fec65fa82e8f.jpg"
-          }
-        ],
-        "mbid": "3cbde18a-b49c-4de3-9cf8-76a58245d7ef",
-        "album": {
-          "mbid": "",
-          "#text": "Without You - EP"
-        },
-        "name": "Love Somebody",
-        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
-        "date": {
-          "uts": "1715353356",
-          "#text": "10 May 2024, 15:02"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4874"
+      "total": "4875"
     }
   }
 }
