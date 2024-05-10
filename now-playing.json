@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+          "#text": "The Police"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
+          "#text": "The Police"
+        },
+        "name": "Every Breath You Take",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take"
+      },
+      {
+        "artist": {
+          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+          "#text": "The Police"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
+          "#text": "The Police"
+        },
+        "name": "Every Breath You Take",
+        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
+        "date": {
+          "uts": "1715352994",
+          "#text": "10 May 2024, 14:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Rainbow"
         },
@@ -31,10 +102,11 @@
           "#text": "Down to Earth"
         },
         "name": "Since You Been Gone",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone"
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
+        "date": {
+          "uts": "1715352767",
+          "#text": "10 May 2024, 14:52"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715343105",
           "#text": "10 May 2024, 12:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1715342898",
-          "#text": "10 May 2024, 12:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "2eb16e7f-e095-4706-a3d7-6e3c92e3802e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Thru These Tears",
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
-        "date": {
-          "uts": "1715342695",
-          "#text": "10 May 2024, 12:04"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "97",
       "page": "1",
       "perPage": "50",
-      "total": "4821"
+      "total": "4823"
     }
   }
 }
