@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1abaa483a3e4f9193b74525fd2d563d6.jpg"
+          }
+        ],
+        "mbid": "0ba86acb-1399-485a-a28b-6a95494c96bc",
+        "album": {
+          "mbid": "",
+          "#text": "Love Somebody Like You - Single"
+        },
+        "name": "love somebody like you",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Joan/_/love+somebody+like+you"
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1715359963",
+          "#text": "10 May 2024, 16:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv & LANY"
         },
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Mean It",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1715359752",
+          "#text": "10 May 2024, 16:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715350224",
           "#text": "10 May 2024, 14:10"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          }
-        ],
-        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
-        "album": {
-          "mbid": "",
-          "#text": "mama's boy"
-        },
-        "name": "cowboy in LA",
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
-        "date": {
-          "uts": "1715350013",
-          "#text": "10 May 2024, 14:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "17f192f7-c298-4630-98e9-a5769401ddaf",
-          "#text": "Allure"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2d05e15a9b240ffa77f50cb2b11d6c2.jpg"
-          }
-        ],
-        "mbid": "4a15a166-9b2c-4a27-b926-10366d442d3e",
-        "album": {
-          "mbid": "a419d567-6252-4d73-8db1-d05022f41ab5",
-          "#text": "Reunion"
-        },
-        "name": "From Paris With Love",
-        "url": "https://www.last.fm/music/Allure/_/From+Paris+With+Love",
-        "date": {
-          "uts": "1715349825",
-          "#text": "10 May 2024, 14:03"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4856"
+      "total": "4858"
     }
   }
 }
