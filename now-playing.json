@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99020e34f25739d2b42eb8320d15ada1.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99020e34f25739d2b42eb8320d15ada1.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99020e34f25739d2b42eb8320d15ada1.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99020e34f25739d2b42eb8320d15ada1.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Love & Loneliness"
+        },
+        "name": "Better Alone",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Better+Alone",
+        "date": {
+          "uts": "1715594508",
+          "#text": "13 May 2024, 10:01"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +67,11 @@
           "#text": "gg bb xx (deluxe)"
         },
         "name": "dna",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/dna"
+        "url": "https://www.last.fm/music/Lany/_/dna",
+        "date": {
+          "uts": "1715594342",
+          "#text": "13 May 2024, 09:59"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1715358257",
           "#text": "10 May 2024, 16:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2487515b44d50838388deb180fe77d34.jpg"
-          }
-        ],
-        "mbid": "154a0e6d-9ec6-4a35-9c8d-44a0aaddefe3",
-        "album": {
-          "mbid": "",
-          "#text": "Last Birthday (The After Party)"
-        },
-        "name": "Tempo",
-        "url": "https://www.last.fm/music/Valley/_/Tempo",
-        "date": {
-          "uts": "1715358038",
-          "#text": "10 May 2024, 16:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad56fe89abaa05a9a54460a008edd108.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad56fe89abaa05a9a54460a008edd108.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad56fe89abaa05a9a54460a008edd108.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad56fe89abaa05a9a54460a008edd108.png"
-          }
-        ],
-        "mbid": "31839cac-6086-43d8-a666-2ffd52c9fdfe",
-        "album": {
-          "mbid": "beca2393-9d02-4c9d-96a4-3de7c950d524",
-          "#text": "MAYBE"
-        },
-        "name": "There's Still A Light In The House",
-        "url": "https://www.last.fm/music/Valley/_/There%27s+Still+A+Light+In+The+House",
-        "date": {
-          "uts": "1715357827",
-          "#text": "10 May 2024, 16:17"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4896"
+      "total": "4898"
     }
   }
 }
