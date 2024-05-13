@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Valley/_/homebody"
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1715597555",
+          "#text": "13 May 2024, 10:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1715597379",
+          "#text": "13 May 2024, 10:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
           "#text": "Peder Elias"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1715358605",
           "#text": "10 May 2024, 16:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42df46055bde5d4a69c6910d359606b6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42df46055bde5d4a69c6910d359606b6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42df46055bde5d4a69c6910d359606b6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42df46055bde5d4a69c6910d359606b6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "The Problem Song - Single"
-        },
-        "name": "The Problem Song",
-        "url": "https://www.last.fm/music/Valley/_/The+Problem+Song",
-        "date": {
-          "uts": "1715358448",
-          "#text": "10 May 2024, 16:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2487515b44d50838388deb180fe77d34.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2487515b44d50838388deb180fe77d34.jpg"
-          }
-        ],
-        "mbid": "0e9c5fed-101b-4a2a-bb50-41e44fde605d",
-        "album": {
-          "mbid": "",
-          "#text": "Last Birthday (The After Party)"
-        },
-        "name": "SOCIETY",
-        "url": "https://www.last.fm/music/Valley/_/SOCIETY",
-        "date": {
-          "uts": "1715358257",
-          "#text": "10 May 2024, 16:24"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4898"
+      "total": "4900"
     }
   }
 }
