@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          }
+        ],
+        "mbid": "19bad7bc-88fd-419c-9bb4-6665f2dfb2d2",
+        "album": {
+          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
+          "#text": "The Band CAMINO"
+        },
+        "name": "Roses",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
