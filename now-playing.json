@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Rainbow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+          "#text": "Down to Earth"
+        },
+        "name": "Since You Been Gone",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "4da75b7a-5773-45b8-98fd-0c9e03613b23",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Castle on the Hill",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
+        "date": {
+          "uts": "1715593749",
+          "#text": "13 May 2024, 09:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1715357536",
           "#text": "10 May 2024, 16:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
-          }
-        ],
-        "mbid": "56b20928-9041-46ac-865c-acb9c4b24882",
-        "album": {
-          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
-          "#text": "This Room is White"
-        },
-        "name": "Swim",
-        "url": "https://www.last.fm/music/Valley/_/Swim",
-        "date": {
-          "uts": "1715357213",
-          "#text": "10 May 2024, 16:06"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4893"
+      "total": "4894"
     }
   }
 }
