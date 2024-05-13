@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
+          }
+        ],
+        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
+        "album": {
+          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
+          "#text": "gg bb xx (deluxe)"
+        },
+        "name": "dna",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/dna"
+      },
+      {
+        "artist": {
+          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
+          "#text": "The Ivy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Have You Ever Been in Love - Single"
+        },
+        "name": "Have You Ever Been in Love",
+        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love",
+        "date": {
+          "uts": "1715594149",
+          "#text": "13 May 2024, 09:55"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Rainbow"
         },
@@ -31,10 +102,11 @@
           "#text": "Down to Earth"
         },
         "name": "Since You Been Gone",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone"
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
+        "date": {
+          "uts": "1715593978",
+          "#text": "13 May 2024, 09:52"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715357827",
           "#text": "10 May 2024, 16:17"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna [demo]",
-        "url": "https://www.last.fm/music/Lany/_/dna+%5Bdemo%5D",
-        "date": {
-          "uts": "1715357647",
-          "#text": "10 May 2024, 16:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
-          }
-        ],
-        "mbid": "6ea66385-6c5e-4c71-b841-0e867a7ddf43",
-        "album": {
-          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
-          "#text": "This Room is White"
-        },
-        "name": "You",
-        "url": "https://www.last.fm/music/Valley/_/You",
-        "date": {
-          "uts": "1715357536",
-          "#text": "10 May 2024, 16:12"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "98",
       "page": "1",
       "perPage": "50",
-      "total": "4894"
+      "total": "4896"
     }
   }
 }
