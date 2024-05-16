@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+          "#text": "Elton John & Dua Lipa"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/684fdaf6362486b4416cf89815247bb6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/684fdaf6362486b4416cf89815247bb6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/684fdaf6362486b4416cf89815247bb6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/684fdaf6362486b4416cf89815247bb6.jpg"
+          }
+        ],
+        "mbid": "a3906438-a1b2-403d-a7c2-7f48fca0a586",
+        "album": {
+          "mbid": "",
+          "#text": "Cold Heart (PNAU Remix) - Single"
+        },
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://www.last.fm/music/Elton+John+&+Dua+Lipa/_/Cold+Heart+(PNAU+Remix)",
+        "date": {
+          "uts": "1715859883",
+          "#text": "16 May 2024, 11:44"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1715359963",
           "#text": "10 May 2024, 16:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1715359752",
-          "#text": "10 May 2024, 16:49"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4906"
+      "total": "4907"
     }
   }
 }
