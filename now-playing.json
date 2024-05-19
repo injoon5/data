@@ -25,16 +25,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
           }
         ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
+        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
         "album": {
           "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
           "#text": "a beautiful blur"
         },
-        "name": "Love At First Fight",
+        "name": "XXL",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight"
+        "url": "https://www.last.fm/music/Lany/_/XXL"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
+          }
+        ],
+        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
+        "album": {
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
+        },
+        "name": "XXL",
+        "url": "https://www.last.fm/music/Lany/_/XXL",
+        "date": {
+          "uts": "1716137646",
+          "#text": "19 May 2024, 16:54"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "9d0a9e5c-a765-40ab-837e-99b0bb197f6c",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Circles",
+        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
+        "date": {
+          "uts": "1716137433",
+          "#text": "19 May 2024, 16:50"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715360803",
           "#text": "10 May 2024, 17:06"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "7dcbc1be-4257-4d64-b915-045dfb23ae88",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Photograph",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
-        "date": {
-          "uts": "1715360572",
-          "#text": "10 May 2024, 17:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
-          "#text": "Tom Grennan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ffb9fe24-e726-44e3-9db9-b8820932343f",
-        "album": {
-          "mbid": "",
-          "#text": "All These Nights - Single"
-        },
-        "name": "All These Nights",
-        "url": "https://www.last.fm/music/Tom+Grennan/_/All+These+Nights",
-        "date": {
-          "uts": "1715360365",
-          "#text": "10 May 2024, 16:59"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4909"
+      "total": "4911"
     }
   }
 }
