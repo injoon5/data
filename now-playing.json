@@ -33,6 +33,42 @@
         "name": "Blinding Lights",
         "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
         "date": {
+          "uts": "1716362063",
+          "#text": "22 May 2024, 07:14"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "date": {
           "uts": "1716137999",
           "#text": "19 May 2024, 16:59"
         }
@@ -1764,42 +1800,6 @@
           "uts": "1715361217",
           "#text": "10 May 2024, 17:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "GROWING PAINS - Single"
-        },
-        "name": "Growing Pains",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains",
-        "date": {
-          "uts": "1715361006",
-          "#text": "10 May 2024, 17:10"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4912"
+      "total": "4913"
     }
   }
 }
