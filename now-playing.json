@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face"
+      },
+      {
+        "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Wish You Loved Me - Single"
+        },
+        "name": "i wish you loved me",
+        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
+        "date": {
+          "uts": "1716547246",
+          "#text": "24 May 2024, 10:40"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
           "#text": "Nightly"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1715362812",
           "#text": "10 May 2024, 17:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "28d93e0c-2779-4cdd-8513-82cb179c5460",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Dumb Stuff",
-        "url": "https://www.last.fm/music/Lany/_/Dumb+Stuff",
-        "date": {
-          "uts": "1715362618",
-          "#text": "10 May 2024, 17:36"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4920"
+      "total": "4921"
     }
   }
 }
