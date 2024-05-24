@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "0ee82c4c-f201-4281-b1da-c43c40d168ba",
+          "#text": "Josef Salvat"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f62a2d2d433b1f14043655acbafd1302.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f62a2d2d433b1f14043655acbafd1302.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f62a2d2d433b1f14043655acbafd1302.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f62a2d2d433b1f14043655acbafd1302.jpg"
+          }
+        ],
+        "mbid": "09655545-e834-4687-9c02-5e90e1cefd5e",
+        "album": {
+          "mbid": "",
+          "#text": "in the afternoon - Single"
+        },
+        "name": "in the afternoon",
+        "url": "https://www.last.fm/music/Josef+Salvat/_/in+the+afternoon",
+        "date": {
+          "uts": "1716569386",
+          "#text": "24 May 2024, 16:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +67,11 @@
           "#text": "love + everything else"
         },
         "name": "if we never met",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/if+we+never+met"
+        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
+        "date": {
+          "uts": "1716569213",
+          "#text": "24 May 2024, 16:46"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1715367076",
           "#text": "10 May 2024, 18:51"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "pink skies",
-        "url": "https://www.last.fm/music/Lany/_/pink+skies",
-        "date": {
-          "uts": "1715366959",
-          "#text": "10 May 2024, 18:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1715366760",
-          "#text": "10 May 2024, 18:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4937"
+      "total": "4939"
     }
   }
 }
