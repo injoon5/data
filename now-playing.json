@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "9d0a9e5c-a765-40ab-837e-99b0bb197f6c",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Circles",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Post+Malone/_/Circles"
+      },
+      {
+        "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de33650984273a54786a0fe33fefb4.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de33650984273a54786a0fe33fefb4.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "If I Can't Have You - Single"
+        },
+        "name": "If I Can't Have You",
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/If+I+Can%27t+Have+You",
+        "date": {
+          "uts": "1716547574",
+          "#text": "24 May 2024, 10:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +102,11 @@
           "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
         },
         "name": "Off My Face",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
+        "date": {
+          "uts": "1716547397",
+          "#text": "24 May 2024, 10:43"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715363383",
           "#text": "10 May 2024, 17:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1715363032",
-          "#text": "10 May 2024, 17:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "34b030b2-8a4f-4a4f-9290-6f13480bbe85",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "The Breakup",
-        "url": "https://www.last.fm/music/Lany/_/The+Breakup",
-        "date": {
-          "uts": "1715362812",
-          "#text": "10 May 2024, 17:40"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4921"
+      "total": "4923"
     }
   }
 }
