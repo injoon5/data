@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1716547970",
+          "#text": "24 May 2024, 10:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
           "#text": "Post Malone"
         },
@@ -31,10 +102,11 @@
           "#text": "Hollywood's Bleeding"
         },
         "name": "Circles",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles"
+        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
+        "date": {
+          "uts": "1716547780",
+          "#text": "24 May 2024, 10:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1715363898",
           "#text": "10 May 2024, 17:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1715363607",
-          "#text": "10 May 2024, 17:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "aabdeac0-a8aa-4965-9873-44e64d8d8864",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "ILYSB",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB",
-        "date": {
-          "uts": "1715363383",
-          "#text": "10 May 2024, 17:49"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4923"
+      "total": "4925"
     }
   }
 }
