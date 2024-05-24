@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f77479adf0864e8f813758c71896ffda.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f77479adf0864e8f813758c71896ffda.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "idle - EP"
+        },
+        "name": "Talk Is Overrated (feat. blackbear)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Talk+Is+Overrated+(feat.+blackbear)"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jeremy Zucker, Lauv & Alexander 23"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c00824189460a093980f0655dd51a3ae.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Cozy - Single"
+        },
+        "name": "Cozy",
+        "url": "https://www.last.fm/music/Jeremy+Zucker,+Lauv+&+Alexander+23/_/Cozy",
+        "date": {
+          "uts": "1716568270",
+          "#text": "24 May 2024, 16:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1715365890",
           "#text": "10 May 2024, 18:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "1f24a63b-9bb7-4983-966d-9cea253cb717",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Walk Away",
-        "url": "https://www.last.fm/music/Lany/_/Walk+Away",
-        "date": {
-          "uts": "1715365671",
-          "#text": "10 May 2024, 18:27"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4933"
+      "total": "4934"
     }
   }
 }
