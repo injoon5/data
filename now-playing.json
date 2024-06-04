@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
+        },
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)"
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Be Alright // U Sometimes - Single"
+        },
+        "name": "U Sometimes",
+        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
+        "date": {
+          "uts": "1717502253",
+          "#text": "04 Jun 2024, 11:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "Without You - EP"
         },
         "name": "Love Somebody",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody"
+        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
+        "date": {
+          "uts": "1717502097",
+          "#text": "04 Jun 2024, 11:54"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1716548745",
           "#text": "24 May 2024, 11:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d957bd27dd562bee7aaa89eafa0bbe6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
-          "#text": "After Hours"
-        },
-        "name": "Blinding Lights",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
-        "date": {
-          "uts": "1716548547",
-          "#text": "24 May 2024, 11:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
-          }
-        ],
-        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
-        "album": {
-          "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
-        },
-        "name": "homebody",
-        "url": "https://www.last.fm/music/Valley/_/homebody",
-        "date": {
-          "uts": "1716548351",
-          "#text": "24 May 2024, 10:59"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4976"
+      "total": "4978"
     }
   }
 }
