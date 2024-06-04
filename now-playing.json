@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Sam Smith & Normani"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "5e3652ca-1e7f-4a5e-ad7a-d825432c99e2",
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
         "album": {
           "mbid": "",
-          "#text": "Dancing with a Stranger - Single"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "Dancing With A Stranger",
+        "name": "Paris in the Rain",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Sam+Smith+&+Normani/_/Dancing+With+A+Stranger"
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Lonely Eyes",
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
+        "date": {
+          "uts": "1717493979",
+          "#text": "04 Jun 2024, 09:39"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1715597379",
           "#text": "13 May 2024, 10:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99020e34f25739d2b42eb8320d15ada1.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Love & Loneliness"
-        },
-        "name": "Better Alone",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Better+Alone",
-        "date": {
-          "uts": "1715594508",
-          "#text": "13 May 2024, 10:01"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "99",
       "page": "1",
       "perPage": "50",
-      "total": "4947"
+      "total": "4948"
     }
   }
 }
