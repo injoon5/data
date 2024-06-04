@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
+          "mbid": "",
+          "#text": "a-ha"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
         "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
         },
-        "name": "There\u2019s a First Time for Everything",
+        "name": "Take On Me",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything"
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "a-ha"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          }
+        ],
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "album": {
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
+        },
+        "name": "Take On Me",
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
+        "date": {
+          "uts": "1717508755",
+          "#text": "04 Jun 2024, 13:45"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jung Kook & Latto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          }
+        ],
+        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+        "album": {
+          "mbid": "",
+          "#text": "Seven - Single"
+        },
+        "name": "Seven",
+        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
+        "date": {
+          "uts": "1717508549",
+          "#text": "04 Jun 2024, 13:42"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717496660",
           "#text": "04 Jun 2024, 10:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          }
-        ],
-        "mbid": "aa36d936-68d8-4c9a-a74d-5266a7319f34",
-        "album": {
-          "mbid": "",
-          "#text": "glisten - EP"
-        },
-        "name": "all the kids are depressed",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/all+the+kids+are+depressed",
-        "date": {
-          "uts": "1717496472",
-          "#text": "04 Jun 2024, 10:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1717496293",
-          "#text": "04 Jun 2024, 10:18"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5009"
+      "total": "5011"
     }
   }
 }
