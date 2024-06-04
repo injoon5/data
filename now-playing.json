@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
-          "#text": "New Hope Club"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c135b05a30519b74816b002968f9d77e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c135b05a30519b74816b002968f9d77e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c135b05a30519b74816b002968f9d77e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c135b05a30519b74816b002968f9d77e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
           }
         ],
-        "mbid": "7f56c8ab-8090-4bec-bcde-f5342d885637",
+        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
         "album": {
           "mbid": "",
-          "#text": "Welcome To The Club (Pt.2) - EP"
+          "#text": "Love U Like That - Single"
         },
-        "name": "Crazy",
+        "name": "Love U Like That",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Crazy"
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That"
+      },
+      {
+        "artist": {
+          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
+          "#text": "Sam Ryder"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
+          }
+        ],
+        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
+        "album": {
+          "mbid": "",
+          "#text": "More - Single"
+        },
+        "name": "More",
+        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
+        "date": {
+          "uts": "1717510962",
+          "#text": "04 Jun 2024, 14:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+          "#text": "Khalid"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
+          "#text": "Free Spirit"
+        },
+        "name": "Talk (feat. Disclosure)",
+        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
+        "date": {
+          "uts": "1717510748",
+          "#text": "04 Jun 2024, 14:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
+          }
+        ],
+        "mbid": "d40d7b70-570f-4494-a51a-4aa389f45e70",
+        "album": {
+          "mbid": "",
+          "#text": "Celestial - Single"
+        },
+        "name": "Celestial",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
+        "date": {
+          "uts": "1717510545",
+          "#text": "04 Jun 2024, 14:15"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jeremy Zucker, Lauv & Alexander 23"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c00824189460a093980f0655dd51a3ae.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c00824189460a093980f0655dd51a3ae.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Cozy - Single"
+        },
+        "name": "Cozy",
+        "url": "https://www.last.fm/music/Jeremy+Zucker,+Lauv+&+Alexander+23/_/Cozy",
+        "date": {
+          "uts": "1717510357",
+          "#text": "04 Jun 2024, 14:12"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1717501204",
           "#text": "04 Jun 2024, 11:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Invisible Things",
-        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
-        "date": {
-          "uts": "1717501001",
-          "#text": "04 Jun 2024, 11:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "henry moodie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          }
-        ],
-        "mbid": "d83d68f7-c540-4de2-9313-e607296260d5",
-        "album": {
-          "mbid": "",
-          "#text": "drunk text - Single"
-        },
-        "name": "drunk text",
-        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
-        "date": {
-          "uts": "1717500809",
-          "#text": "04 Jun 2024, 11:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "parachute",
-        "url": "https://www.last.fm/music/John+K/_/parachute",
-        "date": {
-          "uts": "1717500635",
-          "#text": "04 Jun 2024, 11:30"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
-          "#text": "MAX & Ali Gatie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b185bb240b26000619afa912285064a0.jpg"
-          }
-        ],
-        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
-        "album": {
-          "mbid": "",
-          "#text": "WHO HURT YOU? (Deluxe)"
-        },
-        "name": "Butterflies",
-        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies",
-        "date": {
-          "uts": "1717500461",
-          "#text": "04 Jun 2024, 11:27"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5018"
+      "total": "5022"
     }
   }
 }
