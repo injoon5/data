@@ -3,6 +3,257 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Purpose (Deluxe)"
+        },
+        "name": "Sorry",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry"
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1717505220",
+          "#text": "04 Jun 2024, 12:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
+          }
+        ],
+        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
+        "album": {
+          "mbid": "",
+          "#text": "Light Switch - Single"
+        },
+        "name": "Light Switch",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
+        "date": {
+          "uts": "1717505016",
+          "#text": "04 Jun 2024, 12:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
+          }
+        ],
+        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
+        "album": {
+          "mbid": "",
+          "#text": "Reasons You Should Care - EP"
+        },
+        "name": "Outside",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
+        "date": {
+          "uts": "1717504837",
+          "#text": "04 Jun 2024, 12:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
+        "date": {
+          "uts": "1717504658",
+          "#text": "04 Jun 2024, 12:37"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
+          "#text": "Trevor Daniel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
+          }
+        ],
+        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
+        "album": {
+          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
+          "#text": "Nicotine"
+        },
+        "name": "Falling",
+        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
+        "date": {
+          "uts": "1717504486",
+          "#text": "04 Jun 2024, 12:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
+          "#text": "Hugo Helmig"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          }
+        ],
+        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
+        "album": {
+          "mbid": "",
+          "#text": "Champagne Problems - Single"
+        },
+        "name": "Champagne Problems",
+        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
+        "date": {
+          "uts": "1717504316",
+          "#text": "04 Jun 2024, 12:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
           "#text": "Toto"
         },
@@ -31,10 +282,11 @@
           "#text": "Toto IV"
         },
         "name": "Africa",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Toto/_/Africa"
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1717504078",
+          "#text": "04 Jun 2024, 12:27"
+        }
       },
       {
         "artist": {
@@ -1583,258 +1835,6 @@
           "uts": "1716570952",
           "#text": "24 May 2024, 17:15"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Smells Like Me",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
-        "date": {
-          "uts": "1716570742",
-          "#text": "24 May 2024, 17:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "ex i never had",
-        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
-        "date": {
-          "uts": "1716570538",
-          "#text": "24 May 2024, 17:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          }
-        ],
-        "mbid": "4d5ea684-6127-4506-b7b3-c5ea5a1eb1d8",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1716570345",
-          "#text": "24 May 2024, 17:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Rainbow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
-          "#text": "Down to Earth"
-        },
-        "name": "Since You Been Gone",
-        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
-        "date": {
-          "uts": "1716570155",
-          "#text": "24 May 2024, 17:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0ee82c4c-f201-4281-b1da-c43c40d168ba",
-          "#text": "Josef Salvat"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f62a2d2d433b1f14043655acbafd1302.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f62a2d2d433b1f14043655acbafd1302.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f62a2d2d433b1f14043655acbafd1302.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f62a2d2d433b1f14043655acbafd1302.jpg"
-          }
-        ],
-        "mbid": "09655545-e834-4687-9c02-5e90e1cefd5e",
-        "album": {
-          "mbid": "",
-          "#text": "in the afternoon - Single"
-        },
-        "name": "in the afternoon",
-        "url": "https://www.last.fm/music/Josef+Salvat/_/in+the+afternoon",
-        "date": {
-          "uts": "1716569386",
-          "#text": "24 May 2024, 16:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "if we never met",
-        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
-        "date": {
-          "uts": "1716569213",
-          "#text": "24 May 2024, 16:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
-          "#text": "Khalid"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
-          "#text": "Free Spirit"
-        },
-        "name": "Talk (feat. Disclosure)",
-        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
-        "date": {
-          "uts": "1716569041",
-          "#text": "24 May 2024, 16:44"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4986"
+      "total": "4993"
     }
   }
 }
