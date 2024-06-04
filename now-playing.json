@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "VaultBoy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          }
+        ],
+        "mbid": "f9e9f59b-fa57-43a8-ba6d-5a4c28769e67",
+        "album": {
+          "mbid": "",
+          "#text": "everything and nothing"
+        },
+        "name": "closer (feat. salem ilese)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/VaultBoy/_/closer+(feat.+salem+ilese)"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "VaultBoy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/349d8499cb6a398c698fd3ed3839afaf.jpg"
+          }
+        ],
+        "mbid": "f9e9f59b-fa57-43a8-ba6d-5a4c28769e67",
+        "album": {
+          "mbid": "",
+          "#text": "everything and nothing"
+        },
+        "name": "closer (feat. salem ilese)",
+        "url": "https://www.last.fm/music/VaultBoy/_/closer+(feat.+salem+ilese)",
+        "date": {
+          "uts": "1717498209",
+          "#text": "04 Jun 2024, 10:50"
+        }
+      },
+      {
+        "artist": {
           "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
           "#text": "The Ivy"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1716529976",
           "#text": "24 May 2024, 05:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Yorke & joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95d66fcae200650a5e6ac8014f745363.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "ten feet tall - EP"
-        },
-        "name": "Window Shopping",
-        "url": "https://www.last.fm/music/Yorke+&+joan/_/Window+Shopping",
-        "date": {
-          "uts": "1716529749",
-          "#text": "24 May 2024, 05:49"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4964"
+      "total": "4965"
     }
   }
 }
