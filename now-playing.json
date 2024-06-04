@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+          "#text": "Lady Gaga"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e392eb741af2d6b8fe765468a8ecc3e.jpg"
+          }
+        ],
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
+        "album": {
+          "mbid": "",
+          "#text": "Top Gun: Maverick (Music from the Motion Picture)"
+        },
+        "name": "Hold My Hand",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand"
+      },
+      {
+        "artist": {
+          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+          "#text": "Lady Gaga"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          }
+        ],
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
+        "album": {
+          "mbid": "",
+          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
+        },
+        "name": "Hold My Hand",
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
+        "date": {
+          "uts": "1717505971",
+          "#text": "04 Jun 2024, 12:59"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1717505785",
+          "#text": "04 Jun 2024, 12:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "5d27a55a-5731-4ef5-a3ad-d5b44251db0f",
+          "#text": "JP Saxe"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11ae41e1b42d3aa2cc36e2a45d759071.jpg"
+          }
+        ],
+        "mbid": "0398c9d8-c8db-4022-942a-dd1d414a402d",
+        "album": {
+          "mbid": "",
+          "#text": "Hey Stupid, I Love You - Single"
+        },
+        "name": "Hey Stupid, I Love You",
+        "url": "https://www.last.fm/music/JP+Saxe/_/Hey+Stupid,+I+Love+You",
+        "date": {
+          "uts": "1717505622",
+          "#text": "04 Jun 2024, 12:53"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -31,10 +174,11 @@
           "#text": "Purpose (Deluxe)"
         },
         "name": "Sorry",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry",
+        "date": {
+          "uts": "1717505431",
+          "#text": "04 Jun 2024, 12:50"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1717493979",
           "#text": "04 Jun 2024, 09:39"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sam Smith & Normani"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92fdc5a5fdb8cd05a49437f7eb8bf879.jpg"
-          }
-        ],
-        "mbid": "5e3652ca-1e7f-4a5e-ad7a-d825432c99e2",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing with a Stranger - Single"
-        },
-        "name": "Dancing With A Stranger",
-        "url": "https://www.last.fm/music/Sam+Smith+&+Normani/_/Dancing+With+A+Stranger",
-        "date": {
-          "uts": "1717493789",
-          "#text": "04 Jun 2024, 09:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sad Forever",
-        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
-        "date": {
-          "uts": "1716611070",
-          "#text": "25 May 2024, 04:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Love At First Fight",
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
-        "date": {
-          "uts": "1716571158",
-          "#text": "24 May 2024, 17:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
-          "#text": "Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92262af4400a20ae87c278e98d9b41dc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92262af4400a20ae87c278e98d9b41dc.jpg"
-          }
-        ],
-        "mbid": "0070ec3b-2f03-46e6-83d5-ae7c5ad11d6e",
-        "album": {
-          "mbid": "",
-          "#text": "Doo-Wops & Hooligans (Deluxe)"
-        },
-        "name": "Talking to the Moon",
-        "url": "https://www.last.fm/music/Bruno+Mars/_/Talking+to+the+Moon",
-        "date": {
-          "uts": "1716570952",
-          "#text": "24 May 2024, 17:15"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4993"
+      "total": "4997"
     }
   }
 }
