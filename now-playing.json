@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1717511815",
+          "#text": "04 Jun 2024, 14:36"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +102,11 @@
           "#text": "mama's boy"
         },
         "name": "cowboy in LA",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA"
+        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
+        "date": {
+          "uts": "1717511591",
+          "#text": "04 Jun 2024, 14:33"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717502097",
           "#text": "04 Jun 2024, 11:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Lauv/_/Changes",
-        "date": {
-          "uts": "1717501946",
-          "#text": "04 Jun 2024, 11:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "ex i never had",
-        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
-        "date": {
-          "uts": "1717501764",
-          "#text": "04 Jun 2024, 11:49"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5024"
+      "total": "5026"
     }
   }
 }
