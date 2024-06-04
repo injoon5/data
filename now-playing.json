@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Invisible Things",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Invisible Things",
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1717501001",
+          "#text": "04 Jun 2024, 11:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "henry moodie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          }
+        ],
+        "mbid": "d83d68f7-c540-4de2-9313-e607296260d5",
+        "album": {
+          "mbid": "",
+          "#text": "drunk text - Single"
+        },
+        "name": "drunk text",
+        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
+        "date": {
+          "uts": "1717500809",
+          "#text": "04 Jun 2024, 11:33"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +138,11 @@
           "#text": "love + everything else"
         },
         "name": "parachute",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/parachute"
+        "url": "https://www.last.fm/music/John+K/_/parachute",
+        "date": {
+          "uts": "1717500635",
+          "#text": "04 Jun 2024, 11:30"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1716547574",
           "#text": "24 May 2024, 10:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
-          }
-        ],
-        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
-        "album": {
-          "mbid": "",
-          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
-        },
-        "name": "Off My Face",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face",
-        "date": {
-          "uts": "1716547397",
-          "#text": "24 May 2024, 10:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "I Wish You Loved Me - Single"
-        },
-        "name": "i wish you loved me",
-        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
-        "date": {
-          "uts": "1716547246",
-          "#text": "24 May 2024, 10:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "I Wish You Loved Me - Single"
-        },
-        "name": "i wish you loved me",
-        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
-        "date": {
-          "uts": "1716545117",
-          "#text": "24 May 2024, 10:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4969"
+      "total": "4972"
     }
   }
 }
