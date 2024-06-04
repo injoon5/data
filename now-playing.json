@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "cowboy in LA",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3491a32df0e1fb480292f640c56841f7.jpg"
+          }
+        ],
+        "mbid": "1d1931f9-0eff-457b-b22f-91e623878b99",
+        "album": {
+          "mbid": "",
+          "#text": "Hero - Single"
+        },
+        "name": "Hero",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Hero",
+        "date": {
+          "uts": "1717511386",
+          "#text": "04 Jun 2024, 14:29"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "Love U Like That - Single"
         },
         "name": "Love U Like That",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That"
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
+        "date": {
+          "uts": "1717511181",
+          "#text": "04 Jun 2024, 14:26"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717501764",
           "#text": "04 Jun 2024, 11:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
-          }
-        ],
-        "mbid": "e1a8083b-0d37-4e0e-bfdc-1899efd9ca7d",
-        "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
-        },
-        "name": "Less Than Zero",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Less+Than+Zero",
-        "date": {
-          "uts": "1717501413",
-          "#text": "04 Jun 2024, 11:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          }
-        ],
-        "mbid": "5b5d7bba-3e2e-4cb0-a7c3-1830fd54bca0",
-        "album": {
-          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
-          "#text": "Nine Track Mind"
-        },
-        "name": "Left Right Left",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Left+Right+Left",
-        "date": {
-          "uts": "1717501204",
-          "#text": "04 Jun 2024, 11:40"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5022"
+      "total": "5024"
     }
   }
 }
