@@ -31,10 +31,11 @@
           "#text": "Better in My Head - Single"
         },
         "name": "Better in My Head",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Ivy/_/Better+in+My+Head"
+        "url": "https://www.last.fm/music/The+Ivy/_/Better+in+My+Head",
+        "date": {
+          "uts": "1717497083",
+          "#text": "04 Jun 2024, 10:31"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1716529749",
           "#text": "24 May 2024, 05:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Love At First Fight",
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
-        "date": {
-          "uts": "1716529557",
-          "#text": "24 May 2024, 05:45"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "100",
       "page": "1",
       "perPage": "50",
-      "total": "4963"
+      "total": "4964"
     }
   }
 }
