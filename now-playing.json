@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "7027c169-8bb9-3adf-ae67-25baf0d2e85a",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Andrea Bocelli"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f509af59c4e7c355aa5a5d57d8772c3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "0d60b75e-2934-4807-b7d3-1dde4b28bc40",
+          "#text": "Amore"
+        },
+        "name": "Can't Help Falling in Love (Live at Lake Las Vegas, 2005)",
+        "url": "https://www.last.fm/music/Andrea+Bocelli/_/Can%27t+Help+Falling+in+Love+(Live+at+Lake+Las+Vegas,+2005)",
+        "date": {
+          "uts": "1718011358",
+          "#text": "10 Jun 2024, 09:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
+        },
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
+        "date": {
+          "uts": "1718011172",
+          "#text": "10 Jun 2024, 09:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+          "#text": "Eric Clapton"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "4645ee33-5e85-4af9-b321-70d55b1db029",
+          "#text": "Classic Eric Clapton"
+        },
+        "name": "Wonderful Tonight",
+        "url": "https://www.last.fm/music/Eric+Clapton/_/Wonderful+Tonight",
+        "date": {
+          "uts": "1718010978",
+          "#text": "10 Jun 2024, 09:16"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -31,10 +174,11 @@
           "#text": "The Band CAMINO"
         },
         "name": "Roses",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses"
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses",
+        "date": {
+          "uts": "1718010775",
+          "#text": "10 Jun 2024, 09:12"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1717505016",
           "#text": "04 Jun 2024, 12:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
-          }
-        ],
-        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
-        "album": {
-          "mbid": "",
-          "#text": "Reasons You Should Care - EP"
-        },
-        "name": "Outside",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
-        "date": {
-          "uts": "1717504837",
-          "#text": "04 Jun 2024, 12:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
-        "date": {
-          "uts": "1717504658",
-          "#text": "04 Jun 2024, 12:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          }
-        ],
-        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
-        "album": {
-          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
-          "#text": "Nicotine"
-        },
-        "name": "Falling",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
-        "date": {
-          "uts": "1717504486",
-          "#text": "04 Jun 2024, 12:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
-          "#text": "Hugo Helmig"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          }
-        ],
-        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
-        "album": {
-          "mbid": "",
-          "#text": "Champagne Problems - Single"
-        },
-        "name": "Champagne Problems",
-        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
-        "date": {
-          "uts": "1717504316",
-          "#text": "04 Jun 2024, 12:31"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5037"
+      "total": "5041"
     }
   }
 }
