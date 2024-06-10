@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
           }
         ],
-        "mbid": "15da66a5-e557-469f-9143-573bd5fc7316",
+        "mbid": "dbc2d8c2-2028-4401-b7da-5b55f2bb696b",
         "album": {
-          "mbid": "",
-          "#text": "Alone - Single"
+          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
+          "#text": "- (Deluxe)"
         },
-        "name": "Alone",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Alone"
+        "name": "Eyes Closed",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
+        "date": {
+          "uts": "1718012038",
+          "#text": "10 Jun 2024, 09:33"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1717505622",
           "#text": "04 Jun 2024, 12:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Sorry",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry",
-        "date": {
-          "uts": "1717505431",
-          "#text": "04 Jun 2024, 12:50"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5043"
+      "total": "5044"
     }
   }
 }
