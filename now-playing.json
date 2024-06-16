@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          }
+        ],
+        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
+        "album": {
+          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
+          "#text": "Nine Track Mind"
+        },
+        "name": "Dangerously",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
+          }
+        ],
+        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
+        "album": {
+          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
+          "#text": "Nine Track Mind"
+        },
+        "name": "Dangerously",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
+        "date": {
+          "uts": "1718536249",
+          "#text": "16 Jun 2024, 11:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Weeknd & Ariana Grande"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419086d31cc73d879e0a179dcdd1f138.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419086d31cc73d879e0a179dcdd1f138.jpg"
+          }
+        ],
+        "mbid": "5c88a540-7f18-4ce7-b64f-29879a0d6452",
+        "album": {
+          "mbid": "",
+          "#text": "Save Your Tears (Remix) - Single"
+        },
+        "name": "Save Your Tears (Remix)",
+        "url": "https://www.last.fm/music/The+Weeknd+&+Ariana+Grande/_/Save+Your+Tears+(Remix)",
+        "date": {
+          "uts": "1718536054",
+          "#text": "16 Jun 2024, 11:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
+          "#text": "Flor"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/08258b927eeeb700533cb736aad54d27.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/08258b927eeeb700533cb736aad54d27.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/08258b927eeeb700533cb736aad54d27.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/08258b927eeeb700533cb736aad54d27.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "GROWING PAINS - Single"
+          "#text": "Tethered - Single"
         },
-        "name": "Growing Pains",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Tethered",
+        "url": "https://www.last.fm/music/Flor/_/Tethered",
+        "date": {
+          "uts": "1718535863",
+          "#text": "16 Jun 2024, 11:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "5b2c2647-4fd9-4a91-a61c-0adc160954a5",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Loser",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
+        "date": {
+          "uts": "1718535665",
+          "#text": "16 Jun 2024, 11:01"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1717509540",
           "#text": "04 Jun 2024, 13:59"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          }
-        ],
-        "mbid": "15da66a5-e557-469f-9143-573bd5fc7316",
-        "album": {
-          "mbid": "",
-          "#text": "Alone - Single"
-        },
-        "name": "Alone",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Alone",
-        "date": {
-          "uts": "1717509365",
-          "#text": "04 Jun 2024, 13:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
-          }
-        ],
-        "mbid": "481df895-2b54-48ea-9b64-b8106e4ee524",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
-        },
-        "name": "I'm Not the Only One",
-        "url": "https://www.last.fm/music/Sam+Smith/_/I%27m+Not+the+Only+One",
-        "date": {
-          "uts": "1717509145",
-          "#text": "04 Jun 2024, 13:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "138d7520-9b70-49c8-b6e5-df41b489fc5d",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Sims",
-        "url": "https://www.last.fm/music/Lauv/_/Sims",
-        "date": {
-          "uts": "1717508947",
-          "#text": "04 Jun 2024, 13:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take On Me",
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
-        "date": {
-          "uts": "1717508755",
-          "#text": "04 Jun 2024, 13:45"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5060"
+      "total": "5064"
     }
   }
 }
