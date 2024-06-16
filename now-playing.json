@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
-          "#text": "Ellie Goulding"
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
           }
         ],
-        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
+        "mbid": "71f83a26-7d07-3938-afc6-320131986db3",
         "album": {
-          "mbid": "",
-          "#text": "Delirium (Deluxe)"
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
         },
-        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)"
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1718537317",
+          "#text": "16 Jun 2024, 11:28"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1717510545",
           "#text": "04 Jun 2024, 14:15"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jeremy Zucker, Lauv & Alexander 23"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c00824189460a093980f0655dd51a3ae.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Cozy - Single"
-        },
-        "name": "Cozy",
-        "url": "https://www.last.fm/music/Jeremy+Zucker,+Lauv+&+Alexander+23/_/Cozy",
-        "date": {
-          "uts": "1717510357",
-          "#text": "04 Jun 2024, 14:12"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5068"
+      "total": "5069"
     }
   }
 }
