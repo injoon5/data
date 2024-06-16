@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+          "#text": "Ellie Goulding"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
+          }
+        ],
+        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
+        "album": {
+          "mbid": "",
+          "#text": "Delirium (Deluxe)"
+        },
+        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)"
+      },
+      {
+        "artist": {
+          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+          "#text": "Ellie Goulding"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
+          }
+        ],
+        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
+        "album": {
+          "mbid": "",
+          "#text": "Delirium (Deluxe)"
+        },
+        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)",
+        "date": {
+          "uts": "1718537043",
+          "#text": "16 Jun 2024, 11:24"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Invisible Things",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things"
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1718536818",
+          "#text": "16 Jun 2024, 11:20"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717510357",
           "#text": "04 Jun 2024, 14:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
-          "#text": "New Hope Club"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c135b05a30519b74816b002968f9d77e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c135b05a30519b74816b002968f9d77e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c135b05a30519b74816b002968f9d77e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c135b05a30519b74816b002968f9d77e.jpg"
-          }
-        ],
-        "mbid": "7f56c8ab-8090-4bec-bcde-f5342d885637",
-        "album": {
-          "mbid": "",
-          "#text": "Welcome To The Club (Pt.2) - EP"
-        },
-        "name": "Crazy",
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Crazy",
-        "date": {
-          "uts": "1717510157",
-          "#text": "04 Jun 2024, 14:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "9d0a9e5c-a765-40ab-837e-99b0bb197f6c",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Circles",
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
-        "date": {
-          "uts": "1717509930",
-          "#text": "04 Jun 2024, 14:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5066"
+      "total": "5068"
     }
   }
 }
