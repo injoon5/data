@@ -3,8 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
+          "mbid": "63996a02-ddd2-4b7b-acca-760ae7387d4f",
+          "#text": "The Wldlfe"
         },
         "streamable": "0",
         "image": [
@@ -25,16 +25,124 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "89eff812-afc6-4392-a97b-cc656106b3a6",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "With You - Single"
+          "#text": "Turtleneck - Single"
         },
-        "name": "With You",
+        "name": "Turtleneck",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Mokita/_/With+You"
+        "url": "https://www.last.fm/music/The+Wldlfe/_/Turtleneck"
+      },
+      {
+        "artist": {
+          "mbid": "55e33230-0aa7-4461-931f-ea5e74fefa39",
+          "#text": "Charlie Parker"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/151c165a50d8c4ffbdbf18b235749595.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/151c165a50d8c4ffbdbf18b235749595.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/151c165a50d8c4ffbdbf18b235749595.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/151c165a50d8c4ffbdbf18b235749595.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "cb4dc8e1-5369-49b7-a38d-66edab592091",
+          "#text": "April In Paris: The Genius Of Charlie Parker #2"
+        },
+        "name": "Just Friends",
+        "url": "https://www.last.fm/music/Charlie+Parker/_/Just+Friends",
+        "date": {
+          "uts": "1718532508",
+          "#text": "16 Jun 2024, 10:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": ""
+          },
+          {
+            "size": "medium",
+            "#text": ""
+          },
+          {
+            "size": "large",
+            "#text": ""
+          },
+          {
+            "size": "extralarge",
+            "#text": ""
+          }
+        ],
+        "mbid": "45cbe8bf-99fc-44a6-a369-c69a22e965b2",
+        "album": {
+          "mbid": "",
+          "#text": ""
+        },
+        "name": "Just Friends",
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/Just+Friends",
+        "date": {
+          "uts": "1718532429",
+          "#text": "16 Jun 2024, 10:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "1c68773d-b1db-4529-b9ac-51810ced1a19",
+          "#text": "Why Don't We"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f24561a296597def453990507e94e806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f24561a296597def453990507e94e806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f24561a296597def453990507e94e806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f24561a296597def453990507e94e806.jpg"
+          }
+        ],
+        "mbid": "3f64613d-c662-4bd4-88c5-05da1838e8c9",
+        "album": {
+          "mbid": "12592c06-2bee-4924-ae59-7803525f6ce7",
+          "#text": "8 Letters"
+        },
+        "name": "8 Letters",
+        "url": "https://www.last.fm/music/Why+Don%27t+We/_/8+Letters",
+        "date": {
+          "uts": "1718532277",
+          "#text": "16 Jun 2024, 10:04"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1717506836",
           "#text": "04 Jun 2024, 13:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "eccf0d8a-8e38-4ba8-a13d-dc15337dafbc",
-          "#text": "Sam Fischer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "5928df8d-470a-45a3-90c1-272f5f896dd8",
-        "album": {
-          "mbid": "",
-          "#text": "This City - Single"
-        },
-        "name": "This City",
-        "url": "https://www.last.fm/music/Sam+Fischer/_/This+City",
-        "date": {
-          "uts": "1717506635",
-          "#text": "04 Jun 2024, 13:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Perfect",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Perfect",
-        "date": {
-          "uts": "1717506404",
-          "#text": "04 Jun 2024, 13:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "pink skies",
-        "url": "https://www.last.fm/music/Lany/_/pink+skies",
-        "date": {
-          "uts": "1717506179",
-          "#text": "04 Jun 2024, 13:02"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "101",
       "page": "1",
       "perPage": "50",
-      "total": "5047"
+      "total": "5050"
     }
   }
 }
