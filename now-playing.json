@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
+          "#text": "Peder Elias"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loving You Girl (feat. Hkeem) - Single"
+        },
+        "name": "Loving You Girl (feat. Hkeem)",
+        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
+        "date": {
+          "uts": "1718541361",
+          "#text": "16 Jun 2024, 12:36"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +67,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "Never Not",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Never+Not"
+        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
+        "date": {
+          "uts": "1718540975",
+          "#text": "16 Jun 2024, 12:29"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1717582939",
           "#text": "05 Jun 2024, 10:22"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          }
-        ],
-        "mbid": "19bad7bc-88fd-419c-9bb4-6665f2dfb2d2",
-        "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
-        },
-        "name": "Roses",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Roses",
-        "date": {
-          "uts": "1717513233",
-          "#text": "04 Jun 2024, 15:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "61da985b-0841-4e0a-8400-539b6e14e330",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Out Of My League",
-        "url": "https://www.last.fm/music/Lany/_/Out+Of+My+League",
-        "date": {
-          "uts": "1717513038",
-          "#text": "04 Jun 2024, 14:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5081"
+      "total": "5083"
     }
   }
 }
