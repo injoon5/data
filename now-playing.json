@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "680f16ac-d179-42f2-960b-cb96f28fabda",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Never Not",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Never+Not"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -10,31 +45,248 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
           }
         ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
         "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
         },
-        "name": "Super Far",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Love At First Fight",
+        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
+        "date": {
+          "uts": "1718540775",
+          "#text": "16 Jun 2024, 12:26"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "henry moodie"
         },
-        "url": "https://www.last.fm/music/Lany/_/Super+Far"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
+          }
+        ],
+        "mbid": "d83d68f7-c540-4de2-9313-e607296260d5",
+        "album": {
+          "mbid": "",
+          "#text": "drunk text - Single"
+        },
+        "name": "drunk text",
+        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
+        "date": {
+          "uts": "1718540585",
+          "#text": "16 Jun 2024, 12:23"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Lonely Eyes",
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
+        "date": {
+          "uts": "1718540393",
+          "#text": "16 Jun 2024, 12:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
+          "#text": "Owl City"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71a14744ae084406afed2566027b5f1c.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71a14744ae084406afed2566027b5f1c.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Ocean Eyes (Deluxe Version)"
+        },
+        "name": "Fireflies",
+        "url": "https://www.last.fm/music/Owl+City/_/Fireflies",
+        "date": {
+          "uts": "1718540181",
+          "#text": "16 Jun 2024, 12:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1718539950",
+          "#text": "16 Jun 2024, 12:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+          "#text": "Paul Young"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
+          }
+        ],
+        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
+        "album": {
+          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
+          "#text": "The Secret Of Association"
+        },
+        "name": "Every Time You Go Away",
+        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
+        "date": {
+          "uts": "1718539671",
+          "#text": "16 Jun 2024, 12:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          }
+        ],
+        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
+        "album": {
+          "mbid": "",
+          "#text": "Love U Like That - Single"
+        },
+        "name": "Love U Like That",
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
+        "date": {
+          "uts": "1718539403",
+          "#text": "16 Jun 2024, 12:03"
+        }
       },
       {
         "artist": {
@@ -1583,258 +1835,6 @@
           "uts": "1717513038",
           "#text": "04 Jun 2024, 14:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-          "#text": "BTS"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b22494fbc419657a12f478e95cf9db9b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22494fbc419657a12f478e95cf9db9b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Make It Right (feat. Lauv) - Single"
-        },
-        "name": "Make It Right (feat. Lauv)",
-        "url": "https://www.last.fm/music/BTS/_/Make+It+Right+(feat.+Lauv)",
-        "date": {
-          "uts": "1717512818",
-          "#text": "04 Jun 2024, 14:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
-          }
-        ],
-        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
-        "album": {
-          "mbid": "",
-          "#text": "Waves - Single"
-        },
-        "name": "Waves",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
-        "date": {
-          "uts": "1717512637",
-          "#text": "04 Jun 2024, 14:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
-          }
-        ],
-        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Thinking Out Loud",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
-        "date": {
-          "uts": "1717512429",
-          "#text": "04 Jun 2024, 14:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Weeknd & Ariana Grande"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419086d31cc73d879e0a179dcdd1f138.jpg"
-          }
-        ],
-        "mbid": "5c88a540-7f18-4ce7-b64f-29879a0d6452",
-        "album": {
-          "mbid": "",
-          "#text": "Save Your Tears (Remix) - Single"
-        },
-        "name": "Save Your Tears (Remix)",
-        "url": "https://www.last.fm/music/The+Weeknd+&+Ariana+Grande/_/Save+Your+Tears+(Remix)",
-        "date": {
-          "uts": "1717512192",
-          "#text": "04 Jun 2024, 14:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
-          }
-        ],
-        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Daylight",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
-        "date": {
-          "uts": "1717512015",
-          "#text": "04 Jun 2024, 14:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1717511815",
-          "#text": "04 Jun 2024, 14:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          }
-        ],
-        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
-        "album": {
-          "mbid": "",
-          "#text": "mama's boy"
-        },
-        "name": "cowboy in LA",
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
-        "date": {
-          "uts": "1717511591",
-          "#text": "04 Jun 2024, 14:33"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5074"
+      "total": "5081"
     }
   }
 }
