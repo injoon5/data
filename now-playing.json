@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Jake Scott"
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": ""
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e0169d32677677478a1135edf414e42.png"
           },
           {
             "size": "medium",
-            "#text": ""
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e0169d32677677478a1135edf414e42.png"
           },
           {
             "size": "large",
-            "#text": ""
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e0169d32677677478a1135edf414e42.png"
           },
           {
             "size": "extralarge",
-            "#text": ""
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e0169d32677677478a1135edf414e42.png"
           }
         ],
-        "mbid": "8a156d6d-5422-426c-9401-225385d77437",
+        "mbid": "e2d6c1c4-8310-4fab-b55d-28cd52e94a3c",
         "album": {
           "mbid": "",
-          "#text": ""
+          "#text": "A LOT - Single"
         },
-        "name": "Like No One Does",
+        "name": "A LOT",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Jake+Scott/_/Like+No+One+Does"
+        "url": "https://www.last.fm/music/John+K/_/A+LOT"
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1718534064",
+          "#text": "16 Jun 2024, 10:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
+          "#text": "Utopian"
+        },
+        "name": "We Are Stars (feat. Alyssa Reid)",
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)",
+        "date": {
+          "uts": "1718533929",
+          "#text": "16 Jun 2024, 10:32"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717507405",
           "#text": "04 Jun 2024, 13:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          }
-        ],
-        "mbid": "4d5ea684-6127-4506-b7b3-c5ea5a1eb1d8",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1717507210",
-          "#text": "04 Jun 2024, 13:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81ca4a9413f8be1c57a8aa6c02854898.jpg"
-          }
-        ],
-        "mbid": "30163fc6-b059-404d-b203-9ff60f1922e2",
-        "album": {
-          "mbid": "",
-          "#text": "Potential - Single"
-        },
-        "name": "Potential",
-        "url": "https://www.last.fm/music/Lauv/_/Potential",
-        "date": {
-          "uts": "1717507029",
-          "#text": "04 Jun 2024, 13:17"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5051"
+      "total": "5053"
     }
   }
 }
