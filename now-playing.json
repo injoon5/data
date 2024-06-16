@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "GROWING PAINS - Single"
+        },
+        "name": "Growing Pains",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains"
+      },
+      {
+        "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "GROWING PAINS - Single"
+        },
+        "name": "Growing Pains",
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains",
+        "date": {
+          "uts": "1718535461",
+          "#text": "16 Jun 2024, 10:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
           "#text": "Virginia to Vegas"
         },
@@ -31,10 +102,11 @@
           "#text": "Utopian"
         },
         "name": "We Are Stars (feat. Alyssa Reid)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)"
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)",
+        "date": {
+          "uts": "1718535243",
+          "#text": "16 Jun 2024, 10:54"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1717508755",
           "#text": "04 Jun 2024, 13:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jung Kook & Latto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          }
-        ],
-        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
-        "album": {
-          "mbid": "",
-          "#text": "Seven - Single"
-        },
-        "name": "Seven",
-        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
-        "date": {
-          "uts": "1717508549",
-          "#text": "04 Jun 2024, 13:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "There\u2019s a First Time for Everything",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
-        "date": {
-          "uts": "1717508387",
-          "#text": "04 Jun 2024, 13:39"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5058"
+      "total": "5060"
     }
   }
 }
