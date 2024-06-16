@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
+          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
         },
-        "name": "U Sometimes",
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)"
+      },
+      {
+        "artist": {
+          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
+          "#text": "The Ivy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Better in My Head - Single"
+        },
+        "name": "Better in My Head",
+        "url": "https://www.last.fm/music/The+Ivy/_/Better+in+My+Head",
+        "date": {
+          "uts": "1718537990",
+          "#text": "16 Jun 2024, 11:39"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1717511181",
           "#text": "04 Jun 2024, 14:26"
         }
-      },
-      {
-        "artist": {
-          "mbid": "18d28b0c-e84d-43a0-be7d-d5c5abef56ab",
-          "#text": "Sam Ryder"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acc1e7d8638e3f3b950870ea143b3616.jpg"
-          }
-        ],
-        "mbid": "74dafa0b-c09f-479d-854d-d512915600ab",
-        "album": {
-          "mbid": "",
-          "#text": "More - Single"
-        },
-        "name": "More",
-        "url": "https://www.last.fm/music/Sam+Ryder/_/More",
-        "date": {
-          "uts": "1717510962",
-          "#text": "04 Jun 2024, 14:22"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5071"
+      "total": "5072"
     }
   }
 }
