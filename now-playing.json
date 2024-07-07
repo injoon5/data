@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+          }
+        ],
+        "mbid": "a73991ca-5226-4180-9f25-075d5ee3aa3d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "if this is the last time",
+        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
+        "date": {
+          "uts": "1720362775",
+          "#text": "07 Jul 2024, 14:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +102,11 @@
           "#text": "Celestial - Single"
         },
         "name": "Celestial",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
+        "date": {
+          "uts": "1720362568",
+          "#text": "07 Jul 2024, 14:29"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1718533743",
           "#text": "16 Jun 2024, 10:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "55e33230-0aa7-4461-931f-ea5e74fefa39",
-          "#text": "Charlie Parker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/151c165a50d8c4ffbdbf18b235749595.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/151c165a50d8c4ffbdbf18b235749595.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/151c165a50d8c4ffbdbf18b235749595.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/151c165a50d8c4ffbdbf18b235749595.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "cb4dc8e1-5369-49b7-a38d-66edab592091",
-          "#text": "April In Paris: The Genius Of Charlie Parker #2"
-        },
-        "name": "Just Friends",
-        "url": "https://www.last.fm/music/Charlie+Parker/_/Just+Friends",
-        "date": {
-          "uts": "1718532508",
-          "#text": "16 Jun 2024, 10:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
-          "#text": "Virginia to Vegas"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": ""
-          },
-          {
-            "size": "medium",
-            "#text": ""
-          },
-          {
-            "size": "large",
-            "#text": ""
-          },
-          {
-            "size": "extralarge",
-            "#text": ""
-          }
-        ],
-        "mbid": "45cbe8bf-99fc-44a6-a369-c69a22e965b2",
-        "album": {
-          "mbid": "",
-          "#text": ""
-        },
-        "name": "Just Friends",
-        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/Just+Friends",
-        "date": {
-          "uts": "1718532429",
-          "#text": "16 Jun 2024, 10:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5098"
+      "total": "5100"
     }
   }
 }
