@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1720365057",
+          "#text": "07 Jul 2024, 15:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sam Smith"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
+        },
+        "name": "Stay with Me (feat. Mary J. Blige) [Radio Edit]",
+        "url": "https://www.last.fm/music/Sam+Smith/_/Stay+with+Me+(feat.+Mary+J.+Blige)+%5BRadio+Edit%5D",
+        "date": {
+          "uts": "1720364868",
+          "#text": "07 Jul 2024, 15:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+          "#text": "Taylor Swift"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3f083370c371a3ba1cddafaf193c27d.jpg"
+          }
+        ],
+        "mbid": "1a722d7d-27e8-492c-b576-9de450eb8a61",
+        "album": {
+          "mbid": "091ad434-48f7-4027-b3d5-939606f52f5c",
+          "#text": "Lover"
+        },
+        "name": "Cruel Summer",
+        "url": "https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer",
+        "date": {
+          "uts": "1720364691",
+          "#text": "07 Jul 2024, 15:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+          "#text": "Lady Gaga"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
+          }
+        ],
+        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
+        "album": {
+          "mbid": "",
+          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
+        },
+        "name": "Hold My Hand",
+        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
+        "date": {
+          "uts": "1720364489",
+          "#text": "07 Jul 2024, 15:01"
+        }
+      },
+      {
+        "artist": {
           "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
           "#text": "Peder Elias"
         },
@@ -31,10 +210,11 @@
           "#text": "Paper Plane - Single"
         },
         "name": "Paper Plane",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane"
+        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
+        "date": {
+          "uts": "1720364311",
+          "#text": "07 Jul 2024, 14:58"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1718536054",
           "#text": "16 Jun 2024, 11:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
-          "#text": "Flor"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/08258b927eeeb700533cb736aad54d27.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/08258b927eeeb700533cb736aad54d27.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/08258b927eeeb700533cb736aad54d27.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/08258b927eeeb700533cb736aad54d27.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Tethered - Single"
-        },
-        "name": "Tethered",
-        "url": "https://www.last.fm/music/Flor/_/Tethered",
-        "date": {
-          "uts": "1718535863",
-          "#text": "16 Jun 2024, 11:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "5b2c2647-4fd9-4a91-a61c-0adc160954a5",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Loser",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Loser",
-        "date": {
-          "uts": "1718535665",
-          "#text": "16 Jun 2024, 11:01"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f50071546fea7ea906d7c3ef3c5993e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "GROWING PAINS - Single"
-        },
-        "name": "Growing Pains",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Growing+Pains",
-        "date": {
-          "uts": "1718535461",
-          "#text": "16 Jun 2024, 10:57"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
-          "#text": "Virginia to Vegas"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
-          "#text": "Utopian"
-        },
-        "name": "We Are Stars (feat. Alyssa Reid)",
-        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)",
-        "date": {
-          "uts": "1718535243",
-          "#text": "16 Jun 2024, 10:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "9d0a9e5c-a765-40ab-837e-99b0bb197f6c",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Circles",
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
-        "date": {
-          "uts": "1718535018",
-          "#text": "16 Jun 2024, 10:50"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5107"
+      "total": "5112"
     }
   }
 }
