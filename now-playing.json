@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
+          "#text": "The Ivy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Have You Ever Been in Love - Single"
+        },
+        "name": "Have You Ever Been in Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love"
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "love + everything else"
+        },
+        "name": "cheap sunglasses",
+        "url": "https://www.last.fm/music/John+K/_/cheap+sunglasses",
+        "date": {
+          "uts": "1720363783",
+          "#text": "07 Jul 2024, 14:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
           "#text": "Fiji Blue"
         },
@@ -31,10 +102,11 @@
           "#text": "It Takes Two - Single"
         },
         "name": "It Takes Two",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two"
+        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
+        "date": {
+          "uts": "1720363604",
+          "#text": "07 Jul 2024, 14:46"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1718534596",
           "#text": "16 Jun 2024, 10:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
-          }
-        ],
-        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
-        "album": {
-          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
-          "#text": "gg bb xx (deluxe)"
-        },
-        "name": "dna",
-        "url": "https://www.last.fm/music/Lany/_/dna",
-        "date": {
-          "uts": "1718534408",
-          "#text": "16 Jun 2024, 10:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e0169d32677677478a1135edf414e42.png"
-          }
-        ],
-        "mbid": "e2d6c1c4-8310-4fab-b55d-28cd52e94a3c",
-        "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
-        },
-        "name": "A LOT",
-        "url": "https://www.last.fm/music/John+K/_/A+LOT",
-        "date": {
-          "uts": "1718534229",
-          "#text": "16 Jun 2024, 10:37"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5103"
+      "total": "5105"
     }
   }
 }
