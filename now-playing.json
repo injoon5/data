@@ -3,38 +3,75 @@
     "track": [
       {
         "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
+        "date": {
+          "uts": "1720365407",
+          "#text": "07 Jul 2024, 15:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
+          }
+        ],
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
+          "#text": "love + everything else"
         },
-        "name": "Paris in the Rain",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+        "name": "if we never met",
+        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
+        "date": {
+          "uts": "1720365232",
+          "#text": "07 Jul 2024, 15:13"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1718536452",
           "#text": "16 Jun 2024, 11:14"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          }
-        ],
-        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
-        "album": {
-          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
-          "#text": "Nine Track Mind"
-        },
-        "name": "Dangerously",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
-        "date": {
-          "uts": "1718536249",
-          "#text": "16 Jun 2024, 11:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Weeknd & Ariana Grande"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419086d31cc73d879e0a179dcdd1f138.jpg"
-          }
-        ],
-        "mbid": "5c88a540-7f18-4ce7-b64f-29879a0d6452",
-        "album": {
-          "mbid": "",
-          "#text": "Save Your Tears (Remix) - Single"
-        },
-        "name": "Save Your Tears (Remix)",
-        "url": "https://www.last.fm/music/The+Weeknd+&+Ariana+Grande/_/Save+Your+Tears+(Remix)",
-        "date": {
-          "uts": "1718536054",
-          "#text": "16 Jun 2024, 11:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5112"
+      "total": "5114"
     }
   }
 }
