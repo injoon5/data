@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "ex i never had",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "ex i never had",
+        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
+        "date": {
+          "uts": "1720361296",
+          "#text": "07 Jul 2024, 14:08"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1718012038",
           "#text": "10 Jun 2024, 09:33"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97cc16749a1d7fed6e6daf6fabfc5c8f.jpg"
-          }
-        ],
-        "mbid": "15da66a5-e557-469f-9143-573bd5fc7316",
-        "album": {
-          "mbid": "",
-          "#text": "Alone - Single"
-        },
-        "name": "Alone",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Alone",
-        "date": {
-          "uts": "1718011848",
-          "#text": "10 Jun 2024, 09:30"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "102",
       "page": "1",
       "perPage": "50",
-      "total": "5092"
+      "total": "5093"
     }
   }
 }
