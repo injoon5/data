@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "80e4e8f9-a430-4602-8acf-2dfdc6f5e034",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "The Story Never Ends",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "80e4e8f9-a430-4602-8acf-2dfdc6f5e034",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "The Story Never Ends",
+        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends",
+        "date": {
+          "uts": "1720972731",
+          "#text": "14 Jul 2024, 15:58"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +102,11 @@
           "#text": "A LOT - Single"
         },
         "name": "A LOT",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/A+LOT"
+        "url": "https://www.last.fm/music/John+K/_/A+LOT",
+        "date": {
+          "uts": "1720972526",
+          "#text": "14 Jul 2024, 15:55"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1718540975",
           "#text": "16 Jun 2024, 12:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
-          }
-        ],
-        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
-        "album": {
-          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
-          "#text": "a beautiful blur"
-        },
-        "name": "Love At First Fight",
-        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
-        "date": {
-          "uts": "1718540775",
-          "#text": "16 Jun 2024, 12:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "henry moodie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          }
-        ],
-        "mbid": "d83d68f7-c540-4de2-9313-e607296260d5",
-        "album": {
-          "mbid": "",
-          "#text": "drunk text - Single"
-        },
-        "name": "drunk text",
-        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
-        "date": {
-          "uts": "1718540585",
-          "#text": "16 Jun 2024, 12:23"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5129"
+      "total": "5131"
     }
   }
 }
