@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "a73991ca-5226-4180-9f25-075d5ee3aa3d",
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
         "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
         },
-        "name": "Save Your Tears",
+        "name": "Smells Like Me",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me"
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "Smells Like Me",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
+        "date": {
+          "uts": "1720972008",
+          "#text": "14 Jul 2024, 15:46"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
+          }
+        ],
+        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
+        "album": {
+          "mbid": "",
+          "#text": "i'm so tired... - Single"
+        },
+        "name": "i'm so tired...",
+        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
+        "date": {
+          "uts": "1720971825",
+          "#text": "14 Jul 2024, 15:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
+          "#text": "Flor"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "1e340a67-6a5c-4ddb-9e9e-bc230b5b3033",
+        "album": {
+          "mbid": "",
+          "#text": "Hold On - Single"
+        },
+        "name": "Hold On",
+        "url": "https://www.last.fm/music/Flor/_/Hold+On",
+        "date": {
+          "uts": "1720971641",
+          "#text": "14 Jul 2024, 15:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Changes",
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1720971459",
+          "#text": "14 Jul 2024, 15:37"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1718540393",
           "#text": "16 Jun 2024, 12:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
-          "#text": "Owl City"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71a14744ae084406afed2566027b5f1c.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71a14744ae084406afed2566027b5f1c.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71a14744ae084406afed2566027b5f1c.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71a14744ae084406afed2566027b5f1c.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Ocean Eyes (Deluxe Version)"
-        },
-        "name": "Fireflies",
-        "url": "https://www.last.fm/music/Owl+City/_/Fireflies",
-        "date": {
-          "uts": "1718540181",
-          "#text": "16 Jun 2024, 12:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "6caaf1c9-90ef-4e4c-aa40-6c72c27a9444",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1718539950",
-          "#text": "16 Jun 2024, 12:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret Of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1718539671",
-          "#text": "16 Jun 2024, 12:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          }
-        ],
-        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
-        "album": {
-          "mbid": "",
-          "#text": "Love U Like That - Single"
-        },
-        "name": "Love U Like That",
-        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
-        "date": {
-          "uts": "1718539403",
-          "#text": "16 Jun 2024, 12:03"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5124"
+      "total": "5128"
     }
   }
 }
