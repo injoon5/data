@@ -3,6 +3,257 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+          }
+        ],
+        "mbid": "a73991ca-5226-4180-9f25-075d5ee3aa3d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+          }
+        ],
+        "mbid": "a73991ca-5226-4180-9f25-075d5ee3aa3d",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
+        "date": {
+          "uts": "1720971265",
+          "#text": "14 Jul 2024, 15:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
+          "#text": "David Alexander"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Dancing Alone - Single"
+        },
+        "name": "Dancing Alone",
+        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone",
+        "date": {
+          "uts": "1720971058",
+          "#text": "14 Jul 2024, 15:30"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+          "#text": "Ruel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7079c624f93eaf4436c94cac08b7536b.jpg"
+          }
+        ],
+        "mbid": "56e624d7-43dc-45b9-9f4b-e60085668334",
+        "album": {
+          "mbid": "",
+          "#text": "Face To Face - Single"
+        },
+        "name": "Face To Face",
+        "url": "https://www.last.fm/music/Ruel/_/Face+To+Face",
+        "date": {
+          "uts": "1720970856",
+          "#text": "14 Jul 2024, 15:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
+          }
+        ],
+        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
+        "album": {
+          "mbid": "",
+          "#text": "Waves - Single"
+        },
+        "name": "Waves",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
+        "date": {
+          "uts": "1720970687",
+          "#text": "14 Jul 2024, 15:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
+          "#text": "Hugo Helmig"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          }
+        ],
+        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
+        "album": {
+          "mbid": "",
+          "#text": "Champagne Problems - Single"
+        },
+        "name": "Champagne Problems",
+        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
+        "date": {
+          "uts": "1720970530",
+          "#text": "14 Jul 2024, 15:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jung Kook & Latto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
+          }
+        ],
+        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+        "album": {
+          "mbid": "",
+          "#text": "Seven - Single"
+        },
+        "name": "Seven",
+        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
+        "date": {
+          "uts": "1720970347",
+          "#text": "14 Jul 2024, 15:19"
+        }
+      },
+      {
+        "artist": {
           "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
           "#text": "5 Seconds of Summer"
         },
@@ -31,10 +282,11 @@
           "#text": "CALM"
         },
         "name": "High",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High"
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
+        "date": {
+          "uts": "1720970165",
+          "#text": "14 Jul 2024, 15:16"
+        }
       },
       {
         "artist": {
@@ -1583,258 +1835,6 @@
           "uts": "1718539403",
           "#text": "16 Jun 2024, 12:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1718539195",
-          "#text": "16 Jun 2024, 11:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc26bb2690499ab602aded3cd9167103.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc26bb2690499ab602aded3cd9167103.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "That\u2019s Not How This Works (feat. Dan + Shay) - Single"
-        },
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay)",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%E2%80%99s+Not+How+This+Works+(feat.+Dan+%252B+Shay)",
-        "date": {
-          "uts": "1718538200",
-          "#text": "16 Jun 2024, 11:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
-          "#text": "The Ivy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Better in My Head - Single"
-        },
-        "name": "Better in My Head",
-        "url": "https://www.last.fm/music/The+Ivy/_/Better+in+My+Head",
-        "date": {
-          "uts": "1718537990",
-          "#text": "16 Jun 2024, 11:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
-        },
-        "name": "U Sometimes",
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
-        "date": {
-          "uts": "1718537780",
-          "#text": "16 Jun 2024, 11:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          }
-        ],
-        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
-        "album": {
-          "mbid": "",
-          "#text": "Bad Habits - Single"
-        },
-        "name": "Bad Habits",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
-        "date": {
-          "uts": "1718537580",
-          "#text": "16 Jun 2024, 11:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
-          "#text": "Toto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
-          }
-        ],
-        "mbid": "7170cd34-3912-3f31-95b1-713577c089a6",
-        "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
-        },
-        "name": "Africa",
-        "url": "https://www.last.fm/music/Toto/_/Africa",
-        "date": {
-          "uts": "1718537317",
-          "#text": "16 Jun 2024, 11:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
-          "#text": "Ellie Goulding"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
-          }
-        ],
-        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
-        "album": {
-          "mbid": "",
-          "#text": "Delirium (Deluxe)"
-        },
-        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
-        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)",
-        "date": {
-          "uts": "1718537043",
-          "#text": "16 Jun 2024, 11:24"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5117"
+      "total": "5124"
     }
   }
 }
