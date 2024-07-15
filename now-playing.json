@@ -31,10 +31,11 @@
           "#text": "Angel Baby - Single"
         },
         "name": "Angel Baby",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby"
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1721028067",
+          "#text": "15 Jul 2024, 07:21"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1800,6 @@
           "uts": "1718619136",
           "#text": "17 Jun 2024, 10:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jeremy Zucker, Lauv & Alexander 23"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c00824189460a093980f0655dd51a3ae.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c00824189460a093980f0655dd51a3ae.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Cozy - Single"
-        },
-        "name": "Cozy",
-        "url": "https://www.last.fm/music/Jeremy+Zucker,+Lauv+&+Alexander+23/_/Cozy",
-        "date": {
-          "uts": "1718618952",
-          "#text": "17 Jun 2024, 10:09"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5137"
+      "total": "5138"
     }
   }
 }
