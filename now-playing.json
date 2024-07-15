@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby"
+      },
+      {
+        "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+          }
+        ],
+        "mbid": "b95bd361-a22f-4af3-8e75-fee67dcb228b",
+        "album": {
+          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
+          "#text": "The Band CAMINO"
+        },
+        "name": "Who Do You Think You Are?",
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F",
+        "date": {
+          "uts": "1721027853",
+          "#text": "15 Jul 2024, 07:17"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jake Scott"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df240d500602fb4ba92651a8a4d2882d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df240d500602fb4ba92651a8a4d2882d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df240d500602fb4ba92651a8a4d2882d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df240d500602fb4ba92651a8a4d2882d.jpg"
+          }
+        ],
+        "mbid": "8a156d6d-5422-426c-9401-225385d77437",
+        "album": {
+          "mbid": "",
+          "#text": "Like No One Does - Single"
+        },
+        "name": "Like No One Does",
+        "url": "https://www.last.fm/music/Jake+Scott/_/Like+No+One+Does",
+        "date": {
+          "uts": "1721027749",
+          "#text": "15 Jul 2024, 07:15"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5d27a55a-5731-4ef5-a3ad-d5b44251db0f",
           "#text": "JP Saxe"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1718618952",
           "#text": "17 Jun 2024, 10:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a56e1dab3258db17058d37757c8c892.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a56e1dab3258db17058d37757c8c892.jpg"
-          }
-        ],
-        "mbid": "6eb34d22-5757-4482-8887-1a1d97600201",
-        "album": {
-          "mbid": "",
-          "#text": "Light Switch - Single"
-        },
-        "name": "Light Switch",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
-        "date": {
-          "uts": "1718618777",
-          "#text": "17 Jun 2024, 10:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
-          }
-        ],
-        "mbid": "a73991ca-5226-4180-9f25-075d5ee3aa3d",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1718618569",
-          "#text": "17 Jun 2024, 10:02"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5135"
+      "total": "5137"
     }
   }
 }
