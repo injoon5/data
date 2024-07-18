@@ -3,6 +3,150 @@
     "track": [
       {
         "artist": {
+          "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+          "#text": "BTS"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b22494fbc419657a12f478e95cf9db9b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b22494fbc419657a12f478e95cf9db9b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b22494fbc419657a12f478e95cf9db9b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22494fbc419657a12f478e95cf9db9b.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Make It Right (feat. Lauv) - Single"
+        },
+        "name": "Make It Right (feat. Lauv)",
+        "url": "https://www.last.fm/music/BTS/_/Make+It+Right+(feat.+Lauv)",
+        "date": {
+          "uts": "1721280152",
+          "#text": "18 Jul 2024, 05:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+          "#text": "Khalid"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20536b4149df70b97dca0e6374a608a3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20536b4149df70b97dca0e6374a608a3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3a5cbae4-5b58-4428-b278-47d0157f200d",
+          "#text": "Free Spirit"
+        },
+        "name": "Talk (feat. Disclosure)",
+        "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
+        "date": {
+          "uts": "1721279940",
+          "#text": "18 Jul 2024, 05:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+          "#text": "OneRepublic"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
+          }
+        ],
+        "mbid": "d3dc5001-3342-4749-ba04-0c820c5241cc",
+        "album": {
+          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
+          "#text": "Waking Up"
+        },
+        "name": "Secrets",
+        "url": "https://www.last.fm/music/OneRepublic/_/Secrets",
+        "date": {
+          "uts": "1721279730",
+          "#text": "18 Jul 2024, 05:15"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "680f16ac-d179-42f2-960b-cb96f28fabda",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Never Not",
+        "url": "https://www.last.fm/music/Lauv/_/Never+Not",
+        "date": {
+          "uts": "1721279513",
+          "#text": "18 Jul 2024, 05:11"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +175,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "Comfortable",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Comfortable"
+        "url": "https://www.last.fm/music/Lauv/_/Comfortable",
+        "date": {
+          "uts": "1721279326",
+          "#text": "18 Jul 2024, 05:08"
+        }
       },
       {
         "artist": {
@@ -1655,194 +1800,14 @@
           "uts": "1720363414",
           "#text": "07 Jul 2024, 14:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
-          }
-        ],
-        "mbid": "b95bd361-a22f-4af3-8e75-fee67dcb228b",
-        "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
-        },
-        "name": "Who Do You Think You Are?",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F",
-        "date": {
-          "uts": "1720363200",
-          "#text": "07 Jul 2024, 14:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
-          }
-        ],
-        "mbid": "0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1720362984",
-          "#text": "07 Jul 2024, 14:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
-          }
-        ],
-        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
-        "album": {
-          "mbid": "",
-          "#text": "mama's boy"
-        },
-        "name": "if this is the last time",
-        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
-        "date": {
-          "uts": "1720362775",
-          "#text": "07 Jul 2024, 14:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63e09e85808339bd51d30f129dd2d1e0.jpg"
-          }
-        ],
-        "mbid": "d40d7b70-570f-4494-a51a-4aa389f45e70",
-        "album": {
-          "mbid": "",
-          "#text": "Celestial - Single"
-        },
-        "name": "Celestial",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Celestial",
-        "date": {
-          "uts": "1720362568",
-          "#text": "07 Jul 2024, 14:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take On Me",
-        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
-        "date": {
-          "uts": "1720362349",
-          "#text": "07 Jul 2024, 14:25"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "103",
+      "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5147"
+      "total": "5152"
     }
   }
 }
