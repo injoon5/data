@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "All 4 Nothing (I'm So In Love)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)"
+      },
+      {
+        "artist": {
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Wish You Loved Me - Single"
+        },
+        "name": "i wish you loved me",
+        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
+        "date": {
+          "uts": "1721282004",
+          "#text": "18 Jul 2024, 05:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Changes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Changes"
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1721281824",
+          "#text": "18 Jul 2024, 05:50"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1720365232",
           "#text": "07 Jul 2024, 15:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Paris in the Rain",
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
-        "date": {
-          "uts": "1720365057",
-          "#text": "07 Jul 2024, 15:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34944768f88a893fa9d6d4cb16491d10.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34944768f88a893fa9d6d4cb16491d10.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "In the Lonely Hour (Drowning Shadows Edition)"
-        },
-        "name": "Stay with Me (feat. Mary J. Blige) [Radio Edit]",
-        "url": "https://www.last.fm/music/Sam+Smith/_/Stay+with+Me+(feat.+Mary+J.+Blige)+%5BRadio+Edit%5D",
-        "date": {
-          "uts": "1720364868",
-          "#text": "07 Jul 2024, 15:07"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5160"
+      "total": "5162"
     }
   }
 }
