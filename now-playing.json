@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Changes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Changes"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "camellia - Single"
+        },
+        "name": "camellia",
+        "url": "https://www.last.fm/music/slchld/_/camellia",
+        "date": {
+          "uts": "1721281667",
+          "#text": "18 Jul 2024, 05:47"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "slchld"
         },
@@ -31,10 +102,11 @@
           "#text": "You Won't Be There For Me - Single"
         },
         "name": "you won't be there for me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me"
+        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
+        "date": {
+          "uts": "1721281499",
+          "#text": "18 Jul 2024, 05:44"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1720364868",
           "#text": "07 Jul 2024, 15:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "20244d07-534f-4eff-b4d4-930878889970",
-          "#text": "Taylor Swift"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3f083370c371a3ba1cddafaf193c27d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3f083370c371a3ba1cddafaf193c27d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3f083370c371a3ba1cddafaf193c27d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3f083370c371a3ba1cddafaf193c27d.jpg"
-          }
-        ],
-        "mbid": "1a722d7d-27e8-492c-b576-9de450eb8a61",
-        "album": {
-          "mbid": "091ad434-48f7-4027-b3d5-939606f52f5c",
-          "#text": "Lover"
-        },
-        "name": "Cruel Summer",
-        "url": "https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer",
-        "date": {
-          "uts": "1720364691",
-          "#text": "07 Jul 2024, 15:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
-          "#text": "Lady Gaga"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21f2d5d63b33a00c489bd0cee8844edc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21f2d5d63b33a00c489bd0cee8844edc.jpg"
-          }
-        ],
-        "mbid": "3d6733ee-e03f-4340-b433-80585ae9b91a",
-        "album": {
-          "mbid": "",
-          "#text": "Top Gun: Maverick (Music From The Motion Picture)"
-        },
-        "name": "Hold My Hand",
-        "url": "https://www.last.fm/music/Lady+Gaga/_/Hold+My+Hand",
-        "date": {
-          "uts": "1720364489",
-          "#text": "07 Jul 2024, 15:01"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5158"
+      "total": "5160"
     }
   }
 }
