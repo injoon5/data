@@ -3,6 +3,185 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+          }
+        ],
+        "mbid": "0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e45c34e0ce33fb255f18d21696933498.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e45c34e0ce33fb255f18d21696933498.jpg"
+          }
+        ],
+        "mbid": "0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
+        "date": {
+          "uts": "1721282965",
+          "#text": "18 Jul 2024, 06:09"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
+          }
+        ],
+        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Daylight",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
+        "date": {
+          "uts": "1721282774",
+          "#text": "18 Jul 2024, 06:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3491a32df0e1fb480292f640c56841f7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3491a32df0e1fb480292f640c56841f7.jpg"
+          }
+        ],
+        "mbid": "1d1931f9-0eff-457b-b22f-91e623878b99",
+        "album": {
+          "mbid": "",
+          "#text": "Hero - Single"
+        },
+        "name": "Hero",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Hero",
+        "date": {
+          "uts": "1721282594",
+          "#text": "18 Jul 2024, 06:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89715c5e3d612e7aac0f645516ca3e77.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89715c5e3d612e7aac0f645516ca3e77.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89715c5e3d612e7aac0f645516ca3e77.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89715c5e3d612e7aac0f645516ca3e77.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Handwritten (Deluxe Edition)"
+        },
+        "name": "Stitches",
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
+        "date": {
+          "uts": "1721282391",
+          "#text": "18 Jul 2024, 05:59"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,10 +210,11 @@
           "#text": "All 4 Nothing"
         },
         "name": "All 4 Nothing (I'm So In Love)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)"
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
+        "date": {
+          "uts": "1721282196",
+          "#text": "18 Jul 2024, 05:56"
+        }
       },
       {
         "artist": {
@@ -1655,186 +1835,6 @@
           "uts": "1720970165",
           "#text": "14 Jul 2024, 15:16"
         }
-      },
-      {
-        "artist": {
-          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
-          "#text": "MAX & Ali Gatie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b185bb240b26000619afa912285064a0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b185bb240b26000619afa912285064a0.jpg"
-          }
-        ],
-        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
-        "album": {
-          "mbid": "",
-          "#text": "WHO HURT YOU? (Deluxe)"
-        },
-        "name": "Butterflies",
-        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies",
-        "date": {
-          "uts": "1720969980",
-          "#text": "14 Jul 2024, 15:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          }
-        ],
-        "mbid": "0562dece-8214-45b6-a262-435712f46454",
-        "album": {
-          "mbid": "",
-          "#text": "Ready Yet - Single"
-        },
-        "name": "Ready Yet",
-        "url": "https://www.last.fm/music/Mokita/_/Ready+Yet",
-        "date": {
-          "uts": "1720969808",
-          "#text": "14 Jul 2024, 15:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40f6cc46ee3bae5a3857ecf771a80a9e.jpg"
-          }
-        ],
-        "mbid": "aa36d936-68d8-4c9a-a74d-5266a7319f34",
-        "album": {
-          "mbid": "",
-          "#text": "glisten - EP"
-        },
-        "name": "all the kids are depressed",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/all+the+kids+are+depressed",
-        "date": {
-          "uts": "1720969645",
-          "#text": "14 Jul 2024, 15:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Smells Like Me",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
-        "date": {
-          "uts": "1720365407",
-          "#text": "07 Jul 2024, 15:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "if we never met",
-        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
-        "date": {
-          "uts": "1720365232",
-          "#text": "07 Jul 2024, 15:13"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5162"
+      "total": "5167"
     }
   }
 }
