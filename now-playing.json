@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/482eb06ee267815ee77c59ea1946731f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/482eb06ee267815ee77c59ea1946731f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/482eb06ee267815ee77c59ea1946731f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/482eb06ee267815ee77c59ea1946731f.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Two Faced - Single"
+        },
+        "name": "two faced",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/slchld/_/two+faced"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32f43ebff4b2b47afdb130d3d511cd43.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32f43ebff4b2b47afdb130d3d511cd43.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32f43ebff4b2b47afdb130d3d511cd43.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32f43ebff4b2b47afdb130d3d511cd43.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Blood Lotus Diary - EP"
+        },
+        "name": "lone summer",
+        "url": "https://www.last.fm/music/slchld/_/lone+summer",
+        "date": {
+          "uts": "1721280948",
+          "#text": "18 Jul 2024, 05:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Don't Waste Your Time - Single"
         },
         "name": "don't waste your time",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/slchld/_/don%27t+waste+your+time"
+        "url": "https://www.last.fm/music/slchld/_/don%27t+waste+your+time",
+        "date": {
+          "uts": "1721280767",
+          "#text": "18 Jul 2024, 05:32"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1720364169",
           "#text": "07 Jul 2024, 14:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
-          "#text": "The Ivy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Have You Ever Been in Love - Single"
-        },
-        "name": "Have You Ever Been in Love",
-        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love",
-        "date": {
-          "uts": "1720363987",
-          "#text": "07 Jul 2024, 14:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "love + everything else"
-        },
-        "name": "cheap sunglasses",
-        "url": "https://www.last.fm/music/John+K/_/cheap+sunglasses",
-        "date": {
-          "uts": "1720363783",
-          "#text": "07 Jul 2024, 14:49"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5154"
+      "total": "5156"
     }
   }
 }
