@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
+          "#text": "Utopian"
+        },
+        "name": "We Are Stars (feat. Alyssa Reid)",
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)",
+        "date": {
+          "uts": "1721277370",
+          "#text": "18 Jul 2024, 04:36"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
           "#text": "Troye Sivan"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1718619319",
           "#text": "17 Jun 2024, 10:15"
         }
-      },
-      {
-        "artist": {
-          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
-          "#text": "Flor"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "1e340a67-6a5c-4ddb-9e9e-bc230b5b3033",
-        "album": {
-          "mbid": "",
-          "#text": "Hold On - Single"
-        },
-        "name": "Hold On",
-        "url": "https://www.last.fm/music/Flor/_/Hold+On",
-        "date": {
-          "uts": "1718619136",
-          "#text": "17 Jun 2024, 10:12"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5138"
+      "total": "5139"
     }
   }
 }
