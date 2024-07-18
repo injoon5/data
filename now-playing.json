@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "You Won't Be There For Me - Single"
+        },
+        "name": "you won't be there for me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8bea60581a941881da7491204c194de.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8bea60581a941881da7491204c194de.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8bea60581a941881da7491204c194de.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8bea60581a941881da7491204c194de.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Modern Breakups - Single"
+        },
+        "name": "maybe we need a break",
+        "url": "https://www.last.fm/music/slchld/_/maybe+we+need+a+break",
+        "date": {
+          "uts": "1721281315",
+          "#text": "18 Jul 2024, 05:41"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/482eb06ee267815ee77c59ea1946731f.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Two Faced - Single"
         },
         "name": "two faced",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/slchld/_/two+faced"
+        "url": "https://www.last.fm/music/slchld/_/two+faced",
+        "date": {
+          "uts": "1721281131",
+          "#text": "18 Jul 2024, 05:38"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1720364489",
           "#text": "07 Jul 2024, 15:01"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "dde7ac2f-2328-419a-a81e-44dfff7eaeb5",
-        "album": {
-          "mbid": "",
-          "#text": "Paper Plane - Single"
-        },
-        "name": "Paper Plane",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Paper+Plane",
-        "date": {
-          "uts": "1720364311",
-          "#text": "07 Jul 2024, 14:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99020e34f25739d2b42eb8320d15ada1.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99020e34f25739d2b42eb8320d15ada1.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Love & Loneliness"
-        },
-        "name": "Better Alone",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Better+Alone",
-        "date": {
-          "uts": "1720364169",
-          "#text": "07 Jul 2024, 14:56"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5156"
+      "total": "5158"
     }
   }
 }
