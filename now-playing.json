@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
+          }
+        ],
+        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
+        "album": {
+          "mbid": "",
+          "#text": "Strawberries & Cigarettes - Single"
+        },
+        "name": "Strawberries & Cigarettes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes"
+      },
+      {
+        "artist": {
+          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
+          "#text": "Mokita"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Colorblind - Single"
+        },
+        "name": "colorblind",
+        "url": "https://www.last.fm/music/Mokita/_/colorblind",
+        "date": {
+          "uts": "1721278407",
+          "#text": "18 Jul 2024, 04:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+          "#text": "The Police"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
+          "#text": "The Police"
+        },
+        "name": "Every Breath You Take",
+        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
+        "date": {
+          "uts": "1721278182",
+          "#text": "18 Jul 2024, 04:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Jung Kook & Latto"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1720361472",
           "#text": "07 Jul 2024, 14:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "6938dd3c-126e-408d-8c1c-0525cec8c588",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "ex i never had",
-        "url": "https://www.last.fm/music/Lany/_/ex+i+never+had",
-        "date": {
-          "uts": "1720361296",
-          "#text": "07 Jul 2024, 14:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Deluxe)"
-        },
-        "name": "Sorry",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Sorry",
-        "date": {
-          "uts": "1718619777",
-          "#text": "17 Jun 2024, 10:22"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5141"
+      "total": "5143"
     }
   }
 }
