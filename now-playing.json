@@ -3,6 +3,149 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Comfortable",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Comfortable"
+      },
+      {
+        "artist": {
+          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
+          "#text": "Hugo Helmig"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
+          }
+        ],
+        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
+        "album": {
+          "mbid": "",
+          "#text": "Champagne Problems - Single"
+        },
+        "name": "Champagne Problems",
+        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
+        "date": {
+          "uts": "1721279153",
+          "#text": "18 Jul 2024, 05:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1721278990",
+          "#text": "18 Jul 2024, 05:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
+          }
+        ],
+        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
+        "album": {
+          "mbid": "",
+          "#text": "Love U Like That - Single"
+        },
+        "name": "Love U Like That",
+        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
+        "date": {
+          "uts": "1721278811",
+          "#text": "18 Jul 2024, 05:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
           "#text": "Troye Sivan"
         },
@@ -31,10 +174,11 @@
           "#text": "Strawberries & Cigarettes - Single"
         },
         "name": "Strawberries & Cigarettes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes"
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes",
+        "date": {
+          "uts": "1721278605",
+          "#text": "18 Jul 2024, 04:56"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1720362349",
           "#text": "07 Jul 2024, 14:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
-          "#text": "Ruel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7079c624f93eaf4436c94cac08b7536b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7079c624f93eaf4436c94cac08b7536b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7079c624f93eaf4436c94cac08b7536b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7079c624f93eaf4436c94cac08b7536b.jpg"
-          }
-        ],
-        "mbid": "56e624d7-43dc-45b9-9f4b-e60085668334",
-        "album": {
-          "mbid": "",
-          "#text": "Face To Face - Single"
-        },
-        "name": "Face To Face",
-        "url": "https://www.last.fm/music/Ruel/_/Face+To+Face",
-        "date": {
-          "uts": "1720361955",
-          "#text": "07 Jul 2024, 14:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
-          "#text": "Tom Grennan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ffb9fe24-e726-44e3-9db9-b8820932343f",
-        "album": {
-          "mbid": "",
-          "#text": "All These Nights - Single"
-        },
-        "name": "All These Nights",
-        "url": "https://www.last.fm/music/Tom+Grennan/_/All+These+Nights",
-        "date": {
-          "uts": "1720361776",
-          "#text": "07 Jul 2024, 14:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          }
-        ],
-        "mbid": "0562dece-8214-45b6-a262-435712f46454",
-        "album": {
-          "mbid": "",
-          "#text": "Ready Yet - Single"
-        },
-        "name": "Ready Yet",
-        "url": "https://www.last.fm/music/Mokita/_/Ready+Yet",
-        "date": {
-          "uts": "1720361622",
-          "#text": "07 Jul 2024, 14:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "That's Hilarious",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
-        "date": {
-          "uts": "1720361472",
-          "#text": "07 Jul 2024, 14:11"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "103",
       "page": "1",
       "perPage": "50",
-      "total": "5143"
+      "total": "5147"
     }
   }
 }
