@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
+          }
+        ],
+        "mbid": "4c877246-56a7-38bd-adc3-a0b9214fd155",
+        "album": {
+          "mbid": "",
+          "#text": "X & Y"
+        },
+        "name": "Talk",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Coldplay/_/Talk"
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
+          }
+        ],
+        "mbid": "4c877246-56a7-38bd-adc3-a0b9214fd155",
+        "album": {
+          "mbid": "",
+          "#text": "X & Y"
+        },
+        "name": "Talk",
+        "url": "https://www.last.fm/music/Coldplay/_/Talk",
+        "date": {
+          "uts": "1721925213",
+          "#text": "25 Jul 2024, 16:33"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
           "#text": "Harry Styles"
         },
@@ -1764,42 +1835,6 @@
           "uts": "1720971825",
           "#text": "14 Jul 2024, 15:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
-          "#text": "Flor"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "1e340a67-6a5c-4ddb-9e9e-bc230b5b3033",
-        "album": {
-          "mbid": "",
-          "#text": "Hold On - Single"
-        },
-        "name": "Hold On",
-        "url": "https://www.last.fm/music/Flor/_/Hold+On",
-        "date": {
-          "uts": "1720971641",
-          "#text": "14 Jul 2024, 15:40"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5175"
+      "total": "5176"
     }
   }
 }
