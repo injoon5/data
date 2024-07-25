@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Rainbow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a86702eb67ca3a0cbfca342ad6a0c206.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+          "#text": "Down to Earth"
+        },
+        "name": "Since You Been Gone",
+        "url": "https://www.last.fm/music/Rainbow/_/Since+You+Been+Gone",
+        "date": {
+          "uts": "1721949006",
+          "#text": "25 Jul 2024, 23:10"
+        }
+      },
+      {
+        "artist": {
           "mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
           "#text": "George Michael"
         },
@@ -1764,42 +1800,6 @@
           "uts": "1720972731",
           "#text": "14 Jul 2024, 15:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e0169d32677677478a1135edf414e42.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e0169d32677677478a1135edf414e42.png"
-          }
-        ],
-        "mbid": "e2d6c1c4-8310-4fab-b55d-28cd52e94a3c",
-        "album": {
-          "mbid": "",
-          "#text": "A LOT - Single"
-        },
-        "name": "A LOT",
-        "url": "https://www.last.fm/music/John+K/_/A+LOT",
-        "date": {
-          "uts": "1720972526",
-          "#text": "14 Jul 2024, 15:55"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1807,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5179"
+      "total": "5180"
     }
   }
 }
