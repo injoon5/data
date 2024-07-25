@@ -31,41 +31,6 @@
           "#text": "X & Y"
         },
         "name": "Talk",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Coldplay/_/Talk"
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
-          }
-        ],
-        "mbid": "4c877246-56a7-38bd-adc3-a0b9214fd155",
-        "album": {
-          "mbid": "",
-          "#text": "X & Y"
-        },
-        "name": "Talk",
         "url": "https://www.last.fm/music/Coldplay/_/Talk",
         "date": {
           "uts": "1721925213",
