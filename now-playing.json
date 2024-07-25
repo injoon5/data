@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+          "#text": "George Michael"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc46e978d1f1df0599a9f160b265c31e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc46e978d1f1df0599a9f160b265c31e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc46e978d1f1df0599a9f160b265c31e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc46e978d1f1df0599a9f160b265c31e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "1a028491-cf25-45fe-9692-415f197eb783",
+          "#text": "Ladies & Gentlemen: The Best of George Michael"
+        },
+        "name": "Careless Whisper",
+        "url": "https://www.last.fm/music/George+Michael/_/Careless+Whisper",
+        "date": {
+          "uts": "1721948166",
+          "#text": "25 Jul 2024, 22:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +67,11 @@
           "#text": "- (Deluxe)"
         },
         "name": "Eyes Closed",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Eyes+Closed",
+        "date": {
+          "uts": "1721947955",
+          "#text": "25 Jul 2024, 22:52"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1800,6 @@
           "uts": "1720972526",
           "#text": "14 Jul 2024, 15:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret Of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1720972273",
-          "#text": "14 Jul 2024, 15:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "a8bdddfe-aafa-46bb-9c68-6ec54f8e9eb4",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "Smells Like Me",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Smells+Like+Me",
-        "date": {
-          "uts": "1720972008",
-          "#text": "14 Jul 2024, 15:46"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1807,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5177"
+      "total": "5179"
     }
   }
 }
