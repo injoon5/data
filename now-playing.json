@@ -3,38 +3,182 @@
     "track": [
       {
         "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
+          "mbid": "",
+          "#text": "a-ha"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
           }
         ],
-        "mbid": "14dbb322-1417-42da-909e-7381b867fd38",
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
         "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
         },
-        "name": "Charlie Be Quiet!",
+        "name": "Take On Me",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Charlie+Be+Quiet!"
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "a-ha"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
+          }
+        ],
+        "mbid": "12f65dca-de8f-43fe-a65d-f12a02aaadf3",
+        "album": {
+          "mbid": "",
+          "#text": "Hunting High And Low (Deluxe Edition)"
+        },
+        "name": "Take On Me",
+        "url": "https://www.last.fm/music/a-ha/_/Take+On+Me",
+        "date": {
+          "uts": "1721984924",
+          "#text": "26 Jul 2024, 09:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0620642a51ae35ef3d359632902427de.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0620642a51ae35ef3d359632902427de.png"
+          }
+        ],
+        "mbid": "132b7598-c86c-488c-9dfb-ad3ed93849e2",
+        "album": {
+          "mbid": "9af58f66-e716-4c29-98e0-f0fba452e6b6",
+          "#text": "Last Birthday"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1721984737",
+          "#text": "26 Jul 2024, 09:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "Super Far",
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1721984563",
+          "#text": "26 Jul 2024, 09:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0b842091-6c1e-46a5-8177-b71132450b21",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Modern Loneliness",
+        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness",
+        "date": {
+          "uts": "1721984334",
+          "#text": "26 Jul 2024, 08:58"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1721278605",
           "#text": "18 Jul 2024, 04:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Colorblind - Single"
-        },
-        "name": "colorblind",
-        "url": "https://www.last.fm/music/Mokita/_/colorblind",
-        "date": {
-          "uts": "1721278407",
-          "#text": "18 Jul 2024, 04:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
-          "#text": "The Police"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
-          "#text": "The Police"
-        },
-        "name": "Every Breath You Take",
-        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
-        "date": {
-          "uts": "1721278182",
-          "#text": "18 Jul 2024, 04:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jung Kook & Latto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef5807bc1315ae2cc109a3beeacacd0.jpg"
-          }
-        ],
-        "mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
-        "album": {
-          "mbid": "",
-          "#text": "Seven - Single"
-        },
-        "name": "Seven",
-        "url": "https://www.last.fm/music/Jung+Kook+&+Latto/_/Seven",
-        "date": {
-          "uts": "1721277875",
-          "#text": "18 Jul 2024, 04:44"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
-          "#text": "Ellie Goulding"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/310c531766125aba699148905d46d9c8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/310c531766125aba699148905d46d9c8.jpg"
-          }
-        ],
-        "mbid": "bbd07416-cb9d-492a-a091-e8e121a72643",
-        "album": {
-          "mbid": "",
-          "#text": "Delirium (Deluxe)"
-        },
-        "name": "Love Me Like You Do (From \"Fifty Shades of Grey\")",
-        "url": "https://www.last.fm/music/Ellie+Goulding/_/Love+Me+Like+You+Do+(From+%22Fifty+Shades+of+Grey%22)",
-        "date": {
-          "uts": "1721277645",
-          "#text": "18 Jul 2024, 04:40"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5189"
+      "total": "5193"
     }
   }
 }
