@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Valley/_/homebody"
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1721986094",
+          "#text": "26 Jul 2024, 09:28"
+        }
+      },
+      {
+        "artist": {
           "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
           "#text": "Glass Animals"
         },
@@ -31,10 +102,11 @@
           "#text": "Dreamland"
         },
         "name": "Heat Waves",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves"
+        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
+        "date": {
+          "uts": "1721985878",
+          "#text": "26 Jul 2024, 09:24"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1721279513",
           "#text": "18 Jul 2024, 05:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "56777cf4-0e80-4803-b9fe-f180695ce1e3",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Comfortable",
-        "url": "https://www.last.fm/music/Lauv/_/Comfortable",
-        "date": {
-          "uts": "1721279326",
-          "#text": "18 Jul 2024, 05:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ecd96d03-c56a-4a4a-8d6f-5b0b9da6ba36",
-          "#text": "Hugo Helmig"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2dd4196879c544bc49827a2a93adc6e5.jpg"
-          }
-        ],
-        "mbid": "6ed7dd64-4f19-4a51-825d-e362de7653f1",
-        "album": {
-          "mbid": "",
-          "#text": "Champagne Problems - Single"
-        },
-        "name": "Champagne Problems",
-        "url": "https://www.last.fm/music/Hugo+Helmig/_/Champagne+Problems",
-        "date": {
-          "uts": "1721279153",
-          "#text": "18 Jul 2024, 05:05"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5196"
+      "total": "5198"
     }
   }
 }
