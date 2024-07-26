@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
+          }
+        ],
+        "mbid": "2df03232-d68c-4aa1-9b87-a3fa0a35bd2a",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Satellite",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Harry+Styles/_/Satellite"
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
+          }
+        ],
+        "mbid": "2df03232-d68c-4aa1-9b87-a3fa0a35bd2a",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Satellite",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Satellite",
+        "date": {
+          "uts": "1721982564",
+          "#text": "26 Jul 2024, 08:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1721982339",
+          "#text": "26 Jul 2024, 08:25"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Rainbow"
         },
@@ -1728,78 +1835,6 @@
           "uts": "1721023890",
           "#text": "15 Jul 2024, 06:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Alex Holtti"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7515ee59c86eed912a7c577ce86caa6b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7515ee59c86eed912a7c577ce86caa6b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7515ee59c86eed912a7c577ce86caa6b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7515ee59c86eed912a7c577ce86caa6b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Bad Guy - Single"
-        },
-        "name": "Bad Guy",
-        "url": "https://www.last.fm/music/Alex+Holtti/_/Bad+Guy",
-        "date": {
-          "uts": "1721023683",
-          "#text": "15 Jul 2024, 06:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "80e4e8f9-a430-4602-8acf-2dfdc6f5e034",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "The Story Never Ends",
-        "url": "https://www.last.fm/music/Lauv/_/The+Story+Never+Ends",
-        "date": {
-          "uts": "1720972731",
-          "#text": "14 Jul 2024, 15:58"
-        }
       }
     ],
     "@attr": {
@@ -1807,7 +1842,7 @@
       "totalPages": "104",
       "page": "1",
       "perPage": "50",
-      "total": "5180"
+      "total": "5182"
     }
   }
 }
