@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Belleo"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Auras and Water / Street Life - Single"
+        },
+        "name": "Street Life",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Belleo/_/Street+Life"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Belleo"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Auras and Water / Street Life - Single"
+        },
+        "name": "Street Life",
+        "url": "https://www.last.fm/music/Belleo/_/Street+Life",
+        "date": {
+          "uts": "1722495578",
+          "#text": "01 Aug 2024, 06:59"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sachiho & Kanzas-City"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "City Wildlife - EP"
+        },
+        "name": "Dancing with the Moon",
+        "url": "https://www.last.fm/music/Sachiho+&+Kanzas-City/_/Dancing+with+the+Moon",
+        "date": {
+          "uts": "1722495427",
+          "#text": "01 Aug 2024, 06:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Pistachio"
         },
         "streamable": "0",
@@ -31,10 +138,11 @@
           "#text": "whoops i'm napping - EP"
         },
         "name": "splash splash",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Pistachio/_/splash+splash"
+        "url": "https://www.last.fm/music/Pistachio/_/splash+splash",
+        "date": {
+          "uts": "1722495257",
+          "#text": "01 Aug 2024, 06:54"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1721283848",
           "#text": "18 Jul 2024, 06:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1721283645",
-          "#text": "18 Jul 2024, 06:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b243e3b226cf4b3089e166f30e2cb83c.jpg"
-          }
-        ],
-        "mbid": "47c359d7-9823-49e6-a66e-03e00a3fbcd2",
-        "album": {
-          "mbid": "1c18e55e-7434-4efd-b83d-a261204ef622",
-          "#text": "Waking Up"
-        },
-        "name": "Good Life",
-        "url": "https://www.last.fm/music/OneRepublic/_/Good+Life",
-        "date": {
-          "uts": "1721283407",
-          "#text": "18 Jul 2024, 06:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Yorke & joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95d66fcae200650a5e6ac8014f745363.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95d66fcae200650a5e6ac8014f745363.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "ten feet tall - EP"
-        },
-        "name": "Window Shopping",
-        "url": "https://www.last.fm/music/Yorke+&+joan/_/Window+Shopping",
-        "date": {
-          "uts": "1721283179",
-          "#text": "18 Jul 2024, 06:12"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "105",
       "page": "1",
       "perPage": "50",
-      "total": "5217"
+      "total": "5220"
     }
   }
 }
