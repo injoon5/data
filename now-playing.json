@@ -4,7 +4,42 @@
       {
         "artist": {
           "mbid": "",
-          "#text": "Olyva"
+          "#text": "Pistachio"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "e0d893b8-66f9-415b-a100-7d931b7a2696",
+        "album": {
+          "mbid": "",
+          "#text": "whoops i'm napping - EP"
+        },
+        "name": "splash splash",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Pistachio/_/splash+splash"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "ornithology"
         },
         "streamable": "0",
         "image": [
@@ -28,13 +63,50 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Vetiver - EP"
+          "#text": "Until Next Time - EP"
         },
-        "name": "French Vanilla",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Until Next Time",
+        "url": "https://www.last.fm/music/ornithology/_/Until+Next+Time",
+        "date": {
+          "uts": "1722495120",
+          "#text": "01 Aug 2024, 06:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Keliris"
         },
-        "url": "https://www.last.fm/music/Olyva/_/French+Vanilla"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Lazy Daisy - Single"
+        },
+        "name": "Lazy Daisy",
+        "url": "https://www.last.fm/music/Keliris/_/Lazy+Daisy",
+        "date": {
+          "uts": "1722494993",
+          "#text": "01 Aug 2024, 06:49"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1721283179",
           "#text": "18 Jul 2024, 06:12"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "0f431b3e-ddb0-4cea-9b32-e59d47b1ae8c",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1721282965",
-          "#text": "18 Jul 2024, 06:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
-          }
-        ],
-        "mbid": "5f1c81d8-f320-41e8-bf30-0f736e224ee4",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Daylight",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Daylight",
-        "date": {
-          "uts": "1721282774",
-          "#text": "18 Jul 2024, 06:06"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "105",
       "page": "1",
       "perPage": "50",
-      "total": "5215"
+      "total": "5217"
     }
   }
 }
