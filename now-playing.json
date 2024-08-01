@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Olyva"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Vetiver - EP"
+        },
+        "name": "French Vanilla",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Olyva/_/French+Vanilla"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Olyva"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Vetiver - EP"
+        },
+        "name": "French Vanilla",
+        "url": "https://www.last.fm/music/Olyva/_/French+Vanilla",
+        "date": {
+          "uts": "1722494840",
+          "#text": "01 Aug 2024, 06:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "mellodaze"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "on tilt / within reach - Single"
+        },
+        "name": "within reach",
+        "url": "https://www.last.fm/music/mellodaze/_/within+reach",
+        "date": {
+          "uts": "1722494703",
+          "#text": "01 Aug 2024, 06:45"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "goosetaf & Tom Doolie"
         },
         "streamable": "0",
@@ -31,10 +138,11 @@
           "#text": "Carwash - Single"
         },
         "name": "Carwash",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/goosetaf+&+Tom+Doolie/_/Carwash"
+        "url": "https://www.last.fm/music/goosetaf+&+Tom+Doolie/_/Carwash",
+        "date": {
+          "uts": "1722494581",
+          "#text": "01 Aug 2024, 06:43"
+        }
       },
       {
         "artist": {
@@ -1727,114 +1835,6 @@
           "uts": "1721282774",
           "#text": "18 Jul 2024, 06:06"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3491a32df0e1fb480292f640c56841f7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3491a32df0e1fb480292f640c56841f7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3491a32df0e1fb480292f640c56841f7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3491a32df0e1fb480292f640c56841f7.jpg"
-          }
-        ],
-        "mbid": "1d1931f9-0eff-457b-b22f-91e623878b99",
-        "album": {
-          "mbid": "",
-          "#text": "Hero - Single"
-        },
-        "name": "Hero",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Hero",
-        "date": {
-          "uts": "1721282594",
-          "#text": "18 Jul 2024, 06:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89715c5e3d612e7aac0f645516ca3e77.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Handwritten (Deluxe Edition)"
-        },
-        "name": "Stitches",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
-        "date": {
-          "uts": "1721282391",
-          "#text": "18 Jul 2024, 05:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
-        "date": {
-          "uts": "1721282196",
-          "#text": "18 Jul 2024, 05:56"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "105",
       "page": "1",
       "perPage": "50",
-      "total": "5212"
+      "total": "5215"
     }
   }
 }
