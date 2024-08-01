@@ -4,6 +4,149 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "goosetaf & Tom Doolie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Carwash - Single"
+        },
+        "name": "Carwash",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/goosetaf+&+Tom+Doolie/_/Carwash"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Oh, the Joy."
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "4pm in shibuya - Single"
+        },
+        "name": "4pm in shibuya",
+        "url": "https://www.last.fm/music/Oh,+the+Joy./_/4pm+in+shibuya",
+        "date": {
+          "uts": "1722494433",
+          "#text": "01 Aug 2024, 06:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Yuri yuri"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Fold It Twice - Single"
+        },
+        "name": "Fold It Twice",
+        "url": "https://www.last.fm/music/Yuri+yuri/_/Fold+It+Twice",
+        "date": {
+          "uts": "1722494283",
+          "#text": "01 Aug 2024, 06:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Houis"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Outgrown"
+        },
+        "name": "Feels Like",
+        "url": "https://www.last.fm/music/Houis/_/Feels+Like",
+        "date": {
+          "uts": "1722494130",
+          "#text": "01 Aug 2024, 06:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "HUG\u00d8"
         },
         "streamable": "0",
@@ -31,10 +174,11 @@
           "#text": "Tenderness (feat. kocaman) - Single"
         },
         "name": "Tenderness (feat. kocaman)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/HUG%C3%98/_/Tenderness+(feat.+kocaman)"
+        "url": "https://www.last.fm/music/HUG%C3%98/_/Tenderness+(feat.+kocaman)",
+        "date": {
+          "uts": "1722493980",
+          "#text": "01 Aug 2024, 06:33"
+        }
       },
       {
         "artist": {
@@ -1691,150 +1835,6 @@
           "uts": "1721282196",
           "#text": "18 Jul 2024, 05:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "I Wish You Loved Me - Single"
-        },
-        "name": "i wish you loved me",
-        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
-        "date": {
-          "uts": "1721282004",
-          "#text": "18 Jul 2024, 05:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Lauv/_/Changes",
-        "date": {
-          "uts": "1721281824",
-          "#text": "18 Jul 2024, 05:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "slchld"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92dc4ed6d30d9aad0eee1a74224e0f9b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "camellia - Single"
-        },
-        "name": "camellia",
-        "url": "https://www.last.fm/music/slchld/_/camellia",
-        "date": {
-          "uts": "1721281667",
-          "#text": "18 Jul 2024, 05:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "slchld"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "You Won't Be There For Me - Single"
-        },
-        "name": "you won't be there for me",
-        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
-        "date": {
-          "uts": "1721281499",
-          "#text": "18 Jul 2024, 05:44"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "105",
       "page": "1",
       "perPage": "50",
-      "total": "5208"
+      "total": "5212"
     }
   }
 }
