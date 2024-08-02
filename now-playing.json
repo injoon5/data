@@ -3,8 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
-          "#text": "MAX & Ali Gatie"
+          "mbid": "654f4cca-7fc9-425c-860b-15714a8e68ce",
+          "#text": "David Alexander"
         },
         "streamable": "0",
         "image": [
@@ -25,16 +25,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "01ecf35e-f974-4cac-9c2c-74f7085560bb",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "WHO HURT YOU? (Deluxe)"
+          "#text": "Dancing Alone - Single"
         },
-        "name": "Butterflies",
+        "name": "Dancing Alone",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/MAX+&+Ali+Gatie/_/Butterflies"
+        "url": "https://www.last.fm/music/David+Alexander/_/Dancing+Alone"
+      },
+      {
+        "artist": {
+          "mbid": "1c68773d-b1db-4529-b9ac-51810ced1a19",
+          "#text": "Why Don't We"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "1365dce9-82be-44cd-8a31-9b4c2fe22136",
+        "album": {
+          "mbid": "",
+          "#text": "What Am I - Single"
+        },
+        "name": "What Am I",
+        "url": "https://www.last.fm/music/Why+Don%27t+We/_/What+Am+I",
+        "date": {
+          "uts": "1722576827",
+          "#text": "02 Aug 2024, 05:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Like Strangers Do - Single"
+        },
+        "name": "Like Strangers Do",
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
+        "date": {
+          "uts": "1722576654",
+          "#text": "02 Aug 2024, 05:30"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1721986094",
           "#text": "26 Jul 2024, 09:28"
         }
-      },
-      {
-        "artist": {
-          "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
-          "#text": "Glass Animals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714ad710a60b2da9d4b8496134ae7cec.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "496cd243-5003-4f11-bfe3-d094fb545750",
-          "#text": "Dreamland"
-        },
-        "name": "Heat Waves",
-        "url": "https://www.last.fm/music/Glass+Animals/_/Heat+Waves",
-        "date": {
-          "uts": "1721985878",
-          "#text": "26 Jul 2024, 09:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
-          }
-        ],
-        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
-        "album": {
-          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
-          "#text": "Nine Track Mind"
-        },
-        "name": "Dangerously",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
-        "date": {
-          "uts": "1721985659",
-          "#text": "26 Jul 2024, 09:20"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "105",
       "page": "1",
       "perPage": "50",
-      "total": "5245"
+      "total": "5247"
     }
   }
 }
