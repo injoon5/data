@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
-          "#text": "Virginia to Vegas"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "Super Far",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Super+Far"
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
-          "#text": "Utopian"
+          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
+          "#text": "Justice (The Complete Edition)"
         },
-        "name": "We Are Stars (feat. Alyssa Reid)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)"
+        "name": "Hold On",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On",
+        "date": {
+          "uts": "1722577794",
+          "#text": "02 Aug 2024, 05:49"
+        }
       },
       {
         "artist": {
@@ -1799,42 +1835,6 @@
           "uts": "1721988594",
           "#text": "26 Jul 2024, 10:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0c6be3b5-36b1-4392-b294-7d44b30a8b76",
-          "#text": "Fly By Midnight"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/02381468f0761d5ad741c720b9341fb0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/02381468f0761d5ad741c720b9341fb0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/02381468f0761d5ad741c720b9341fb0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/02381468f0761d5ad741c720b9341fb0.jpg"
-          }
-        ],
-        "mbid": "ad8ea31b-51ae-4437-aac0-4b84f2d9687c",
-        "album": {
-          "mbid": "cd4fda42-e14b-499e-bc91-4651a1b45d1a",
-          "#text": "Fictional Illustrations"
-        },
-        "name": "Infinitely Falling",
-        "url": "https://www.last.fm/music/Fly+By+Midnight/_/Infinitely+Falling",
-        "date": {
-          "uts": "1721987845",
-          "#text": "26 Jul 2024, 09:57"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5251"
+      "total": "5252"
     }
   }
 }
