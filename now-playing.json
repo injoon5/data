@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c135b05a30519b74816b002968f9d77e.jpg"
+          }
+        ],
+        "mbid": "7f56c8ab-8090-4bec-bcde-f5342d885637",
+        "album": {
+          "mbid": "",
+          "#text": "Welcome To The Club (Pt.2) - EP"
+        },
+        "name": "Crazy",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Crazy"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0e661800-6fc1-4850-9699-63620c8729e3",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Invisible Things",
+        "url": "https://www.last.fm/music/Lauv/_/Invisible+Things",
+        "date": {
+          "uts": "1722578184",
+          "#text": "02 Aug 2024, 05:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +102,11 @@
           "#text": "LANY"
         },
         "name": "Super Far",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Super+Far"
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1722577983",
+          "#text": "02 Aug 2024, 05:53"
+        }
       },
       {
         "artist": {
@@ -1763,78 +1835,6 @@
           "uts": "1721989503",
           "#text": "26 Jul 2024, 10:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7b545a9d-0be7-4a32-90ff-154489117216",
-          "#text": "Joel Corry"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97c1279b129227cc71efb0e4b5e4c589.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Head & Heart (feat. MNEK) - Single"
-        },
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://www.last.fm/music/Joel+Corry/_/Head+&+Heart+(feat.+MNEK)",
-        "date": {
-          "uts": "1721989108",
-          "#text": "26 Jul 2024, 10:18"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "85b440b5-93e3-4849-accd-f1e9d9c65125",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret Of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1721988594",
-          "#text": "26 Jul 2024, 10:09"
-        }
       }
     ],
     "@attr": {
@@ -1842,7 +1842,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5252"
+      "total": "5254"
     }
   }
 }
