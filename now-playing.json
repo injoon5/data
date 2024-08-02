@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
+          "#text": "Utopian"
+        },
+        "name": "We Are Stars (feat. Alyssa Reid)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)"
+      },
+      {
+        "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bf6672006089f337850923c5af61806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bf6672006089f337850923c5af61806.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "368c50f6-5ae0-4de2-b68a-38ab2928edb5",
+          "#text": "Utopian"
+        },
+        "name": "We Are Stars (feat. Alyssa Reid)",
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/We+Are+Stars+(feat.+Alyssa+Reid)",
+        "date": {
+          "uts": "1722577591",
+          "#text": "02 Aug 2024, 05:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
           "#text": "New Hope Club"
         },
@@ -31,10 +102,11 @@
           "#text": "Medicine - Single"
         },
         "name": "Medicine",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine"
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Medicine",
+        "date": {
+          "uts": "1722577372",
+          "#text": "02 Aug 2024, 05:42"
+        }
       },
       {
         "artist": {
@@ -1763,86 +1835,14 @@
           "uts": "1721987845",
           "#text": "26 Jul 2024, 09:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "dhruv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          }
-        ],
-        "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
-        "album": {
-          "mbid": "",
-          "#text": "Double Take - Single"
-        },
-        "name": "double take",
-        "url": "https://www.last.fm/music/dhruv/_/double+take",
-        "date": {
-          "uts": "1721987677",
-          "#text": "26 Jul 2024, 09:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
-          "#text": "The Ivy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Have You Ever Been in Love - Single"
-        },
-        "name": "Have You Ever Been in Love",
-        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love",
-        "date": {
-          "uts": "1721987486",
-          "#text": "26 Jul 2024, 09:51"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "105",
+      "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5249"
+      "total": "5251"
     }
   }
 }
