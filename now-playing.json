@@ -31,41 +31,6 @@
           "#text": "Make Out - EP"
         },
         "name": "ILYSB (Stripped)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/ILYSB+(Stripped)"
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61bbec97178689021cc7ee949ad97417.jpg"
-          }
-        ],
-        "mbid": "2aa7dcf6-73e4-4563-a4ca-77c1aa7293af",
-        "album": {
-          "mbid": "",
-          "#text": "Make Out - EP"
-        },
-        "name": "ILYSB (Stripped)",
         "url": "https://www.last.fm/music/Lany/_/ILYSB+(Stripped)",
         "date": {
           "uts": "1723196319",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1723195848",
           "#text": "09 Aug 2024, 09:30"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+          "#text": "wave to earth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
+          }
+        ],
+        "mbid": "5f6af713-98e0-458f-8f4c-d8b8f46b7de4",
+        "album": {
+          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
+          "#text": "0.1 flaws and all."
+        },
+        "name": "bad",
+        "url": "https://www.last.fm/music/wave+to+earth/_/bad",
+        "date": {
+          "uts": "1723195620",
+          "#text": "09 Aug 2024, 09:27"
         }
       }
     ],
