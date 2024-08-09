@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99a2d908517b802ebd802bad6d5a0f60.jpg"
+          }
+        ],
+        "mbid": "5f6e8ab0-a0c5-41df-af90-fef5444641ed",
+        "album": {
+          "mbid": "",
+          "#text": "Justice (Triple Chucks Deluxe / Deluxe Video Version)"
+        },
+        "name": "Off My Face",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Off+My+Face"
+      },
+      {
+        "artist": {
+          "mbid": "944e1036-8a03-4611-8aa0-31515a05c848",
+          "#text": "Smash Mouth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fa69c46fcfa4e3bcec57996309bc0a9.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fa69c46fcfa4e3bcec57996309bc0a9.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fa69c46fcfa4e3bcec57996309bc0a9.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fa69c46fcfa4e3bcec57996309bc0a9.png"
+          }
+        ],
+        "mbid": "b2153789-6549-4539-b704-7d6be06851bd",
+        "album": {
+          "mbid": "81936295-ba8e-4b66-baf5-38a0e56ec0b6",
+          "#text": "All Star Smash Hits"
+        },
+        "name": "All Star",
+        "url": "https://www.last.fm/music/Smash+Mouth/_/All+Star",
+        "date": {
+          "uts": "1723189708",
+          "#text": "09 Aug 2024, 07:48"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Japuya"
         },
@@ -72,78 +143,6 @@
           "uts": "1722944871",
           "#text": "06 Aug 2024, 11:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "568a5f4b-f182-43be-9fe8-7758dd69be07",
-          "#text": "The Unlikely Candidates"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcdea39fd3db0545580713c744c5e157.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcdea39fd3db0545580713c744c5e157.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcdea39fd3db0545580713c744c5e157.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcdea39fd3db0545580713c744c5e157.jpg"
-          }
-        ],
-        "mbid": "35462947-7436-4d58-be0f-aa2886306c7f",
-        "album": {
-          "mbid": "",
-          "#text": "High Low - Single"
-        },
-        "name": "High Low",
-        "url": "https://www.last.fm/music/The+Unlikely+Candidates/_/High+Low",
-        "date": {
-          "uts": "1722753488",
-          "#text": "04 Aug 2024, 06:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "When I'm Still Getting Over You (feat. Paige) - Single"
-        },
-        "name": "When I'm Still Getting Over You (feat. Paige)",
-        "url": "https://www.last.fm/music/Peder+Elias/_/When+I%27m+Still+Getting+Over+You+(feat.+Paige)",
-        "date": {
-          "uts": "1722592780",
-          "#text": "02 Aug 2024, 09:59"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5264"
+      "total": "5265"
     }
   }
 }
