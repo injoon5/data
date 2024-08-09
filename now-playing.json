@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Adele"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+          }
+        ],
+        "mbid": "2ea2dcdc-59a2-4870-8722-3d8e919b47e6",
+        "album": {
+          "mbid": "1cafd438-383c-4068-a1cd-01c9cfdeb8a2",
+          "#text": "30"
+        },
+        "name": "To Be Loved",
+        "url": "https://www.last.fm/music/Adele/_/To+Be+Loved",
+        "date": {
+          "uts": "1723191654",
+          "#text": "09 Aug 2024, 08:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fce31d4841bc76861f5ff024281c61d6.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fce31d4841bc76861f5ff024281c61d6.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fce31d4841bc76861f5ff024281c61d6.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce31d4841bc76861f5ff024281c61d6.png"
+          }
+        ],
+        "mbid": "013d480e-5232-4a58-a3e4-4a92b13d2269",
+        "album": {
+          "mbid": "033db61a-cb66-43d9-ac9b-98a7bebc89ba",
+          "#text": "Music of the Spheres"
+        },
+        "name": "\u221e",
+        "url": "https://www.last.fm/music/Coldplay/_/%E2%88%9E",
+        "date": {
+          "uts": "1723191339",
+          "#text": "09 Aug 2024, 08:15"
+        }
+      },
+      {
+        "artist": {
           "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
           "#text": "5 Seconds of Summer"
         },
@@ -31,10 +103,11 @@
           "#text": "CALM"
         },
         "name": "High",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High"
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
+        "date": {
+          "uts": "1723191137",
+          "#text": "09 Aug 2024, 08:12"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1723190928",
           "#text": "09 Aug 2024, 08:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "aabdeac0-a8aa-4965-9873-44e64d8d8864",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "ILYSB",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB",
-        "date": {
-          "uts": "1723190681",
-          "#text": "09 Aug 2024, 08:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
-          "#text": "Trevor Daniel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3875c02aeb0bf911467d6b934d7233e.jpg"
-          }
-        ],
-        "mbid": "0e23b8c9-e315-4297-8378-8dc1ac15c740",
-        "album": {
-          "mbid": "2f3ecda6-080e-4b12-92e4-58a54d98f620",
-          "#text": "Nicotine"
-        },
-        "name": "Falling",
-        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling",
-        "date": {
-          "uts": "1723190496",
-          "#text": "09 Aug 2024, 08:01"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5271"
+      "total": "5274"
     }
   }
 }
