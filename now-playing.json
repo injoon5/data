@@ -3,111 +3,38 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Adele"
+          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+          "#text": "wave to earth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb82ddd94c9fbdb5733a46133d16c073.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
           }
         ],
-        "mbid": "2ea2dcdc-59a2-4870-8722-3d8e919b47e6",
+        "mbid": "5f6af713-98e0-458f-8f4c-d8b8f46b7de4",
         "album": {
-          "mbid": "1cafd438-383c-4068-a1cd-01c9cfdeb8a2",
-          "#text": "30"
+          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
+          "#text": "0.1 flaws and all."
         },
-        "name": "To Be Loved",
-        "url": "https://www.last.fm/music/Adele/_/To+Be+Loved",
-        "date": {
-          "uts": "1723191654",
-          "#text": "09 Aug 2024, 08:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
+        "name": "bad",
+        "@attr": {
+          "nowplaying": "true"
         },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fce31d4841bc76861f5ff024281c61d6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fce31d4841bc76861f5ff024281c61d6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fce31d4841bc76861f5ff024281c61d6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce31d4841bc76861f5ff024281c61d6.png"
-          }
-        ],
-        "mbid": "013d480e-5232-4a58-a3e4-4a92b13d2269",
-        "album": {
-          "mbid": "033db61a-cb66-43d9-ac9b-98a7bebc89ba",
-          "#text": "Music of the Spheres"
-        },
-        "name": "\u221e",
-        "url": "https://www.last.fm/music/Coldplay/_/%E2%88%9E",
-        "date": {
-          "uts": "1723191339",
-          "#text": "09 Aug 2024, 08:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
-          "#text": "5 Seconds of Summer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
-          }
-        ],
-        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
-        "album": {
-          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
-          "#text": "CALM"
-        },
-        "name": "High",
-        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
-        "date": {
-          "uts": "1723191137",
-          "#text": "09 Aug 2024, 08:12"
-        }
+        "url": "https://www.last.fm/music/wave+to+earth/_/bad"
       },
       {
         "artist": {
@@ -118,31 +45,103 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb28e94e9867ea7388dc9b5b8eeab8f9.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb28e94e9867ea7388dc9b5b8eeab8f9.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb28e94e9867ea7388dc9b5b8eeab8f9.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/132e30ae83472d37194f45427be248b7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb28e94e9867ea7388dc9b5b8eeab8f9.jpg"
           }
         ],
-        "mbid": "c0f3c566-35c2-4d6d-b831-05815d4f61a3",
+        "mbid": "5adbbe3b-2b15-48a6-9a1b-6a0187ae8e43",
         "album": {
-          "mbid": "6d7524b5-b862-42e2-8661-4130ff6f1002",
-          "#text": "- (Deluxe)"
+          "mbid": "0c0676bb-5ad8-4359-8324-8aed895f6044",
+          "#text": "="
         },
-        "name": "Borderline",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Borderline",
+        "name": "Overpass Graffiti",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Overpass+Graffiti",
         "date": {
-          "uts": "1723190928",
-          "#text": "09 Aug 2024, 08:08"
+          "uts": "1723195369",
+          "#text": "09 Aug 2024, 09:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
+          "#text": "John K"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8b40e6451329f64db72534fb30e1879.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8b40e6451329f64db72534fb30e1879.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "love + everything else"
+        },
+        "name": "if we never met",
+        "url": "https://www.last.fm/music/John+K/_/if+we+never+met",
+        "date": {
+          "uts": "1723195178",
+          "#text": "09 Aug 2024, 09:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "3a9067cb-cde5-438d-a077-065c668c9e9e",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "sharing you",
+        "url": "https://www.last.fm/music/Lany/_/sharing+you",
+        "date": {
+          "uts": "1723195051",
+          "#text": "09 Aug 2024, 09:17"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5274"
+      "total": "5277"
     }
   }
 }
