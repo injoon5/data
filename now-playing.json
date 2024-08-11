@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "08bdd7d0-cbca-4ec8-9678-4754c499d992",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Good Girls",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Good+Girls"
+      },
+      {
+        "artist": {
           "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
           "#text": "George Benson"
         },
@@ -31,10 +66,11 @@
           "#text": "20/20"
         },
         "name": "Nothing's Gonna Change My Love for You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You"
+        "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You",
+        "date": {
+          "uts": "1723361695",
+          "#text": "11 Aug 2024, 07:34"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1723196097",
           "#text": "09 Aug 2024, 09:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
-          "#text": "Fitz and the Tantrums"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0387182ef67607f3c96662c455ab981.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0387182ef67607f3c96662c455ab981.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0387182ef67607f3c96662c455ab981.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0387182ef67607f3c96662c455ab981.jpg"
-          }
-        ],
-        "mbid": "9eb67a6a-e73f-4dc0-bd56-b37f1c374849",
-        "album": {
-          "mbid": "",
-          "#text": "Fitz & the Tantrums (Deluxe)"
-        },
-        "name": "HandClap",
-        "url": "https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap",
-        "date": {
-          "uts": "1723195848",
-          "#text": "09 Aug 2024, 09:30"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5281"
+      "total": "5282"
     }
   }
 }
