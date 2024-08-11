@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          }
+        ],
+        "mbid": "342bd6b8-ebe6-47bf-bfae-7fa98d540752",
+        "album": {
+          "mbid": "1fa2d99a-d754-499f-ba6c-8fac8c43ab18",
+          "#text": "Blue Neighbourhood"
+        },
+        "name": "YOUTH",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH"
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec73300c86b82c89b599d09b2c074dd4.jpg"
+          }
+        ],
+        "mbid": "342bd6b8-ebe6-47bf-bfae-7fa98d540752",
+        "album": {
+          "mbid": "1fa2d99a-d754-499f-ba6c-8fac8c43ab18",
+          "#text": "Blue Neighbourhood"
+        },
+        "name": "YOUTH",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH",
+        "date": {
+          "uts": "1723362956",
+          "#text": "11 Aug 2024, 07:55"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0e1a584-dd0a-4bd1-88d1-c4c62895039d",
           "#text": "Foster the People"
         },
@@ -31,10 +102,11 @@
           "#text": "Sacred Hearts Club"
         },
         "name": "Sit Next to Me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Foster+the+People/_/Sit+Next+to+Me"
+        "url": "https://www.last.fm/music/Foster+the+People/_/Sit+Next+to+Me",
+        "date": {
+          "uts": "1723362723",
+          "#text": "11 Aug 2024, 07:52"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1723362492",
           "#text": "11 Aug 2024, 07:48"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-          "#text": "MGMT"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32774a8d1143a4a7087f4a18d5e2ede2.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32774a8d1143a4a7087f4a18d5e2ede2.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32774a8d1143a4a7087f4a18d5e2ede2.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32774a8d1143a4a7087f4a18d5e2ede2.png"
-          }
-        ],
-        "mbid": "27b4fceb-ca6c-453d-9aec-1d5ed8843b84",
-        "album": {
-          "mbid": "25a366e1-24fc-4e4a-a4d7-3370cb662568",
-          "#text": "Oracular Spectacular"
-        },
-        "name": "Electric Feel",
-        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel",
-        "date": {
-          "uts": "1723362239",
-          "#text": "11 Aug 2024, 07:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "08bdd7d0-cbca-4ec8-9678-4754c499d992",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Good Girls",
-        "url": "https://www.last.fm/music/Lany/_/Good+Girls",
-        "date": {
-          "uts": "1723361996",
-          "#text": "11 Aug 2024, 07:39"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5285"
+      "total": "5287"
     }
   }
 }
