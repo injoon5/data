@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "25227c04-3b4a-4f9b-a159-a77cdf4e3513",
+          "#text": "New Hope Club"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c135b05a30519b74816b002968f9d77e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c135b05a30519b74816b002968f9d77e.jpg"
+          }
+        ],
+        "mbid": "7f56c8ab-8090-4bec-bcde-f5342d885637",
+        "album": {
+          "mbid": "",
+          "#text": "Welcome To The Club (Pt.2) - EP"
+        },
+        "name": "Crazy",
+        "url": "https://www.last.fm/music/New+Hope+Club/_/Crazy",
+        "date": {
+          "uts": "1723365055",
+          "#text": "11 Aug 2024, 08:30"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
           "#text": "Harry Styles"
         },
@@ -108,42 +144,6 @@
           "uts": "1723362956",
           "#text": "11 Aug 2024, 07:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0e1a584-dd0a-4bd1-88d1-c4c62895039d",
-          "#text": "Foster the People"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d4cd73c68f96920bed4838c51420d4b5.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d4cd73c68f96920bed4838c51420d4b5.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d4cd73c68f96920bed4838c51420d4b5.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d4cd73c68f96920bed4838c51420d4b5.png"
-          }
-        ],
-        "mbid": "ea4a01b1-7e2d-4361-b0fb-b563c3a286f2",
-        "album": {
-          "mbid": "35d2744c-bd92-4ce5-bd7e-079931841cbf",
-          "#text": "Sacred Hearts Club"
-        },
-        "name": "Sit Next to Me",
-        "url": "https://www.last.fm/music/Foster+the+People/_/Sit+Next+to+Me",
-        "date": {
-          "uts": "1723362723",
-          "#text": "11 Aug 2024, 07:52"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5289"
+      "total": "5290"
     }
   }
 }
