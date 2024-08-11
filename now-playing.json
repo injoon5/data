@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+          "#text": "MGMT"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          }
+        ],
+        "mbid": "27b4fceb-ca6c-453d-9aec-1d5ed8843b84",
+        "album": {
+          "mbid": "25a366e1-24fc-4e4a-a4d7-3370cb662568",
+          "#text": "Oracular Spectacular"
+        },
+        "name": "Electric Feel",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+      },
+      {
+        "artist": {
+          "mbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+          "#text": "MGMT"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32774a8d1143a4a7087f4a18d5e2ede2.png"
+          }
+        ],
+        "mbid": "27b4fceb-ca6c-453d-9aec-1d5ed8843b84",
+        "album": {
+          "mbid": "25a366e1-24fc-4e4a-a4d7-3370cb662568",
+          "#text": "Oracular Spectacular"
+        },
+        "name": "Electric Feel",
+        "url": "https://www.last.fm/music/MGMT/_/Electric+Feel",
+        "date": {
+          "uts": "1723362239",
+          "#text": "11 Aug 2024, 07:43"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +102,11 @@
           "#text": "Lany (Deluxe)"
         },
         "name": "Good Girls",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Good+Girls"
+        "url": "https://www.last.fm/music/Lany/_/Good+Girls",
+        "date": {
+          "uts": "1723361996",
+          "#text": "11 Aug 2024, 07:39"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1723361695",
           "#text": "11 Aug 2024, 07:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61bbec97178689021cc7ee949ad97417.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61bbec97178689021cc7ee949ad97417.jpg"
-          }
-        ],
-        "mbid": "2aa7dcf6-73e4-4563-a4ca-77c1aa7293af",
-        "album": {
-          "mbid": "",
-          "#text": "Make Out - EP"
-        },
-        "name": "ILYSB (Stripped)",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB+(Stripped)",
-        "date": {
-          "uts": "1723196319",
-          "#text": "09 Aug 2024, 09:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "9276e9d8-fa8f-4a5d-a0f5-94c2cf755731",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "nobody else",
-        "url": "https://www.last.fm/music/Lany/_/nobody+else",
-        "date": {
-          "uts": "1723196097",
-          "#text": "09 Aug 2024, 09:34"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "106",
       "page": "1",
       "perPage": "50",
-      "total": "5282"
+      "total": "5284"
     }
   }
 }
