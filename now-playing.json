@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "cowboy in LA",
+        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
+        "date": {
+          "uts": "1723805554",
+          "#text": "16 Aug 2024, 10:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
           "#text": "Starship"
         },
@@ -72,78 +143,6 @@
           "uts": "1723805159",
           "#text": "16 Aug 2024, 10:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Goodbyes (feat. Young Thug)",
-        "url": "https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug)",
-        "date": {
-          "uts": "1723804984",
-          "#text": "16 Aug 2024, 10:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "a22ba641-6c93-43a4-8deb-f2910cded9d0",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Myself",
-        "url": "https://www.last.fm/music/Post+Malone/_/Myself",
-        "date": {
-          "uts": "1723804817",
-          "#text": "16 Aug 2024, 10:40"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5309"
+      "total": "5310"
     }
   }
 }
