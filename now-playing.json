@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f39969897d5de3f0395b63a889d8467.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f39969897d5de3f0395b63a889d8467.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f39969897d5de3f0395b63a889d8467.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f39969897d5de3f0395b63a889d8467.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "The Diamond Collection (Deluxe)"
+        },
+        "name": "Congratulations (feat. Quavo)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Post+Malone/_/Congratulations+(feat.+Quavo)"
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Goodbyes (feat. Young Thug)",
+        "url": "https://www.last.fm/music/Post+Malone/_/Goodbyes+(feat.+Young+Thug)",
+        "date": {
+          "uts": "1723804984",
+          "#text": "16 Aug 2024, 10:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Hollywood's Bleeding"
         },
         "name": "Myself",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Post+Malone/_/Myself"
+        "url": "https://www.last.fm/music/Post+Malone/_/Myself",
+        "date": {
+          "uts": "1723804817",
+          "#text": "16 Aug 2024, 10:40"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1723804627",
           "#text": "16 Aug 2024, 10:37"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd4aaf32b3299e4c51c424982b950553.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "a0240f06-25ba-4638-b2fb-5f22d728a8cb",
-          "#text": "F-1 Trillion"
-        },
-        "name": "I Had Some Help (feat. Morgan Wallen)",
-        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
-        "date": {
-          "uts": "1723804405",
-          "#text": "16 Aug 2024, 10:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bd4aaf32b3299e4c51c424982b950553.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd4aaf32b3299e4c51c424982b950553.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "a0240f06-25ba-4638-b2fb-5f22d728a8cb",
-          "#text": "F-1 Trillion"
-        },
-        "name": "Wrong Ones (feat. Tim Mcgraw)",
-        "url": "https://www.last.fm/music/Post+Malone/_/Wrong+Ones+(feat.+Tim+Mcgraw)",
-        "date": {
-          "uts": "1723804172",
-          "#text": "16 Aug 2024, 10:29"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5305"
+      "total": "5307"
     }
   }
 }
