@@ -31,10 +31,11 @@
           "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
         },
         "name": "I Had Some Help (feat. Morgan Wallen)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)"
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
+        "date": {
+          "uts": "1723876943",
+          "#text": "17 Aug 2024, 06:42"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5319"
+      "total": "5320"
     }
   }
 }
