@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
+        },
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)"
+      },
+      {
+        "artist": {
+          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
+          "#text": "Mokita"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dbf894bef4bd14093fb34b5de0016b0.jpg"
+          }
+        ],
+        "mbid": "0562dece-8214-45b6-a262-435712f46454",
+        "album": {
+          "mbid": "",
+          "#text": "Ready Yet - Single"
+        },
+        "name": "Ready Yet",
+        "url": "https://www.last.fm/music/Mokita/_/Ready+Yet",
+        "date": {
+          "uts": "1723876734",
+          "#text": "17 Aug 2024, 06:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "edf81f9b-d3f0-4d57-9636-d08e851b1640",
+          "#text": "Bazzi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41b1e2d8d7b08d0c06908a71030aad21.jpg"
+          }
+        ],
+        "mbid": "37f9aa9d-1552-4319-84c9-0265cb8898c5",
+        "album": {
+          "mbid": "2fc9cfe9-68ff-4f45-86a2-75dcaa1c79f9",
+          "#text": "Soul Searching"
+        },
+        "name": "I.F.L.Y.",
+        "url": "https://www.last.fm/music/Bazzi/_/I.F.L.Y.",
+        "date": {
+          "uts": "1723876548",
+          "#text": "17 Aug 2024, 06:35"
+        }
+      },
+      {
+        "artist": {
           "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
           "#text": "The Chainsmokers"
         },
@@ -36,114 +143,6 @@
           "uts": "1723807022",
           "#text": "16 Aug 2024, 11:17"
         }
-      },
-      {
-        "artist": {
-          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
-          "#text": "The Killers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Hot Fuss (Deluxe Edition)"
-        },
-        "name": "Mr. Brightside",
-        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
-        "date": {
-          "uts": "1723806861",
-          "#text": "16 Aug 2024, 11:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv & Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36a8423e9c86db2d5d712110fe78b7b0.jpg"
-          }
-        ],
-        "mbid": "0bbcf5c2-a2ca-435f-944d-f4c767a0432d",
-        "album": {
-          "mbid": "",
-          "#text": "i'm so tired... - Single"
-        },
-        "name": "i'm so tired...",
-        "url": "https://www.last.fm/music/Lauv+&+Troye+Sivan/_/i%27m+so+tired...",
-        "date": {
-          "uts": "1723806668",
-          "#text": "16 Aug 2024, 11:11"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
-          }
-        ],
-        "mbid": "56b20928-9041-46ac-865c-acb9c4b24882",
-        "album": {
-          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
-          "#text": "This Room is White"
-        },
-        "name": "Swim",
-        "url": "https://www.last.fm/music/Valley/_/Swim",
-        "date": {
-          "uts": "1723806409",
-          "#text": "16 Aug 2024, 11:06"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5317"
+      "total": "5319"
     }
   }
 }
