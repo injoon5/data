@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+          "#text": "Spandau Ballet"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "15a471f7-46e0-4838-93ea-a28bc376073c",
+          "#text": "Gold: The Best of Spandau Ballet"
+        },
+        "name": "True",
+        "url": "https://www.last.fm/music/Spandau+Ballet/_/True",
+        "date": {
+          "uts": "1724078642",
+          "#text": "19 Aug 2024, 14:44"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
           "#text": "Post Malone"
         },
@@ -31,10 +67,11 @@
           "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
         },
         "name": "I Had Some Help (feat. Morgan Wallen)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)"
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
+        "date": {
+          "uts": "1724078386",
+          "#text": "19 Aug 2024, 14:39"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1723876734",
           "#text": "17 Aug 2024, 06:38"
         }
-      },
-      {
-        "artist": {
-          "mbid": "edf81f9b-d3f0-4d57-9636-d08e851b1640",
-          "#text": "Bazzi"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          }
-        ],
-        "mbid": "37f9aa9d-1552-4319-84c9-0265cb8898c5",
-        "album": {
-          "mbid": "2fc9cfe9-68ff-4f45-86a2-75dcaa1c79f9",
-          "#text": "Soul Searching"
-        },
-        "name": "I.F.L.Y.",
-        "url": "https://www.last.fm/music/Bazzi/_/I.F.L.Y.",
-        "date": {
-          "uts": "1723876548",
-          "#text": "17 Aug 2024, 06:35"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5320"
+      "total": "5322"
     }
   }
 }
