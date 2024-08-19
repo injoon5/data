@@ -31,6 +31,41 @@
           "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
         },
         "name": "I Had Some Help (feat. Morgan Wallen)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)"
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
+        },
+        "name": "I Had Some Help (feat. Morgan Wallen)",
         "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
         "date": {
           "uts": "1723876943",
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1723876548",
           "#text": "17 Aug 2024, 06:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-          "#text": "The Chainsmokers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96ce941e795755d46ce76c092732d7d0.jpg"
-          }
-        ],
-        "mbid": "9843a5ce-2164-4c09-a133-80eeb5430592",
-        "album": {
-          "mbid": "",
-          "#text": "Memories...Do Not Open"
-        },
-        "name": "Paris",
-        "url": "https://www.last.fm/music/The+Chainsmokers/_/Paris",
-        "date": {
-          "uts": "1723807022",
-          "#text": "16 Aug 2024, 11:17"
         }
       }
     ],
