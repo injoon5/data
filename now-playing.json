@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          }
+        ],
+        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
+        "album": {
+          "mbid": "",
+          "#text": "something special (hi) - Single"
+        },
+        "name": "something special",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Joan/_/something+special"
+      },
+      {
+        "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
+          }
+        ],
+        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
+        "album": {
+          "mbid": "",
+          "#text": "something special (hi) - Single"
+        },
+        "name": "something special",
+        "url": "https://www.last.fm/music/Joan/_/something+special",
+        "date": {
+          "uts": "1724082890",
+          "#text": "19 Aug 2024, 15:54"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,10 +102,11 @@
           "#text": "x (Deluxe Edition)"
         },
         "name": "Photograph",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph"
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
+        "date": {
+          "uts": "1724082681",
+          "#text": "19 Aug 2024, 15:51"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1724082411",
           "#text": "19 Aug 2024, 15:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "92da7d5a-ce9e-4e5d-82bd-7504eecf3263",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Castle on the Hill",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Castle+on+the+Hill",
-        "date": {
-          "uts": "1724082139",
-          "#text": "19 Aug 2024, 15:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1818f95e42ac3f5b9f08c7660cd041ba.jpg"
-          }
-        ],
-        "mbid": "09a082b7-ea6e-4a34-a587-882d80d8abe7",
-        "album": {
-          "mbid": "7311f6bc-2e93-4e36-954b-7f959e7153c7",
-          "#text": "tryhard"
-        },
-        "name": "See Through",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/See+Through",
-        "date": {
-          "uts": "1724081917",
-          "#text": "19 Aug 2024, 15:38"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "107",
       "page": "1",
       "perPage": "50",
-      "total": "5340"
+      "total": "5342"
     }
   }
 }
