@@ -31,41 +31,6 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "heart won't let me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me"
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "21763bf8-14ea-4aaf-bdd1-d4c37d14223c",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "heart won't let me",
         "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me",
         "date": {
           "uts": "1724341236",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1724340788",
           "#text": "22 Aug 2024, 15:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "a22ba641-6c93-43a4-8deb-f2910cded9d0",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Myself",
+        "url": "https://www.last.fm/music/Post+Malone/_/Myself",
+        "date": {
+          "uts": "1724340569",
+          "#text": "22 Aug 2024, 15:29"
         }
       }
     ],
