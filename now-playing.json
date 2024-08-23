@@ -25,16 +25,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
           }
         ],
+        "mbid": "128daefa-666e-4e2f-b66a-8617ee1baa09",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "anything 4 u",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/anything+4+u"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "7d3bfb2d-5b7f-4257-9391-99ec5736d2a9",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "when you're drunk",
+        "url": "https://www.last.fm/music/Lany/_/when+you%27re+drunk",
+        "date": {
+          "uts": "1724398507",
+          "#text": "23 Aug 2024, 07:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
         "mbid": "3bdc4c84-2976-42ec-832a-5ebaf33297f2",
         "album": {
           "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
           "#text": "mama's boy (deluxe)"
         },
         "name": "bad news",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/bad+news"
+        "url": "https://www.last.fm/music/Lany/_/bad+news",
+        "date": {
+          "uts": "1724398290",
+          "#text": "23 Aug 2024, 07:31"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1724398084",
           "#text": "23 Aug 2024, 07:28"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "468f47f8-deb1-4006-930c-d66655ce3c44",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "good guys",
-        "url": "https://www.last.fm/music/Lany/_/good+guys",
-        "date": {
-          "uts": "1724397865",
-          "#text": "23 Aug 2024, 07:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "paper",
-        "url": "https://www.last.fm/music/Lany/_/paper",
-        "date": {
-          "uts": "1724397632",
-          "#text": "23 Aug 2024, 07:20"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "108",
       "page": "1",
       "perPage": "50",
-      "total": "5368"
+      "total": "5370"
     }
   }
 }
