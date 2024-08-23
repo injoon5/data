@@ -31,10 +31,11 @@
           "#text": "gg bb xx"
         },
         "name": "one minute left to live",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/one+minute+left+to+live"
+        "url": "https://www.last.fm/music/Lany/_/one+minute+left+to+live",
+        "date": {
+          "uts": "1724401225",
+          "#text": "23 Aug 2024, 08:20"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "108",
       "page": "1",
       "perPage": "50",
-      "total": "5382"
+      "total": "5383"
     }
   }
 }
