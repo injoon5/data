@@ -31,10 +31,11 @@
           "#text": "LANY"
         },
         "name": "Super Far",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Super+Far"
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1724913666",
+          "#text": "29 Aug 2024, 06:41"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "108",
       "page": "1",
       "perPage": "50",
-      "total": "5392"
+      "total": "5393"
     }
   }
 }
