@@ -25,16 +25,52 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
           }
         ],
-        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
+        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
         "album": {
           "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
           "#text": "mama's boy (deluxe)"
         },
-        "name": "if this is the last time",
+        "name": "paper",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time"
+        "url": "https://www.last.fm/music/Lany/_/paper"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "3a786b4f-e911-4877-8f24-5963ae36ec7f",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "i still talk to jesus",
+        "url": "https://www.last.fm/music/Lany/_/i+still+talk+to+jesus",
+        "date": {
+          "uts": "1725457655",
+          "#text": "04 Sep 2024, 13:47"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1725457223",
           "#text": "04 Sep 2024, 13:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "cowboy in LA",
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
-        "date": {
-          "uts": "1725457016",
-          "#text": "04 Sep 2024, 13:36"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "109",
       "page": "1",
       "perPage": "50",
-      "total": "5425"
+      "total": "5426"
     }
   }
 }
