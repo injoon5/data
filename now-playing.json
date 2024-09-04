@@ -10,31 +10,103 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
           }
         ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "mbid": "5ea926a3-735c-4bd1-9d68-77c21d3d14ec",
         "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
+          "mbid": "",
+          "#text": "dancing in the kitchen - Single"
         },
-        "name": "13",
+        "name": "dancing in the kitchen",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/13"
+        "url": "https://www.last.fm/music/Lany/_/dancing+in+the+kitchen"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+          }
+        ],
+        "mbid": "5ea926a3-735c-4bd1-9d68-77c21d3d14ec",
+        "album": {
+          "mbid": "",
+          "#text": "dancing in the kitchen - Single"
+        },
+        "name": "dancing in the kitchen",
+        "url": "https://www.last.fm/music/Lany/_/dancing+in+the+kitchen",
+        "date": {
+          "uts": "1725461593",
+          "#text": "04 Sep 2024, 14:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "114cc945-fb8b-4ca8-acca-1c89a4869aac",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "never mind, let's break up",
+        "url": "https://www.last.fm/music/Lany/_/never+mind,+let%27s+break+up",
+        "date": {
+          "uts": "1725461406",
+          "#text": "04 Sep 2024, 14:50"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1725461207",
           "#text": "04 Sep 2024, 14:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "aabdeac0-a8aa-4965-9873-44e64d8d8864",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "ILYSB",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB",
-        "date": {
-          "uts": "1725460985",
-          "#text": "04 Sep 2024, 14:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "pink skies",
-        "url": "https://www.last.fm/music/Lany/_/pink+skies",
-        "date": {
-          "uts": "1725460785",
-          "#text": "04 Sep 2024, 14:39"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "109",
       "page": "1",
       "perPage": "50",
-      "total": "5442"
+      "total": "5444"
     }
   }
 }
