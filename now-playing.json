@@ -10,31 +10,67 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82ff192be8c416d9518c7779e116597c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a0bc6fbb60ff6b22a36151f62f75c45.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82ff192be8c416d9518c7779e116597c.jpg"
           }
         ],
-        "mbid": "5ea926a3-735c-4bd1-9d68-77c21d3d14ec",
+        "mbid": "19311cce-7269-48c0-bc89-ab946afb3eb4",
         "album": {
-          "mbid": "",
-          "#text": "dancing in the kitchen - Single"
+          "mbid": "70865c0f-601e-4d1d-8ea5-1fcaf284c6c6",
+          "#text": "a beautiful blur"
         },
-        "name": "dancing in the kitchen",
+        "name": "XXL",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/dancing+in+the+kitchen"
+        "url": "https://www.last.fm/music/Lany/_/XXL"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "if this is the last time",
+        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
+        "date": {
+          "uts": "1725461798",
+          "#text": "04 Sep 2024, 14:56"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1725461406",
           "#text": "04 Sep 2024, 14:50"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1725461207",
-          "#text": "04 Sep 2024, 14:46"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "109",
       "page": "1",
       "perPage": "50",
-      "total": "5444"
+      "total": "5445"
     }
   }
 }
