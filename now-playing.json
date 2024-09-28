@@ -31,10 +31,11 @@
           "#text": "Malibu Nights"
         },
         "name": "Malibu Nights",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Malibu+Nights"
+        "url": "https://www.last.fm/music/Lany/_/Malibu+Nights",
+        "date": {
+          "uts": "1727506763",
+          "#text": "28 Sep 2024, 06:59"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "110",
       "page": "1",
       "perPage": "50",
-      "total": "5482"
+      "total": "5483"
     }
   }
 }
