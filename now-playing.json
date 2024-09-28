@@ -3,38 +3,111 @@
     "track": [
       {
         "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
+          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+          "#text": "Eric Clapton"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98e92a3b46c649e2ab0f1d1ba46b63c0.jpg"
           }
         ],
-        "mbid": "103786ed-74db-4f7f-bab9-5dafa3b93975",
+        "mbid": "",
+        "album": {
+          "mbid": "4645ee33-5e85-4af9-b321-70d55b1db029",
+          "#text": "Classic Eric Clapton"
+        },
+        "name": "Wonderful Tonight",
+        "url": "https://www.last.fm/music/Eric+Clapton/_/Wonderful+Tonight",
+        "date": {
+          "uts": "1727503764",
+          "#text": "28 Sep 2024, 06:09"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Angel Baby - Single"
+          "#text": "All 4 Nothing"
         },
-        "name": "Angel Baby",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Stranger",
+        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "date": {
+          "uts": "1727503500",
+          "#text": "28 Sep 2024, 06:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "8460a4d4-f623-4a0d-82a6-d33d725ab33d",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Sad Forever",
+        "url": "https://www.last.fm/music/Lauv/_/Sad+Forever",
+        "date": {
+          "uts": "1727503316",
+          "#text": "28 Sep 2024, 06:01"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1727503104",
           "#text": "28 Sep 2024, 05:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ceeb46be58c45f4c5e8945e04a5af464.jpg"
-          }
-        ],
-        "mbid": "0f8d5cc0-7e6e-486e-9544-eca4736cd8b7",
-        "album": {
-          "mbid": "",
-          "#text": "Strawberries & Cigarettes - Single"
-        },
-        "name": "Strawberries & Cigarettes",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Strawberries+&+Cigarettes",
-        "date": {
-          "uts": "1727502893",
-          "#text": "28 Sep 2024, 05:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
-          }
-        ],
-        "mbid": "53969964-673a-4407-9396-3087be9245f6",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "As It Was",
-        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
-        "date": {
-          "uts": "1727502708",
-          "#text": "28 Sep 2024, 05:51"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "110",
       "page": "1",
       "perPage": "50",
-      "total": "5470"
+      "total": "5473"
     }
   }
 }
