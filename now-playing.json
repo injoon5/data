@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5853cf3c4aafa6867d5d3e72be793a2c.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "e1a8083b-0d37-4e0e-bfdc-1899efd9ca7d",
+        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
         "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Less Than Zero",
+        "name": "Lonely Eyes",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Less+Than+Zero"
+        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "13",
+        "url": "https://www.last.fm/music/Lany/_/13",
+        "date": {
+          "uts": "1727516234",
+          "#text": "28 Sep 2024, 09:37"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1727515837",
           "#text": "28 Sep 2024, 09:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
-          }
-        ],
-        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
-        "album": {
-          "mbid": "",
-          "#text": "Reasons You Should Care - EP"
-        },
-        "name": "Outside",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
-        "date": {
-          "uts": "1727515682",
-          "#text": "28 Sep 2024, 09:28"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "111",
       "page": "1",
       "perPage": "50",
-      "total": "5512"
+      "total": "5513"
     }
   }
 }
