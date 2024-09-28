@@ -3,109 +3,73 @@
     "track": [
       {
         "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
           }
         ],
-        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
         "album": {
           "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
+          "#text": "Reasons You Should Care - EP"
         },
-        "name": "homebody",
+        "name": "Outside",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Valley/_/homebody"
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside"
       },
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4583932b753c96d0d2f22fe9774e5ef3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4583932b753c96d0d2f22fe9774e5ef3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4583932b753c96d0d2f22fe9774e5ef3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4583932b753c96d0d2f22fe9774e5ef3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "4fbb1e4a-c5c7-4694-a971-a3668bcffa17",
         "album": {
-          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
-          "#text": "After Hours"
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Blinding Lights",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "name": "Feelings",
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
         "date": {
-          "uts": "1727514736",
-          "#text": "28 Sep 2024, 09:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c2c5b6def1e2a4290f9a00869c85348.jpg"
-          }
-        ],
-        "mbid": "1296089c-bdac-4d64-b9ac-15ebf2a55ed2",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1727514544",
-          "#text": "28 Sep 2024, 09:09"
+          "uts": "1727515499",
+          "#text": "28 Sep 2024, 09:24"
         }
       },
       {
@@ -117,31 +81,67 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed526a5ae4a2e74babc6d8ef13681d55.jpg"
           }
         ],
-        "mbid": "55b4eabf-2605-4a2e-b9cb-fc5e737c953a",
+        "mbid": "9abc3b81-2266-47a1-a69e-087fadfeb78b",
         "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
+          "mbid": "079bb049-51b3-4471-b3ea-7505ff0a4455",
+          "#text": "Nine Track Mind"
         },
-        "name": "That's Hilarious",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/That%27s+Hilarious",
+        "name": "Dangerously",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Dangerously",
         "date": {
-          "uts": "1727514379",
-          "#text": "28 Sep 2024, 09:06"
+          "uts": "1727515305",
+          "#text": "28 Sep 2024, 09:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+          "#text": "5 Seconds of Summer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ee7f0ea17b3a3df65cb86a4fc4e91c9.jpg"
+          }
+        ],
+        "mbid": "0c41c8cd-d966-44b5-a974-c872e9feeeb2",
+        "album": {
+          "mbid": "157faa6a-2d3c-48af-9e8f-50b402a7a3dc",
+          "#text": "CALM"
+        },
+        "name": "High",
+        "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/High",
+        "date": {
+          "uts": "1727515116",
+          "#text": "28 Sep 2024, 09:18"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "111",
       "page": "1",
       "perPage": "50",
-      "total": "5505"
+      "total": "5509"
     }
   }
 }
