@@ -25,16 +25,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
           }
         ],
+        "mbid": "7fd2cd61-5f56-4d01-b77f-18c7f3a31d9e",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Malibu Nights",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Malibu+Nights"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          }
+        ],
+        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
+        "album": {
+          "mbid": "",
+          "#text": "kinda  - EP"
+        },
+        "name": "pink skies",
+        "url": "https://www.last.fm/music/Lany/_/pink+skies",
+        "date": {
+          "uts": "1727506526",
+          "#text": "28 Sep 2024, 06:55"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
         "mbid": "2eb16e7f-e095-4706-a3d7-6e3c92e3802e",
         "album": {
           "mbid": "",
           "#text": "Malibu Nights"
         },
         "name": "Thru These Tears",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears"
+        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
+        "date": {
+          "uts": "1727506331",
+          "#text": "28 Sep 2024, 06:52"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1727506123",
           "#text": "28 Sep 2024, 06:48"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "05479945-d8e0-473a-b6b5-25bfa0759077",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1727505933",
-          "#text": "28 Sep 2024, 06:45"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1727505748",
-          "#text": "28 Sep 2024, 06:42"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "110",
       "page": "1",
       "perPage": "50",
-      "total": "5480"
+      "total": "5482"
     }
   }
 }
