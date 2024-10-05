@@ -25,16 +25,53 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
           }
         ],
-        "mbid": "3f143c17-744d-4141-b511-54cccbecaa97",
+        "mbid": "21763bf8-14ea-4aaf-bdd1-d4c37d14223c",
         "album": {
           "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
           "#text": "mama's boy (deluxe)"
         },
-        "name": "you!",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "heart won't let me",
+        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me",
+        "date": {
+          "uts": "1728105855",
+          "#text": "05 Oct 2024, 05:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
-        "url": "https://www.last.fm/music/Lany/_/you!"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "cowboy in LA",
+        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
+        "date": {
+          "uts": "1728105648",
+          "#text": "05 Oct 2024, 05:20"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1728105090",
           "#text": "05 Oct 2024, 05:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Coldplay & Jon Hopkins"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/edc960044ae81dc7951cc3cd84cad008.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/edc960044ae81dc7951cc3cd84cad008.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/edc960044ae81dc7951cc3cd84cad008.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/edc960044ae81dc7951cc3cd84cad008.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Moon Music"
-        },
-        "name": "MOON MUSiC",
-        "url": "https://www.last.fm/music/Coldplay+&+Jon+Hopkins/_/MOON+MUSiC",
-        "date": {
-          "uts": "1728104831",
-          "#text": "05 Oct 2024, 05:07"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "113",
       "page": "1",
       "perPage": "50",
-      "total": "5637"
+      "total": "5639"
     }
   }
 }
