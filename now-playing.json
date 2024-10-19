@@ -31,41 +31,6 @@
           "#text": "Kyoto - Single"
         },
         "name": "Kyoto",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Pearldiver/_/Kyoto"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Pearldiver"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Kyoto - Single"
-        },
-        "name": "Kyoto",
         "url": "https://www.last.fm/music/Pearldiver/_/Kyoto",
         "date": {
           "uts": "1729357603",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1729357321",
           "#text": "19 Oct 2024, 17:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Nagini"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Trick or Treat - EP"
+        },
+        "name": "Abandoned",
+        "url": "https://www.last.fm/music/Nagini/_/Abandoned",
+        "date": {
+          "uts": "1729357182",
+          "#text": "19 Oct 2024, 16:59"
         }
       }
     ],
