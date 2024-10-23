@@ -31,41 +31,6 @@
           "#text": "Floating - Single"
         },
         "name": "floating",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Mozzie/_/floating"
-      },
-      {
-        "artist": {
-          "mbid": "881964dd-eb58-43f4-baeb-a9e598d4917c",
-          "#text": "Mozzie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Floating - Single"
-        },
-        "name": "floating",
         "url": "https://www.last.fm/music/Mozzie/_/floating",
         "date": {
           "uts": "1729702703",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1729702415",
           "#text": "23 Oct 2024, 16:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Yok\u014d"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Miso Caramel - EP"
+        },
+        "name": "254 Bap",
+        "url": "https://www.last.fm/music/Yok%C5%8D/_/254+Bap",
+        "date": {
+          "uts": "1729702289",
+          "#text": "23 Oct 2024, 16:51"
         }
       }
     ],
