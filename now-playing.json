@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e33c460f-011a-469a-b934-08932a3729c4",
+          "#text": "Richard Marx"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13544397baa413ce2bb55222f583170e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13544397baa413ce2bb55222f583170e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "3cf1f365-e5b8-3a17-95b9-33bbcf52bac2",
+          "#text": "Repeat Offender"
+        },
+        "name": "Right Here Waiting",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Richard+Marx/_/Right+Here+Waiting"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "dhruv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/930e8008b0ff90245e2576f4df7cf659.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/930e8008b0ff90245e2576f4df7cf659.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/930e8008b0ff90245e2576f4df7cf659.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/930e8008b0ff90245e2576f4df7cf659.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Private Blizzard"
+        },
+        "name": "One and Only",
+        "url": "https://www.last.fm/music/dhruv/_/One+and+Only",
+        "date": {
+          "uts": "1730000969",
+          "#text": "27 Oct 2024, 03:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
           "#text": "Coldplay"
         },
@@ -72,78 +143,6 @@
           "uts": "1730000364",
           "#text": "27 Oct 2024, 03:39"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-          "#text": "Billie Eilish"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg"
-          }
-        ],
-        "mbid": "3a7e1970-069c-4761-a6b2-9046e54406bc",
-        "album": {
-          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
-          "#text": "HIT ME HARD AND SOFT"
-        },
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
-        "date": {
-          "uts": "1730000139",
-          "#text": "27 Oct 2024, 03:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "881964dd-eb58-43f4-baeb-a9e598d4917c",
-          "#text": "Mozzie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Floating - Single"
-        },
-        "name": "floating",
-        "url": "https://www.last.fm/music/Mozzie/_/floating",
-        "date": {
-          "uts": "1729702703",
-          "#text": "23 Oct 2024, 16:58"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "114",
       "page": "1",
       "perPage": "50",
-      "total": "5680"
+      "total": "5681"
     }
   }
 }
