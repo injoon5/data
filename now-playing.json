@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          }
+        ],
+        "mbid": "f67a58ef-1a5f-4e27-8b9f-4d99666ff71b",
+        "album": {
+          "mbid": "",
+          "#text": "Moon Music (Full Moon Edition)"
+        },
+        "name": "\ud83c\udf08",
+        "url": "https://www.last.fm/music/Coldplay/_/%F0%9F%8C%88",
+        "date": {
+          "uts": "1730000650",
+          "#text": "27 Oct 2024, 03:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "21763bf8-14ea-4aaf-bdd1-d4c37d14223c",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "heart won't let me",
+        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me",
+        "date": {
+          "uts": "1730000364",
+          "#text": "27 Oct 2024, 03:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
           "#text": "Billie Eilish"
         },
@@ -31,10 +103,11 @@
           "#text": "HIT ME HARD AND SOFT"
         },
         "name": "BIRDS OF A FEATHER",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
+        "date": {
+          "uts": "1730000139",
+          "#text": "27 Oct 2024, 03:35"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1729702703",
           "#text": "23 Oct 2024, 16:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "S\u00f8ren S\u00f8strom, DEOVI & Lazlow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Casciana Terme - EP"
-        },
-        "name": "Hot Spa",
-        "url": "https://www.last.fm/music/S%C3%B8ren+S%C3%B8strom,+DEOVI+&+Lazlow/_/Hot+Spa",
-        "date": {
-          "uts": "1729702539",
-          "#text": "23 Oct 2024, 16:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f2d2ceaa-55ab-4d57-8e35-e742ee12970f",
-          "#text": "Daphn\u00e9 & Mama Aiuto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "City Noodles - EP"
-        },
-        "name": "Long Flight Home",
-        "url": "https://www.last.fm/music/Daphn%C3%A9+&+Mama+Aiuto/_/Long+Flight+Home",
-        "date": {
-          "uts": "1729702415",
-          "#text": "23 Oct 2024, 16:53"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "114",
       "page": "1",
       "perPage": "50",
-      "total": "5677"
+      "total": "5680"
     }
   }
 }
