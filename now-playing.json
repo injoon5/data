@@ -10,6 +10,42 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Thick And Thin",
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
+        "date": {
+          "uts": "1730011385",
+          "#text": "27 Oct 2024, 06:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
@@ -31,10 +67,11 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "you!",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/you!"
+        "url": "https://www.last.fm/music/Lany/_/you!",
+        "date": {
+          "uts": "1730011142",
+          "#text": "27 Oct 2024, 06:39"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1730010725",
           "#text": "27 Oct 2024, 06:32"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de33650984273a54786a0fe33fefb4.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de33650984273a54786a0fe33fefb4.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "If I Can't Have You - Single"
-        },
-        "name": "If I Can't Have You",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/If+I+Can%27t+Have+You",
-        "date": {
-          "uts": "1730010555",
-          "#text": "27 Oct 2024, 06:29"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "115",
       "page": "1",
       "perPage": "50",
-      "total": "5730"
+      "total": "5732"
     }
   }
 }
