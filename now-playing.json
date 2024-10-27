@@ -3,43 +3,43 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "xander. & Rikard From"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
         "album": {
           "mbid": "",
-          "#text": "Can't Tell At All - Single"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "Can't Tell At All",
+        "name": "Paris in the Rain",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/xander.+&+Rikard+From/_/Can%27t+Tell+At+All"
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
       },
       {
         "artist": {
-          "mbid": "881964dd-eb58-43f4-baeb-a9e598d4917c",
-          "#text": "Mozzie"
+          "mbid": "",
+          "#text": "Susan & Khutko"
         },
         "streamable": "0",
         "image": [
@@ -63,19 +63,19 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Floating - Single"
+          "#text": "i see rainbows"
         },
-        "name": "floating",
-        "url": "https://www.last.fm/music/Mozzie/_/floating",
+        "name": "crosswords",
+        "url": "https://www.last.fm/music/Susan+&+Khutko/_/crosswords",
         "date": {
-          "uts": "1730005609",
-          "#text": "27 Oct 2024, 05:06"
+          "uts": "1730006718",
+          "#text": "27 Oct 2024, 05:25"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "UBeyond & Thomorrow"
+          "#text": "Datsunn & YBD"
         },
         "streamable": "0",
         "image": [
@@ -99,19 +99,19 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Mother's Milk"
+          "#text": "Sorry We're Late - EP"
         },
-        "name": "Mother's Milk (Grand Motel Remix Instrumental)",
-        "url": "https://www.last.fm/music/UBeyond+&+Thomorrow/_/Mother%27s+Milk+(Grand+Motel+Remix+Instrumental)",
+        "name": "Be There Please",
+        "url": "https://www.last.fm/music/Datsunn+&+YBD/_/Be+There+Please",
         "date": {
-          "uts": "1730005488",
-          "#text": "27 Oct 2024, 05:04"
+          "uts": "1730006597",
+          "#text": "27 Oct 2024, 05:23"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "Toshiki Soejima"
+          "#text": "Arsenie & Lazlow"
         },
         "streamable": "0",
         "image": [
@@ -135,13 +135,13 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Carefree (feat. edbl) - EP"
+          "#text": "Paper Crane - Single"
         },
-        "name": "Daisy Chain (feat. edbl)",
-        "url": "https://www.last.fm/music/Toshiki+Soejima/_/Daisy+Chain+(feat.+edbl)",
+        "name": "Paper Crane",
+        "url": "https://www.last.fm/music/Arsenie+&+Lazlow/_/Paper+Crane",
         "date": {
-          "uts": "1730005347",
-          "#text": "27 Oct 2024, 05:02"
+          "uts": "1730006483",
+          "#text": "27 Oct 2024, 05:21"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "115",
       "page": "1",
       "perPage": "50",
-      "total": "5702"
+      "total": "5710"
     }
   }
 }
