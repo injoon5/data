@@ -10,6 +10,41 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad853258a14f64405d0cf907ca1aa004.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad853258a14f64405d0cf907ca1aa004.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad853258a14f64405d0cf907ca1aa004.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad853258a14f64405d0cf907ca1aa004.jpg"
+          }
+        ],
+        "mbid": "1456676b-9303-47e6-b22e-0d8f3f58c8b1",
+        "album": {
+          "mbid": "",
+          "#text": "I Loved You. - EP"
+        },
+        "name": "4EVER!",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/4EVER!"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
           },
           {
@@ -31,10 +66,11 @@
           "#text": "Malibu Nights"
         },
         "name": "Thick And Thin",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin"
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
+        "date": {
+          "uts": "1730187403",
+          "#text": "29 Oct 2024, 07:36"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1730186973",
           "#text": "29 Oct 2024, 07:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "S\u00f8ren S\u00f8strom, DEOVI & Lazlow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Casciana Terme - EP"
-        },
-        "name": "Hot Spa",
-        "url": "https://www.last.fm/music/S%C3%B8ren+S%C3%B8strom,+DEOVI+&+Lazlow/_/Hot+Spa",
-        "date": {
-          "uts": "1730186803",
-          "#text": "29 Oct 2024, 07:26"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "115",
       "page": "1",
       "perPage": "50",
-      "total": "5735"
+      "total": "5736"
     }
   }
 }
