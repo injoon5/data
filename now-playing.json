@@ -3,109 +3,73 @@
     "track": [
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "7d3bfb2d-5b7f-4257-9391-99ec5736d2a9",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "when you're drunk",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/when+you%27re+drunk"
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
-        "album": {
           "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "pink skies",
-        "url": "https://www.last.fm/music/Lany/_/pink+skies",
-        "date": {
-          "uts": "1730188519",
-          "#text": "29 Oct 2024, 07:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "#text": "Lady Gaga & Bruno Mars"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a57e0d24346039cab5ff184786ff122d.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a57e0d24346039cab5ff184786ff122d.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a57e0d24346039cab5ff184786ff122d.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a57e0d24346039cab5ff184786ff122d.jpg"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
+          "mbid": "",
+          "#text": "Die with a Smile - Single"
         },
-        "name": "(what i wish just one person would say to me)",
-        "url": "https://www.last.fm/music/Lany/_/(what+i+wish+just+one+person+would+say+to+me)",
+        "name": "Die with a Smile",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile"
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20b1e0ef41e4346f7a72fbc141b3719f.jpg"
+          }
+        ],
+        "mbid": "064edca3-f034-4008-9042-77586543aeab",
+        "album": {
+          "mbid": "",
+          "#text": "Moon Music (Full Moon Edition)"
+        },
+        "name": "The Karate Kid",
+        "url": "https://www.last.fm/music/Coldplay/_/The+Karate+Kid",
         "date": {
-          "uts": "1730188319",
-          "#text": "29 Oct 2024, 07:51"
+          "uts": "1730189479",
+          "#text": "29 Oct 2024, 08:11"
         }
       },
       {
@@ -117,31 +81,67 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
           }
         ],
-        "mbid": "883d4040-8f9d-4e28-8e74-dad15f7b2a5a",
+        "mbid": "34b030b2-8a4f-4a4f-9290-6f13480bbe85",
         "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
         },
-        "name": "heart won't let me (stripped)",
-        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me+(stripped)",
+        "name": "The Breakup",
+        "url": "https://www.last.fm/music/Lany/_/The+Breakup",
         "date": {
-          "uts": "1730188113",
-          "#text": "29 Oct 2024, 07:48"
+          "uts": "1730189273",
+          "#text": "29 Oct 2024, 08:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "34f7169d-e629-41d9-a1eb-799ccc076a30",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "So, Soo Pretty",
+        "url": "https://www.last.fm/music/Lany/_/So,+Soo+Pretty",
+        "date": {
+          "uts": "1730189103",
+          "#text": "29 Oct 2024, 08:05"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "115",
       "page": "1",
       "perPage": "50",
-      "total": "5741"
+      "total": "5746"
     }
   }
 }
