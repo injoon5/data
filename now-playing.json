@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lady Gaga & Bruno Mars"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1730189273",
           "#text": "29 Oct 2024, 08:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "34f7169d-e629-41d9-a1eb-799ccc076a30",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "So, Soo Pretty",
-        "url": "https://www.last.fm/music/Lany/_/So,+Soo+Pretty",
-        "date": {
-          "uts": "1730189103",
-          "#text": "29 Oct 2024, 08:05"
         }
       }
     ],
