@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          }
+        ],
+        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
+        "album": {
+          "mbid": "",
+          "#text": "A Beautiful Blur (Deluxe)"
+        },
+        "name": "Love At First Fight",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
+          }
+        ],
+        "mbid": "19a60ae9-939d-4815-8eb3-1fa4ac356e70",
+        "album": {
+          "mbid": "",
+          "#text": "A Beautiful Blur (Deluxe)"
+        },
+        "name": "Love At First Fight",
+        "url": "https://www.last.fm/music/Lany/_/Love+At+First+Fight",
+        "date": {
+          "uts": "1731049124",
+          "#text": "08 Nov 2024, 06:58"
+        }
+      },
+      {
+        "artist": {
           "mbid": "779d1126-e48c-43f2-8b51-005f3b116d7e",
           "#text": "Kelsea Ballerini & LANY"
         },
@@ -31,10 +102,11 @@
           "#text": "I Quit Drinking - Single"
         },
         "name": "I Quit Drinking",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Kelsea+Ballerini+&+LANY/_/I+Quit+Drinking"
+        "url": "https://www.last.fm/music/Kelsea+Ballerini+&+LANY/_/I+Quit+Drinking",
+        "date": {
+          "uts": "1731048942",
+          "#text": "08 Nov 2024, 06:55"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1731048764",
           "#text": "08 Nov 2024, 06:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "2eb16e7f-e095-4706-a3d7-6e3c92e3802e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Thru These Tears",
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
-        "date": {
-          "uts": "1730707796",
-          "#text": "04 Nov 2024, 08:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "0063126a-ae86-4e09-90fe-0ebb6c8630a9",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "if this is the last time",
-        "url": "https://www.last.fm/music/Lany/_/if+this+is+the+last+time",
-        "date": {
-          "uts": "1730707592",
-          "#text": "04 Nov 2024, 08:06"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5752"
+      "total": "5754"
     }
   }
 }
