@@ -31,10 +31,11 @@
           "#text": "Epidemic Presents: Crates (M. Bison Edition)"
         },
         "name": "Today Is a Good Day to Live (feat. Michael Stenmark)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+T.+Graham/_/Today+Is+a+Good+Day+to+Live+(feat.+Michael+Stenmark)"
+        "url": "https://www.last.fm/music/John+T.+Graham/_/Today+Is+a+Good+Day+to+Live+(feat.+Michael+Stenmark)",
+        "date": {
+          "uts": "1731396771",
+          "#text": "12 Nov 2024, 07:32"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5766"
+      "total": "5767"
     }
   }
 }
