@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+          "#text": "Spandau Ballet"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d2b64a867edbb23d61466b0efbe8c5e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "15a471f7-46e0-4838-93ea-a28bc376073c",
+          "#text": "Gold: The Best of Spandau Ballet"
+        },
+        "name": "True",
+        "url": "https://www.last.fm/music/Spandau+Ballet/_/True",
+        "date": {
+          "uts": "1731473161",
+          "#text": "13 Nov 2024, 04:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
           "#text": "Fitz and the Tantrums"
         },
@@ -108,42 +144,6 @@
           "uts": "1731468833",
           "#text": "13 Nov 2024, 03:33"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Walk the Moon"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc6ffd3693048f8e02dd2d526ccc04cd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc6ffd3693048f8e02dd2d526ccc04cd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc6ffd3693048f8e02dd2d526ccc04cd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc6ffd3693048f8e02dd2d526ccc04cd.jpg"
-          }
-        ],
-        "mbid": "561b16c2-d531-43dd-93f2-bcb00b0833b6",
-        "album": {
-          "mbid": "90f07f4e-26ad-4df7-869d-f2f28163430b",
-          "#text": "HEIGHTS"
-        },
-        "name": "Rise Up",
-        "url": "https://www.last.fm/music/Walk+the+Moon/_/Rise+Up",
-        "date": {
-          "uts": "1731468697",
-          "#text": "13 Nov 2024, 03:31"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5775"
+      "total": "5776"
     }
   }
 }
