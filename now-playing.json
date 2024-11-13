@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+          "#text": "Fitz and the Tantrums"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0387182ef67607f3c96662c455ab981.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0387182ef67607f3c96662c455ab981.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0387182ef67607f3c96662c455ab981.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0387182ef67607f3c96662c455ab981.jpg"
+          }
+        ],
+        "mbid": "9eb67a6a-e73f-4dc0-bd56-b37f1c374849",
+        "album": {
+          "mbid": "",
+          "#text": "Fitz & the Tantrums (Deluxe)"
+        },
+        "name": "HandClap",
+        "url": "https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap",
+        "date": {
+          "uts": "1731472900",
+          "#text": "13 Nov 2024, 04:41"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "paper",
+        "url": "https://www.last.fm/music/Lany/_/paper",
+        "date": {
+          "uts": "1731472679",
+          "#text": "13 Nov 2024, 04:37"
+        }
+      },
+      {
+        "artist": {
           "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
           "#text": "Hoobastank"
         },
@@ -72,78 +144,6 @@
           "uts": "1731468697",
           "#text": "13 Nov 2024, 03:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a66999a7-ae5c-460e-ba94-1a01143ae847",
-          "#text": "Snow Patrol"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33d9a48e2ad33434b844d68daabd99df.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33d9a48e2ad33434b844d68daabd99df.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33d9a48e2ad33434b844d68daabd99df.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33d9a48e2ad33434b844d68daabd99df.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "What If This Is All The Love You Ever Get? - EP"
-        },
-        "name": "What If This Is All The Love You Ever Get? (Mike Crossey Mix)",
-        "url": "https://www.last.fm/music/Snow+Patrol/_/What+If+This+Is+All+The+Love+You+Ever+Get%3F+(Mike+Crossey+Mix)",
-        "date": {
-          "uts": "1731468156",
-          "#text": "13 Nov 2024, 03:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "08833721-f5cf-457a-adc2-15be95a017be",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "I Don't Wanna Love You Anymore",
-        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore",
-        "date": {
-          "uts": "1731398991",
-          "#text": "12 Nov 2024, 08:09"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5773"
+      "total": "5775"
     }
   }
 }
