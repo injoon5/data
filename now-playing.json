@@ -31,10 +31,11 @@
           "#text": "Continuum"
         },
         "name": "In Repair",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+Mayer/_/In+Repair"
+        "url": "https://www.last.fm/music/John+Mayer/_/In+Repair",
+        "date": {
+          "uts": "1731554679",
+          "#text": "14 Nov 2024, 03:24"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5788"
+      "total": "5789"
     }
   }
 }
