@@ -3,6 +3,114 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "69d1395c-b0c0-4905-b3c3-842f4f955e00",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Taking Me Back",
+        "url": "https://www.last.fm/music/Lany/_/Taking+Me+Back",
+        "date": {
+          "uts": "1731695117",
+          "#text": "15 Nov 2024, 18:25"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0c6be3b5-36b1-4392-b294-7d44b30a8b76",
+          "#text": "Fly By Midnight"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loveland - Single"
+        },
+        "name": "Casablanca",
+        "url": "https://www.last.fm/music/Fly+By+Midnight/_/Casablanca",
+        "date": {
+          "uts": "1731694869",
+          "#text": "15 Nov 2024, 18:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0c6be3b5-36b1-4392-b294-7d44b30a8b76",
+          "#text": "Fly By Midnight"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loveland - Single"
+        },
+        "name": "Loveland",
+        "url": "https://www.last.fm/music/Fly+By+Midnight/_/Loveland",
+        "date": {
+          "uts": "1731694648",
+          "#text": "15 Nov 2024, 18:17"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Joan"
         },
@@ -31,117 +139,10 @@
           "#text": "eyes - Single"
         },
         "name": "eyes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Joan/_/eyes"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "John Mayer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debb423cbaba4e17cecb7b2c3d18f189.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "03e42be9-909d-43d7-bc4b-c193a9676865",
-          "#text": "Continuum"
-        },
-        "name": "In Repair",
-        "url": "https://www.last.fm/music/John+Mayer/_/In+Repair",
+        "url": "https://www.last.fm/music/Joan/_/eyes",
         "date": {
-          "uts": "1731554679",
-          "#text": "14 Nov 2024, 03:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
-          "#text": "John Mayer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debb423cbaba4e17cecb7b2c3d18f189.png"
-          }
-        ],
-        "mbid": "071e6d56-fedf-4326-851e-6306fa97d5b7",
-        "album": {
-          "mbid": "03e42be9-909d-43d7-bc4b-c193a9676865",
-          "#text": "Continuum"
-        },
-        "name": "Dreaming With a Broken Heart",
-        "url": "https://www.last.fm/music/John+Mayer/_/Dreaming+With+a+Broken+Heart",
-        "date": {
-          "uts": "1731554370",
-          "#text": "14 Nov 2024, 03:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
-          "#text": "John Mayer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debb423cbaba4e17cecb7b2c3d18f189.png"
-          }
-        ],
-        "mbid": "0b97b9e0-7669-4fe6-b433-8a182efd78a8",
-        "album": {
-          "mbid": "03e42be9-909d-43d7-bc4b-c193a9676865",
-          "#text": "Continuum"
-        },
-        "name": "Bold As Love",
-        "url": "https://www.last.fm/music/John+Mayer/_/Bold+As+Love",
-        "date": {
-          "uts": "1731554117",
-          "#text": "14 Nov 2024, 03:15"
+          "uts": "1731694385",
+          "#text": "15 Nov 2024, 18:13"
         }
       }
     ],
@@ -150,7 +151,7 @@
       "totalPages": "116",
       "page": "1",
       "perPage": "50",
-      "total": "5789"
+      "total": "5793"
     }
   }
 }
