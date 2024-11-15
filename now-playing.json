@@ -4,6 +4,41 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2d8afa813930f04f54a5bf0860f4564.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "eyes - Single"
+        },
+        "name": "eyes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Joan/_/eyes"
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "John Mayer"
         },
         "streamable": "0",
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1731554117",
           "#text": "14 Nov 2024, 03:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
-          "#text": "John Mayer"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/debb423cbaba4e17cecb7b2c3d18f189.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debb423cbaba4e17cecb7b2c3d18f189.png"
-          }
-        ],
-        "mbid": "e877bcb7-ce88-460a-bfed-b26d75b8ce32",
-        "album": {
-          "mbid": "03e42be9-909d-43d7-bc4b-c193a9676865",
-          "#text": "Continuum"
-        },
-        "name": "Slow Dancing in a Burning Room",
-        "url": "https://www.last.fm/music/John+Mayer/_/Slow+Dancing+in+a+Burning+Room",
-        "date": {
-          "uts": "1731553867",
-          "#text": "14 Nov 2024, 03:11"
         }
       }
     ],
