@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "2bee95a7-1c0e-4b3c-99a5-4857d9d776dd",
+          "#text": "Dayglow"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cad2d300376ed1e482123ca2bcadb0a3.jpg"
+          }
+        ],
+        "mbid": "ff05a095-df0c-4d07-83a0-f73b851375b2",
+        "album": {
+          "mbid": "df94e017-d9ee-4559-9784-3a5022f78fdf",
+          "#text": "Fuzzybrain"
+        },
+        "name": "Can I Call You Tonight?",
+        "url": "https://www.last.fm/music/Dayglow/_/Can+I+Call+You+Tonight%3F",
+        "date": {
+          "uts": "1731755338",
+          "#text": "16 Nov 2024, 11:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "230c3473-2216-499f-bcca-7af7f0f01179",
+          "#text": "Christopher"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46955c0365f9665884140ebef07bcf59.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46955c0365f9665884140ebef07bcf59.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46955c0365f9665884140ebef07bcf59.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46955c0365f9665884140ebef07bcf59.jpg"
+          }
+        ],
+        "mbid": "2ba4230e-a70f-4264-a83b-d0690797cff7",
+        "album": {
+          "mbid": "",
+          "#text": "Bad - Single"
+        },
+        "name": "Bad",
+        "url": "https://www.last.fm/music/Christopher/_/Bad",
+        "date": {
+          "uts": "1731755045",
+          "#text": "16 Nov 2024, 11:04"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
           "#text": "Coldplay"
         },
@@ -31,10 +103,11 @@
           "#text": "2000 ~ 2010 \ub808\ud2b8\ub85c \uac8c\uc784 \uc74c\uc545"
         },
         "name": "Yellow",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Coldplay/_/Yellow"
+        "url": "https://www.last.fm/music/Coldplay/_/Yellow",
+        "date": {
+          "uts": "1731754817",
+          "#text": "16 Nov 2024, 11:00"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1731754576",
           "#text": "16 Nov 2024, 10:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Jub\u00ebl"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad90deda0ca949819245281ab445f6fd.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing in the Moonlight (feat. NEIMY) - Single"
-        },
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://www.last.fm/music/Jub%C3%ABl/_/Dancing+In+The+Moonlight+(feat.+NEIMY)",
-        "date": {
-          "uts": "1731754359",
-          "#text": "16 Nov 2024, 10:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7917975bca3a0a5a8e1ea06f86583b6a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7917975bca3a0a5a8e1ea06f86583b6a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7917975bca3a0a5a8e1ea06f86583b6a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7917975bca3a0a5a8e1ea06f86583b6a.jpg"
-          }
-        ],
-        "mbid": "b91d12f4-c604-465e-9276-e281cdbe33bb",
-        "album": {
-          "mbid": "",
-          "#text": "Take My Breath (Single Package) - Single"
-        },
-        "name": "Take My Breath",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Take+My+Breath",
-        "date": {
-          "uts": "1731753548",
-          "#text": "16 Nov 2024, 10:39"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "117",
       "page": "1",
       "perPage": "50",
-      "total": "5842"
+      "total": "5845"
     }
   }
 }
