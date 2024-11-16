@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
+          "#text": "Empire of the Sun"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4ae1bf8780a43fa8a731ed7f96ea281.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "5d70c51d-ac3d-4246-82ac-f7212dc44ead",
+          "#text": "Walking On A Dream (Special Edition)"
+        },
+        "name": "Walking on a Dream",
+        "url": "https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream",
+        "date": {
+          "uts": "1731767608",
+          "#text": "16 Nov 2024, 14:33"
+        }
+      },
+      {
+        "artist": {
           "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
           "#text": "Peach Tree Rascals"
         },
@@ -31,10 +67,11 @@
           "#text": "Mariposa - Single"
         },
         "name": "Mariposa",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa"
+        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa",
+        "date": {
+          "uts": "1731767404",
+          "#text": "16 Nov 2024, 14:30"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1731767025",
           "#text": "16 Nov 2024, 14:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Lauv/_/Changes",
-        "date": {
-          "uts": "1731766835",
-          "#text": "16 Nov 2024, 14:20"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5875"
+      "total": "5877"
     }
   }
 }
