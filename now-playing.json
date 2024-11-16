@@ -10,6 +10,42 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "paper",
+        "url": "https://www.last.fm/music/Lany/_/paper",
+        "date": {
+          "uts": "1731733032",
+          "#text": "16 Nov 2024, 04:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
           },
           {
@@ -31,10 +67,11 @@
           "#text": "kinda  - EP"
         },
         "name": "quit",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/quit"
+        "url": "https://www.last.fm/music/Lany/_/quit",
+        "date": {
+          "uts": "1731732810",
+          "#text": "16 Nov 2024, 04:53"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1731732404",
           "#text": "16 Nov 2024, 04:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "bd1180c4-4252-461f-94dc-543906c02522",
-          "#text": "Mr. Big"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae3716fbc2e005d51181c348924446fc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae3716fbc2e005d51181c348924446fc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae3716fbc2e005d51181c348924446fc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae3716fbc2e005d51181c348924446fc.jpg"
-          }
-        ],
-        "mbid": "7b2e4faf-0bb3-3caf-96cf-570fe71a2b4d",
-        "album": {
-          "mbid": "",
-          "#text": "Lean Into It (Expanded Edition)"
-        },
-        "name": "To Be With You",
-        "url": "https://www.last.fm/music/Mr.+Big/_/To+Be+With+You",
-        "date": {
-          "uts": "1731732198",
-          "#text": "16 Nov 2024, 04:43"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "117",
       "page": "1",
       "perPage": "50",
-      "total": "5817"
+      "total": "5819"
     }
   }
 }
