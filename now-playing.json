@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "13",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/13"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "13",
+        "url": "https://www.last.fm/music/Lany/_/13",
+        "date": {
+          "uts": "1731729471",
+          "#text": "16 Nov 2024, 03:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Malibu Nights"
         },
         "name": "I Don't Wanna Love You Anymore",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore"
+        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore",
+        "date": {
+          "uts": "1731729253",
+          "#text": "16 Nov 2024, 03:54"
+        }
       },
       {
         "artist": {
@@ -71,86 +143,14 @@
           "uts": "1731729052",
           "#text": "16 Nov 2024, 03:50"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "pink skies",
-        "url": "https://www.last.fm/music/Lany/_/pink+skies",
-        "date": {
-          "uts": "1731728858",
-          "#text": "16 Nov 2024, 03:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          }
-        ],
-        "mbid": "568610ce-91a3-42bd-b1ef-74c0e0e3f15d",
-        "album": {
-          "mbid": "",
-          "#text": "Alonica - Single"
-        },
-        "name": "Alonica",
-        "url": "https://www.last.fm/music/Lany/_/Alonica",
-        "date": {
-          "uts": "1731728646",
-          "#text": "16 Nov 2024, 03:44"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "116",
+      "totalPages": "117",
       "page": "1",
       "perPage": "50",
-      "total": "5800"
+      "total": "5802"
     }
   }
 }
