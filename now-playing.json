@@ -3,38 +3,75 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Oasis"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84ea1873007dbd2fe17b7c96650677f6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
           }
         ],
-        "mbid": "4cee89bf-6445-4af2-91bb-1ad082d7936a",
+        "mbid": "1aa67da9-80d3-4758-90d2-d7493d11ef6f",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "sad",
+        "url": "https://www.last.fm/music/Lany/_/sad",
+        "date": {
+          "uts": "1731759518",
+          "#text": "16 Nov 2024, 12:18"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7b8bdcf48864d6bdc6d4a266e7cc435.jpg"
+          }
+        ],
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
+          "#text": "Purpose (Deluxe)"
         },
-        "name": "Wonderwall (Remastered)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Oasis/_/Wonderwall+(Remastered)"
+        "name": "Love Yourself",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Love+Yourself",
+        "date": {
+          "uts": "1731759301",
+          "#text": "16 Nov 2024, 12:15"
+        }
       },
       {
         "artist": {
@@ -45,112 +82,76 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
           }
         ],
-        "mbid": "34b030b2-8a4f-4a4f-9290-6f13480bbe85",
+        "mbid": "3a786b4f-e911-4877-8f24-5963ae36ec7f",
         "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
         },
-        "name": "The Breakup",
-        "url": "https://www.last.fm/music/Lany/_/The+Breakup",
+        "name": "i still talk to jesus",
+        "url": "https://www.last.fm/music/Lany/_/i+still+talk+to+jesus",
         "date": {
-          "uts": "1731758080",
-          "#text": "16 Nov 2024, 11:54"
+          "uts": "1731759056",
+          "#text": "16 Nov 2024, 12:10"
         }
       },
       {
         "artist": {
-          "mbid": "a2a72dba-3a08-43c4-859c-4c7f5fcc9599",
-          "#text": "Jon Batiste"
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61723ccaca9729d15241ca3f586b7114.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ed7836392b24ef5beacde01494b5e26.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61723ccaca9729d15241ca3f586b7114.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ed7836392b24ef5beacde01494b5e26.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61723ccaca9729d15241ca3f586b7114.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ed7836392b24ef5beacde01494b5e26.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61723ccaca9729d15241ca3f586b7114.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ed7836392b24ef5beacde01494b5e26.png"
           }
         ],
-        "mbid": "1a8750b8-6b9b-47ad-9508-a1bfa0db50b5",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Soul (Original Motion Picture Soundtrack)"
+          "#text": "We Sing. We Dance. We Steal Things"
         },
-        "name": "It's All Right",
-        "url": "https://www.last.fm/music/Jon+Batiste/_/It%27s+All+Right",
+        "name": "I'm Yours",
+        "url": "https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours",
         "date": {
-          "uts": "1731756031",
-          "#text": "16 Nov 2024, 11:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
-          "#text": "Nothing But Thieves"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/162ce560ea21ea5fa92598462be07c1f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/162ce560ea21ea5fa92598462be07c1f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/162ce560ea21ea5fa92598462be07c1f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/162ce560ea21ea5fa92598462be07c1f.jpg"
-          }
-        ],
-        "mbid": "f2e4c2e9-d403-45fe-adf6-b460c1e66dd1",
-        "album": {
-          "mbid": "e1086b41-d895-495a-b289-709c09204770",
-          "#text": "Dead Club City"
-        },
-        "name": "Tomorrow Is Closed",
-        "url": "https://www.last.fm/music/Nothing+But+Thieves/_/Tomorrow+Is+Closed",
-        "date": {
-          "uts": "1731755809",
-          "#text": "16 Nov 2024, 11:16"
+          "uts": "1731758807",
+          "#text": "16 Nov 2024, 12:06"
         }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "117",
+      "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5849"
+      "total": "5855"
     }
   }
 }
