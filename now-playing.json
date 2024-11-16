@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Super Far",
+        "url": "https://www.last.fm/music/Lany/_/Super+Far",
+        "date": {
+          "uts": "1731734295",
+          "#text": "16 Nov 2024, 05:18"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -108,42 +144,6 @@
           "uts": "1731733286",
           "#text": "16 Nov 2024, 05:01"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "paper",
-        "url": "https://www.last.fm/music/Lany/_/paper",
-        "date": {
-          "uts": "1731733032",
-          "#text": "16 Nov 2024, 04:57"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "117",
       "page": "1",
       "perPage": "50",
-      "total": "5822"
+      "total": "5823"
     }
   }
 }
