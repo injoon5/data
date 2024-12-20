@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Sunrise - Single"
+        },
+        "name": "Sunrise",
+        "url": "https://www.last.fm/music/Faime/_/Sunrise",
+        "date": {
+          "uts": "1734678434",
+          "#text": "20 Dec 2024, 07:07"
+        }
+      },
+      {
+        "artist": {
           "mbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
           "#text": "Empire of the Sun"
         },
@@ -108,42 +144,6 @@
           "uts": "1731767217",
           "#text": "16 Nov 2024, 14:26"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "103786ed-74db-4f7f-bab9-5dafa3b93975",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1731767025",
-          "#text": "16 Nov 2024, 14:23"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5877"
+      "total": "5878"
     }
   }
 }
