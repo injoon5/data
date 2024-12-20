@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Save"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Sunrise - Single"
+        },
+        "name": "Sunrise",
+        "url": "https://www.last.fm/music/Faime/_/Sunrise",
+        "date": {
+          "uts": "1734709761",
+          "#text": "20 Dec 2024, 15:49"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "Journeys - EP"
         },
         "name": "Feels Like You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You"
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You",
+        "date": {
+          "uts": "1734709573",
+          "#text": "20 Dec 2024, 15:46"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1734678434",
           "#text": "20 Dec 2024, 07:07"
         }
-      },
-      {
-        "artist": {
-          "mbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
-          "#text": "Empire of the Sun"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "5d70c51d-ac3d-4246-82ac-f7212dc44ead",
-          "#text": "Walking On A Dream (Special Edition)"
-        },
-        "name": "Walking on a Dream",
-        "url": "https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream",
-        "date": {
-          "uts": "1731767608",
-          "#text": "16 Nov 2024, 14:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
-          "#text": "Peach Tree Rascals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Mariposa - Single"
-        },
-        "name": "Mariposa",
-        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa",
-        "date": {
-          "uts": "1731767404",
-          "#text": "16 Nov 2024, 14:30"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5878"
+      "total": "5880"
     }
   }
 }
