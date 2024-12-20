@@ -31,41 +31,6 @@
           "#text": "Dreams You Don't Forget"
         },
         "name": "I Still Love You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "NIGHT TRAVELER"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c72c1fc14df87703feac7154aca343e6.jpg"
-          }
-        ],
-        "mbid": "40bea307-c04b-4262-b965-57c2acf2bacf",
-        "album": {
-          "mbid": "5909d115-adad-4e1a-ab14-c9336aeeff3b",
-          "#text": "Dreams You Don't Forget"
-        },
-        "name": "I Still Love You",
         "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You",
         "date": {
           "uts": "1734711226",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1734710626",
           "#text": "20 Dec 2024, 16:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Found Her - Single"
+        },
+        "name": "I Found Her",
+        "url": "https://www.last.fm/music/Faime/_/I+Found+Her",
+        "date": {
+          "uts": "1734710441",
+          "#text": "20 Dec 2024, 16:00"
         }
       }
     ],
