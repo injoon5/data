@@ -28,6 +28,41 @@
         "mbid": "",
         "album": {
           "mbid": "",
+          "#text": "Journeys - EP"
+        },
+        "name": "Feels Like You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
           "#text": "Sunrise - Single"
         },
         "name": "Sunrise",
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1731767404",
           "#text": "16 Nov 2024, 14:30"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Nicky Youre & Dazy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52d6aed2df099649276c07d6436ff844.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52d6aed2df099649276c07d6436ff844.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52d6aed2df099649276c07d6436ff844.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52d6aed2df099649276c07d6436ff844.jpg"
-          }
-        ],
-        "mbid": "15e8b86b-3607-4503-a0d6-32e5173983d1",
-        "album": {
-          "mbid": "b3584e66-566d-43a1-abb5-0fbc346dc360",
-          "#text": "Good Times Go"
-        },
-        "name": "Sunroof",
-        "url": "https://www.last.fm/music/Nicky+Youre+&+Dazy/_/Sunroof",
-        "date": {
-          "uts": "1731767217",
-          "#text": "16 Nov 2024, 14:26"
         }
       }
     ],
