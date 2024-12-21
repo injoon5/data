@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "3a517503-eb9a-4d08-8235-43e6482db116",
+          "#text": "Coco Montoya"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd226414105e43959f4ffeb36bbea857.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd226414105e43959f4ffeb36bbea857.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd226414105e43959f4ffeb36bbea857.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd226414105e43959f4ffeb36bbea857.jpg"
+          }
+        ],
+        "mbid": "e88d56ac-384a-39cb-9eb3-59876f2f6db4",
+        "album": {
+          "mbid": "2978588b-a28c-4d35-a126-217feb7809a8",
+          "#text": "Suspicion"
+        },
+        "name": "Nothing But Love",
+        "url": "https://www.last.fm/music/Coco+Montoya/_/Nothing+But+Love",
+        "date": {
+          "uts": "1734745047",
+          "#text": "21 Dec 2024, 01:37"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "NIGHT TRAVELER"
         },
@@ -108,42 +144,6 @@
           "uts": "1734710626",
           "#text": "20 Dec 2024, 16:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Faime"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "I Found Her - Single"
-        },
-        "name": "I Found Her",
-        "url": "https://www.last.fm/music/Faime/_/I+Found+Her",
-        "date": {
-          "uts": "1734710441",
-          "#text": "20 Dec 2024, 16:00"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5887"
+      "total": "5888"
     }
   }
 }
