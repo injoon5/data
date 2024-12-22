@@ -3,42 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "3a517503-eb9a-4d08-8235-43e6482db116",
-          "#text": "Coco Montoya"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd226414105e43959f4ffeb36bbea857.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd226414105e43959f4ffeb36bbea857.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd226414105e43959f4ffeb36bbea857.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd226414105e43959f4ffeb36bbea857.jpg"
-          }
-        ],
-        "mbid": "e88d56ac-384a-39cb-9eb3-59876f2f6db4",
-        "album": {
-          "mbid": "2978588b-a28c-4d35-a126-217feb7809a8",
-          "#text": "Suspicion"
-        },
-        "name": "Nothing But Love",
-        "url": "https://www.last.fm/music/Coco+Montoya/_/Nothing+But+Love",
-        "date": {
-          "uts": "1734745047",
-          "#text": "21 Dec 2024, 01:37"
-        }
-      },
-      {
-        "artist": {
           "mbid": "",
           "#text": "NIGHT TRAVELER"
         },
@@ -67,11 +31,10 @@
           "#text": "Dreams You Don't Forget"
         },
         "name": "I Still Love You",
-        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You",
-        "date": {
-          "uts": "1734711226",
-          "#text": "20 Dec 2024, 16:13"
-        }
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You"
       },
       {
         "artist": {
@@ -105,14 +68,14 @@
         "name": "Feels Like You",
         "url": "https://www.last.fm/music/Faime/_/Feels+Like+You",
         "date": {
-          "uts": "1734710971",
-          "#text": "20 Dec 2024, 16:09"
+          "uts": "1734884828",
+          "#text": "22 Dec 2024, 16:27"
         }
       },
       {
         "artist": {
-          "mbid": "cd0b7242-9de1-4934-8d05-643f6a692831",
-          "#text": "Rhineland"
+          "mbid": "",
+          "#text": "Faime"
         },
         "streamable": "0",
         "image": [
@@ -136,13 +99,49 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Halifax - Single"
+          "#text": "Sunrise - Single"
         },
-        "name": "Halifax",
-        "url": "https://www.last.fm/music/Rhineland/_/Halifax",
+        "name": "Sunrise",
+        "url": "https://www.last.fm/music/Faime/_/Sunrise",
         "date": {
-          "uts": "1734710626",
-          "#text": "20 Dec 2024, 16:03"
+          "uts": "1734884642",
+          "#text": "22 Dec 2024, 16:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "url": "https://www.last.fm/music/Faime/_/Save",
+        "date": {
+          "uts": "1734884456",
+          "#text": "22 Dec 2024, 16:20"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5888"
+      "total": "5892"
     }
   }
 }
