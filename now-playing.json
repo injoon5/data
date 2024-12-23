@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
-          "#text": "M83"
+          "mbid": "",
+          "#text": "Faime"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/16fdad2898a167de51428b9ccbd2317a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/16fdad2898a167de51428b9ccbd2317a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/16fdad2898a167de51428b9ccbd2317a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16fdad2898a167de51428b9ccbd2317a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "addac6d6-93d9-4f46-9f36-5bb2496d0189",
+        "mbid": "",
         "album": {
-          "mbid": "0b87ebcf-216b-4255-9c19-93c12861f173",
-          "#text": "Hurry Up, We're Dreaming"
+          "mbid": "",
+          "#text": "Sunrise - Single"
         },
-        "name": "Midnight City",
+        "name": "Sunrise",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+        "url": "https://www.last.fm/music/Faime/_/Sunrise"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "url": "https://www.last.fm/music/Faime/_/Save",
+        "date": {
+          "uts": "1734947112",
+          "#text": "23 Dec 2024, 09:45"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1734885384",
           "#text": "22 Dec 2024, 16:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "NIGHT TRAVELER"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c72c1fc14df87703feac7154aca343e6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c72c1fc14df87703feac7154aca343e6.jpg"
-          }
-        ],
-        "mbid": "40bea307-c04b-4262-b965-57c2acf2bacf",
-        "album": {
-          "mbid": "5909d115-adad-4e1a-ab14-c9336aeeff3b",
-          "#text": "Dreams You Don't Forget"
-        },
-        "name": "I Still Love You",
-        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You",
-        "date": {
-          "uts": "1734885082",
-          "#text": "22 Dec 2024, 16:31"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "118",
       "page": "1",
       "perPage": "50",
-      "total": "5895"
+      "total": "5896"
     }
   }
 }
