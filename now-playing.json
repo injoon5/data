@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "I Like Me Better",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+      },
+      {
+        "artist": {
+          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+          "#text": "OneRepublic"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39bf61fc0cc9d8dea473a00836ffb25c.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39bf61fc0cc9d8dea473a00836ffb25c.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39bf61fc0cc9d8dea473a00836ffb25c.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39bf61fc0cc9d8dea473a00836ffb25c.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Holy (feat. Chance the Rapper) - Single"
+          "#text": "Native (Gold Edition)"
         },
-        "name": "Holy (feat. Chance the Rapper)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Holy+(feat.+Chance+the+Rapper)"
+        "name": "Counting Stars",
+        "url": "https://www.last.fm/music/OneRepublic/_/Counting+Stars",
+        "date": {
+          "uts": "1735655938",
+          "#text": "31 Dec 2024, 14:38"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1735655490",
           "#text": "31 Dec 2024, 14:31"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          }
-        ],
-        "mbid": "50b926fc-dd6a-4c82-90f6-a7fbaa87da64",
-        "album": {
-          "mbid": "",
-          "#text": "A Beautiful Blur (Deluxe)"
-        },
-        "name": "Sugar & Cinnamon",
-        "url": "https://www.last.fm/music/Lany/_/Sugar+&+Cinnamon",
-        "date": {
-          "uts": "1735655272",
-          "#text": "31 Dec 2024, 14:27"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "119",
       "page": "1",
       "perPage": "50",
-      "total": "5944"
+      "total": "5945"
     }
   }
 }
