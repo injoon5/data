@@ -31,41 +31,6 @@
           "#text": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"Trolls\") - Single"
         },
         "name": "Can't Stop the Feeling! (Original Song from Dreamworks Animation's \"Trolls\")",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Timberlake/_/Can%27t+Stop+the+Feeling!+(Original+Song+from+Dreamworks+Animation%27s+%22Trolls%22)"
-      },
-      {
-        "artist": {
-          "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
-          "#text": "Justin Timberlake"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf6556783b939b032648146b1ee8e1d6.jpg"
-          }
-        ],
-        "mbid": "2bb74cf7-acd5-4f7b-9be1-1c9eceb96a3d",
-        "album": {
-          "mbid": "",
-          "#text": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"Trolls\") - Single"
-        },
-        "name": "Can't Stop the Feeling! (Original Song from Dreamworks Animation's \"Trolls\")",
         "url": "https://www.last.fm/music/Justin+Timberlake/_/Can%27t+Stop+the+Feeling!+(Original+Song+from+Dreamworks+Animation%27s+%22Trolls%22)",
         "date": {
           "uts": "1735656382",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1735655938",
           "#text": "31 Dec 2024, 14:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5caacd72455873bbdf4e55a3e38b35ab.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Holy (feat. Chance the Rapper) - Single"
+        },
+        "name": "Holy (feat. Chance the Rapper)",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/Holy+(feat.+Chance+the+Rapper)",
+        "date": {
+          "uts": "1735655703",
+          "#text": "31 Dec 2024, 14:35"
         }
       }
     ],
