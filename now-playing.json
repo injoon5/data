@@ -3,8 +3,44 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Goo Goo Dolls"
+          "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
+          "#text": "The 1975"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0dc221a4f275b250669990082e7f5f29.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0dc221a4f275b250669990082e7f5f29.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0dc221a4f275b250669990082e7f5f29.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0dc221a4f275b250669990082e7f5f29.jpg"
+          }
+        ],
+        "mbid": "9c9c9f83-e7df-4fc8-9ce8-5d751e4d50ab",
+        "album": {
+          "mbid": "2c6f91cf-61da-402b-8bf4-d809fee5157c",
+          "#text": "Being Funny in a Foreign Language"
+        },
+        "name": "About You",
+        "url": "https://www.last.fm/music/The+1975/_/About+You",
+        "date": {
+          "uts": "1735654210",
+          "#text": "31 Dec 2024, 14:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e2c00c56-8365-4160-9f40-a64682917633",
+          "#text": "The Goo Goo Dolls"
         },
         "streamable": "0",
         "image": [
@@ -25,16 +61,17 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "02a75d1a-977b-4430-9db4-5d02d26e1d85",
+        "mbid": "cef4d7e6-5f96-40ad-8841-e870a06e36e1",
         "album": {
           "mbid": "",
           "#text": "Stay With You - Single"
         },
         "name": "Iris",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Goo+Goo+Dolls/_/Iris"
+        "url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris",
+        "date": {
+          "uts": "1735653625",
+          "#text": "31 Dec 2024, 14:00"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1735653125",
           "#text": "31 Dec 2024, 13:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "21763bf8-14ea-4aaf-bdd1-d4c37d14223c",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "heart won't let me",
-        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me",
-        "date": {
-          "uts": "1735652886",
-          "#text": "31 Dec 2024, 13:48"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "119",
       "page": "1",
       "perPage": "50",
-      "total": "5935"
+      "total": "5937"
     }
   }
 }
