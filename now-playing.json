@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "139a00a8-6b21-47c3-9315-60ac5ab2c715",
+          "#text": "Bobby Caldwell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cda714e62f51d7dd33c8bd76e8a9d806.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cda714e62f51d7dd33c8bd76e8a9d806.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cda714e62f51d7dd33c8bd76e8a9d806.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cda714e62f51d7dd33c8bd76e8a9d806.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "285ec2db-339b-4694-a068-98957e2a49ef",
+          "#text": "What You Won't Do For Love"
+        },
+        "name": "What You Won't Do for Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Bobby+Caldwell/_/What+You+Won%27t+Do+for+Love"
+      },
+      {
+        "artist": {
           "mbid": "8b64a68f-eb63-48dd-80d9-1c2abcdf1970",
           "#text": "HYUKOH"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1735611733",
           "#text": "31 Dec 2024, 02:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c64363e165768690247474c1c94afe1.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c64363e165768690247474c1c94afe1.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c64363e165768690247474c1c94afe1.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c64363e165768690247474c1c94afe1.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "every part - Single"
-        },
-        "name": "every part",
-        "url": "https://www.last.fm/music/Nightly/_/every+part",
-        "date": {
-          "uts": "1735566046",
-          "#text": "30 Dec 2024, 13:40"
         }
       }
     ],
