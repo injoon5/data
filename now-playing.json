@@ -4,6 +4,42 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Oasis"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
+        },
+        "name": "Don't Look Back In Anger (Remastered)",
+        "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)",
+        "date": {
+          "uts": "1735708067",
+          "#text": "01 Jan 2025, 05:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "NIGHT TRAVELER"
         },
         "streamable": "0",
@@ -31,10 +67,11 @@
           "#text": "Dreams You Don't Forget"
         },
         "name": "I Still Love You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You"
+        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You",
+        "date": {
+          "uts": "1735707768",
+          "#text": "01 Jan 2025, 05:02"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1735707304",
           "#text": "01 Jan 2025, 04:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "883d4040-8f9d-4e28-8e74-dad15f7b2a5a",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "heart won't let me (stripped)",
-        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me+(stripped)",
-        "date": {
-          "uts": "1735707081",
-          "#text": "01 Jan 2025, 04:51"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "120",
       "page": "1",
       "perPage": "50",
-      "total": "5959"
+      "total": "5961"
     }
   }
 }
