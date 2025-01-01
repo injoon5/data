@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+          "#text": "Ariana Grande & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/888b3ad00d302feacffde6d2da3adac0.jpg"
+          }
+        ],
+        "mbid": "b25a098b-7935-4570-9edc-feb600c17129",
+        "album": {
+          "mbid": "",
+          "#text": "Stuck with U - Single"
+        },
+        "name": "Stuck with U",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ariana+Grande+&+Justin+Bieber/_/Stuck+with+U"
+      },
+      {
+        "artist": {
+          "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+          "#text": "Ariana Grande & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/888b3ad00d302feacffde6d2da3adac0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/888b3ad00d302feacffde6d2da3adac0.jpg"
+          }
+        ],
+        "mbid": "b25a098b-7935-4570-9edc-feb600c17129",
+        "album": {
+          "mbid": "",
+          "#text": "Stuck with U - Single"
+        },
+        "name": "Stuck with U",
+        "url": "https://www.last.fm/music/Ariana+Grande+&+Justin+Bieber/_/Stuck+with+U",
+        "date": {
+          "uts": "1735731412",
+          "#text": "01 Jan 2025, 11:36"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cd0b7242-9de1-4934-8d05-643f6a692831",
           "#text": "Rhineland"
         },
@@ -31,10 +102,11 @@
           "#text": "Heard It in a Dream, Love"
         },
         "name": "Leave Me a Light On",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Rhineland/_/Leave+Me+a+Light+On"
+        "url": "https://www.last.fm/music/Rhineland/_/Leave+Me+a+Light+On",
+        "date": {
+          "uts": "1735731181",
+          "#text": "01 Jan 2025, 11:33"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1735730957",
           "#text": "01 Jan 2025, 11:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "58b599cd-b1de-45e3-863a-3b54194a0f20",
-          "#text": "HONNE"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c260375c060b8f33d5412b38e9167d30.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c260375c060b8f33d5412b38e9167d30.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c260375c060b8f33d5412b38e9167d30.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c260375c060b8f33d5412b38e9167d30.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "44dec69a-c8b4-4be0-90de-d8fa70980365",
-          "#text": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)"
-        },
-        "name": "BACK ON TOP (feat. Griff)",
-        "url": "https://www.last.fm/music/HONNE/_/BACK+ON+TOP+(feat.+Griff)",
-        "date": {
-          "uts": "1735730762",
-          "#text": "01 Jan 2025, 11:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "paper",
-        "url": "https://www.last.fm/music/Lany/_/paper",
-        "date": {
-          "uts": "1735730553",
-          "#text": "01 Jan 2025, 11:22"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "120",
       "page": "1",
       "perPage": "50",
-      "total": "5997"
+      "total": "5999"
     }
   }
 }
