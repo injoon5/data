@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Save"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "url": "https://www.last.fm/music/Faime/_/Save",
+        "date": {
+          "uts": "1735706885",
+          "#text": "01 Jan 2025, 04:48"
+        }
+      },
+      {
+        "artist": {
           "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
           "#text": "Justin Timberlake"
         },
@@ -31,10 +102,11 @@
           "#text": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"Trolls\") - Single"
         },
         "name": "Can't Stop the Feeling! (Original Song from Dreamworks Animation's \"Trolls\")",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Timberlake/_/Can%27t+Stop+the+Feeling!+(Original+Song+from+Dreamworks+Animation%27s+%22Trolls%22)"
+        "url": "https://www.last.fm/music/Justin+Timberlake/_/Can%27t+Stop+the+Feeling!+(Original+Song+from+Dreamworks+Animation%27s+%22Trolls%22)",
+        "date": {
+          "uts": "1735706649",
+          "#text": "01 Jan 2025, 04:44"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1735706432",
           "#text": "01 Jan 2025, 04:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
-          "#text": "Jason Mraz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ed7836392b24ef5beacde01494b5e26.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "We Sing. We Dance. We Steal Things"
-        },
-        "name": "I'm Yours",
-        "url": "https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours",
-        "date": {
-          "uts": "1735706210",
-          "#text": "01 Jan 2025, 04:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf36625db3e0dc2b93bcd432bfb8a224.jpg"
-          }
-        ],
-        "mbid": "c968fb90-b5a1-429f-af79-59bb46157cf0",
-        "album": {
-          "mbid": "",
-          "#text": "Love U Like That - Single"
-        },
-        "name": "Love U Like That",
-        "url": "https://www.last.fm/music/Lauv/_/Love+U+Like+That",
-        "date": {
-          "uts": "1735705983",
-          "#text": "01 Jan 2025, 04:33"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "120",
       "page": "1",
       "perPage": "50",
-      "total": "5954"
+      "total": "5956"
     }
   }
 }
