@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "2000 ~ 2010 \ub808\ud2b8\ub85c \uac8c\uc784 \uc74c\uc545"
+        },
+        "name": "Yellow",
+        "url": "https://www.last.fm/music/Coldplay/_/Yellow",
+        "date": {
+          "uts": "1735723865",
+          "#text": "01 Jan 2025, 09:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
           "#text": "The 1975"
         },
@@ -31,10 +67,11 @@
           "#text": "Being Funny in a Foreign Language"
         },
         "name": "About You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+1975/_/About+You"
+        "url": "https://www.last.fm/music/The+1975/_/About+You",
+        "date": {
+          "uts": "1735723568",
+          "#text": "01 Jan 2025, 09:26"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1735707768",
           "#text": "01 Jan 2025, 05:02"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jannabi\u2019s small pieces  ll : GRIPPIN\u2019THEGREEN - EP"
-        },
-        "name": "GRIPPIN\u2019THEGREEN",
-        "url": "https://www.last.fm/music/JANNABI/_/GRIPPIN%E2%80%99THEGREEN",
-        "date": {
-          "uts": "1735707512",
-          "#text": "01 Jan 2025, 04:58"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "120",
       "page": "1",
       "perPage": "50",
-      "total": "5961"
+      "total": "5963"
     }
   }
 }
