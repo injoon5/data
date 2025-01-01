@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Sunrise - Single"
+        },
+        "name": "Sunrise",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Sunrise"
+      },
+      {
+        "artist": {
+          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+          "#text": "The Kid LAROI & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
+          }
+        ],
+        "mbid": "a0db51d6-9ade-49b1-8df7-f1959aa56d74",
+        "album": {
+          "mbid": "045a423f-791f-4291-b1b9-00819aa9b219",
+          "#text": "F*CK LOVE 3+: OVER YOU"
+        },
+        "name": "STAY",
+        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY",
+        "date": {
+          "uts": "1735728911",
+          "#text": "01 Jan 2025, 10:55"
+        }
+      },
+      {
+        "artist": {
           "mbid": "230c3473-2216-499f-bcca-7af7f0f01179",
           "#text": "Christopher"
         },
@@ -31,10 +102,11 @@
           "#text": "Bad - Single"
         },
         "name": "Bad",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Christopher/_/Bad"
+        "url": "https://www.last.fm/music/Christopher/_/Bad",
+        "date": {
+          "uts": "1735728744",
+          "#text": "01 Jan 2025, 10:52"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1735728539",
           "#text": "01 Jan 2025, 10:48"
         }
-      },
-      {
-        "artist": {
-          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-          "#text": "Eric Clapton"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          }
-        ],
-        "mbid": "7b681ff1-b5c0-3b8c-9b70-9b5148d824d9",
-        "album": {
-          "mbid": "205b7b10-fcd6-35fa-86e2-0be09a1d1824",
-          "#text": "Clapton Chronicles: The Best of Eric Clapton"
-        },
-        "name": "Tears in Heaven",
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Tears+in+Heaven",
-        "date": {
-          "uts": "1735728293",
-          "#text": "01 Jan 2025, 10:44"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
-          "#text": "Electric Light Orchestra"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png"
-          }
-        ],
-        "mbid": "036b00d3-2443-3307-87bd-9d1165b85de9",
-        "album": {
-          "mbid": "36594124-8097-3af9-891a-8a03b154c79b",
-          "#text": "Out of the Blue"
-        },
-        "name": "Mr. Blue Sky",
-        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky",
-        "date": {
-          "uts": "1735728006",
-          "#text": "01 Jan 2025, 10:40"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "120",
       "page": "1",
       "perPage": "50",
-      "total": "5985"
+      "total": "5987"
     }
   }
 }
