@@ -31,10 +31,11 @@
           "#text": "Closely Far Away - Single"
         },
         "name": "Closely Far Away",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away"
+        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away",
+        "date": {
+          "uts": "1736508659",
+          "#text": "10 Jan 2025, 11:30"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "121",
       "page": "1",
       "perPage": "50",
-      "total": "6025"
+      "total": "6026"
     }
   }
 }
