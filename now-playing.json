@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
+          "#text": "Car, The Garden"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Closely Far Away - Single"
+        },
+        "name": "Closely Far Away",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away"
+      },
+      {
+        "artist": {
           "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
           "#text": "Arctic Monkeys"
         },
@@ -25,7 +60,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f579e414e20f40969185e41182d72472.png"
           }
         ],
-        "mbid": "bed4c8e9-c030-49f4-9088-2eddc87545a4",
+        "mbid": "0323762e-0e74-473b-92b6-10aa2f29b5be",
         "album": {
           "mbid": "169957aa-2ca8-42a8-ba02-71bdf3fe26ff",
           "#text": "AM"
@@ -61,7 +96,7 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f579e414e20f40969185e41182d72472.png"
           }
         ],
-        "mbid": "0ca3afb6-0bd5-4d65-b976-98e74ff3fdb0",
+        "mbid": "0d344cb8-1ebe-471f-97ac-9369f529570e",
         "album": {
           "mbid": "169957aa-2ca8-42a8-ba02-71bdf3fe26ff",
           "#text": "AM"
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1736143674",
           "#text": "06 Jan 2025, 06:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
-          "#text": "The 1975"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0dc221a4f275b250669990082e7f5f29.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0dc221a4f275b250669990082e7f5f29.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0dc221a4f275b250669990082e7f5f29.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0dc221a4f275b250669990082e7f5f29.jpg"
-          }
-        ],
-        "mbid": "9c9c9f83-e7df-4fc8-9ce8-5d751e4d50ab",
-        "album": {
-          "mbid": "2c6f91cf-61da-402b-8bf4-d809fee5157c",
-          "#text": "Being Funny in a Foreign Language"
-        },
-        "name": "About You",
-        "url": "https://www.last.fm/music/The+1975/_/About+You",
-        "date": {
-          "uts": "1736143413",
-          "#text": "06 Jan 2025, 06:03"
         }
       }
     ],
