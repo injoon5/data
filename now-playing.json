@@ -31,10 +31,11 @@
           "#text": "Supercuts - Single"
         },
         "name": "Supercuts",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Supercuts"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Supercuts",
+        "date": {
+          "uts": "1736848136",
+          "#text": "14 Jan 2025, 09:48"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "121",
       "page": "1",
       "perPage": "50",
-      "total": "6028"
+      "total": "6029"
     }
   }
 }
