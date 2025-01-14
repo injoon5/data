@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "61cdb045-7f89-4eb1-b3ed-35db94d9ab99",
+          "#text": "The Walters"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          }
+        ],
+        "mbid": "93fbc68b-f62c-48d6-83b6-508aac008fde",
+        "album": {
+          "mbid": "",
+          "#text": "I Love You So - Single"
+        },
+        "name": "I Love You So",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Walters/_/I+Love+You+So"
+      },
+      {
+        "artist": {
           "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
           "#text": "Jeremy Zucker"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1736514758",
           "#text": "10 Jan 2025, 13:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Closely Far Away - Single"
-        },
-        "name": "Closely Far Away",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away",
-        "date": {
-          "uts": "1736508659",
-          "#text": "10 Jan 2025, 11:30"
         }
       }
     ],
