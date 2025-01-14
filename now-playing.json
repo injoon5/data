@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+          "#text": "Hoobastank"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a611f617897daf14cc8681f7bdc6182f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "The Reason - Single"
+        },
+        "name": "The Reason",
+        "url": "https://www.last.fm/music/Hoobastank/_/The+Reason",
+        "date": {
+          "uts": "1736869098",
+          "#text": "14 Jan 2025, 15:38"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
           "#text": "M83"
         },
@@ -31,10 +67,11 @@
           "#text": "Hurry Up, We're Dreaming"
         },
         "name": "Midnight City",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+        "url": "https://www.last.fm/music/M83/_/Midnight+City",
+        "date": {
+          "uts": "1736868860",
+          "#text": "14 Jan 2025, 15:34"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1736868471",
           "#text": "14 Jan 2025, 15:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a84a3df1-a873-4be9-b6ff-4238393d46d7",
-          "#text": "Good Neighbours"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa708b73e827a53798bd3b549b3d45e7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa708b73e827a53798bd3b549b3d45e7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa708b73e827a53798bd3b549b3d45e7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa708b73e827a53798bd3b549b3d45e7.jpg"
-          }
-        ],
-        "mbid": "dffc891a-95e9-49bd-86f0-5a33b86b906e",
-        "album": {
-          "mbid": "",
-          "#text": "Good Neighbours - EP"
-        },
-        "name": "Home",
-        "url": "https://www.last.fm/music/Good+Neighbours/_/Home",
-        "date": {
-          "uts": "1736868289",
-          "#text": "14 Jan 2025, 15:24"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "122",
       "page": "1",
       "perPage": "50",
-      "total": "6061"
+      "total": "6063"
     }
   }
 }
