@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Save"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c8f98a3a77f738fa36396fca737eca5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Escape - EP"
+        },
+        "name": "Save",
+        "url": "https://www.last.fm/music/Faime/_/Save",
+        "date": {
+          "uts": "1736863024",
+          "#text": "14 Jan 2025, 13:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -72,78 +143,6 @@
           "uts": "1736862421",
           "#text": "14 Jan 2025, 13:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ad3d9337-ad3f-44ca-bc47-1b1dd13f4533",
-        "album": {
-          "mbid": "",
-          "#text": "My Thoughts on You - EP"
-        },
-        "name": "2 / 14",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/2+%2F+14",
-        "date": {
-          "uts": "1736862208",
-          "#text": "14 Jan 2025, 13:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6cdf7825-577b-4689-92f9-4df5c8bafe4b",
-          "#text": "Chezile"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8143d9ac2f959fa95987500ecc40242.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8143d9ac2f959fa95987500ecc40242.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8143d9ac2f959fa95987500ecc40242.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8143d9ac2f959fa95987500ecc40242.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Beanie - Single"
-        },
-        "name": "Beanie",
-        "url": "https://www.last.fm/music/Chezile/_/Beanie",
-        "date": {
-          "uts": "1736862007",
-          "#text": "14 Jan 2025, 13:40"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "121",
       "page": "1",
       "perPage": "50",
-      "total": "6036"
+      "total": "6037"
     }
   }
 }
