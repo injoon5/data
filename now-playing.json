@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+          "#text": "Conan Gray"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          }
+        ],
+        "mbid": "c693335a-d9a1-4b56-a4e2-f863fa0ae09b",
+        "album": {
+          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
+          "#text": "Kid Krow"
+        },
+        "name": "Wish You Were Sober",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Conan+Gray/_/Wish+You+Were+Sober"
+      },
+      {
+        "artist": {
           "mbid": "e2c00c56-8365-4160-9f40-a64682917633",
           "#text": "The Goo Goo Dolls"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1736868860",
           "#text": "14 Jan 2025, 15:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "21e9df94-3c2c-4c15-b069-fefa58bcd650",
-          "#text": "Dean Lewis"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/02b0371331c20e4e532a358a389f1177.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/02b0371331c20e4e532a358a389f1177.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/02b0371331c20e4e532a358a389f1177.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/02b0371331c20e4e532a358a389f1177.jpg"
-          }
-        ],
-        "mbid": "7612fb02-60d9-4b4c-ab8e-0a8c0f3a98d6",
-        "album": {
-          "mbid": "",
-          "#text": "How Do I Say Goodbye - Single"
-        },
-        "name": "How Do I Say Goodbye",
-        "url": "https://www.last.fm/music/Dean+Lewis/_/How+Do+I+Say+Goodbye",
-        "date": {
-          "uts": "1736868656",
-          "#text": "14 Jan 2025, 15:30"
         }
       }
     ],
