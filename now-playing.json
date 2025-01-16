@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "bd1180c4-4252-461f-94dc-543906c02522",
+          "#text": "Mr. Big"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae3716fbc2e005d51181c348924446fc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae3716fbc2e005d51181c348924446fc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae3716fbc2e005d51181c348924446fc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae3716fbc2e005d51181c348924446fc.jpg"
+          }
+        ],
+        "mbid": "7936f112-e4a2-480c-8a65-034fb4e500da",
+        "album": {
+          "mbid": "",
+          "#text": "Lean Into It (Expanded Edition)"
+        },
+        "name": "To Be With You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Mr.+Big/_/To+Be+With+You"
+      },
+      {
+        "artist": {
+          "mbid": "136c4166-85b3-4994-aa04-59857c434199",
+          "#text": "fun."
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2c64d81d94943443fadb2ba11315f2d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2c64d81d94943443fadb2ba11315f2d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2c64d81d94943443fadb2ba11315f2d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2c64d81d94943443fadb2ba11315f2d.jpg"
+          }
+        ],
+        "mbid": "5137d143-22fe-4995-85b9-2a79e6d5c3c9",
+        "album": {
+          "mbid": "59b3eb6c-f005-400e-b24a-7c25514e9856",
+          "#text": "Some Nights"
+        },
+        "name": "We Are Young (feat. Janelle Mon\u00e1e)",
+        "url": "https://www.last.fm/music/fun./_/We+Are+Young+(feat.+Janelle+Mon%C3%A1e)",
+        "date": {
+          "uts": "1737041689",
+          "#text": "16 Jan 2025, 15:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          }
+        ],
+        "mbid": "588559c0-d839-4348-8556-fbb2afdec6b8",
+        "album": {
+          "mbid": "",
+          "#text": "so good - Single"
+        },
+        "name": "so good",
+        "url": "https://www.last.fm/music/Joan/_/so+good",
+        "date": {
+          "uts": "1737041487",
+          "#text": "16 Jan 2025, 15:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Oasis"
         },
@@ -36,114 +143,6 @@
           "uts": "1737041267",
           "#text": "16 Jan 2025, 15:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "cowboy in LA",
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
-        "date": {
-          "uts": "1737041007",
-          "#text": "16 Jan 2025, 15:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
-          "#text": "Conan Gray"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          }
-        ],
-        "mbid": "c693335a-d9a1-4b56-a4e2-f863fa0ae09b",
-        "album": {
-          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
-          "#text": "Kid Krow"
-        },
-        "name": "Wish You Were Sober",
-        "url": "https://www.last.fm/music/Conan+Gray/_/Wish+You+Were+Sober",
-        "date": {
-          "uts": "1737040795",
-          "#text": "16 Jan 2025, 15:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "11a2e4aa-f4bb-496f-b2c9-dc047b97539a",
-        "album": {
-          "mbid": "",
-          "#text": "I Spend Too Much Time in My Room - Single"
-        },
-        "name": "I Spend Too Much Time in My Room",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room",
-        "date": {
-          "uts": "1737040574",
-          "#text": "16 Jan 2025, 15:16"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "122",
       "page": "1",
       "perPage": "50",
-      "total": "6073"
+      "total": "6075"
     }
   }
 }
