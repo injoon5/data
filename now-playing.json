@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Journeys - EP"
+        },
+        "name": "Feels Like You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Journeys - EP"
+        },
+        "name": "Feels Like You",
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You",
+        "date": {
+          "uts": "1737209500",
+          "#text": "18 Jan 2025, 14:11"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "I Like Me Better",
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1737209197",
+          "#text": "18 Jan 2025, 14:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "NIGHT TRAVELER"
         },
         "streamable": "0",
@@ -36,114 +143,6 @@
           "uts": "1737208472",
           "#text": "18 Jan 2025, 13:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/45dcbbf6e6bb5c645378d33ed671c01d.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/45dcbbf6e6bb5c645378d33ed671c01d.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/45dcbbf6e6bb5c645378d33ed671c01d.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45dcbbf6e6bb5c645378d33ed671c01d.png"
-          }
-        ],
-        "mbid": "a4e8ce3b-32bd-4b49-9098-aceee6052aaf",
-        "album": {
-          "mbid": "",
-          "#text": "Human (Deluxe)"
-        },
-        "name": "Run",
-        "url": "https://www.last.fm/music/OneRepublic/_/Run",
-        "date": {
-          "uts": "1737042759",
-          "#text": "16 Jan 2025, 15:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "David Guetta & Sia"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bea9824b4fc176a67bbb07fb0fbae8eb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bea9824b4fc176a67bbb07fb0fbae8eb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bea9824b4fc176a67bbb07fb0fbae8eb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bea9824b4fc176a67bbb07fb0fbae8eb.jpg"
-          }
-        ],
-        "mbid": "1511fcad-d07f-4a1c-8ae5-0cf9a7e4f9b3",
-        "album": {
-          "mbid": "",
-          "#text": "Flames - Single"
-        },
-        "name": "Flames",
-        "url": "https://www.last.fm/music/David+Guetta+&+Sia/_/Flames",
-        "date": {
-          "uts": "1737042577",
-          "#text": "16 Jan 2025, 15:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "b8201844-f480-4e95-9920-1c69495344ae",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "paper",
-        "url": "https://www.last.fm/music/Lany/_/paper",
-        "date": {
-          "uts": "1737042358",
-          "#text": "16 Jan 2025, 15:45"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "122",
       "page": "1",
       "perPage": "50",
-      "total": "6081"
+      "total": "6083"
     }
   }
 }
