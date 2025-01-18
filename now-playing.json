@@ -31,10 +31,11 @@
           "#text": "Lany (Deluxe)"
         },
         "name": "Walk Away",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Walk+Away"
+        "url": "https://www.last.fm/music/Lany/_/Walk+Away",
+        "date": {
+          "uts": "1737214143",
+          "#text": "18 Jan 2025, 15:29"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "123",
       "page": "1",
       "perPage": "50",
-      "total": "6101"
+      "total": "6102"
     }
   }
 }
