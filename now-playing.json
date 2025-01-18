@@ -31,10 +31,11 @@
           "#text": "Dreams You Don't Forget"
         },
         "name": "I Still Love You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You"
+        "url": "https://www.last.fm/music/NIGHT+TRAVELER/_/I+Still+Love+You",
+        "date": {
+          "uts": "1737208472",
+          "#text": "18 Jan 2025, 13:54"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "122",
       "page": "1",
       "perPage": "50",
-      "total": "6080"
+      "total": "6081"
     }
   }
 }
