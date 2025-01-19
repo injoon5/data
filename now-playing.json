@@ -3,38 +3,75 @@
     "track": [
       {
         "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8ed0d12c4409b35557d53d156ad0fa8.jpg"
           }
         ],
-        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
+          "#text": "I Had Some Help (feat. Morgan Wallen) - Single"
         },
-        "name": "Paris in the Rain",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
+        "date": {
+          "uts": "1737302669",
+          "#text": "19 Jan 2025, 16:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "2bee95a7-1c0e-4b3c-99a5-4857d9d776dd",
+          "#text": "Dayglow"
         },
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2de96cea611dd0a47c3e49f6f5580f24.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "5420c245-4cb5-4672-8e09-48b4833f6561",
+          "#text": "Dayglow"
+        },
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://www.last.fm/music/Dayglow/_/Every+Little+Thing+I+Say+I+Do",
+        "date": {
+          "uts": "1737302463",
+          "#text": "19 Jan 2025, 16:01"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1737302124",
           "#text": "19 Jan 2025, 15:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "313dea3c-3d7d-46f1-9c17-119c01698b36",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "cowboy in LA",
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA",
-        "date": {
-          "uts": "1737301893",
-          "#text": "19 Jan 2025, 15:51"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "123",
       "page": "1",
       "perPage": "50",
-      "total": "6120"
+      "total": "6122"
     }
   }
 }
