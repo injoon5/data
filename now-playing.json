@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "6a997121-0919-482b-a91b-c6fe1b55a4b9",
+          "#text": "James Bay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd1dec56a52840b7c058b13fc6b405f5.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "26b65e4e-64b0-43b0-9bbd-cb14167e7c20",
+          "#text": "Chaos and the Calm"
+        },
+        "name": "Let It Go",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/James+Bay/_/Let+It+Go"
+      },
+      {
+        "artist": {
+          "mbid": "6a997121-0919-482b-a91b-c6fe1b55a4b9",
+          "#text": "James Bay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd1dec56a52840b7c058b13fc6b405f5.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd1dec56a52840b7c058b13fc6b405f5.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "26b65e4e-64b0-43b0-9bbd-cb14167e7c20",
+          "#text": "Chaos and the Calm"
+        },
+        "name": "Let It Go",
+        "url": "https://www.last.fm/music/James+Bay/_/Let+It+Go",
+        "date": {
+          "uts": "1737297121",
+          "#text": "19 Jan 2025, 14:32"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Aurora"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bb632d24a0158ff58abc6c4ec61a44f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bb632d24a0158ff58abc6c4ec61a44f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bb632d24a0158ff58abc6c4ec61a44f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bb632d24a0158ff58abc6c4ec61a44f.jpg"
+          }
+        ],
+        "mbid": "84e95bf5-d168-412c-b45c-3968d96c430e",
+        "album": {
+          "mbid": "",
+          "#text": "A Different Kind of Human (Step 2)"
+        },
+        "name": "Daydreamer",
+        "url": "https://www.last.fm/music/Aurora/_/Daydreamer",
+        "date": {
+          "uts": "1737296932",
+          "#text": "19 Jan 2025, 14:28"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "NIGHT TRAVELER"
         },
@@ -36,114 +143,6 @@
           "uts": "1737296656",
           "#text": "19 Jan 2025, 14:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "1f24a63b-9bb7-4983-966d-9cea253cb717",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Walk Away",
-        "url": "https://www.last.fm/music/Lany/_/Walk+Away",
-        "date": {
-          "uts": "1737214143",
-          "#text": "18 Jan 2025, 15:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "2eb16e7f-e095-4706-a3d7-6e3c92e3802e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Thru These Tears",
-        "url": "https://www.last.fm/music/Lany/_/Thru+These+Tears",
-        "date": {
-          "uts": "1737213925",
-          "#text": "18 Jan 2025, 15:25"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "468f47f8-deb1-4006-930c-d66655ce3c44",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "good guys",
-        "url": "https://www.last.fm/music/Lany/_/good+guys",
-        "date": {
-          "uts": "1737213710",
-          "#text": "18 Jan 2025, 15:21"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "123",
       "page": "1",
       "perPage": "50",
-      "total": "6103"
+      "total": "6105"
     }
   }
 }
