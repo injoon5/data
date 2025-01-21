@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "8b64a68f-eb63-48dd-80d9-1c2abcdf1970",
+          "#text": "HYUKOH"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
+          }
+        ],
+        "mbid": "4cf180c9-ee80-4bdb-93a1-ce0e2f9a3fe1",
+        "album": {
+          "mbid": "01d3a83b-bbe1-4db5-a913-bf0856308f44",
+          "#text": "23"
+        },
+        "name": "TOMBOY",
+        "url": "https://www.last.fm/music/HYUKOH/_/TOMBOY",
+        "date": {
+          "uts": "1737458127",
+          "#text": "21 Jan 2025, 11:15"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Nicky Youre & Dazy"
         },
@@ -31,10 +67,11 @@
           "#text": "Sunroof (Remixes) - EP"
         },
         "name": "Sunroof",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Nicky+Youre+&+Dazy/_/Sunroof"
+        "url": "https://www.last.fm/music/Nicky+Youre+&+Dazy/_/Sunroof",
+        "date": {
+          "uts": "1737457924",
+          "#text": "21 Jan 2025, 11:12"
+        }
       },
       {
         "artist": {
@@ -107,50 +144,14 @@
           "uts": "1737457534",
           "#text": "21 Jan 2025, 11:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Commodores"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a075b0707c5f4dfbbf468f1fac32c355.png"
-          }
-        ],
-        "mbid": "edce0edc-71fa-45de-8f5a-80d80db85c75",
-        "album": {
-          "mbid": "1fe916f8-e49f-4331-854b-3b1f652725a3",
-          "#text": "Commodores"
-        },
-        "name": "Easy",
-        "url": "https://www.last.fm/music/The+Commodores/_/Easy",
-        "date": {
-          "uts": "1737457292",
-          "#text": "21 Jan 2025, 11:01"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "123",
+      "totalPages": "124",
       "page": "1",
       "perPage": "50",
-      "total": "6149"
+      "total": "6151"
     }
   }
 }
