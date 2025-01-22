@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain"
+      },
+      {
+        "artist": {
           "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
           "#text": "Peder Elias"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1737515553",
           "#text": "22 Jan 2025, 03:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
-          "#text": "Empire of the Sun"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4ae1bf8780a43fa8a731ed7f96ea281.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "5d70c51d-ac3d-4246-82ac-f7212dc44ead",
-          "#text": "Walking On A Dream (Special Edition)"
-        },
-        "name": "Walking on a Dream",
-        "url": "https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream",
-        "date": {
-          "uts": "1737515347",
-          "#text": "22 Jan 2025, 03:09"
         }
       }
     ],
