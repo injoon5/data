@@ -31,10 +31,11 @@
           "#text": "Die with a Smile - Single"
         },
         "name": "Die with a Smile",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile"
+        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile",
+        "date": {
+          "uts": "1737558094",
+          "#text": "22 Jan 2025, 15:01"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6205"
+      "total": "6206"
     }
   }
 }
