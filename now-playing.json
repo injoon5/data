@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff99a0d1025bd41759f0cf6984160140.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff99a0d1025bd41759f0cf6984160140.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff99a0d1025bd41759f0cf6984160140.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff99a0d1025bd41759f0cf6984160140.jpg"
+          }
+        ],
+        "mbid": "342bd6b8-ebe6-47bf-bfae-7fa98d540752",
+        "album": {
+          "mbid": "1fa2d99a-d754-499f-ba6c-8fac8c43ab18",
+          "#text": "Blue Neighbourhood"
+        },
+        "name": "YOUTH",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH"
+      },
+      {
+        "artist": {
+          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+          "#text": "Billie Eilish"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e69971625c379772fb79213dccfa194f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e69971625c379772fb79213dccfa194f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e69971625c379772fb79213dccfa194f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg"
+          }
+        ],
+        "mbid": "ace3467f-6a4a-4b1b-9b66-4845d8a818a4",
+        "album": {
+          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
+          "#text": "HIT ME HARD AND SOFT"
+        },
+        "name": "BIRDS OF A FEATHER",
+        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
+        "date": {
+          "uts": "1737556421",
+          "#text": "22 Jan 2025, 14:33"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d265d22aa4ca90ade5ffb75216259cd.jpg"
+          }
+        ],
+        "mbid": "588559c0-d839-4348-8556-fbb2afdec6b8",
+        "album": {
+          "mbid": "",
+          "#text": "so good - Single"
+        },
+        "name": "so good",
+        "url": "https://www.last.fm/music/Joan/_/so+good",
+        "date": {
+          "uts": "1737556240",
+          "#text": "22 Jan 2025, 14:30"
+        }
+      },
+      {
+        "artist": {
           "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
           "#text": "Eric Clapton"
         },
@@ -31,117 +138,10 @@
           "#text": "Clapton Chronicles: The Best of Eric Clapton"
         },
         "name": "Tears in Heaven",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Tears+in+Heaven"
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5caacd72455873bbdf4e55a3e38b35ab.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Holy (feat. Chance the Rapper) - Single"
-        },
-        "name": "Holy (feat. Chance the Rapper)",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Holy+(feat.+Chance+the+Rapper)",
+        "url": "https://www.last.fm/music/Eric+Clapton/_/Tears+in+Heaven",
         "date": {
-          "uts": "1737555786",
-          "#text": "22 Jan 2025, 14:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "(what i wish just one person would say to me)",
-        "url": "https://www.last.fm/music/Lany/_/(what+i+wish+just+one+person+would+say+to+me)",
-        "date": {
-          "uts": "1737555573",
-          "#text": "22 Jan 2025, 14:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8d12ff15734425e137ebe57c2c9a0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "24280154-2ae7-4d2d-bf2b-9bf73be8a1cd",
-          "#text": "Justice (The Complete Edition)"
-        },
-        "name": "Hold On",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/Hold+On",
-        "date": {
-          "uts": "1737555378",
-          "#text": "22 Jan 2025, 14:16"
+          "uts": "1737556028",
+          "#text": "22 Jan 2025, 14:27"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "124",
       "page": "1",
       "perPage": "50",
-      "total": "6195"
+      "total": "6198"
     }
   }
 }
