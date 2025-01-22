@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "819cc27a-4f29-3ed7-91c1-84b07908ed76",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1737556860",
+          "#text": "22 Jan 2025, 14:41"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
           "#text": "Troye Sivan"
         },
@@ -31,10 +67,11 @@
           "#text": "Blue Neighbourhood"
         },
         "name": "YOUTH",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH"
+        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH",
+        "date": {
+          "uts": "1737556619",
+          "#text": "22 Jan 2025, 14:36"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1737556240",
           "#text": "22 Jan 2025, 14:30"
         }
-      },
-      {
-        "artist": {
-          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-          "#text": "Eric Clapton"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
-          }
-        ],
-        "mbid": "7b681ff1-b5c0-3b8c-9b70-9b5148d824d9",
-        "album": {
-          "mbid": "205b7b10-fcd6-35fa-86e2-0be09a1d1824",
-          "#text": "Clapton Chronicles: The Best of Eric Clapton"
-        },
-        "name": "Tears in Heaven",
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Tears+in+Heaven",
-        "date": {
-          "uts": "1737556028",
-          "#text": "22 Jan 2025, 14:27"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "124",
       "page": "1",
       "perPage": "50",
-      "total": "6198"
+      "total": "6200"
     }
   }
 }
