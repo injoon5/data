@@ -3,145 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
+          "mbid": "",
+          "#text": "Maroon 5 & Megan Thee Stallion"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/222701ee19dfa7bc366192bb1aa076b8.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/222701ee19dfa7bc366192bb1aa076b8.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/222701ee19dfa7bc366192bb1aa076b8.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/222701ee19dfa7bc366192bb1aa076b8.png"
           }
         ],
-        "mbid": "",
+        "mbid": "fa25135a-b42a-4a5d-a42a-71e9b5c9c13d",
         "album": {
           "mbid": "",
-          "#text": "eyes - Single"
+          "#text": "JORDI"
         },
-        "name": "eyes",
+        "name": "Beautiful Mistakes",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Joan/_/eyes"
+        "url": "https://www.last.fm/music/Maroon+5+&+Megan+Thee+Stallion/_/Beautiful+Mistakes"
       },
       {
         "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
+          "mbid": "a84a3df1-a873-4be9-b6ff-4238393d46d7",
+          "#text": "Good Neighbours"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa708b73e827a53798bd3b549b3d45e7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa708b73e827a53798bd3b549b3d45e7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa708b73e827a53798bd3b549b3d45e7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa708b73e827a53798bd3b549b3d45e7.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "dffc891a-95e9-49bd-86f0-5a33b86b906e",
         "album": {
           "mbid": "",
-          "#text": "eyes - Single"
+          "#text": "Good Neighbours - EP"
         },
-        "name": "eyes",
-        "url": "https://www.last.fm/music/Joan/_/eyes",
+        "name": "Home",
+        "url": "https://www.last.fm/music/Good+Neighbours/_/Home",
         "date": {
-          "uts": "1737554020",
-          "#text": "22 Jan 2025, 13:53"
+          "uts": "1737554729",
+          "#text": "22 Jan 2025, 14:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2487515b44d50838388deb180fe77d34.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2487515b44d50838388deb180fe77d34.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2487515b44d50838388deb180fe77d34.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2487515b44d50838388deb180fe77d34.jpg"
+          }
+        ],
+        "mbid": "9b0d8eba-2303-44e2-bc21-253df5eb992e",
+        "album": {
+          "mbid": "",
+          "#text": "Last Birthday (The After Party)"
+        },
+        "name": "Like 1999",
+        "url": "https://www.last.fm/music/Valley/_/Like+1999",
+        "date": {
+          "uts": "1737554577",
+          "#text": "22 Jan 2025, 14:02"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "JANNABI"
+          "#text": "Nicky Youre & Dazy"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/90de792d0eccd7680d82f8ff81eb7b2d.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/90de792d0eccd7680d82f8ff81eb7b2d.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/90de792d0eccd7680d82f8ff81eb7b2d.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90de792d0eccd7680d82f8ff81eb7b2d.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "15e8b86b-3607-4503-a0d6-32e5173983d1",
         "album": {
           "mbid": "",
-          "#text": "MONKEY HOTEL"
+          "#text": "Sunroof (Remixes) - EP"
         },
-        "name": "Summer",
-        "url": "https://www.last.fm/music/JANNABI/_/Summer",
+        "name": "Sunroof",
+        "url": "https://www.last.fm/music/Nicky+Youre+&+Dazy/_/Sunroof",
         "date": {
-          "uts": "1737553788",
-          "#text": "22 Jan 2025, 13:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "103786ed-74db-4f7f-bab9-5dafa3b93975",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1737553555",
-          "#text": "22 Jan 2025, 13:45"
+          "uts": "1737554423",
+          "#text": "22 Jan 2025, 14:00"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "124",
       "page": "1",
       "perPage": "50",
-      "total": "6186"
+      "total": "6190"
     }
   }
 }
