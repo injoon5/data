@@ -31,10 +31,11 @@
           "#text": "kinda  - EP"
         },
         "name": "pink skies",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/pink+skies"
+        "url": "https://www.last.fm/music/Lany/_/pink+skies",
+        "date": {
+          "uts": "1737629986",
+          "#text": "23 Jan 2025, 10:59"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6208"
+      "total": "6209"
     }
   }
 }
