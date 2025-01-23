@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+          "#text": "Daniel Caesar"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fcc1f99ede88299b3674522c6b2923eb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fcc1f99ede88299b3674522c6b2923eb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fcc1f99ede88299b3674522c6b2923eb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "209ad4ec-df53-4667-b45f-38413802b94b",
+          "#text": "Freudian"
+        },
+        "name": "Best Part (feat. H.E.R.)",
+        "url": "https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.)",
+        "date": {
+          "uts": "1737631827",
+          "#text": "23 Jan 2025, 11:30"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -108,42 +144,6 @@
           "uts": "1737629483",
           "#text": "23 Jan 2025, 10:51"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lady Gaga & Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a57e0d24346039cab5ff184786ff122d.jpg"
-          }
-        ],
-        "mbid": "098ed81a-fa33-4212-ac6d-2cc19dde5fef",
-        "album": {
-          "mbid": "",
-          "#text": "Die with a Smile - Single"
-        },
-        "name": "Die with a Smile",
-        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile",
-        "date": {
-          "uts": "1737558094",
-          "#text": "22 Jan 2025, 15:01"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6209"
+      "total": "6210"
     }
   }
 }
