@@ -10,31 +10,67 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
           }
         ],
-        "mbid": "1e664640-dff4-4ed3-9fa0-de249565f3a6",
+        "mbid": "1aba53d7-ad69-42ca-a0c7-f9737fcca239",
         "album": {
           "mbid": "",
-          "#text": "Lany (Deluxe)"
+          "#text": "kinda  - EP"
         },
-        "name": "Hurts",
+        "name": "pink skies",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/Hurts"
+        "url": "https://www.last.fm/music/Lany/_/pink+skies"
+      },
+      {
+        "artist": {
+          "mbid": "0c6be3b5-36b1-4392-b294-7d44b30a8b76",
+          "#text": "Fly By Midnight"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loveland - Single"
+        },
+        "name": "Loveland",
+        "url": "https://www.last.fm/music/Fly+By+Midnight/_/Loveland",
+        "date": {
+          "uts": "1737629702",
+          "#text": "23 Jan 2025, 10:55"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1737558094",
           "#text": "22 Jan 2025, 15:01"
         }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f3ca1579060ce43e2696915620665f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f3ca1579060ce43e2696915620665f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Loving You Girl (feat. Hkeem) - Single"
-        },
-        "name": "Loving You Girl (feat. Hkeem)",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Loving+You+Girl+(feat.+Hkeem)",
-        "date": {
-          "uts": "1737557882",
-          "#text": "22 Jan 2025, 14:58"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6207"
+      "total": "6208"
     }
   }
 }
