@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "1e664640-dff4-4ed3-9fa0-de249565f3a6",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Hurts",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Hurts"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
+          }
+        ],
+        "mbid": "1e664640-dff4-4ed3-9fa0-de249565f3a6",
+        "album": {
+          "mbid": "",
+          "#text": "Lany (Deluxe)"
+        },
+        "name": "Hurts",
+        "url": "https://www.last.fm/music/Lany/_/Hurts",
+        "date": {
+          "uts": "1737629483",
+          "#text": "23 Jan 2025, 10:51"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lady Gaga & Bruno Mars"
         },
@@ -72,78 +143,6 @@
           "uts": "1737557882",
           "#text": "22 Jan 2025, 14:58"
         }
-      },
-      {
-        "artist": {
-          "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
-          "#text": "Justin Timberlake"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf6556783b939b032648146b1ee8e1d6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf6556783b939b032648146b1ee8e1d6.jpg"
-          }
-        ],
-        "mbid": "2bb74cf7-acd5-4f7b-9be1-1c9eceb96a3d",
-        "album": {
-          "mbid": "",
-          "#text": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's \"Trolls\") - Single"
-        },
-        "name": "Can't Stop the Feeling! (Original Song from Dreamworks Animation's \"Trolls\")",
-        "url": "https://www.last.fm/music/Justin+Timberlake/_/Can%27t+Stop+the+Feeling!+(Original+Song+from+Dreamworks+Animation%27s+%22Trolls%22)",
-        "date": {
-          "uts": "1737557677",
-          "#text": "22 Jan 2025, 14:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "43c225b2-69de-44e5-9337-17895b4ce840",
-          "#text": "Peder Elias"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Bonfire - Single"
-        },
-        "name": "Bonfire",
-        "url": "https://www.last.fm/music/Peder+Elias/_/Bonfire",
-        "date": {
-          "uts": "1737557476",
-          "#text": "22 Jan 2025, 14:51"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6206"
+      "total": "6207"
     }
   }
 }
