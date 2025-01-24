@@ -31,10 +31,11 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "sad",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/sad"
+        "url": "https://www.last.fm/music/Lany/_/sad",
+        "date": {
+          "uts": "1737730188",
+          "#text": "24 Jan 2025, 14:49"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6221"
+      "total": "6222"
     }
   }
 }
