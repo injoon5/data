@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Thick And Thin",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Thick And Thin",
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
+        "date": {
+          "uts": "1737729776",
+          "#text": "24 Jan 2025, 14:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
@@ -31,10 +102,11 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "good guys",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/good+guys"
+        "url": "https://www.last.fm/music/Lany/_/good+guys",
+        "date": {
+          "uts": "1737729557",
+          "#text": "24 Jan 2025, 14:39"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1737729416",
           "#text": "24 Jan 2025, 14:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-          "#text": "Billie Eilish"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e69971625c379772fb79213dccfa194f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e69971625c379772fb79213dccfa194f.jpg"
-          }
-        ],
-        "mbid": "ace3467f-6a4a-4b1b-9b66-4845d8a818a4",
-        "album": {
-          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
-          "#text": "HIT ME HARD AND SOFT"
-        },
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
-        "date": {
-          "uts": "1737729205",
-          "#text": "24 Jan 2025, 14:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "edf81f9b-d3f0-4d57-9636-d08e851b1640",
-          "#text": "Bazzi"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41b1e2d8d7b08d0c06908a71030aad21.jpg"
-          }
-        ],
-        "mbid": "37f9aa9d-1552-4319-84c9-0265cb8898c5",
-        "album": {
-          "mbid": "2fc9cfe9-68ff-4f45-86a2-75dcaa1c79f9",
-          "#text": "Soul Searching"
-        },
-        "name": "I.F.L.Y.",
-        "url": "https://www.last.fm/music/Bazzi/_/I.F.L.Y.",
-        "date": {
-          "uts": "1737729017",
-          "#text": "24 Jan 2025, 14:30"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6219"
+      "total": "6221"
     }
   }
 }
