@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "0c6be3b5-36b1-4392-b294-7d44b30a8b76",
+          "#text": "Fly By Midnight"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Loveland - Single"
+        },
+        "name": "Loveland",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Fly+By+Midnight/_/Loveland"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1737729557",
           "#text": "24 Jan 2025, 14:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da8e979d89d285b5ddf44e64b92f16c.jpg"
-          }
-        ],
-        "mbid": "e1a8083b-0d37-4e0e-bfdc-1899efd9ca7d",
-        "album": {
-          "mbid": "53596c4d-9819-4f06-a741-ec8b2b0870b5",
-          "#text": "Dawn FM"
-        },
-        "name": "Less Than Zero",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Less+Than+Zero",
-        "date": {
-          "uts": "1737729416",
-          "#text": "24 Jan 2025, 14:36"
         }
       }
     ],
