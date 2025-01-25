@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+          "#text": "Ava Max"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg"
+          }
+        ],
+        "mbid": "051359f1-5a20-4e7e-afe4-e162ba11ac85",
+        "album": {
+          "mbid": "1b3767ba-6008-4c26-8935-46265672207e",
+          "#text": "Heaven & Hell"
+        },
+        "name": "So Am I",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I"
+      },
+      {
+        "artist": {
+          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+          "#text": "Ava Max"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg"
+          }
+        ],
+        "mbid": "051359f1-5a20-4e7e-afe4-e162ba11ac85",
+        "album": {
+          "mbid": "1b3767ba-6008-4c26-8935-46265672207e",
+          "#text": "Heaven & Hell"
+        },
+        "name": "So Am I",
+        "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I",
+        "date": {
+          "uts": "1737836697",
+          "#text": "25 Jan 2025, 20:24"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
           "#text": "Electric Light Orchestra"
         },
@@ -31,10 +102,11 @@
           "#text": "Out of the Blue"
         },
         "name": "Mr. Blue Sky",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky"
+        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky",
+        "date": {
+          "uts": "1737836121",
+          "#text": "25 Jan 2025, 20:15"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1737835789",
           "#text": "25 Jan 2025, 20:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "8a055cb0-d793-428b-b86d-e65e7bb78c50",
-          "#text": "Mokita"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dbf894bef4bd14093fb34b5de0016b0.jpg"
-          }
-        ],
-        "mbid": "0562dece-8214-45b6-a262-435712f46454",
-        "album": {
-          "mbid": "",
-          "#text": "Ready Yet - Single"
-        },
-        "name": "Ready Yet",
-        "url": "https://www.last.fm/music/Mokita/_/Ready+Yet",
-        "date": {
-          "uts": "1737835533",
-          "#text": "25 Jan 2025, 20:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
-          "#text": "The Killers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9f4f16beae9c3152e42f7e00679cab16.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Hot Fuss (Deluxe Edition)"
-        },
-        "name": "Mr. Brightside",
-        "url": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
-        "date": {
-          "uts": "1737835345",
-          "#text": "25 Jan 2025, 20:02"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6240"
+      "total": "6242"
     }
   }
 }
