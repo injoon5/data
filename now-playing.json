@@ -31,10 +31,11 @@
           "#text": "Fitz & the Tantrums (Deluxe)"
         },
         "name": "HandClap",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap"
+        "url": "https://www.last.fm/music/Fitz+and+the+Tantrums/_/HandClap",
+        "date": {
+          "uts": "1737826234",
+          "#text": "25 Jan 2025, 17:30"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6227"
+      "total": "6228"
     }
   }
 }
