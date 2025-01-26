@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2d8afa813930f04f54a5bf0860f4564.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "eyes - Single"
+          "#text": "summer, - EP"
         },
-        "name": "eyes",
+        "name": "comethru",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Joan/_/eyes"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru"
+      },
+      {
+        "artist": {
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47bc83cda6c6f79e57dbc14d88c652a2.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "summer, - EP"
+        },
+        "name": "comethru",
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/comethru",
+        "date": {
+          "uts": "1737876479",
+          "#text": "26 Jan 2025, 07:27"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1737875983",
           "#text": "26 Jan 2025, 07:19"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
-          "#text": "Maroon 5"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbf019744c23450f80c16a492c6917e0.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbf019744c23450f80c16a492c6917e0.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbf019744c23450f80c16a492c6917e0.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbf019744c23450f80c16a492c6917e0.png"
-          }
-        ],
-        "mbid": "7dea1721-618b-4b6f-b425-59dc7c41382e",
-        "album": {
-          "mbid": "00e79a61-3afe-4e52-a9c2-10b8c634fb12",
-          "#text": "Songs About Jane"
-        },
-        "name": "Sunday Morning",
-        "url": "https://www.last.fm/music/Maroon+5/_/Sunday+Morning",
-        "date": {
-          "uts": "1737875779",
-          "#text": "26 Jan 2025, 07:16"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6254"
+      "total": "6255"
     }
   }
 }
