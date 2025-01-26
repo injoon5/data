@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+          "#text": "The Kid LAROI & Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2f97ebb3336e73d18546d504da12a86.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2f97ebb3336e73d18546d504da12a86.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2f97ebb3336e73d18546d504da12a86.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2f97ebb3336e73d18546d504da12a86.jpg"
+          }
+        ],
+        "mbid": "a0db51d6-9ade-49b1-8df7-f1959aa56d74",
+        "album": {
+          "mbid": "",
+          "#text": "F*CK LOVE 3+: OVER YOU"
+        },
+        "name": "STAY",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY"
+      },
+      {
+        "artist": {
+          "mbid": "a84a3df1-a873-4be9-b6ff-4238393d46d7",
+          "#text": "Good Neighbours"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa708b73e827a53798bd3b549b3d45e7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa708b73e827a53798bd3b549b3d45e7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa708b73e827a53798bd3b549b3d45e7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa708b73e827a53798bd3b549b3d45e7.jpg"
+          }
+        ],
+        "mbid": "dffc891a-95e9-49bd-86f0-5a33b86b906e",
+        "album": {
+          "mbid": "",
+          "#text": "Good Neighbours - EP"
+        },
+        "name": "Home",
+        "url": "https://www.last.fm/music/Good+Neighbours/_/Home",
+        "date": {
+          "uts": "1737873988",
+          "#text": "26 Jan 2025, 06:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
           "#text": "OneRepublic"
         },
@@ -72,78 +143,6 @@
           "uts": "1737836697",
           "#text": "25 Jan 2025, 20:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
-          "#text": "Electric Light Orchestra"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png"
-          }
-        ],
-        "mbid": "3f446004-9e00-4009-8250-35e833230bfb",
-        "album": {
-          "mbid": "36594124-8097-3af9-891a-8a03b154c79b",
-          "#text": "Out of the Blue"
-        },
-        "name": "Mr. Blue Sky",
-        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky",
-        "date": {
-          "uts": "1737836121",
-          "#text": "25 Jan 2025, 20:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Oasis"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e297eab2b0e91df45726dc8143b383b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e297eab2b0e91df45726dc8143b383b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e297eab2b0e91df45726dc8143b383b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e297eab2b0e91df45726dc8143b383b.jpg"
-          }
-        ],
-        "mbid": "73a05ef7-8126-431e-9c43-34670c83e6fa",
-        "album": {
-          "mbid": "",
-          "#text": "Time Flies...1994-2009"
-        },
-        "name": "Stand By Me",
-        "url": "https://www.last.fm/music/Oasis/_/Stand+By+Me",
-        "date": {
-          "uts": "1737835789",
-          "#text": "25 Jan 2025, 20:09"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6243"
+      "total": "6244"
     }
   }
 }
