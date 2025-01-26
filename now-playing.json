@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+          "#text": "Marshmello & Jonas Brothers"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82c93001869911eb3370b35b99716d62.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82c93001869911eb3370b35b99716d62.jpg"
+          }
+        ],
+        "mbid": "7896168c-5d53-4d74-8b30-8c8a6880c9b3",
+        "album": {
+          "mbid": "",
+          "#text": "Leave Before You Love Me - Single"
+        },
+        "name": "Leave Before You Love Me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Marshmello+&+Jonas+Brothers/_/Leave+Before+You+Love+Me"
+      },
+      {
+        "artist": {
+          "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+          "#text": "Dua Lipa"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a2023967dc070bd22642e33bb3da73a.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a2023967dc070bd22642e33bb3da73a.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a2023967dc070bd22642e33bb3da73a.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a2023967dc070bd22642e33bb3da73a.png"
+          }
+        ],
+        "mbid": "30d767f9-c41f-422b-b01b-8f4a9a139329",
+        "album": {
+          "mbid": "",
+          "#text": "Future Nostalgia (The Moonlight Edition)"
+        },
+        "name": "Levitating",
+        "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating",
+        "date": {
+          "uts": "1737874339",
+          "#text": "26 Jan 2025, 06:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
           "#text": "The Kid LAROI & Justin Bieber"
         },
@@ -10,31 +81,32 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2f97ebb3336e73d18546d504da12a86.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2f97ebb3336e73d18546d504da12a86.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2f97ebb3336e73d18546d504da12a86.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2f97ebb3336e73d18546d504da12a86.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e57e5cafe8c21c8024ab22facaa52ed7.jpg"
           }
         ],
         "mbid": "a0db51d6-9ade-49b1-8df7-f1959aa56d74",
         "album": {
-          "mbid": "",
+          "mbid": "045a423f-791f-4291-b1b9-00819aa9b219",
           "#text": "F*CK LOVE 3+: OVER YOU"
         },
         "name": "STAY",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY"
+        "url": "https://www.last.fm/music/The+Kid+LAROI+&+Justin+Bieber/_/STAY",
+        "date": {
+          "uts": "1737874166",
+          "#text": "26 Jan 2025, 06:49"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1737873988",
           "#text": "26 Jan 2025, 06:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
-          "#text": "OneRepublic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39bf61fc0cc9d8dea473a00836ffb25c.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39bf61fc0cc9d8dea473a00836ffb25c.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39bf61fc0cc9d8dea473a00836ffb25c.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39bf61fc0cc9d8dea473a00836ffb25c.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Native (Gold Edition)"
-        },
-        "name": "Counting Stars",
-        "url": "https://www.last.fm/music/OneRepublic/_/Counting+Stars",
-        "date": {
-          "uts": "1737836918",
-          "#text": "25 Jan 2025, 20:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
-          "#text": "Ava Max"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94b4e1e045dba33e510b635aa7743196.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94b4e1e045dba33e510b635aa7743196.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94b4e1e045dba33e510b635aa7743196.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg"
-          }
-        ],
-        "mbid": "051359f1-5a20-4e7e-afe4-e162ba11ac85",
-        "album": {
-          "mbid": "1b3767ba-6008-4c26-8935-46265672207e",
-          "#text": "Heaven & Hell"
-        },
-        "name": "So Am I",
-        "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I",
-        "date": {
-          "uts": "1737836697",
-          "#text": "25 Jan 2025, 20:24"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "125",
       "page": "1",
       "perPage": "50",
-      "total": "6244"
+      "total": "6246"
     }
   }
 }
