@@ -31,10 +31,11 @@
           "#text": "Holding On To A Dream"
         },
         "name": "No Giving Up",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up"
+        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up",
+        "date": {
+          "uts": "1737876982",
+          "#text": "26 Jan 2025, 07:36"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6256"
+      "total": "6257"
     }
   }
 }
