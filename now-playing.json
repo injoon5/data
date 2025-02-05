@@ -3,8 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
+          "mbid": "",
+          "#text": "The Weeknd, Travis Scott & Florence + the Machine"
         },
         "streamable": "0",
         "image": [
@@ -25,16 +25,17 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
           }
         ],
-        "mbid": "ce85ddef-3422-43bc-a943-5a384806668d",
+        "mbid": "",
         "album": {
           "mbid": "",
           "#text": "Hurry Up Tomorrow"
         },
-        "name": "Given Up on Me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Given+Up+on+Me"
+        "name": "Reflections Laughing",
+        "url": "https://www.last.fm/music/The+Weeknd,+Travis+Scott+&+Florence+%252B+the+Machine/_/Reflections+Laughing",
+        "date": {
+          "uts": "1738725246",
+          "#text": "05 Feb 2025, 03:14"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6261"
+      "total": "6262"
     }
   }
 }
