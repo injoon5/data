@@ -10,6 +10,77 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15e291ac14959bb1fb39351e413509c6.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15e291ac14959bb1fb39351e413509c6.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15e291ac14959bb1fb39351e413509c6.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15e291ac14959bb1fb39351e413509c6.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Hurry Up Tomorrow"
+        },
+        "name": "Reflections Laughing",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd,+Travis+Scott+&+Florence+%252B+the+Machine/_/Reflections+Laughing"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Weeknd, Travis Scott & Florence + the Machine"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Hurry Up Tomorrow"
+        },
+        "name": "Reflections Laughing",
+        "url": "https://www.last.fm/music/The+Weeknd,+Travis+Scott+&+Florence+%252B+the+Machine/_/Reflections+Laughing",
+        "date": {
+          "uts": "1738935416",
+          "#text": "07 Feb 2025, 13:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Weeknd, Travis Scott & Florence + the Machine"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
           },
           {
@@ -72,78 +143,6 @@
           "uts": "1738724788",
           "#text": "05 Feb 2025, 03:06"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "0260419f-6a46-4e6b-966a-a8c449506410",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Big Sleep",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Big+Sleep",
-        "date": {
-          "uts": "1738724157",
-          "#text": "05 Feb 2025, 02:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "14d898c5-157f-4496-ac2d-d2cea7c6384c",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Take Me Back To LA",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Take+Me+Back+To+LA",
-        "date": {
-          "uts": "1738723918",
-          "#text": "05 Feb 2025, 02:51"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6262"
+      "total": "6263"
     }
   }
 }
