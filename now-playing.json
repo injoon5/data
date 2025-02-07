@@ -10,31 +10,32 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01ad150445023de653c50dbbc3e10dbc.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01ad150445023de653c50dbbc3e10dbc.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01ad150445023de653c50dbbc3e10dbc.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01ad150445023de653c50dbbc3e10dbc.jpg"
           }
         ],
-        "mbid": "2f23efa8-987c-4f48-ba9d-b7778d90a101",
+        "mbid": "4bac743c-6ffd-4127-a34d-b50ee9332956",
         "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
+          "mbid": "16ff2d98-395c-4c87-aac8-cc4d62a853ec",
+          "#text": "Kiss Land"
         },
-        "name": "Hurry Up Tomorrow",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Hurry+Up+Tomorrow"
+        "name": "Wanderlust (Pharrell Remix)",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Wanderlust+(Pharrell+Remix)",
+        "date": {
+          "uts": "1738936744",
+          "#text": "07 Feb 2025, 13:59"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6265"
+      "total": "6266"
     }
   }
 }
