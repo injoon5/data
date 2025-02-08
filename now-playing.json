@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
+          }
+        ],
+        "mbid": "811e4c06-8c44-4a2a-989a-78f03f4ec968",
+        "album": {
+          "mbid": "",
+          "#text": "Hurry Up Tomorrow"
+        },
+        "name": "Cry For Me",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Weeknd/_/Cry+For+Me"
+      },
+      {
+        "artist": {
+          "mbid": "61cdb045-7f89-4eb1-b3ed-35db94d9ab99",
+          "#text": "The Walters"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2da38c8de710b249af9ceb494d0ec4d9.jpg"
+          }
+        ],
+        "mbid": "93fbc68b-f62c-48d6-83b6-508aac008fde",
+        "album": {
+          "mbid": "",
+          "#text": "I Love You So - Single"
+        },
+        "name": "I Love You So",
+        "url": "https://www.last.fm/music/The+Walters/_/I+Love+You+So",
+        "date": {
+          "uts": "1738986532",
+          "#text": "08 Feb 2025, 03:48"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Nicky Youre & Dazy"
         },
@@ -72,78 +143,6 @@
           "uts": "1738983229",
           "#text": "08 Feb 2025, 02:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01ad150445023de653c50dbbc3e10dbc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01ad150445023de653c50dbbc3e10dbc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01ad150445023de653c50dbbc3e10dbc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01ad150445023de653c50dbbc3e10dbc.jpg"
-          }
-        ],
-        "mbid": "4bac743c-6ffd-4127-a34d-b50ee9332956",
-        "album": {
-          "mbid": "16ff2d98-395c-4c87-aac8-cc4d62a853ec",
-          "#text": "Kiss Land"
-        },
-        "name": "Wanderlust (Pharrell Remix)",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Wanderlust+(Pharrell+Remix)",
-        "date": {
-          "uts": "1738936744",
-          "#text": "07 Feb 2025, 13:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "2f23efa8-987c-4f48-ba9d-b7778d90a101",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Hurry Up Tomorrow",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Hurry+Up+Tomorrow",
-        "date": {
-          "uts": "1738936413",
-          "#text": "07 Feb 2025, 13:53"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6268"
+      "total": "6269"
     }
   }
 }
