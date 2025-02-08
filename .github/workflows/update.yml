@@ -1,4 +1,4 @@
-name: Find out what Injoon is listening to
+name: Fetch data about injoon
 on:
   schedule:
     - cron: '*/5 * * * *'
@@ -25,10 +25,10 @@ jobs:
         run: |
           git config pull.rebase true
           git pull
-      - name: Get Current Tracks
-        run: python3 now-playing.py
       - name: Get Recent Photos
         run: python3 photos.py
+      - name: Get Current Tracks
+        run: python3 now-playing.py
         env:
           LAST_FM_PUBLIC_API_KEY: ${{ secrets.LAST_FM_PUBLIC_API_KEY }}
       - name: Commit as Bot
