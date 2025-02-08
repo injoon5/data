@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
+          "#text": "Peach Tree Rascals"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3930b3e527b3ad224b31e0fe5630445d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Mariposa - Single"
+        },
+        "name": "Mariposa",
+        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa",
+        "date": {
+          "uts": "1739045710",
+          "#text": "08 Feb 2025, 20:15"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
           "#text": "M83"
         },
@@ -108,42 +144,6 @@
           "uts": "1739030437",
           "#text": "08 Feb 2025, 16:00"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1739030213",
-          "#text": "08 Feb 2025, 15:56"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6294"
+      "total": "6295"
     }
   }
 }
