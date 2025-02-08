@@ -36,7 +36,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Update now-playing"
+          git diff-index --quiet HEAD || git commit -m "Update data"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
