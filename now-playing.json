@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "c835989b-e1eb-4daf-8bc8-ed30332837a8",
-          "#text": "Abe Parker"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/287549b4e2f4af7bd212f5c17f6d868e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/287549b4e2f4af7bd212f5c17f6d868e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/287549b4e2f4af7bd212f5c17f6d868e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/287549b4e2f4af7bd212f5c17f6d868e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
         "album": {
           "mbid": "",
-          "#text": "Live, Laugh, Love"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "Live, Laugh, Love",
+        "name": "I Like Me Better",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Abe+Parker/_/Live,+Laugh,+Love"
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+      },
+      {
+        "artist": {
+          "mbid": "eb5d7ca2-6171-4682-a30a-c31c6f6e5e9b",
+          "#text": "Sir Was"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/496517648a129b00e848e1ebc17f3979.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/496517648a129b00e848e1ebc17f3979.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/496517648a129b00e848e1ebc17f3979.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/496517648a129b00e848e1ebc17f3979.jpg"
+          }
+        ],
+        "mbid": "f49e166b-51a2-41cc-a1a1-7bd92c884bdd",
+        "album": {
+          "mbid": "e80a5c89-b9bd-421e-9329-175227c4baaa",
+          "#text": "Holding On To A Dream"
+        },
+        "name": "No Giving Up",
+        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up",
+        "date": {
+          "uts": "1738993565",
+          "#text": "08 Feb 2025, 05:46"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1738993295",
           "#text": "08 Feb 2025, 05:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lady Gaga & Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a57e0d24346039cab5ff184786ff122d.jpg"
-          }
-        ],
-        "mbid": "098ed81a-fa33-4212-ac6d-2cc19dde5fef",
-        "album": {
-          "mbid": "",
-          "#text": "Die with a Smile - Single"
-        },
-        "name": "Die with a Smile",
-        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile",
-        "date": {
-          "uts": "1738993085",
-          "#text": "08 Feb 2025, 05:38"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6286"
+      "total": "6287"
     }
   }
 }
