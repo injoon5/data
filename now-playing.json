@@ -31,10 +31,11 @@
           "#text": "I met you when I was 18. (the playlist)"
         },
         "name": "I Like Me Better",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better"
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1738993808",
+          "#text": "08 Feb 2025, 05:50"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6287"
+      "total": "6288"
     }
   }
 }
