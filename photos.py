@@ -9,7 +9,7 @@ def get_recent_photos():
         data = response.json()
         
         # Ensure we only have 6 photos
-        data["photos"] = data["photos"][:6]
+        data["photos"] = data["photos"][:8]
         
         with open("photos.json", "w") as f:
             json.dump(data, f, indent=2)
