@@ -3,38 +3,75 @@
     "track": [
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "",
+          "#text": "The Commodores"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a075b0707c5f4dfbbf468f1fac32c355.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a075b0707c5f4dfbbf468f1fac32c355.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a075b0707c5f4dfbbf468f1fac32c355.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a075b0707c5f4dfbbf468f1fac32c355.png"
           }
         ],
-        "mbid": "3d32fa00-cc24-460f-acda-4af36cd74914",
+        "mbid": "edce0edc-71fa-45de-8f5a-80d80db85c75",
         "album": {
-          "mbid": "",
-          "#text": "mama's boy"
+          "mbid": "1fe916f8-e49f-4331-854b-3b1f652725a3",
+          "#text": "Commodores"
         },
-        "name": "cowboy in LA",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Easy",
+        "url": "https://www.last.fm/music/The+Commodores/_/Easy",
+        "date": {
+          "uts": "1739073157",
+          "#text": "09 Feb 2025, 03:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
-        "url": "https://www.last.fm/music/Lany/_/cowboy+in+LA"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Changes",
+        "url": "https://www.last.fm/music/Lauv/_/Changes",
+        "date": {
+          "uts": "1739072935",
+          "#text": "09 Feb 2025, 03:48"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1739072520",
           "#text": "09 Feb 2025, 03:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
-          "#text": "Peach Tree Rascals"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3930b3e527b3ad224b31e0fe5630445d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Mariposa - Single"
-        },
-        "name": "Mariposa",
-        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa",
-        "date": {
-          "uts": "1739045710",
-          "#text": "08 Feb 2025, 20:15"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "126",
       "page": "1",
       "perPage": "50",
-      "total": "6297"
+      "total": "6299"
     }
   }
 }
