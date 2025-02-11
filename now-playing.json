@@ -31,41 +31,6 @@
           "#text": "Aftershock (Deluxe)"
         },
         "name": "The Hardest Part",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Alexander+23/_/The+Hardest+Part"
-      },
-      {
-        "artist": {
-          "mbid": "257b03c5-85b7-4ce9-84b4-6e24aa888205",
-          "#text": "Alexander 23"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31e320e5f36843392a1164cc9857aae0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31e320e5f36843392a1164cc9857aae0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31e320e5f36843392a1164cc9857aae0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31e320e5f36843392a1164cc9857aae0.jpg"
-          }
-        ],
-        "mbid": "16464bfb-e9ae-4942-aab8-9fc8f9360e65",
-        "album": {
-          "mbid": "",
-          "#text": "Aftershock (Deluxe)"
-        },
-        "name": "The Hardest Part",
         "url": "https://www.last.fm/music/Alexander+23/_/The+Hardest+Part",
         "date": {
           "uts": "1739249881",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1739249511",
           "#text": "11 Feb 2025, 04:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1739176485",
+          "#text": "10 Feb 2025, 08:34"
         }
       }
     ],
