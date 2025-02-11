@@ -3,115 +3,43 @@
     "track": [
       {
         "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
+          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
+          "#text": "Jeremy Zucker"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f77479adf0864e8f813758c71896ffda.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f77479adf0864e8f813758c71896ffda.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f77479adf0864e8f813758c71896ffda.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f77479adf0864e8f813758c71896ffda.jpg"
           }
         ],
-        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
+          "#text": "idle - EP"
         },
-        "name": "homebody",
+        "name": "Talk Is Overrated (feat. blackbear)",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Valley/_/homebody"
+        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Talk+Is+Overrated+(feat.+blackbear)"
       },
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad853258a14f64405d0cf907ca1aa004.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad853258a14f64405d0cf907ca1aa004.jpg"
-          }
-        ],
-        "mbid": "1456676b-9303-47e6-b22e-0d8f3f58c8b1",
-        "album": {
           "mbid": "",
-          "#text": "I Loved You. - EP"
-        },
-        "name": "4EVER!",
-        "url": "https://www.last.fm/music/Lany/_/4EVER!",
-        "date": {
-          "uts": "1739263878",
-          "#text": "11 Feb 2025, 08:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Thick And Thin",
-        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
-        "date": {
-          "uts": "1739263661",
-          "#text": "11 Feb 2025, 08:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
-          "#text": "Maroon 5"
+          "#text": "slchld"
         },
         "streamable": "0",
         "image": [
@@ -132,16 +60,88 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
+        "mbid": "43af4346-c2a1-4a60-91df-7b8b4a6e97ab",
+        "album": {
+          "mbid": "",
+          "#text": "My Insecurities, Not Yours (feat. Rheehab) - EP"
+        },
+        "name": "she likes spring, I prefer winter",
+        "url": "https://www.last.fm/music/slchld/_/she+likes+spring,+I+prefer+winter",
+        "date": {
+          "uts": "1739264752",
+          "#text": "11 Feb 2025, 09:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Oasis"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          }
+        ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Best Valentine's Day 2022"
+          "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
         },
-        "name": "Sugar",
-        "url": "https://www.last.fm/music/Maroon+5/_/Sugar",
+        "name": "Don't Look Back In Anger (Remastered)",
+        "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)",
         "date": {
-          "uts": "1739263438",
-          "#text": "11 Feb 2025, 08:43"
+          "uts": "1739264503",
+          "#text": "11 Feb 2025, 09:01"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+          "#text": "Conan Gray"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
+          "#text": "Kid Krow"
+        },
+        "name": "Maniac",
+        "url": "https://www.last.fm/music/Conan+Gray/_/Maniac",
+        "date": {
+          "uts": "1739264265",
+          "#text": "11 Feb 2025, 08:57"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "127",
       "page": "1",
       "perPage": "50",
-      "total": "6318"
+      "total": "6322"
     }
   }
 }
