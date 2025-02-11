@@ -31,41 +31,6 @@
           "#text": "gg bb xx"
         },
         "name": "roll over, baby",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/roll+over,+baby"
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "1d5928fc-2b09-4335-9409-3a52bf06e707",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "roll over, baby",
         "url": "https://www.last.fm/music/Lany/_/roll+over,+baby",
         "date": {
           "uts": "1739266572",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1739266107",
           "#text": "11 Feb 2025, 09:28"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
+          }
+        ],
+        "mbid": "018eb704-8f8f-4dd2-8997-cbda445393b5",
+        "album": {
+          "mbid": "",
+          "#text": "After Hours (Deluxe)"
+        },
+        "name": "Save Your Tears",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
+        "date": {
+          "uts": "1739265878",
+          "#text": "11 Feb 2025, 09:24"
         }
       }
     ],
