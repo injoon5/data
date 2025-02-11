@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
+          "#text": "Trevor Daniel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14d9945856ba838919c555059305c6f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14d9945856ba838919c555059305c6f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14d9945856ba838919c555059305c6f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14d9945856ba838919c555059305c6f8.jpg"
+          }
+        ],
+        "mbid": "e4c2bb8c-06e8-4539-bd62-12ffdb1f912d",
+        "album": {
+          "mbid": "",
+          "#text": "Falling - Single"
+        },
+        "name": "Falling",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Trevor+Daniel/_/Falling"
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv & LANY"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1739176079",
           "#text": "10 Feb 2025, 08:27"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "2bee95a7-1c0e-4b3c-99a5-4857d9d776dd",
-          "#text": "Dayglow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2de96cea611dd0a47c3e49f6f5580f24.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2de96cea611dd0a47c3e49f6f5580f24.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "5420c245-4cb5-4672-8e09-48b4833f6561",
-          "#text": "Dayglow"
-        },
-        "name": "Every Little Thing I Say I Do",
-        "url": "https://www.last.fm/music/Dayglow/_/Every+Little+Thing+I+Say+I+Do",
-        "date": {
-          "uts": "1739175886",
-          "#text": "10 Feb 2025, 08:24"
         }
       }
     ],
