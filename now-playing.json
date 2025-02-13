@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Oasis"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84ea1873007dbd2fe17b7c96650677f6.jpg"
+          }
+        ],
+        "mbid": "4cee89bf-6445-4af2-91bb-1ad082d7936a",
+        "album": {
+          "mbid": "",
+          "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
+        },
+        "name": "Wonderwall (Remastered)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Oasis/_/Wonderwall+(Remastered)"
+      },
+      {
+        "artist": {
+          "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+          "#text": "Ruel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7079c624f93eaf4436c94cac08b7536b.jpg"
+          }
+        ],
+        "mbid": "56e624d7-43dc-45b9-9f4b-e60085668334",
+        "album": {
+          "mbid": "",
+          "#text": "Face To Face - Single"
+        },
+        "name": "Face To Face",
+        "url": "https://www.last.fm/music/Ruel/_/Face+To+Face",
+        "date": {
+          "uts": "1739458411",
+          "#text": "13 Feb 2025, 14:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Jub\u00ebl"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "Dancing in the Moonlight (feat. NEIMY) - Single"
         },
         "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jub%C3%ABl/_/Dancing+In+The+Moonlight+(feat.+NEIMY)"
+        "url": "https://www.last.fm/music/Jub%C3%ABl/_/Dancing+In+The+Moonlight+(feat.+NEIMY)",
+        "date": {
+          "uts": "1739458227",
+          "#text": "13 Feb 2025, 14:50"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1739458024",
           "#text": "13 Feb 2025, 14:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "811e4c06-8c44-4a2a-989a-78f03f4ec968",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Cry For Me",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Cry+For+Me",
-        "date": {
-          "uts": "1739457789",
-          "#text": "13 Feb 2025, 14:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b437c91ba980add849d0d13922a4fb.jpg"
-          }
-        ],
-        "mbid": "08fe45e6-42e7-4f66-b8f0-d5f6e6e93c8d",
-        "album": {
-          "mbid": "",
-          "#text": "Supercuts - Single"
-        },
-        "name": "Supercuts",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Supercuts",
-        "date": {
-          "uts": "1739457574",
-          "#text": "13 Feb 2025, 14:39"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "128",
       "page": "1",
       "perPage": "50",
-      "total": "6375"
+      "total": "6377"
     }
   }
 }
