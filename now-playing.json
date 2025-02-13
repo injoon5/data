@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd7ebfc47c9f0eb0081a8a71dad0b998.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd7ebfc47c9f0eb0081a8a71dad0b998.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd7ebfc47c9f0eb0081a8a71dad0b998.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd7ebfc47c9f0eb0081a8a71dad0b998.jpg"
+          }
+        ],
+        "mbid": "5fcfb5b6-36f1-47cf-958a-d6a651b8d991",
+        "album": {
+          "mbid": "",
+          "#text": "Elemental (Original Motion Picture Soundtrack)"
+        },
+        "name": "Steal the Show",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Steal+the+Show"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          }
+        ],
+        "mbid": "5fcfb5b6-36f1-47cf-958a-d6a651b8d991",
+        "album": {
+          "mbid": "169dfb69-8fcc-43ee-8c67-cedc3d9e8ae2",
+          "#text": "Elemental (Original Motion Picture Soundtrack)"
+        },
+        "name": "Steal the Show",
+        "url": "https://www.last.fm/music/Lauv/_/Steal+the+Show",
+        "date": {
+          "uts": "1739449297",
+          "#text": "13 Feb 2025, 12:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c075c11f1dc79dfa151ac95bfda97e12.jpg"
+          }
+        ],
+        "mbid": "41ce3c9a-3e18-404a-b53d-7af4f1065609",
+        "album": {
+          "mbid": "",
+          "#text": "Dancing In The Flames - Single"
+        },
+        "name": "Dancing in the Flames",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Dancing+in+the+Flames",
+        "date": {
+          "uts": "1739449090",
+          "#text": "13 Feb 2025, 12:18"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -36,114 +143,6 @@
           "uts": "1739266572",
           "#text": "11 Feb 2025, 09:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
-          "#text": "Jason Mraz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ed7836392b24ef5beacde01494b5e26.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ed7836392b24ef5beacde01494b5e26.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "We Sing. We Dance. We Steal Things"
-        },
-        "name": "I'm Yours",
-        "url": "https://www.last.fm/music/Jason+Mraz/_/I%27m+Yours",
-        "date": {
-          "uts": "1739266350",
-          "#text": "11 Feb 2025, 09:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "8b64a68f-eb63-48dd-80d9-1c2abcdf1970",
-          "#text": "HYUKOH"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
-          }
-        ],
-        "mbid": "4cf180c9-ee80-4bdb-93a1-ce0e2f9a3fe1",
-        "album": {
-          "mbid": "01d3a83b-bbe1-4db5-a913-bf0856308f44",
-          "#text": "23"
-        },
-        "name": "TOMBOY",
-        "url": "https://www.last.fm/music/HYUKOH/_/TOMBOY",
-        "date": {
-          "uts": "1739266107",
-          "#text": "11 Feb 2025, 09:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65e524b5200998eb88fb39ffa33140ce.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65e524b5200998eb88fb39ffa33140ce.png"
-          }
-        ],
-        "mbid": "018eb704-8f8f-4dd2-8997-cbda445393b5",
-        "album": {
-          "mbid": "",
-          "#text": "After Hours (Deluxe)"
-        },
-        "name": "Save Your Tears",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears",
-        "date": {
-          "uts": "1739265878",
-          "#text": "11 Feb 2025, 09:24"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "127",
       "page": "1",
       "perPage": "50",
-      "total": "6330"
+      "total": "6332"
     }
   }
 }
