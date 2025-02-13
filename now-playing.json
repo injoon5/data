@@ -10,6 +10,78 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "6100a166-5bf8-41bc-98c1-4a05f82d3016",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "care less",
+        "url": "https://www.last.fm/music/Lany/_/care+less",
+        "date": {
+          "uts": "1739466885",
+          "#text": "13 Feb 2025, 17:14"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a6f8a4b6-05c4-41c9-a948-6328ec4b4cd9",
+          "#text": "Zachary Knowles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f8506a50014d281767277b612a64123.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f8506a50014d281767277b612a64123.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f8506a50014d281767277b612a64123.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f8506a50014d281767277b612a64123.jpg"
+          }
+        ],
+        "mbid": "110042a2-7140-4a97-9d5b-a0acf8ccccce",
+        "album": {
+          "mbid": "15f30353-2549-41ad-82b5-48b41fffd202",
+          "#text": "tendency to be a loner"
+        },
+        "name": "carpool",
+        "url": "https://www.last.fm/music/Zachary+Knowles/_/carpool",
+        "date": {
+          "uts": "1739466703",
+          "#text": "13 Feb 2025, 17:11"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
           },
           {
@@ -31,10 +103,11 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "when you're drunk",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/when+you%27re+drunk"
+        "url": "https://www.last.fm/music/Lany/_/when+you%27re+drunk",
+        "date": {
+          "uts": "1739466515",
+          "#text": "13 Feb 2025, 17:08"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1739466314",
           "#text": "13 Feb 2025, 17:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          }
-        ],
-        "mbid": "50b926fc-dd6a-4c82-90f6-a7fbaa87da64",
-        "album": {
-          "mbid": "",
-          "#text": "A Beautiful Blur (Deluxe)"
-        },
-        "name": "Sugar & Cinnamon",
-        "url": "https://www.last.fm/music/Lany/_/Sugar+&+Cinnamon",
-        "date": {
-          "uts": "1739466111",
-          "#text": "13 Feb 2025, 17:01"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6a997121-0919-482b-a91b-c6fe1b55a4b9",
-          "#text": "James Bay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd1dec56a52840b7c058b13fc6b405f5.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd1dec56a52840b7c058b13fc6b405f5.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd1dec56a52840b7c058b13fc6b405f5.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd1dec56a52840b7c058b13fc6b405f5.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "26b65e4e-64b0-43b0-9bbd-cb14167e7c20",
-          "#text": "Chaos and the Calm"
-        },
-        "name": "Let It Go",
-        "url": "https://www.last.fm/music/James+Bay/_/Let+It+Go",
-        "date": {
-          "uts": "1739465871",
-          "#text": "13 Feb 2025, 16:57"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "129",
       "page": "1",
       "perPage": "50",
-      "total": "6414"
+      "total": "6417"
     }
   }
 }
