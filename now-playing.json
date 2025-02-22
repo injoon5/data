@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
+          }
+        ],
+        "mbid": "34ee8f5d-e4b3-4019-af71-60fd87483c95",
+        "album": {
+          "mbid": "",
+          "#text": "kinda  - EP"
+        },
+        "name": "current location",
+        "url": "https://www.last.fm/music/Lany/_/current+location",
+        "date": {
+          "uts": "1740228259",
+          "#text": "22 Feb 2025, 12:44"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
           "#text": "Nightly"
         },
@@ -108,42 +144,6 @@
           "uts": "1740057537",
           "#text": "20 Feb 2025, 13:18"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "0ae5cedc-2ef4-4c7d-91b2-cd639f05f896",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Lonely Eyes",
-        "url": "https://www.last.fm/music/Lauv/_/Lonely+Eyes",
-        "date": {
-          "uts": "1740057335",
-          "#text": "20 Feb 2025, 13:15"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "129",
       "page": "1",
       "perPage": "50",
-      "total": "6443"
+      "total": "6444"
     }
   }
 }
