@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4583932b753c96d0d2f22fe9774e5ef3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4583932b753c96d0d2f22fe9774e5ef3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4583932b753c96d0d2f22fe9774e5ef3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4583932b753c96d0d2f22fe9774e5ef3.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "8a61af61-cb44-497e-9bb1-2b7b137b3bfe",
+          "#text": "After Hours"
+        },
+        "name": "Blinding Lights",
+        "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights",
+        "date": {
+          "uts": "1740488404",
+          "#text": "25 Feb 2025, 13:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -108,42 +144,6 @@
           "uts": "1740057707",
           "#text": "20 Feb 2025, 13:21"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e116e0be-c371-4d57-bc09-e2d762d82540",
-          "#text": "Jeremy Zucker"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b437c91ba980add849d0d13922a4fb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b437c91ba980add849d0d13922a4fb.jpg"
-          }
-        ],
-        "mbid": "08fe45e6-42e7-4f66-b8f0-d5f6e6e93c8d",
-        "album": {
-          "mbid": "",
-          "#text": "Supercuts - Single"
-        },
-        "name": "Supercuts",
-        "url": "https://www.last.fm/music/Jeremy+Zucker/_/Supercuts",
-        "date": {
-          "uts": "1740057537",
-          "#text": "20 Feb 2025, 13:18"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "129",
       "page": "1",
       "perPage": "50",
-      "total": "6444"
+      "total": "6445"
     }
   }
 }
