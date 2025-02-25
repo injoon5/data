@@ -31,10 +31,11 @@
           "#text": "~how i'm feeling~"
         },
         "name": "Feelings",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/Feelings"
+        "url": "https://www.last.fm/music/Lauv/_/Feelings",
+        "date": {
+          "uts": "1740500736",
+          "#text": "25 Feb 2025, 16:25"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "130",
       "page": "1",
       "perPage": "50",
-      "total": "6499"
+      "total": "6500"
     }
   }
 }
