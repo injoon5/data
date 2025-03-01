@@ -31,41 +31,6 @@
           "#text": "Hunting High And Low (Deluxe Edition)"
         },
         "name": "Take on Me",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "0075a04f-2e69-3a77-b989-2cf91faaf2a9",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take on Me",
         "url": "https://www.last.fm/music/a-ha/_/Take+on+Me",
         "date": {
           "uts": "1740837793",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1740754685",
           "#text": "28 Feb 2025, 14:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+          "#text": "Nothing But Thieves"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9997b7c54f2e8f1db7de3f1fb2f95781.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9997b7c54f2e8f1db7de3f1fb2f95781.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9997b7c54f2e8f1db7de3f1fb2f95781.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9997b7c54f2e8f1db7de3f1fb2f95781.jpg"
+          }
+        ],
+        "mbid": "46b59168-4db7-4941-b674-48b2905239a7",
+        "album": {
+          "mbid": "3884327f-683e-40f4-856c-2ce7d040eba1",
+          "#text": "Moral Panic"
+        },
+        "name": "Impossible",
+        "url": "https://www.last.fm/music/Nothing+But+Thieves/_/Impossible",
+        "date": {
+          "uts": "1740660280",
+          "#text": "27 Feb 2025, 12:44"
         }
       }
     ],
