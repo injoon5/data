@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Chris Brown"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "11:11 (Deluxe)"
+        },
+        "name": "Residuals",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chris Brown"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "11:11 (Deluxe)"
+        },
+        "name": "Residuals",
+        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
+        "date": {
+          "uts": "1742035370",
+          "#text": "15 Mar 2025, 10:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Stephen Sanchez & Em Beihold"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80fb86346d269fc25677be73d96d9ef1.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80fb86346d269fc25677be73d96d9ef1.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80fb86346d269fc25677be73d96d9ef1.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80fb86346d269fc25677be73d96d9ef1.jpg"
+          }
+        ],
+        "mbid": "9059f658-a564-4ed4-9684-c03139799b1d",
+        "album": {
+          "mbid": "",
+          "#text": "Until I Found You (Em Beihold Version) - Single"
+        },
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://www.last.fm/music/Stephen+Sanchez+&+Em+Beihold/_/Until+I+Found+You+(Em+Beihold+Version)",
+        "date": {
+          "uts": "1742035172",
+          "#text": "15 Mar 2025, 10:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
           "#text": "Eric Clapton & Jeff Beck"
         },
@@ -36,114 +143,6 @@
           "uts": "1741951455",
           "#text": "14 Mar 2025, 11:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "a-ha"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2661a5633d0016e8eb29731e7ba8ed.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Hunting High And Low (Deluxe Edition)"
-        },
-        "name": "Take on Me",
-        "url": "https://www.last.fm/music/a-ha/_/Take+on+Me",
-        "date": {
-          "uts": "1740837793",
-          "#text": "01 Mar 2025, 14:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          }
-        ],
-        "mbid": "987fb8ce-3d7e-4708-bf77-e770105525d4",
-        "album": {
-          "mbid": "6ce97aea-cd5e-4c36-a89a-79a2f5b0122d",
-          "#text": "APARTMENT"
-        },
-        "name": "444",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/444",
-        "date": {
-          "uts": "1740754851",
-          "#text": "28 Feb 2025, 15:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          }
-        ],
-        "mbid": "980db4d9-4acc-4523-bb98-921049b94667",
-        "album": {
-          "mbid": "6ce97aea-cd5e-4c36-a89a-79a2f5b0122d",
-          "#text": "APARTMENT"
-        },
-        "name": "Home Sweet Home",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Home+Sweet+Home",
-        "date": {
-          "uts": "1740754685",
-          "#text": "28 Feb 2025, 14:58"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "132",
       "page": "1",
       "perPage": "50",
-      "total": "6552"
+      "total": "6554"
     }
   }
 }
