@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Faime"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Journeys - EP"
+        },
+        "name": "Feels Like You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1742137607",
           "#text": "16 Mar 2025, 15:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
-          "#text": "Nightly"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32e03602845c3a59f8f8b316a84d4fcd.jpg"
-          }
-        ],
-        "mbid": "f7b2cdfb-d7ed-4f8f-82bd-06b47e95bce9",
-        "album": {
-          "mbid": "",
-          "#text": "Twenty Something - Single"
-        },
-        "name": "Twenty Something",
-        "url": "https://www.last.fm/music/Nightly/_/Twenty+Something",
-        "date": {
-          "uts": "1742137295",
-          "#text": "16 Mar 2025, 15:01"
         }
       }
     ],
