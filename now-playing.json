@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/816b5430f0c8bd4061d953b769452b47.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/816b5430f0c8bd4061d953b769452b47.jpg"
+          }
+        ],
+        "mbid": "6ea66385-6c5e-4c71-b841-0e867a7ddf43",
+        "album": {
+          "mbid": "3ba66db3-ff3f-4380-bcc5-fc62326edcf9",
+          "#text": "This Room is White"
+        },
+        "name": "You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Valley/_/You"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1742057543",
           "#text": "15 Mar 2025, 16:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
-          "#text": "Jason Mraz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          }
-        ],
-        "mbid": "45c3606c-77b0-4080-99d3-bcce6b98a5bd",
-        "album": {
-          "mbid": "06692eec-be74-439b-9ef6-4468707378a1",
-          "#text": "Know."
-        },
-        "name": "Unlonely",
-        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely",
-        "date": {
-          "uts": "1742057310",
-          "#text": "15 Mar 2025, 16:48"
         }
       }
     ],
