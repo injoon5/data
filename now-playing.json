@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+          "#text": "Frank Ocean"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          }
+        ],
+        "mbid": "09e665ad-987f-4616-9499-52fa2a32f8c3",
+        "album": {
+          "mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+          "#text": "Blonde"
+        },
+        "name": "Self Control",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Frank+Ocean/_/Self+Control"
+      },
+      {
+        "artist": {
+          "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+          "#text": "Frank Ocean"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d204f358ae4063561370b9dc7c0cb8ca.jpg"
+          }
+        ],
+        "mbid": "09e665ad-987f-4616-9499-52fa2a32f8c3",
+        "album": {
+          "mbid": "08f54f68-7c89-4e22-8a0f-ac2b06e48568",
+          "#text": "Blonde"
+        },
+        "name": "Self Control",
+        "url": "https://www.last.fm/music/Frank+Ocean/_/Self+Control",
+        "date": {
+          "uts": "1742146074",
+          "#text": "16 Mar 2025, 17:27"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6eb5cc6b-8553-4049-abf5-1ace1b6d9e59",
           "#text": "Trevor Daniel"
         },
@@ -72,78 +143,6 @@
           "uts": "1742142741",
           "#text": "16 Mar 2025, 16:32"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "114cc945-fb8b-4ca8-acca-1c89a4869aac",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "never mind, let's break up",
-        "url": "https://www.last.fm/music/Lany/_/never+mind,+let%27s+break+up",
-        "date": {
-          "uts": "1742142580",
-          "#text": "16 Mar 2025, 16:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
-          "#text": "Turnstile"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bbf56b7df22d8044b0102c3ef12183a.jpg"
-          }
-        ],
-        "mbid": "276b4dd7-b108-48d9-b32f-1377ef629a24",
-        "album": {
-          "mbid": "8f914f2d-d449-4349-8463-f654867b0f35",
-          "#text": "GLOW ON"
-        },
-        "name": "MYSTERY",
-        "url": "https://www.last.fm/music/Turnstile/_/MYSTERY",
-        "date": {
-          "uts": "1742142422",
-          "#text": "16 Mar 2025, 16:27"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "134",
       "page": "1",
       "perPage": "50",
-      "total": "6684"
+      "total": "6685"
     }
   }
 }
