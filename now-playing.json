@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Illuminate (Deluxe)"
+        },
+        "name": "Treat You Better",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/Treat+You+Better"
+      },
+      {
+        "artist": {
+          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+          "#text": "Shawn Mendes"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae06e2fcdfade4102007dcc5ffa9423d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Illuminate (Deluxe)"
+        },
+        "name": "Treat You Better",
+        "url": "https://www.last.fm/music/Shawn+Mendes/_/Treat+You+Better",
+        "date": {
+          "uts": "1742140769",
+          "#text": "16 Mar 2025, 15:59"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "a22ba641-6c93-43a4-8deb-f2910cded9d0",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Myself",
+        "url": "https://www.last.fm/music/Post+Malone/_/Myself",
+        "date": {
+          "uts": "1742140596",
+          "#text": "16 Mar 2025, 15:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
           "#text": "Maroon 5"
         },
@@ -31,117 +138,10 @@
           "#text": "Songs About Jane"
         },
         "name": "Sunday Morning",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Maroon+5/_/Sunday+Morning"
-      },
-      {
-        "artist": {
-          "mbid": "320d40d6-28dd-42d7-b05f-7e6e8d399a2e",
-          "#text": "Mat Kearney & Afsheen"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9375c817003bcc97814aa01b07d31fb3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9375c817003bcc97814aa01b07d31fb3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9375c817003bcc97814aa01b07d31fb3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9375c817003bcc97814aa01b07d31fb3.jpg"
-          }
-        ],
-        "mbid": "4c1ff751-2945-4b48-a669-9a7e85bf8dc3",
-        "album": {
-          "mbid": "f1343182-783f-4b2a-94c7-85ed76c48088",
-          "#text": "CRAZYTALK"
-        },
-        "name": "Better Than I Used To Be",
-        "url": "https://www.last.fm/music/Mat+Kearney+&+Afsheen/_/Better+Than+I+Used+To+Be",
+        "url": "https://www.last.fm/music/Maroon+5/_/Sunday+Morning",
         "date": {
-          "uts": "1742140175",
-          "#text": "16 Mar 2025, 15:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Faime"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Journeys - EP"
-        },
-        "name": "Feels Like You",
-        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You",
-        "date": {
-          "uts": "1742139978",
-          "#text": "16 Mar 2025, 15:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "dd2098c2-8f3e-4e0e-beef-a92dfbaee7e5",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "Super Far",
-        "url": "https://www.last.fm/music/Lany/_/Super+Far",
-        "date": {
-          "uts": "1742137918",
-          "#text": "16 Mar 2025, 15:11"
+          "uts": "1742140394",
+          "#text": "16 Mar 2025, 15:53"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "134",
       "page": "1",
       "perPage": "50",
-      "total": "6669"
+      "total": "6672"
     }
   }
 }
