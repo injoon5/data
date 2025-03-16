@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+          "#text": "Maroon 5"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbf019744c23450f80c16a492c6917e0.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbf019744c23450f80c16a492c6917e0.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbf019744c23450f80c16a492c6917e0.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbf019744c23450f80c16a492c6917e0.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "00e79a61-3afe-4e52-a9c2-10b8c634fb12",
+          "#text": "Songs About Jane"
+        },
+        "name": "Sunday Morning",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Maroon+5/_/Sunday+Morning"
+      },
+      {
+        "artist": {
+          "mbid": "320d40d6-28dd-42d7-b05f-7e6e8d399a2e",
+          "#text": "Mat Kearney & Afsheen"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9375c817003bcc97814aa01b07d31fb3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9375c817003bcc97814aa01b07d31fb3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9375c817003bcc97814aa01b07d31fb3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9375c817003bcc97814aa01b07d31fb3.jpg"
+          }
+        ],
+        "mbid": "4c1ff751-2945-4b48-a669-9a7e85bf8dc3",
+        "album": {
+          "mbid": "f1343182-783f-4b2a-94c7-85ed76c48088",
+          "#text": "CRAZYTALK"
+        },
+        "name": "Better Than I Used To Be",
+        "url": "https://www.last.fm/music/Mat+Kearney+&+Afsheen/_/Better+Than+I+Used+To+Be",
+        "date": {
+          "uts": "1742140175",
+          "#text": "16 Mar 2025, 15:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Faime"
         },
@@ -31,10 +102,11 @@
           "#text": "Journeys - EP"
         },
         "name": "Feels Like You",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You"
+        "url": "https://www.last.fm/music/Faime/_/Feels+Like+You",
+        "date": {
+          "uts": "1742139978",
+          "#text": "16 Mar 2025, 15:46"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1742137918",
           "#text": "16 Mar 2025, 15:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a6f8a4b6-05c4-41c9-a948-6328ec4b4cd9",
-          "#text": "Zachary Knowles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f8506a50014d281767277b612a64123.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f8506a50014d281767277b612a64123.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f8506a50014d281767277b612a64123.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f8506a50014d281767277b612a64123.jpg"
-          }
-        ],
-        "mbid": "110042a2-7140-4a97-9d5b-a0acf8ccccce",
-        "album": {
-          "mbid": "15f30353-2549-41ad-82b5-48b41fffd202",
-          "#text": "tendency to be a loner"
-        },
-        "name": "carpool",
-        "url": "https://www.last.fm/music/Zachary+Knowles/_/carpool",
-        "date": {
-          "uts": "1742137800",
-          "#text": "16 Mar 2025, 15:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-          "#text": "The Chainsmokers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96ce941e795755d46ce76c092732d7d0.jpg"
-          }
-        ],
-        "mbid": "9843a5ce-2164-4c09-a133-80eeb5430592",
-        "album": {
-          "mbid": "",
-          "#text": "Memories...Do Not Open"
-        },
-        "name": "Paris",
-        "url": "https://www.last.fm/music/The+Chainsmokers/_/Paris",
-        "date": {
-          "uts": "1742137607",
-          "#text": "16 Mar 2025, 15:06"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "134",
       "page": "1",
       "perPage": "50",
-      "total": "6667"
+      "total": "6669"
     }
   }
 }
