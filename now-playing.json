@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+          "#text": "Ruel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7079c624f93eaf4436c94cac08b7536b.jpg"
+          }
+        ],
+        "mbid": "56e624d7-43dc-45b9-9f4b-e60085668334",
+        "album": {
+          "mbid": "",
+          "#text": "Face To Face - Single"
+        },
+        "name": "Face To Face",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ruel/_/Face+To+Face"
+      },
+      {
+        "artist": {
+          "mbid": "bc153bd5-7963-4195-a6fb-c38588f31007",
+          "#text": "Ruel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7079c624f93eaf4436c94cac08b7536b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7079c624f93eaf4436c94cac08b7536b.jpg"
+          }
+        ],
+        "mbid": "56e624d7-43dc-45b9-9f4b-e60085668334",
+        "album": {
+          "mbid": "",
+          "#text": "Face To Face - Single"
+        },
+        "name": "Face To Face",
+        "url": "https://www.last.fm/music/Ruel/_/Face+To+Face",
+        "date": {
+          "uts": "1742135672",
+          "#text": "16 Mar 2025, 14:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7940fbb1df766b4683951aed490a8b5a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7940fbb1df766b4683951aed490a8b5a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7940fbb1df766b4683951aed490a8b5a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7940fbb1df766b4683951aed490a8b5a.jpg"
+          }
+        ],
+        "mbid": "553666f7-7719-4529-bb1b-5385aa159324",
+        "album": {
+          "mbid": "5c8a772d-fb0a-46ab-a5d8-6317546b727a",
+          "#text": "Fine Line"
+        },
+        "name": "Watermelon Sugar",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
+        "date": {
+          "uts": "1742135483",
+          "#text": "16 Mar 2025, 14:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -31,117 +138,10 @@
           "#text": "x (Deluxe Edition)"
         },
         "name": "Thinking Out Loud",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud"
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
-        },
-        "name": "U Sometimes",
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
         "date": {
-          "uts": "1742135073",
-          "#text": "16 Mar 2025, 14:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/08e3f15aca0423b084fb49f342756f3b.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "08791ceb-9f2a-4f48-9fb7-9eab2df6fc6e",
-          "#text": "Starboy"
-        },
-        "name": "I Feel It Coming (feat. Daft Punk)",
-        "url": "https://www.last.fm/music/The+Weeknd/_/I+Feel+It+Coming+(feat.+Daft+Punk)",
-        "date": {
-          "uts": "1742134852",
-          "#text": "16 Mar 2025, 14:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8b25cffc08b32df66c763b1c261a24e.jpg"
-          }
-        ],
-        "mbid": "62840516-4987-4f6f-b6b4-0dc4be70caba",
-        "album": {
-          "mbid": "",
-          "#text": "kinda  - EP"
-        },
-        "name": "quit",
-        "url": "https://www.last.fm/music/Lany/_/quit",
-        "date": {
-          "uts": "1742134602",
-          "#text": "16 Mar 2025, 14:16"
+          "uts": "1742135255",
+          "#text": "16 Mar 2025, 14:27"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "134",
       "page": "1",
       "perPage": "50",
-      "total": "6652"
+      "total": "6655"
     }
   }
 }
