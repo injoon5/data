@@ -31,41 +31,6 @@
           "#text": "GNX"
         },
         "name": "luther",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Kendrick+Lamar+&+SZA/_/luther"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Kendrick Lamar & SZA"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e3057eedad37e2ae98160c4f6b8c36f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e3057eedad37e2ae98160c4f6b8c36f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e3057eedad37e2ae98160c4f6b8c36f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3057eedad37e2ae98160c4f6b8c36f8.jpg"
-          }
-        ],
-        "mbid": "ac19684f-febb-47ae-8d5f-72a4c4c1aa3d",
-        "album": {
-          "mbid": "",
-          "#text": "GNX"
-        },
-        "name": "luther",
         "url": "https://www.last.fm/music/Kendrick+Lamar+&+SZA/_/luther",
         "date": {
           "uts": "1742230331",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1742142900",
           "#text": "16 Mar 2025, 16:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
+          }
+        ],
+        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
+        "album": {
+          "mbid": "",
+          "#text": "It Takes Two - Single"
+        },
+        "name": "It Takes Two",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
+        "date": {
+          "uts": "1742142741",
+          "#text": "16 Mar 2025, 16:32"
         }
       }
     ],
