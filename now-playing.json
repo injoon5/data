@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+          "#text": "Ava Max"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94b4e1e045dba33e510b635aa7743196.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94b4e1e045dba33e510b635aa7743196.jpg"
+          }
+        ],
+        "mbid": "051359f1-5a20-4e7e-afe4-e162ba11ac85",
+        "album": {
+          "mbid": "1b3767ba-6008-4c26-8935-46265672207e",
+          "#text": "Heaven & Hell"
+        },
+        "name": "So Am I",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ava+Max/_/So+Am+I"
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1742626761",
           "#text": "22 Mar 2025, 06:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c6aaaea2-7559-4511-a5e2-8335e078e7ff",
-          "#text": "EASY FREAK"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ddeb06d19ef03e225769da9f3653f73.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ddeb06d19ef03e225769da9f3653f73.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ddeb06d19ef03e225769da9f3653f73.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ddeb06d19ef03e225769da9f3653f73.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Everything's Blurred But You"
-        },
-        "name": "Forever On My Mind",
-        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind",
-        "date": {
-          "uts": "1742626541",
-          "#text": "22 Mar 2025, 06:55"
         }
       }
     ],
