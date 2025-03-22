@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355b0e1174e7c72669cf82f2382115e2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355b0e1174e7c72669cf82f2382115e2.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
+        "date": {
+          "uts": "1742637243",
+          "#text": "22 Mar 2025, 09:54"
+        }
+      },
+      {
+        "artist": {
           "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
           "#text": "Jason Mraz"
         },
@@ -31,10 +102,11 @@
           "#text": "Know."
         },
         "name": "Unlonely",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely"
+        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely",
+        "date": {
+          "uts": "1742636986",
+          "#text": "22 Mar 2025, 09:49"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1742636782",
           "#text": "22 Mar 2025, 09:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "henry moodie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          }
-        ],
-        "mbid": "afb0d436-a0f5-4ebe-9a6f-0fbbde9d064f",
-        "album": {
-          "mbid": "",
-          "#text": "drunk text - Single"
-        },
-        "name": "drunk text",
-        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
-        "date": {
-          "uts": "1742636599",
-          "#text": "22 Mar 2025, 09:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Adam Dodson"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98bcb5989088527c9f749e07d02c420d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98bcb5989088527c9f749e07d02c420d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98bcb5989088527c9f749e07d02c420d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98bcb5989088527c9f749e07d02c420d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Where The Light Can't Reach"
-        },
-        "name": "Gifts To Your Future Self",
-        "url": "https://www.last.fm/music/Adam+Dodson/_/Gifts+To+Your+Future+Self",
-        "date": {
-          "uts": "1742636483",
-          "#text": "22 Mar 2025, 09:41"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "136",
       "page": "1",
       "perPage": "50",
-      "total": "6771"
+      "total": "6773"
     }
   }
 }
