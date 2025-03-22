@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c6aaaea2-7559-4511-a5e2-8335e078e7ff",
+          "#text": "EASY FREAK"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Everything's Blurred But You"
+        },
+        "name": "Forever On My Mind",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind"
+      },
+      {
+        "artist": {
+          "mbid": "c6aaaea2-7559-4511-a5e2-8335e078e7ff",
+          "#text": "EASY FREAK"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Everything's Blurred But You"
+        },
+        "name": "Forever On My Mind",
+        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind",
+        "date": {
+          "uts": "1742626541",
+          "#text": "22 Mar 2025, 06:55"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "a5ddb256-b662-4df0-8b39-7cac2f44e462",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "I Like Me Better",
+        "url": "https://www.last.fm/music/Lauv/_/I+Like+Me+Better",
+        "date": {
+          "uts": "1742626339",
+          "#text": "22 Mar 2025, 06:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -36,114 +143,6 @@
           "uts": "1742576267",
           "#text": "21 Mar 2025, 16:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-          "#text": "The Chainsmokers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96ce941e795755d46ce76c092732d7d0.jpg"
-          }
-        ],
-        "mbid": "9843a5ce-2164-4c09-a133-80eeb5430592",
-        "album": {
-          "mbid": "",
-          "#text": "Memories...Do Not Open"
-        },
-        "name": "Paris",
-        "url": "https://www.last.fm/music/The+Chainsmokers/_/Paris",
-        "date": {
-          "uts": "1742576053",
-          "#text": "21 Mar 2025, 16:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "slchld"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Don't Waste Your Time - Single"
-        },
-        "name": "don't waste your time",
-        "url": "https://www.last.fm/music/slchld/_/don%27t+waste+your+time",
-        "date": {
-          "uts": "1742575853",
-          "#text": "21 Mar 2025, 16:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
-          "#text": "Electric Light Orchestra"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png"
-          }
-        ],
-        "mbid": "69695bf1-66df-4311-95ea-fd4915514b94",
-        "album": {
-          "mbid": "36594124-8097-3af9-891a-8a03b154c79b",
-          "#text": "Out of the Blue"
-        },
-        "name": "Mr. Blue Sky",
-        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky",
-        "date": {
-          "uts": "1742575612",
-          "#text": "21 Mar 2025, 16:46"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "135",
       "page": "1",
       "perPage": "50",
-      "total": "6733"
+      "total": "6735"
     }
   }
 }
