@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          }
+        ],
+        "mbid": "3e36c105-9560-4e87-9032-eba985e98cdf",
+        "album": {
+          "mbid": "",
+          "#text": "Because of You - Single"
+        },
+        "name": "Because of You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Because+of+You"
+      },
+      {
+        "artist": {
+          "mbid": "62b914a7-d775-4bb4-bb5e-d46e7df115b5",
+          "#text": "Benson Boone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/294bff7713f4e2152e257db8857857d9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/294bff7713f4e2152e257db8857857d9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/294bff7713f4e2152e257db8857857d9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/294bff7713f4e2152e257db8857857d9.jpg"
+          }
+        ],
+        "mbid": "c6007443-90f1-47bd-bcdb-292b6019dd15",
+        "album": {
+          "mbid": "",
+          "#text": "Ghost Town - Single"
+        },
+        "name": "Ghost Town",
+        "url": "https://www.last.fm/music/Benson+Boone/_/Ghost+Town",
+        "date": {
+          "uts": "1742633403",
+          "#text": "22 Mar 2025, 08:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
+          "#text": "Valley"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
+          }
+        ],
+        "mbid": "533cbf5f-483a-41f0-9d5e-604c1ffbed67",
+        "album": {
+          "mbid": "",
+          "#text": "sucks to see you doing better (extended)"
+        },
+        "name": "homebody",
+        "url": "https://www.last.fm/music/Valley/_/homebody",
+        "date": {
+          "uts": "1742633211",
+          "#text": "22 Mar 2025, 08:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Oasis"
         },
@@ -36,114 +143,6 @@
           "uts": "1742632971",
           "#text": "22 Mar 2025, 08:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-          "#text": "Shawn Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8abdb84770ce5827b1bdfc650a9a4b92.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8abdb84770ce5827b1bdfc650a9a4b92.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8abdb84770ce5827b1bdfc650a9a4b92.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8abdb84770ce5827b1bdfc650a9a4b92.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "45d05477-f7f2-4e39-90a6-7bfac7b74afc",
-          "#text": "Shawn Mendes"
-        },
-        "name": "In My Blood",
-        "url": "https://www.last.fm/music/Shawn+Mendes/_/In+My+Blood",
-        "date": {
-          "uts": "1742632721",
-          "#text": "22 Mar 2025, 08:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
-          }
-        ],
-        "mbid": "3c77f44c-7eeb-471f-9b81-d1fdf47543e4",
-        "album": {
-          "mbid": "",
-          "#text": "Lany (Deluxe)"
-        },
-        "name": "ILYSB",
-        "url": "https://www.last.fm/music/Lany/_/ILYSB",
-        "date": {
-          "uts": "1742632509",
-          "#text": "22 Mar 2025, 08:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "62b914a7-d775-4bb4-bb5e-d46e7df115b5",
-          "#text": "Benson Boone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8aa53560027e56a17fd3197f7eaff1b4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8aa53560027e56a17fd3197f7eaff1b4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8aa53560027e56a17fd3197f7eaff1b4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8aa53560027e56a17fd3197f7eaff1b4.jpg"
-          }
-        ],
-        "mbid": "545aa58c-52e6-459f-87a2-52408f9db691",
-        "album": {
-          "mbid": "",
-          "#text": "Sorry I'm Here For Someone Else - Single"
-        },
-        "name": "Sorry I'm Here For Someone Else",
-        "url": "https://www.last.fm/music/Benson+Boone/_/Sorry+I%27m+Here+For+Someone+Else",
-        "date": {
-          "uts": "1742632325",
-          "#text": "22 Mar 2025, 08:32"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "136",
       "page": "1",
       "perPage": "50",
-      "total": "6752"
+      "total": "6754"
     }
   }
 }
