@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
-          "#text": "Eric Clapton"
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           }
         ],
-        "mbid": "824ed42d-e4c4-48ed-85bc-12e6c80b012e",
+        "mbid": "45c3606c-77b0-4080-99d3-bcce6b98a5bd",
         "album": {
-          "mbid": "205b7b10-fcd6-35fa-86e2-0be09a1d1824",
-          "#text": "Clapton Chronicles: The Best of Eric Clapton"
+          "mbid": "06692eec-be74-439b-9ef6-4468707378a1",
+          "#text": "Know."
         },
-        "name": "Change The World",
+        "name": "Unlonely",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Eric+Clapton/_/Change+The+World"
+        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely"
+      },
+      {
+        "artist": {
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6274d0ae49bdc93a580d256ba332c2.jpg"
+          }
+        ],
+        "mbid": "45c3606c-77b0-4080-99d3-bcce6b98a5bd",
+        "album": {
+          "mbid": "06692eec-be74-439b-9ef6-4468707378a1",
+          "#text": "Know."
+        },
+        "name": "Unlonely",
+        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely",
+        "date": {
+          "uts": "1743176580",
+          "#text": "28 Mar 2025, 15:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+          "#text": "Eric Clapton & Jeff Beck"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4c223e734d18b416e3aa0d0d064ef52.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4c223e734d18b416e3aa0d0d064ef52.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4c223e734d18b416e3aa0d0d064ef52.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4c223e734d18b416e3aa0d0d064ef52.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Moon River - Single"
+        },
+        "name": "Moon River",
+        "url": "https://www.last.fm/music/Eric+Clapton+&+Jeff+Beck/_/Moon+River",
+        "date": {
+          "uts": "1743176306",
+          "#text": "28 Mar 2025, 15:38"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1743176036",
           "#text": "28 Mar 2025, 15:33"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "b45853bd-d49d-411c-b4bf-82a66594f930",
-        "album": {
-          "mbid": "",
-          "#text": "Absence - EP"
-        },
-        "name": "My whole world",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/My+whole+world",
-        "date": {
-          "uts": "1743175814",
-          "#text": "28 Mar 2025, 15:30"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ac486447-f5e9-4c4c-90f2-ef6f0486ff5b",
-        "album": {
-          "mbid": "",
-          "#text": "Absence - EP"
-        },
-        "name": "Doesn't matter",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Doesn%27t+matter",
-        "date": {
-          "uts": "1743175601",
-          "#text": "28 Mar 2025, 15:26"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "137",
       "page": "1",
       "perPage": "50",
-      "total": "6848"
+      "total": "6850"
     }
   }
 }
