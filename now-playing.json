@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+          "#text": "Billy Joel"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/124d18bbd0eb42f8941431733c5e8783.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/124d18bbd0eb42f8941431733c5e8783.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/124d18bbd0eb42f8941431733c5e8783.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/124d18bbd0eb42f8941431733c5e8783.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "038c5ae4-c510-48f4-9729-f89b7c7b2805",
+          "#text": "The Stranger"
+        },
+        "name": "Just the Way You Are",
+        "url": "https://www.last.fm/music/Billy+Joel/_/Just+the+Way+You+Are",
+        "date": {
+          "uts": "1743839683",
+          "#text": "05 Apr 2025, 07:54"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c6aaaea2-7559-4511-a5e2-8335e078e7ff",
           "#text": "EASY FREAK"
         },
@@ -31,10 +67,11 @@
           "#text": "Everything's Blurred But You"
         },
         "name": "Forever On My Mind",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind"
+        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind",
+        "date": {
+          "uts": "1743839435",
+          "#text": "05 Apr 2025, 07:50"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1743838976",
           "#text": "05 Apr 2025, 07:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Chris Brown"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "11:11 (Deluxe)"
-        },
-        "name": "Residuals",
-        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
-        "date": {
-          "uts": "1743838740",
-          "#text": "05 Apr 2025, 07:39"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "138",
       "page": "1",
       "perPage": "50",
-      "total": "6859"
+      "total": "6861"
     }
   }
 }
