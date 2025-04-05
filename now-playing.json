@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
+          "#text": "M83"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          }
+        ],
+        "mbid": "addac6d6-93d9-4f46-9f36-5bb2496d0189",
+        "album": {
+          "mbid": "0b87ebcf-216b-4255-9c19-93c12861f173",
+          "#text": "Hurry Up, We're Dreaming"
+        },
+        "name": "Midnight City",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/M83/_/Midnight+City"
+      },
+      {
+        "artist": {
+          "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
+          "#text": "M83"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac762ba62d90a75113b5bd4c5dd1f6d1.jpg"
+          }
+        ],
+        "mbid": "addac6d6-93d9-4f46-9f36-5bb2496d0189",
+        "album": {
+          "mbid": "0b87ebcf-216b-4255-9c19-93c12861f173",
+          "#text": "Hurry Up, We're Dreaming"
+        },
+        "name": "Midnight City",
+        "url": "https://www.last.fm/music/M83/_/Midnight+City",
+        "date": {
+          "uts": "1743838976",
+          "#text": "05 Apr 2025, 07:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chris Brown"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "11:11 (Deluxe)"
+        },
+        "name": "Residuals",
+        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
+        "date": {
+          "uts": "1743838740",
+          "#text": "05 Apr 2025, 07:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -36,114 +143,6 @@
           "uts": "1743177794",
           "#text": "28 Mar 2025, 16:03"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
-          }
-        ],
-        "mbid": "b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35",
-        "album": {
-          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
-          "#text": "\u00f7 (Deluxe)"
-        },
-        "name": "Perfect",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Perfect",
-        "date": {
-          "uts": "1743177521",
-          "#text": "28 Mar 2025, 15:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/699743dd4e887c5afb0c07bd9b7c5da5.jpg"
-          }
-        ],
-        "mbid": "980db4d9-4acc-4523-bb98-921049b94667",
-        "album": {
-          "mbid": "6ce97aea-cd5e-4c36-a89a-79a2f5b0122d",
-          "#text": "APARTMENT"
-        },
-        "name": "Home Sweet Home",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Home+Sweet+Home",
-        "date": {
-          "uts": "1743177287",
-          "#text": "28 Mar 2025, 15:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Closely Far Away - Single"
-        },
-        "name": "Closely Far Away",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away",
-        "date": {
-          "uts": "1743177086",
-          "#text": "28 Mar 2025, 15:51"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "138",
       "page": "1",
       "perPage": "50",
-      "total": "6856"
+      "total": "6858"
     }
   }
 }
