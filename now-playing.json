@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
+          "#text": "Elijah Woods"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f302569c6006c3eafcdc69e0633a635.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f302569c6006c3eafcdc69e0633a635.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f302569c6006c3eafcdc69e0633a635.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f302569c6006c3eafcdc69e0633a635.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Hey There Elijah - EP"
+        },
+        "name": "Sunlight!",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Elijah+Woods/_/Sunlight!"
+      },
+      {
+        "artist": {
           "mbid": "230c3473-2216-499f-bcca-7af7f0f01179",
           "#text": "Christopher"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1743839435",
           "#text": "05 Apr 2025, 07:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Traveller, No.401 - Single"
-        },
-        "name": "Get To You",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Get+To+You",
-        "date": {
-          "uts": "1743839206",
-          "#text": "05 Apr 2025, 07:46"
         }
       }
     ],
