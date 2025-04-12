@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Jesse Barrera, Johnny Stimson & Jeff Bernat"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Casual - Single"
+        },
+        "name": "Casual",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Jesse+Barrera,+Johnny+Stimson+&+Jeff+Bernat/_/Casual"
+      },
+      {
+        "artist": {
+          "mbid": "ba5020b7-5069-47cb-a706-cbb42ed74d3e",
+          "#text": "LambC"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/960540a39efdb4fb1753eb76ce12c80c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/960540a39efdb4fb1753eb76ce12c80c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/960540a39efdb4fb1753eb76ce12c80c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/960540a39efdb4fb1753eb76ce12c80c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I'll see you when I see you"
+        },
+        "name": "Fortune Teller (feat. Stella Jang)",
+        "url": "https://www.last.fm/music/LambC/_/Fortune+Teller+(feat.+Stella+Jang)",
+        "date": {
+          "uts": "1744443161",
+          "#text": "12 Apr 2025, 07:32"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "5ee78ffd-d4e5-4f71-bf04-12b30a9a469b",
+          "#text": "Dept"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "A Promise of April - Single"
+        },
+        "name": "Cherry blossom (feat. Sonny Zero & Ashley Alisha)",
+        "url": "https://www.last.fm/music/Dept/_/Cherry+blossom+(feat.+Sonny+Zero+&+Ashley+Alisha)",
+        "date": {
+          "uts": "1744442969",
+          "#text": "12 Apr 2025, 07:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "slchld"
         },
         "streamable": "0",
@@ -31,117 +138,10 @@
           "#text": "Modern Breakups - Single"
         },
         "name": "maybe we need a break",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/slchld/_/maybe+we+need+a+break"
-      },
-      {
-        "artist": {
-          "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
-          "#text": "SZA"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dcae165f522e0d818f7e75a3b5b6e16.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dcae165f522e0d818f7e75a3b5b6e16.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dcae165f522e0d818f7e75a3b5b6e16.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dcae165f522e0d818f7e75a3b5b6e16.jpg"
-          }
-        ],
-        "mbid": "2d4c72dd-4fcb-4f69-b339-41846aa23a39",
-        "album": {
-          "mbid": "20bfc869-e36d-481f-ac9b-37f586001b9d",
-          "#text": "Ctrl"
-        },
-        "name": "Broken Clocks",
-        "url": "https://www.last.fm/music/SZA/_/Broken+Clocks",
+        "url": "https://www.last.fm/music/slchld/_/maybe+we+need+a+break",
         "date": {
-          "uts": "1744442560",
-          "#text": "12 Apr 2025, 07:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "brb."
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d74c974f098683167a55aa3c794364a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d74c974f098683167a55aa3c794364a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d74c974f098683167a55aa3c794364a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d74c974f098683167a55aa3c794364a.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Talking To Myself - Single"
-        },
-        "name": "Talking To Myself",
-        "url": "https://www.last.fm/music/brb./_/Talking+To+Myself",
-        "date": {
-          "uts": "1744442343",
-          "#text": "12 Apr 2025, 07:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Dane Amar"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Westside Winter - EP"
-        },
-        "name": "Early Mornin' (feat. Amory Reel)",
-        "url": "https://www.last.fm/music/Dane+Amar/_/Early+Mornin%27+(feat.+Amory+Reel)",
-        "date": {
-          "uts": "1744442133",
-          "#text": "12 Apr 2025, 07:15"
+          "uts": "1744442767",
+          "#text": "12 Apr 2025, 07:26"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "138",
       "page": "1",
       "perPage": "50",
-      "total": "6889"
+      "total": "6892"
     }
   }
 }
