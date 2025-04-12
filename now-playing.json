@@ -3,79 +3,8 @@
     "track": [
       {
         "artist": {
-          "mbid": "aace796b-0569-49b6-a144-64ea24031962",
-          "#text": "pH-1"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c5cf3aed7dace48ce1395d3fb62be5b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c5cf3aed7dace48ce1395d3fb62be5b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c5cf3aed7dace48ce1395d3fb62be5b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c5cf3aed7dace48ce1395d3fb62be5b.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
           "mbid": "",
-          "#text": "BUT FOR NOW LEAVE ME ALONE"
-        },
-        "name": "JULIETTE! (Feat. UMI)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/pH-1/_/JULIETTE!+(Feat.+UMI)"
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/07c874d6dd55075bf5ea1ea5d1b5c53d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/07c874d6dd55075bf5ea1ea5d1b5c53d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/07c874d6dd55075bf5ea1ea5d1b5c53d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07c874d6dd55075bf5ea1ea5d1b5c53d.jpg"
-          }
-        ],
-        "mbid": "5a227d36-7837-4f4f-90fe-97038508f018",
-        "album": {
-          "mbid": "",
-          "#text": "I Should've Told You - Single"
-        },
-        "name": "I Should've Told You",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/I+Should%27ve+Told+You",
-        "date": {
-          "uts": "1744445643",
-          "#text": "12 Apr 2025, 08:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e527e6a8-4b5a-491c-8709-123f92fdc0e5",
-          "#text": "Johnny Stimson"
+          "#text": "Jesse Barrera"
         },
         "streamable": "0",
         "image": [
@@ -96,52 +25,123 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "64edb152-8d4a-42f7-85db-82a76f4b7582",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Rocket - Single"
+          "#text": "Money - Single"
         },
-        "name": "Rocket",
-        "url": "https://www.last.fm/music/Johnny+Stimson/_/Rocket",
-        "date": {
-          "uts": "1744445434",
-          "#text": "12 Apr 2025, 08:10"
-        }
+        "name": "Money",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Jesse+Barrera/_/Money"
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "Jimmy Brown & Jword"
+          "#text": "Albert Posis"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c94d1aa4ba877db1e636202de5f4d3d7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c94d1aa4ba877db1e636202de5f4d3d7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c94d1aa4ba877db1e636202de5f4d3d7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c94d1aa4ba877db1e636202de5f4d3d7.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Ch\u00e9rie - EP"
+          "#text": "Everlasting - Single"
         },
-        "name": "24hrs",
-        "url": "https://www.last.fm/music/Jimmy+Brown+&+Jword/_/24hrs",
+        "name": "Everlasting",
+        "url": "https://www.last.fm/music/Albert+Posis/_/Everlasting",
         "date": {
-          "uts": "1744445247",
-          "#text": "12 Apr 2025, 08:07"
+          "uts": "1744446767",
+          "#text": "12 Apr 2025, 08:32"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
+          "#text": "keshi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/caaec3a78e1e638a2efe6c97e733a8dd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/caaec3a78e1e638a2efe6c97e733a8dd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/caaec3a78e1e638a2efe6c97e733a8dd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caaec3a78e1e638a2efe6c97e733a8dd.jpg"
+          }
+        ],
+        "mbid": "18baaa42-6f1a-4582-b8a5-7ecb34f23fff",
+        "album": {
+          "mbid": "",
+          "#text": "beside you - Single"
+        },
+        "name": "beside you",
+        "url": "https://www.last.fm/music/keshi/_/beside+you",
+        "date": {
+          "uts": "1744446570",
+          "#text": "12 Apr 2025, 08:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ba5020b7-5069-47cb-a706-cbb42ed74d3e",
+          "#text": "LambC"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Home (Closer) - Single"
+        },
+        "name": "Home (Closer)",
+        "url": "https://www.last.fm/music/LambC/_/Home+(Closer)",
+        "date": {
+          "uts": "1744446402",
+          "#text": "12 Apr 2025, 08:26"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6905"
+      "total": "6911"
     }
   }
 }
