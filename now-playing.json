@@ -31,41 +31,6 @@
           "#text": "fleur - EP"
         },
         "name": "saint",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/brb./_/saint"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "brb."
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "fleur - EP"
-        },
-        "name": "saint",
         "url": "https://www.last.fm/music/brb./_/saint",
         "date": {
           "uts": "1744448010",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1744447613",
           "#text": "12 Apr 2025, 08:46"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+          "#text": "SZA"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80f922302652266472c5b8bced5123bb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80f922302652266472c5b8bced5123bb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80f922302652266472c5b8bced5123bb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80f922302652266472c5b8bced5123bb.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "4fe782ec-2737-46bf-8744-f089891a8bf3",
+          "#text": "SOS Deluxe: LANA"
+        },
+        "name": "30 For 30 (with Kendrick Lamar)",
+        "url": "https://www.last.fm/music/SZA/_/30+For+30+(with+Kendrick+Lamar)",
+        "date": {
+          "uts": "1744447379",
+          "#text": "12 Apr 2025, 08:42"
         }
       }
     ],
