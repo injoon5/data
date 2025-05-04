@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95055680e92b2719bc899c6bd0ed191c.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "",
+          "#text": "x (10th Anniversary Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
+        "date": {
+          "uts": "1746331582",
+          "#text": "04 May 2025, 04:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c12d4d879ed7a21f21f4448db0e4ed.jpg"
+          }
+        ],
+        "mbid": "2df03232-d68c-4aa1-9b87-a3fa0a35bd2a",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "Satellite",
+        "url": "https://www.last.fm/music/Harry+Styles/_/Satellite",
+        "date": {
+          "uts": "1746331332",
+          "#text": "04 May 2025, 04:02"
+        }
+      },
+      {
+        "artist": {
           "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
           "#text": "10cm"
         },
@@ -31,10 +103,11 @@
           "#text": "5.3 (Gradation) - Single"
         },
         "name": "Gradation",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/10cm/_/Gradation"
+        "url": "https://www.last.fm/music/10cm/_/Gradation",
+        "date": {
+          "uts": "1746331122",
+          "#text": "04 May 2025, 03:58"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1746330901",
           "#text": "04 May 2025, 03:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "29542149-a818-4167-aa91-439adc9d61f5",
-          "#text": "Glee Cast"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d7130c3292947408fd50e32ea98b0be.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d7130c3292947408fd50e32ea98b0be.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d7130c3292947408fd50e32ea98b0be.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d7130c3292947408fd50e32ea98b0be.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Glee: The Music, Season 4, Vol. 1"
-        },
-        "name": "Everybody Talks (Glee Cast Version)",
-        "url": "https://www.last.fm/music/Glee+Cast/_/Everybody+Talks+(Glee+Cast+Version)",
-        "date": {
-          "uts": "1746255641",
-          "#text": "03 May 2025, 07:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "brb."
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9e06b17f2d9ab3f0c9d7b777a33273f.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "fleur - EP"
-        },
-        "name": "saint",
-        "url": "https://www.last.fm/music/brb./_/saint",
-        "date": {
-          "uts": "1744448010",
-          "#text": "12 Apr 2025, 08:53"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6919"
+      "total": "6922"
     }
   }
 }
