@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95055680e92b2719bc899c6bd0ed191c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95055680e92b2719bc899c6bd0ed191c.jpg"
+          }
+        ],
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
+        "album": {
+          "mbid": "",
+          "#text": "x (10th Anniversary Edition)"
+        },
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
+        "date": {
+          "uts": "1747407160",
+          "#text": "16 May 2025, 14:52"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
           "#text": "Keane"
         },
@@ -31,10 +67,11 @@
           "#text": "Hopes and Fears"
         },
         "name": "Everybody's Changing",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Keane/_/Everybody%27s+Changing"
+        "url": "https://www.last.fm/music/Keane/_/Everybody%27s+Changing",
+        "date": {
+          "uts": "1747406880",
+          "#text": "16 May 2025, 14:48"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1747405647",
           "#text": "16 May 2025, 14:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
-          "#text": "10cm"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f641f0e92f08664400fa82df8919195b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "5.3 (Gradation) - Single"
-        },
-        "name": "Gradation",
-        "url": "https://www.last.fm/music/10cm/_/Gradation",
-        "date": {
-          "uts": "1747405467",
-          "#text": "16 May 2025, 14:24"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6938"
+      "total": "6940"
     }
   }
 }
