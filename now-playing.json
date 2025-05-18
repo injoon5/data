@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+          "#text": "Ellie Goulding"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc90d347989211b7bf53497cdfd36808.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc90d347989211b7bf53497cdfd36808.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc90d347989211b7bf53497cdfd36808.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc90d347989211b7bf53497cdfd36808.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "070ff8b7-a7b7-49e3-946f-00e8f7b6ce98",
+          "#text": "Brightest Blue"
+        },
+        "name": "Slow Grenade (feat. Lauv)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Slow+Grenade+(feat.+Lauv)"
+      },
+      {
+        "artist": {
+          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+          "#text": "Ava Max"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c32672a6caea0294ed35862ea2a437c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c32672a6caea0294ed35862ea2a437c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c32672a6caea0294ed35862ea2a437c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c32672a6caea0294ed35862ea2a437c9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie) - Single"
+        },
+        "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
+        "url": "https://www.last.fm/music/Ava+Max/_/Kings+&+Queens,+Pt.+2+(feat.+Lauv+&+Saweetie)",
+        "date": {
+          "uts": "1747544200",
+          "#text": "18 May 2025, 04:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63a2568d5e7de4d07474fec65fa82e8f.jpg"
+          }
+        ],
+        "mbid": "3cbde18a-b49c-4de3-9cf8-76a58245d7ef",
+        "album": {
+          "mbid": "",
+          "#text": "Without You - EP"
+        },
+        "name": "Love Somebody",
+        "url": "https://www.last.fm/music/Lauv/_/Love+Somebody",
+        "date": {
+          "uts": "1747544038",
+          "#text": "18 May 2025, 04:53"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -31,117 +138,10 @@
           "#text": "All 4 Nothing"
         },
         "name": "All 4 Nothing (I'm So In Love)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)"
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "Stranger",
-        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
         "date": {
-          "uts": "1747543701",
-          "#text": "18 May 2025, 04:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "77191d5f-1045-4b3b-ad7f-12ea398db929",
-          "#text": "DAY6"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d48dfec078a94fca3ec75afb6692f782.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d48dfec078a94fca3ec75afb6692f782.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d48dfec078a94fca3ec75afb6692f782.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d48dfec078a94fca3ec75afb6692f782.jpg"
-          }
-        ],
-        "mbid": "a42d8ac5-e28c-4731-8fb8-771259e60e52",
-        "album": {
-          "mbid": "",
-          "#text": "Maybe Tomorrow - Single"
-        },
-        "name": "Maybe Tomorrow",
-        "url": "https://www.last.fm/music/DAY6/_/Maybe+Tomorrow",
-        "date": {
-          "uts": "1747543164",
-          "#text": "18 May 2025, 04:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
-          }
-        ],
-        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
-        "album": {
-          "mbid": "",
-          "#text": "Waves - Single"
-        },
-        "name": "Waves",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
-        "date": {
-          "uts": "1747407369",
-          "#text": "16 May 2025, 14:56"
+          "uts": "1747543876",
+          "#text": "18 May 2025, 04:51"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6943"
+      "total": "6946"
     }
   }
 }
