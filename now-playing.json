@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
+          }
+        ],
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
+        "album": {
+          "mbid": "",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1747544575",
+          "#text": "18 May 2025, 05:02"
+        }
+      },
+      {
+        "artist": {
           "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
           "#text": "Ellie Goulding"
         },
@@ -31,10 +67,11 @@
           "#text": "Brightest Blue"
         },
         "name": "Slow Grenade (feat. Lauv)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Ellie+Goulding/_/Slow+Grenade+(feat.+Lauv)"
+        "url": "https://www.last.fm/music/Ellie+Goulding/_/Slow+Grenade+(feat.+Lauv)",
+        "date": {
+          "uts": "1747544350",
+          "#text": "18 May 2025, 04:59"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1747544038",
           "#text": "18 May 2025, 04:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
-          }
-        ],
-        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
-        "album": {
-          "mbid": "",
-          "#text": "All 4 Nothing"
-        },
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)",
-        "date": {
-          "uts": "1747543876",
-          "#text": "18 May 2025, 04:51"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6946"
+      "total": "6948"
     }
   }
 }
