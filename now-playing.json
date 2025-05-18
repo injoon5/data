@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "All 4 Nothing (I'm So In Love)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "All 4 Nothing"
+        },
+        "name": "Stranger",
+        "url": "https://www.last.fm/music/Lauv/_/Stranger",
+        "date": {
+          "uts": "1747543701",
+          "#text": "18 May 2025, 04:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "77191d5f-1045-4b3b-ad7f-12ea398db929",
+          "#text": "DAY6"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d48dfec078a94fca3ec75afb6692f782.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d48dfec078a94fca3ec75afb6692f782.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d48dfec078a94fca3ec75afb6692f782.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d48dfec078a94fca3ec75afb6692f782.jpg"
+          }
+        ],
+        "mbid": "a42d8ac5-e28c-4731-8fb8-771259e60e52",
+        "album": {
+          "mbid": "",
+          "#text": "Maybe Tomorrow - Single"
+        },
+        "name": "Maybe Tomorrow",
+        "url": "https://www.last.fm/music/DAY6/_/Maybe+Tomorrow",
+        "date": {
+          "uts": "1747543164",
+          "#text": "18 May 2025, 04:39"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
           "#text": "Fiji Blue"
         },
@@ -36,114 +143,6 @@
           "uts": "1747407369",
           "#text": "16 May 2025, 14:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95055680e92b2719bc899c6bd0ed191c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95055680e92b2719bc899c6bd0ed191c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95055680e92b2719bc899c6bd0ed191c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95055680e92b2719bc899c6bd0ed191c.jpg"
-          }
-        ],
-        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
-        "album": {
-          "mbid": "",
-          "#text": "x (10th Anniversary Edition)"
-        },
-        "name": "Thinking Out Loud",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
-        "date": {
-          "uts": "1747407160",
-          "#text": "16 May 2025, 14:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
-          "#text": "Keane"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4d48c7e6c74d5c4bb30ea087712bedd.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "00cc55b5-ad1e-31a2-86e1-bef39e86005e",
-          "#text": "Hopes and Fears"
-        },
-        "name": "Everybody's Changing",
-        "url": "https://www.last.fm/music/Keane/_/Everybody%27s+Changing",
-        "date": {
-          "uts": "1747406880",
-          "#text": "16 May 2025, 14:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-          "#text": "Billie Eilish"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6db576307ee7bdd81056432542b6bab7.jpg"
-          }
-        ],
-        "mbid": "3a7e1970-069c-4761-a6b2-9046e54406bc",
-        "album": {
-          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
-          "#text": "HIT ME HARD AND SOFT"
-        },
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
-        "date": {
-          "uts": "1747406667",
-          "#text": "16 May 2025, 14:44"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "139",
       "page": "1",
       "perPage": "50",
-      "total": "6941"
+      "total": "6943"
     }
   }
 }
