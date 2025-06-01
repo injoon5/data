@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "e3d5b5ec-101a-4529-9f2d-01dca64cf44e",
+          "#text": "Anne-Marie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          }
+        ],
+        "mbid": "88937fb1-bc66-4840-a6b6-b3e89f637368",
+        "album": {
+          "mbid": "",
+          "#text": "Speak Your Mind (Deluxe)"
+        },
+        "name": "2002",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Anne-Marie/_/2002"
+      },
+      {
+        "artist": {
+          "mbid": "e3d5b5ec-101a-4529-9f2d-01dca64cf44e",
+          "#text": "Anne-Marie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c78fe1f153baf46000868e8e69f8b33c.jpg"
+          }
+        ],
+        "mbid": "88937fb1-bc66-4840-a6b6-b3e89f637368",
+        "album": {
+          "mbid": "",
+          "#text": "Speak Your Mind (Deluxe)"
+        },
+        "name": "2002",
+        "url": "https://www.last.fm/music/Anne-Marie/_/2002",
+        "date": {
+          "uts": "1748787399",
+          "#text": "01 Jun 2025, 14:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "Yellow",
+        "url": "https://www.last.fm/music/Coldplay/_/Yellow",
+        "date": {
+          "uts": "1748787078",
+          "#text": "01 Jun 2025, 14:11"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -10,148 +117,40 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
           }
         ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1748786157",
-          "#text": "01 Jun 2025, 13:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          }
-        ],
-        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
+        "mbid": "568610ce-91a3-42bd-b1ef-74c0e0e3f15d",
         "album": {
           "mbid": "",
-          "#text": "~how i'm feeling~"
+          "#text": "A Beautiful Blur (Deluxe)"
         },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "name": "Alonica",
+        "url": "https://www.last.fm/music/Lany/_/Alonica",
         "date": {
-          "uts": "1747544575",
-          "#text": "18 May 2025, 05:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
-          "#text": "Ellie Goulding"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc90d347989211b7bf53497cdfd36808.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc90d347989211b7bf53497cdfd36808.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc90d347989211b7bf53497cdfd36808.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc90d347989211b7bf53497cdfd36808.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "070ff8b7-a7b7-49e3-946f-00e8f7b6ce98",
-          "#text": "Brightest Blue"
-        },
-        "name": "Slow Grenade (feat. Lauv)",
-        "url": "https://www.last.fm/music/Ellie+Goulding/_/Slow+Grenade+(feat.+Lauv)",
-        "date": {
-          "uts": "1747544350",
-          "#text": "18 May 2025, 04:59"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
-          "#text": "Ava Max"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c32672a6caea0294ed35862ea2a437c9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c32672a6caea0294ed35862ea2a437c9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c32672a6caea0294ed35862ea2a437c9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c32672a6caea0294ed35862ea2a437c9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie) - Single"
-        },
-        "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
-        "url": "https://www.last.fm/music/Ava+Max/_/Kings+&+Queens,+Pt.+2+(feat.+Lauv+&+Saweetie)",
-        "date": {
-          "uts": "1747544200",
-          "#text": "18 May 2025, 04:56"
+          "uts": "1748786755",
+          "#text": "01 Jun 2025, 14:05"
         }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "139",
+      "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6949"
+      "total": "6953"
     }
   }
 }
