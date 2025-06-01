@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4948e503f55ae3aadff37b74d630154b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4948e503f55ae3aadff37b74d630154b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4948e503f55ae3aadff37b74d630154b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4948e503f55ae3aadff37b74d630154b.jpg"
+          }
+        ],
+        "mbid": "600f0a57-73b7-4e80-9111-4ea746421fd6",
+        "album": {
+          "mbid": "",
+          "#text": "Superhero - Single"
+        },
+        "name": "Superhero",
+        "url": "https://www.last.fm/music/Lauv/_/Superhero",
+        "date": {
+          "uts": "1748789827",
+          "#text": "01 Jun 2025, 14:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -31,10 +67,11 @@
           "#text": "Hurry Up Tomorrow"
         },
         "name": "Give Me Mercy",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Weeknd/_/Give+Me+Mercy"
+        "url": "https://www.last.fm/music/The+Weeknd/_/Give+Me+Mercy",
+        "date": {
+          "uts": "1748789611",
+          "#text": "01 Jun 2025, 14:53"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1748789186",
           "#text": "01 Jun 2025, 14:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
-          "#text": "Elijah Woods"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "bright orange everglow (sunset sessions)"
-        },
-        "name": "24/7, 365 (sunset session)",
-        "url": "https://www.last.fm/music/Elijah+Woods/_/24%2F7,+365+(sunset+session)",
-        "date": {
-          "uts": "1748788983",
-          "#text": "01 Jun 2025, 14:43"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6956"
+      "total": "6958"
     }
   }
 }
