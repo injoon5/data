@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "08833721-f5cf-457a-adc2-15be95a017be",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "I Don't Wanna Love You Anymore",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Thick And Thin",
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
+        "date": {
+          "uts": "1748874137",
+          "#text": "02 Jun 2025, 14:22"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
           "#text": "Lauv"
         },
@@ -72,78 +143,6 @@
           "uts": "1748789611",
           "#text": "01 Jun 2025, 14:53"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "henry moodie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ca2d6c58db2aadb5676f9e5d41fd58d.jpg"
-          }
-        ],
-        "mbid": "afb0d436-a0f5-4ebe-9a6f-0fbbde9d064f",
-        "album": {
-          "mbid": "",
-          "#text": "drunk text - Single"
-        },
-        "name": "drunk text",
-        "url": "https://www.last.fm/music/henry+moodie/_/drunk+text",
-        "date": {
-          "uts": "1748789408",
-          "#text": "01 Jun 2025, 14:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "yung kai"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/814efccfd25f79c4eb8c42b8934a0c3d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/814efccfd25f79c4eb8c42b8934a0c3d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/814efccfd25f79c4eb8c42b8934a0c3d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/814efccfd25f79c4eb8c42b8934a0c3d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "blue - Single"
-        },
-        "name": "blue",
-        "url": "https://www.last.fm/music/yung+kai/_/blue",
-        "date": {
-          "uts": "1748789186",
-          "#text": "01 Jun 2025, 14:46"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6958"
+      "total": "6959"
     }
   }
 }
