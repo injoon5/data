@@ -25,16 +25,53 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
           }
         ],
+        "mbid": "65d6441a-5c2d-4f97-98fd-7687ad1ed10b",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Let Me Know",
+        "url": "https://www.last.fm/music/Lany/_/Let+Me+Know",
+        "date": {
+          "uts": "1748874587",
+          "#text": "02 Jun 2025, 14:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
         "mbid": "08833721-f5cf-457a-adc2-15be95a017be",
         "album": {
           "mbid": "",
           "#text": "Malibu Nights"
         },
         "name": "I Don't Wanna Love You Anymore",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore"
+        "url": "https://www.last.fm/music/Lany/_/I+Don%27t+Wanna+Love+You+Anymore",
+        "date": {
+          "uts": "1748874343",
+          "#text": "02 Jun 2025, 14:25"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1748789827",
           "#text": "01 Jun 2025, 14:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "db293b2c-16d8-4b4b-a755-e4db3a7db22d",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Give Me Mercy",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Give+Me+Mercy",
-        "date": {
-          "uts": "1748789611",
-          "#text": "01 Jun 2025, 14:53"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6959"
+      "total": "6961"
     }
   }
 }
