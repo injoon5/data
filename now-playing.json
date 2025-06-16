@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
+          }
+        ],
+        "mbid": "082630d2-615a-4e68-aab6-23488b9055a7",
+        "album": {
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
+        },
+        "name": "I Don\u2019t Think That I Like Her",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "You Won't Be There For Me - Single"
+        },
+        "name": "you won't be there for me",
+        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
+        "date": {
+          "uts": "1750085316",
+          "#text": "16 Jun 2025, 14:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
+          "#text": "Keane"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "00cc55b5-ad1e-31a2-86e1-bef39e86005e",
+          "#text": "Hopes and Fears"
+        },
+        "name": "Somewhere Only We Know",
+        "url": "https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know",
+        "date": {
+          "uts": "1750085107",
+          "#text": "16 Jun 2025, 14:45"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -36,114 +143,6 @@
           "uts": "1749818699",
           "#text": "13 Jun 2025, 12:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
-          }
-        ],
-        "mbid": "6ca60ba7-b643-467b-b8da-d71699b88b54",
-        "album": {
-          "mbid": "",
-          "#text": "Reasons You Should Care - EP"
-        },
-        "name": "Outside",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/Outside",
-        "date": {
-          "uts": "1749818503",
-          "#text": "13 Jun 2025, 12:41"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lady Gaga & Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a57e0d24346039cab5ff184786ff122d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a57e0d24346039cab5ff184786ff122d.jpg"
-          }
-        ],
-        "mbid": "098ed81a-fa33-4212-ac6d-2cc19dde5fef",
-        "album": {
-          "mbid": "",
-          "#text": "Die with a Smile - Single"
-        },
-        "name": "Die with a Smile",
-        "url": "https://www.last.fm/music/Lady+Gaga+&+Bruno+Mars/_/Die+with+a+Smile",
-        "date": {
-          "uts": "1749818256",
-          "#text": "13 Jun 2025, 12:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/08e3f15aca0423b084fb49f342756f3b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/08e3f15aca0423b084fb49f342756f3b.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "08791ceb-9f2a-4f48-9fb7-9eab2df6fc6e",
-          "#text": "Starboy"
-        },
-        "name": "I Feel It Coming (feat. Daft Punk)",
-        "url": "https://www.last.fm/music/The+Weeknd/_/I+Feel+It+Coming+(feat.+Daft+Punk)",
-        "date": {
-          "uts": "1749817993",
-          "#text": "13 Jun 2025, 12:33"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6977"
+      "total": "6979"
     }
   }
 }
