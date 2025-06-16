@@ -31,10 +31,11 @@
           "#text": "CHARLIE"
         },
         "name": "I Don\u2019t Think That I Like Her",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her"
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her",
+        "date": {
+          "uts": "1750085502",
+          "#text": "16 Jun 2025, 14:51"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6979"
+      "total": "6980"
     }
   }
 }
