@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
+          "#text": "Elijah Woods"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "bright orange everglow (sunset sessions)"
+        },
+        "name": "24/7, 365 (sunset session)",
+        "url": "https://www.last.fm/music/Elijah+Woods/_/24%2F7,+365+(sunset+session)",
+        "date": {
+          "uts": "1750168804",
+          "#text": "17 Jun 2025, 14:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
           "#text": "Charlie Puth"
         },
@@ -108,42 +144,6 @@
           "uts": "1750085107",
           "#text": "16 Jun 2025, 14:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/706f247829fbe0ee14febb195c6200c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg"
-          }
-        ],
-        "mbid": "db293b2c-16d8-4b4b-a755-e4db3a7db22d",
-        "album": {
-          "mbid": "",
-          "#text": "Hurry Up Tomorrow"
-        },
-        "name": "Give Me Mercy",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Give+Me+Mercy",
-        "date": {
-          "uts": "1749818699",
-          "#text": "13 Jun 2025, 12:44"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "140",
       "page": "1",
       "perPage": "50",
-      "total": "6980"
+      "total": "6981"
     }
   }
 }
