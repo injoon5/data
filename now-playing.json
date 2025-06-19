@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
+          }
+        ],
+        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+        "album": {
+          "mbid": "",
+          "#text": "Angel Baby - Single"
+        },
+        "name": "Angel Baby",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+        "date": {
+          "uts": "1750352198",
+          "#text": "19 Jun 2025, 16:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
+          "#text": "AJ Mitchell"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
+          }
+        ],
+        "mbid": "ab96b15d-72d9-4cf7-b41d-c0df9084fea8",
+        "album": {
+          "mbid": "",
+          "#text": "Like Strangers Do - Single"
+        },
+        "name": "Like Strangers Do",
+        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
+        "date": {
+          "uts": "1750352007",
+          "#text": "19 Jun 2025, 16:53"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +103,11 @@
           "#text": "mama's boy (deluxe)"
         },
         "name": "good guys",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/good+guys"
+        "url": "https://www.last.fm/music/Lany/_/good+guys",
+        "date": {
+          "uts": "1750351814",
+          "#text": "19 Jun 2025, 16:50"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1750351631",
           "#text": "19 Jun 2025, 16:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
-          "#text": "10cm"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2929f23f68b826fbff3b3d500b007aaa.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2929f23f68b826fbff3b3d500b007aaa.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2929f23f68b826fbff3b3d500b007aaa.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2929f23f68b826fbff3b3d500b007aaa.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Our Beloved Summer (Original Television Soundtrack), Pt. 1 - Single"
-        },
-        "name": "Drawer",
-        "url": "https://www.last.fm/music/10cm/_/Drawer",
-        "date": {
-          "uts": "1750351432",
-          "#text": "19 Jun 2025, 16:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-          "#text": "The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c075c11f1dc79dfa151ac95bfda97e12.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c075c11f1dc79dfa151ac95bfda97e12.jpg"
-          }
-        ],
-        "mbid": "09550008-4d49-457a-ac01-58a9742a21df",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing In The Flames - Single"
-        },
-        "name": "Dancing in the Flames",
-        "url": "https://www.last.fm/music/The+Weeknd/_/Dancing+in+the+Flames",
-        "date": {
-          "uts": "1750349924",
-          "#text": "19 Jun 2025, 16:18"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "141",
       "page": "1",
       "perPage": "50",
-      "total": "7002"
+      "total": "7005"
     }
   }
 }
