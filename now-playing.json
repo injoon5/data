@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+          "#text": "Green Day"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg"
+          }
+        ],
+        "mbid": "1a1606a1-15d0-4393-a797-ce2cd5ef373f",
+        "album": {
+          "mbid": "113801de-cddc-40c5-99b7-766476e11e0d",
+          "#text": "21st Century Breakdown"
+        },
+        "name": "Last Night on Earth",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth"
+      },
+      {
+        "artist": {
+          "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+          "#text": "Green Day"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg"
+          }
+        ],
+        "mbid": "1a1606a1-15d0-4393-a797-ce2cd5ef373f",
+        "album": {
+          "mbid": "113801de-cddc-40c5-99b7-766476e11e0d",
+          "#text": "21st Century Breakdown"
+        },
+        "name": "Last Night on Earth",
+        "url": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
+        "date": {
+          "uts": "1750938730",
+          "#text": "26 Jun 2025, 11:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+          "#text": "sombr"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04fdc0f9bc7fa62ebae2bfb4c07b0548.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04fdc0f9bc7fa62ebae2bfb4c07b0548.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04fdc0f9bc7fa62ebae2bfb4c07b0548.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04fdc0f9bc7fa62ebae2bfb4c07b0548.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "back to friends - Single"
+        },
+        "name": "back to friends",
+        "url": "https://www.last.fm/music/sombr/_/back+to+friends",
+        "date": {
+          "uts": "1750938482",
+          "#text": "26 Jun 2025, 11:48"
+        }
+      },
+      {
+        "artist": {
           "mbid": "dcafccb5-3741-485f-85d4-6d249f443ffa",
           "#text": "Tom Grennan"
         },
@@ -36,114 +143,6 @@
           "uts": "1750483437",
           "#text": "21 Jun 2025, 05:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
-          "#text": "Troye Sivan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/673097d6170381ac3e3c5c6088e29ce3.jpg"
-          }
-        ],
-        "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
-        "album": {
-          "mbid": "",
-          "#text": "Angel Baby - Single"
-        },
-        "name": "Angel Baby",
-        "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
-        "date": {
-          "uts": "1750352198",
-          "#text": "19 Jun 2025, 16:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f64330ed-5814-480b-ad24-968e7a21ba14",
-          "#text": "AJ Mitchell"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0402041600a6bf6cf8249e2f5aa1e5f6.png"
-          }
-        ],
-        "mbid": "ab96b15d-72d9-4cf7-b41d-c0df9084fea8",
-        "album": {
-          "mbid": "",
-          "#text": "Like Strangers Do - Single"
-        },
-        "name": "Like Strangers Do",
-        "url": "https://www.last.fm/music/AJ+Mitchell/_/Like+Strangers+Do",
-        "date": {
-          "uts": "1750352007",
-          "#text": "19 Jun 2025, 16:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "cc8fa4a7-1bc5-49e1-b1bf-a03bbd5c2ebd",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "good guys",
-        "url": "https://www.last.fm/music/Lany/_/good+guys",
-        "date": {
-          "uts": "1750351814",
-          "#text": "19 Jun 2025, 16:50"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "141",
       "page": "1",
       "perPage": "50",
-      "total": "7006"
+      "total": "7008"
     }
   }
 }
