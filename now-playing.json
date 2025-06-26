@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "084308bd-1654-436f-ba03-df6697104e19",
-          "#text": "Green Day"
+          "mbid": "",
+          "#text": "Lauv & LANY"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           }
         ],
-        "mbid": "1a1606a1-15d0-4393-a797-ce2cd5ef373f",
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
         "album": {
-          "mbid": "113801de-cddc-40c5-99b7-766476e11e0d",
-          "#text": "21st Century Breakdown"
+          "mbid": "",
+          "#text": "~how i'm feeling~"
         },
-        "name": "Last Night on Earth",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth"
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1750939227",
+          "#text": "26 Jun 2025, 12:00"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "141",
       "page": "1",
       "perPage": "50",
-      "total": "7008"
+      "total": "7009"
     }
   }
 }
