@@ -10,6 +10,113 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon1 - EP"
+        },
+        "name": "Somehow",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/O3OHN/_/Somehow"
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon1 - EP"
+        },
+        "name": "Somehow",
+        "url": "https://www.last.fm/music/O3OHN/_/Somehow",
+        "date": {
+          "uts": "1751096683",
+          "#text": "28 Jun 2025, 07:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon1 - EP"
+        },
+        "name": "Oooh",
+        "url": "https://www.last.fm/music/O3OHN/_/Oooh",
+        "date": {
+          "uts": "1751096512",
+          "#text": "28 Jun 2025, 07:41"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
@@ -31,117 +138,10 @@
           "#text": "Kalt (feat. Joonie) - Single"
         },
         "name": "Kalt (Feat. JOONIE)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/O3OHN/_/Kalt+(Feat.+JOONIE)"
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "[O] - EP"
-        },
-        "name": "Untitled01",
-        "url": "https://www.last.fm/music/O3OHN/_/Untitled01",
+        "url": "https://www.last.fm/music/O3OHN/_/Kalt+(Feat.+JOONIE)",
         "date": {
-          "uts": "1751096084",
-          "#text": "28 Jun 2025, 07:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
-          "#text": "Elijah Woods"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "bright orange everglow (sunset sessions)"
-        },
-        "name": "24/7, 365 (sunset session)",
-        "url": "https://www.last.fm/music/Elijah+Woods/_/24%2F7,+365+(sunset+session)",
-        "date": {
-          "uts": "1751084590",
-          "#text": "28 Jun 2025, 04:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lauv & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
-          }
-        ],
-        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
-        "album": {
-          "mbid": "",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Mean It",
-        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
-        "date": {
-          "uts": "1750939227",
-          "#text": "26 Jun 2025, 12:00"
+          "uts": "1751096333",
+          "#text": "28 Jun 2025, 07:38"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "141",
       "page": "1",
       "perPage": "50",
-      "total": "7011"
+      "total": "7014"
     }
   }
 }
