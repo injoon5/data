@@ -28,13 +28,13 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "The Guest, Pt. 1 (Original Television Soundtrack) - EP"
+          "#text": "Help / New Love - Single"
         },
-        "name": "Somewhere",
+        "name": "New Love",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/O3OHN/_/Somewhere"
+        "url": "https://www.last.fm/music/O3OHN/_/New+Love"
       },
       {
         "artist": {
@@ -63,49 +63,13 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "The Guest, Pt. 1 (Original Television Soundtrack) - EP"
+          "#text": "Help / New Love - Single"
         },
-        "name": "Somewhere",
-        "url": "https://www.last.fm/music/O3OHN/_/Somewhere",
+        "name": "Help",
+        "url": "https://www.last.fm/music/O3OHN/_/Help",
         "date": {
-          "uts": "1751101809",
-          "#text": "28 Jun 2025, 09:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "b225cf71-766e-4079-8f40-89d7ad71b087",
-        "album": {
-          "mbid": "",
-          "#text": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 3 - Single"
-        },
-        "name": "Better Than Birthday",
-        "url": "https://www.last.fm/music/O3OHN/_/Better+Than+Birthday",
-        "date": {
-          "uts": "1751101577",
-          "#text": "28 Jun 2025, 09:06"
+          "uts": "1751103015",
+          "#text": "28 Jun 2025, 09:30"
         }
       },
       {
@@ -135,13 +99,49 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Wind, from where are you blowing (from \"[THE SEASONS Vol.\u2161. 3] Re\u02d0Wake x O3ohn\") - Single"
+          "#text": "Bicycle Kids - Single"
         },
-        "name": "Wind, from where are you blowing (from \"[THE SEASONS Vol.\u2161. 3] Re\u02d0Wake x O3ohn\")",
-        "url": "https://www.last.fm/music/O3OHN/_/Wind,+from+where+are+you+blowing+(from+%22%5BTHE+SEASONS+Vol.%E2%85%A1.+3%5D+Re%CB%90Wake+x+O3ohn%22)",
+        "name": "Bicycle Kids2",
+        "url": "https://www.last.fm/music/O3OHN/_/Bicycle+Kids2",
         "date": {
-          "uts": "1751101309",
-          "#text": "28 Jun 2025, 09:01"
+          "uts": "1751102799",
+          "#text": "28 Jun 2025, 09:26"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Bicycle Kids - Single"
+        },
+        "name": "Bicycle Kids1",
+        "url": "https://www.last.fm/music/O3OHN/_/Bicycle+Kids1",
+        "date": {
+          "uts": "1751102589",
+          "#text": "28 Jun 2025, 09:23"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "141",
       "page": "1",
       "perPage": "50",
-      "total": "7026"
+      "total": "7032"
     }
   }
 }
