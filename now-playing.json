@@ -10,32 +10,31 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7e0268e95e5cf2627d091d740163361.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7e0268e95e5cf2627d091d740163361.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7e0268e95e5cf2627d091d740163361.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7e0268e95e5cf2627d091d740163361.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "co - EP"
+          "#text": "Jon1 - EP"
         },
-        "name": "Snooze",
-        "url": "https://www.last.fm/music/O3OHN/_/Snooze",
-        "date": {
-          "uts": "1751176163",
-          "#text": "29 Jun 2025, 05:49"
-        }
+        "name": "Oooh",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/O3OHN/_/Oooh"
       },
       {
         "artist": {
@@ -46,73 +45,37 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "b225cf71-766e-4079-8f40-89d7ad71b087",
-        "album": {
-          "mbid": "",
-          "#text": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 3 - Single"
-        },
-        "name": "Better Than Birthday",
-        "url": "https://www.last.fm/music/O3OHN/_/Better+Than+Birthday",
-        "date": {
-          "uts": "1751175982",
-          "#text": "29 Jun 2025, 05:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7e0268e95e5cf2627d091d740163361.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "co - EP"
+          "#text": "Jon1 - EP"
         },
-        "name": "Night",
-        "url": "https://www.last.fm/music/O3OHN/_/Night",
+        "name": "Oooh",
+        "url": "https://www.last.fm/music/O3OHN/_/Oooh",
         "date": {
-          "uts": "1751175786",
-          "#text": "29 Jun 2025, 05:43"
+          "uts": "1751184804",
+          "#text": "29 Jun 2025, 08:13"
         }
       },
       {
         "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
+          "mbid": "f86a7d1d-afe8-437a-b75b-d081fcbc28f3",
+          "#text": "fnonose"
         },
         "streamable": "0",
         "image": [
@@ -136,13 +99,49 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Wind, from where are you blowing (from \"[THE SEASONS Vol.\u2161. 3] Re\u02d0Wake x O3ohn\") - Single"
+          "#text": "Grow - Single"
         },
-        "name": "Wind, from where are you blowing (from \"[THE SEASONS Vol.\u2161. 3] Re\u02d0Wake x O3ohn\")",
-        "url": "https://www.last.fm/music/O3OHN/_/Wind,+from+where+are+you+blowing+(from+%22%5BTHE+SEASONS+Vol.%E2%85%A1.+3%5D+Re%CB%90Wake+x+O3ohn%22)",
+        "name": "Grow",
+        "url": "https://www.last.fm/music/fnonose/_/Grow",
         "date": {
-          "uts": "1751175549",
-          "#text": "29 Jun 2025, 05:39"
+          "uts": "1751184619",
+          "#text": "29 Jun 2025, 08:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d7c6351f034bb1269edf85eb550724.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon2 - EP"
+        },
+        "name": "Seeyouin",
+        "url": "https://www.last.fm/music/O3OHN/_/Seeyouin",
+        "date": {
+          "uts": "1751184451",
+          "#text": "29 Jun 2025, 08:07"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "142",
       "page": "1",
       "perPage": "50",
-      "total": "7065"
+      "total": "7068"
     }
   }
 }
