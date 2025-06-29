@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0641d0b3dcb6368329eb05adc61072.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/819cc921f72f4a4fa403bdba7b9183f8.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0641d0b3dcb6368329eb05adc61072.jpg"
           }
         ],
-        "mbid": "1431fd10-4950-4f2b-a6ac-230be4ac6a6a",
+        "mbid": "1e664640-dff4-4ed3-9fa0-de249565f3a6",
         "album": {
           "mbid": "",
-          "#text": "All 4 Nothing"
+          "#text": "Lany (Deluxe)"
         },
-        "name": "All 4 Nothing (I'm So In Love)",
+        "name": "Hurts",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lauv/_/All+4+Nothing+(I%27m+So+In+Love)"
+        "url": "https://www.last.fm/music/Lany/_/Hurts"
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c15e4624858ff1517784f9efdeed72cb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c15e4624858ff1517784f9efdeed72cb.jpg"
+          }
+        ],
+        "mbid": "7ac9762d-1462-4ac3-a65a-5ff6758cfa00",
+        "album": {
+          "mbid": "",
+          "#text": "Waves - Single"
+        },
+        "name": "Waves",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Waves",
+        "date": {
+          "uts": "1751194662",
+          "#text": "29 Jun 2025, 10:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "1424c238-6c25-4871-a40d-25205a5e44e0",
+          "#text": "Armaan Malik"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e776170a81f8f53f6a58688d5836b81e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e776170a81f8f53f6a58688d5836b81e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e776170a81f8f53f6a58688d5836b81e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e776170a81f8f53f6a58688d5836b81e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "You - Single"
+        },
+        "name": "You",
+        "url": "https://www.last.fm/music/Armaan+Malik/_/You",
+        "date": {
+          "uts": "1751194488",
+          "#text": "29 Jun 2025, 10:54"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1751194299",
           "#text": "29 Jun 2025, 10:51"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7e0268e95e5cf2627d091d740163361.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "co - EP"
-        },
-        "name": "Night",
-        "url": "https://www.last.fm/music/O3OHN/_/Night",
-        "date": {
-          "uts": "1751194088",
-          "#text": "29 Jun 2025, 10:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jon1 - EP"
-        },
-        "name": "Unze",
-        "url": "https://www.last.fm/music/O3OHN/_/Unze",
-        "date": {
-          "uts": "1751193874",
-          "#text": "29 Jun 2025, 10:44"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "142",
       "page": "1",
       "perPage": "50",
-      "total": "7075"
+      "total": "7077"
     }
   }
 }
