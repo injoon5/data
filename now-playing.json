@@ -31,41 +31,6 @@
           "#text": "[O] - EP"
         },
         "name": "Untitled01",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/O3OHN/_/Untitled01"
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "[O] - EP"
-        },
-        "name": "Untitled01",
         "url": "https://www.last.fm/music/O3OHN/_/Untitled01",
         "date": {
           "uts": "1751205399",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1751204860",
           "#text": "29 Jun 2025, 13:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Even days(2021) [From \"BLUE BIRTHDAY\"] [Original Television Soundtrack] - Single"
+        },
+        "name": "Even Days(2021)",
+        "url": "https://www.last.fm/music/O3OHN/_/Even+Days(2021)",
+        "date": {
+          "uts": "1751204549",
+          "#text": "29 Jun 2025, 13:42"
         }
       }
     ],
