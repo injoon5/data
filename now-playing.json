@@ -30,11 +30,84 @@
           "mbid": "",
           "#text": "Jon1 - EP"
         },
-        "name": "Oooh",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "Somehow",
+        "url": "https://www.last.fm/music/O3OHN/_/Somehow",
+        "date": {
+          "uts": "1751185356",
+          "#text": "29 Jun 2025, 08:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
         },
-        "url": "https://www.last.fm/music/O3OHN/_/Oooh"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48d7c6351f034bb1269edf85eb550724.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d7c6351f034bb1269edf85eb550724.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon2 - EP"
+        },
+        "name": "Seeyouin",
+        "url": "https://www.last.fm/music/O3OHN/_/Seeyouin",
+        "date": {
+          "uts": "1751185163",
+          "#text": "29 Jun 2025, 08:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21793804a03c310f28882844ec1193ba.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21793804a03c310f28882844ec1193ba.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21793804a03c310f28882844ec1193ba.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21793804a03c310f28882844ec1193ba.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Clouds - Single"
+        },
+        "name": "Clouds",
+        "url": "https://www.last.fm/music/O3OHN/_/Clouds",
+        "date": {
+          "uts": "1751184975",
+          "#text": "29 Jun 2025, 08:16"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1751184804",
           "#text": "29 Jun 2025, 08:13"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f86a7d1d-afe8-437a-b75b-d081fcbc28f3",
-          "#text": "fnonose"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Grow - Single"
-        },
-        "name": "Grow",
-        "url": "https://www.last.fm/music/fnonose/_/Grow",
-        "date": {
-          "uts": "1751184619",
-          "#text": "29 Jun 2025, 08:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48d7c6351f034bb1269edf85eb550724.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48d7c6351f034bb1269edf85eb550724.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48d7c6351f034bb1269edf85eb550724.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d7c6351f034bb1269edf85eb550724.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jon2 - EP"
-        },
-        "name": "Seeyouin",
-        "url": "https://www.last.fm/music/O3OHN/_/Seeyouin",
-        "date": {
-          "uts": "1751184451",
-          "#text": "29 Jun 2025, 08:07"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "142",
       "page": "1",
       "perPage": "50",
-      "total": "7068"
+      "total": "7071"
     }
   }
 }
