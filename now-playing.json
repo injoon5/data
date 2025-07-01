@@ -10,32 +10,31 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21793804a03c310f28882844ec1193ba.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21793804a03c310f28882844ec1193ba.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21793804a03c310f28882844ec1193ba.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a39e2c67af96332d4a9bf44c3f0e5d0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21793804a03c310f28882844ec1193ba.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "[O] - EP"
+          "#text": "Clouds - Single"
         },
-        "name": "Untitled01",
-        "url": "https://www.last.fm/music/O3OHN/_/Untitled01",
-        "date": {
-          "uts": "1751205399",
-          "#text": "29 Jun 2025, 13:56"
-        }
+        "name": "Clouds",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/O3OHN/_/Clouds"
       },
       {
         "artist": {
@@ -69,8 +68,44 @@
         "name": "Wind, from where are you blowing (from \"[THE SEASONS Vol.\u2161. 3] Re\u02d0Wake x O3ohn\")",
         "url": "https://www.last.fm/music/O3OHN/_/Wind,+from+where+are+you+blowing+(from+%22%5BTHE+SEASONS+Vol.%E2%85%A1.+3%5D+Re%CB%90Wake+x+O3ohn%22)",
         "date": {
-          "uts": "1751205098",
-          "#text": "29 Jun 2025, 13:51"
+          "uts": "1751362639",
+          "#text": "01 Jul 2025, 09:37"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "b225cf71-766e-4079-8f40-89d7ad71b087",
+        "album": {
+          "mbid": "",
+          "#text": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 3 - Single"
+        },
+        "name": "Better Than Birthday",
+        "url": "https://www.last.fm/music/O3OHN/_/Better+Than+Birthday",
+        "date": {
+          "uts": "1751362368",
+          "#text": "01 Jul 2025, 09:32"
         }
       },
       {
@@ -102,47 +137,11 @@
           "mbid": "",
           "#text": "co - EP"
         },
-        "name": "Alright",
-        "url": "https://www.last.fm/music/O3OHN/_/Alright",
+        "name": "Snooze",
+        "url": "https://www.last.fm/music/O3OHN/_/Snooze",
         "date": {
-          "uts": "1751204860",
-          "#text": "29 Jun 2025, 13:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Even days(2021) [From \"BLUE BIRTHDAY\"] [Original Television Soundtrack] - Single"
-        },
-        "name": "Even Days(2021)",
-        "url": "https://www.last.fm/music/O3OHN/_/Even+Days(2021)",
-        "date": {
-          "uts": "1751204549",
-          "#text": "29 Jun 2025, 13:42"
+          "uts": "1751362188",
+          "#text": "01 Jul 2025, 09:29"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "143",
       "page": "1",
       "perPage": "50",
-      "total": "7101"
+      "total": "7106"
     }
   }
 }
