@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "12d0b276-b102-4779-ac35-6939c584d9da",
+          "#text": "Arooj Aftab"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/35fa6df9084713f076e69e5037ead58a.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/35fa6df9084713f076e69e5037ead58a.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/35fa6df9084713f076e69e5037ead58a.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35fa6df9084713f076e69e5037ead58a.png"
+          }
+        ],
+        "mbid": "b8dfea99-0bd8-498e-af00-645b352b8f03",
+        "album": {
+          "mbid": "8b37d430-29fe-4af4-8e5b-2acfe28022dd",
+          "#text": "Night Reign"
+        },
+        "name": "Raat Ki Rani",
+        "url": "https://www.last.fm/music/Arooj+Aftab/_/Raat+Ki+Rani",
+        "date": {
+          "uts": "1751378411",
+          "#text": "01 Jul 2025, 14:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cc564538-5812-4a9e-a6b7-bfe9a59a52f6",
           "#text": "Fergus McCreadie"
         },
@@ -31,10 +67,11 @@
           "#text": "Stream"
         },
         "name": "Sun Pillars",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Fergus+McCreadie/_/Sun+Pillars"
+        "url": "https://www.last.fm/music/Fergus+McCreadie/_/Sun+Pillars",
+        "date": {
+          "uts": "1751378060",
+          "#text": "01 Jul 2025, 13:54"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1751377401",
           "#text": "01 Jul 2025, 13:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b94ca4ff-3bff-4d89-8748-8aa6f7745194",
-          "#text": "Amanda Whiting"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52310d37053c5429a27841bfaebfa2c3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52310d37053c5429a27841bfaebfa2c3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52310d37053c5429a27841bfaebfa2c3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52310d37053c5429a27841bfaebfa2c3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Liminal - Single"
-        },
-        "name": "Liminal",
-        "url": "https://www.last.fm/music/Amanda+Whiting/_/Liminal",
-        "date": {
-          "uts": "1751377218",
-          "#text": "01 Jul 2025, 13:40"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "143",
       "page": "1",
       "perPage": "50",
-      "total": "7129"
+      "total": "7131"
     }
   }
 }
