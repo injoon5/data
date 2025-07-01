@@ -3,8 +3,115 @@
     "track": [
       {
         "artist": {
-          "mbid": "be58aea6-d4d1-4387-baba-6680db1a0b36",
-          "#text": "Malena Zavala"
+          "mbid": "b94ca4ff-3bff-4d89-8748-8aa6f7745194",
+          "#text": "Amanda Whiting"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52310d37053c5429a27841bfaebfa2c3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52310d37053c5429a27841bfaebfa2c3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52310d37053c5429a27841bfaebfa2c3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52310d37053c5429a27841bfaebfa2c3.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Liminal - Single"
+        },
+        "name": "Liminal",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Amanda+Whiting/_/Liminal"
+      },
+      {
+        "artist": {
+          "mbid": "c2b967c8-e9b5-40a0-86f9-c2941d7434d2",
+          "#text": "Svaneborg Kardyb"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9d8b753fa8bce979bb12bafd479c55b5.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9d8b753fa8bce979bb12bafd479c55b5.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9d8b753fa8bce979bb12bafd479c55b5.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9d8b753fa8bce979bb12bafd479c55b5.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Superkilen"
+        },
+        "name": "Cycles",
+        "url": "https://www.last.fm/music/Svaneborg+Kardyb/_/Cycles",
+        "date": {
+          "uts": "1751376974",
+          "#text": "01 Jul 2025, 13:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0e7764fa-e7eb-49a5-96e6-21bdfed17bba",
+          "#text": "Vega Trails"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8cad7e125ada25cc7e008118cb1d0bb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8cad7e125ada25cc7e008118cb1d0bb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8cad7e125ada25cc7e008118cb1d0bb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8cad7e125ada25cc7e008118cb1d0bb.jpg"
+          }
+        ],
+        "mbid": "893f1250-8972-4247-b5ab-13b1bf13363c",
+        "album": {
+          "mbid": "",
+          "#text": "Sierra Tracks"
+        },
+        "name": "Old Friend; The Sea",
+        "url": "https://www.last.fm/music/Vega+Trails/_/Old+Friend;+The+Sea",
+        "date": {
+          "uts": "1751376706",
+          "#text": "01 Jul 2025, 13:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "5726d85f-b8eb-49d0-8ee5-8359c087206c",
+          "#text": "corto.alto"
         },
         "streamable": "0",
         "image": [
@@ -28,121 +135,13 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Ritmo de Vida (Acoustic Version) - Single"
+          "#text": "31. Bleep (01) - Single"
         },
-        "name": "Ritmo de Vida (Acoustic Version)",
-        "url": "https://www.last.fm/music/Malena+Zavala/_/Ritmo+de+Vida+(Acoustic+Version)",
+        "name": "31. Bleep (01)",
+        "url": "https://www.last.fm/music/corto.alto/_/31.+Bleep+(01)",
         "date": {
-          "uts": "1751365517",
-          "#text": "01 Jul 2025, 10:25"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "848e0d89-4696-4c7b-a74c-a8e45292df6c",
-          "#text": "Skinshape"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c1ef017fcfad712df4a3b9b211490f8c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c1ef017fcfad712df4a3b9b211490f8c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c1ef017fcfad712df4a3b9b211490f8c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1ef017fcfad712df4a3b9b211490f8c.jpg"
-          }
-        ],
-        "mbid": "0bd93ccb-1cd2-460a-8e1c-724004df50aa",
-        "album": {
-          "mbid": "10b7cdf0-6529-47d9-b772-e3f4721201a3",
-          "#text": "Life & Love"
-        },
-        "name": "Don't Call My Name",
-        "url": "https://www.last.fm/music/Skinshape/_/Don%27t+Call+My+Name",
-        "date": {
-          "uts": "1751365307",
-          "#text": "01 Jul 2025, 10:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
-          "#text": "Clairo"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e8d5d5ca3c27594162651accd47cb7e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e8d5d5ca3c27594162651accd47cb7e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e8d5d5ca3c27594162651accd47cb7e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg"
-          }
-        ],
-        "mbid": "016d187f-0e11-4171-82e9-15f04fafa097",
-        "album": {
-          "mbid": "7923aa4a-de8a-44df-8512-f2edf0c113eb",
-          "#text": "Charm"
-        },
-        "name": "Juna",
-        "url": "https://www.last.fm/music/Clairo/_/Juna",
-        "date": {
-          "uts": "1751365085",
-          "#text": "01 Jul 2025, 10:18"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
-          "#text": "The Beach Boys"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed808d9338bba8b1c763546fca512d25.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed808d9338bba8b1c763546fca512d25.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed808d9338bba8b1c763546fca512d25.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed808d9338bba8b1c763546fca512d25.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "25ca4fae-6b1c-4e2c-8b96-80c21be5a714",
-          "#text": "Surfer Girl"
-        },
-        "name": "The Surfer Moon",
-        "url": "https://www.last.fm/music/The+Beach+Boys/_/The+Surfer+Moon",
-        "date": {
-          "uts": "1751364920",
-          "#text": "01 Jul 2025, 10:15"
+          "uts": "1751376419",
+          "#text": "01 Jul 2025, 13:26"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "143",
       "page": "1",
       "perPage": "50",
-      "total": "7120"
+      "total": "7126"
     }
   }
 }
