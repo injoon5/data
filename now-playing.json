@@ -3,146 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
-          "#text": "Keane"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "",
-        "album": {
-          "mbid": "00cc55b5-ad1e-31a2-86e1-bef39e86005e",
-          "#text": "Hopes and Fears"
-        },
-        "name": "Somewhere Only We Know",
-        "url": "https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know",
-        "date": {
-          "uts": "1751616511",
-          "#text": "04 Jul 2025, 08:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "77191d5f-1045-4b3b-ad7f-12ea398db929",
-          "#text": "DAY6"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06eb564f3d9931cd56f4fd53a16cd6ee.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06eb564f3d9931cd56f4fd53a16cd6ee.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06eb564f3d9931cd56f4fd53a16cd6ee.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06eb564f3d9931cd56f4fd53a16cd6ee.jpg"
-          }
-        ],
-        "mbid": "5b8b940b-a781-4b34-96e5-e8c73b002364",
+        "mbid": "5d48e522-e7c9-4f72-88bb-8f4079f8aa5a",
         "album": {
           "mbid": "",
-          "#text": "Every DAY6 September - Single"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "I'll Remember",
-        "url": "https://www.last.fm/music/DAY6/_/I%27ll+Remember",
-        "date": {
-          "uts": "1751616275",
-          "#text": "04 Jul 2025, 08:04"
-        }
+        "name": "Enemies",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Enemies"
       },
       {
         "artist": {
-          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
-          "#text": "The Band CAMINO"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "11a2e4aa-f4bb-496f-b2c9-dc047b97539a",
+        "mbid": "5d48e522-e7c9-4f72-88bb-8f4079f8aa5a",
         "album": {
           "mbid": "",
-          "#text": "I Spend Too Much Time in My Room - Single"
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "I Spend Too Much Time in My Room",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room",
+        "name": "Enemies",
+        "url": "https://www.last.fm/music/Lauv/_/Enemies",
         "date": {
-          "uts": "1751616021",
-          "#text": "04 Jul 2025, 08:00"
+          "uts": "1751621167",
+          "#text": "04 Jul 2025, 09:26"
         }
       },
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6274d0ae49bdc93a580d256ba332c2.jpg"
           }
         ],
-        "mbid": "02a95790-5546-4884-b413-1457fe3e4677",
+        "mbid": "45c3606c-77b0-4080-99d3-bcce6b98a5bd",
         "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
+          "mbid": "06692eec-be74-439b-9ef6-4468707378a1",
+          "#text": "Know."
         },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
+        "name": "Unlonely",
+        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely",
         "date": {
-          "uts": "1751615801",
-          "#text": "04 Jul 2025, 07:56"
+          "uts": "1751620954",
+          "#text": "04 Jul 2025, 09:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          }
+        ],
+        "mbid": "3e36c105-9560-4e87-9032-eba985e98cdf",
+        "album": {
+          "mbid": "",
+          "#text": "Because of You - Single"
+        },
+        "name": "Because of You",
+        "url": "https://www.last.fm/music/Lauv/_/Because+of+You",
+        "date": {
+          "uts": "1751620769",
+          "#text": "04 Jul 2025, 09:19"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7155"
+      "total": "7159"
     }
   }
 }
