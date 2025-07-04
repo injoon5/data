@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c5b00fa73c2e1f0575162658daea059.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Loved You, What Happened?"
+        },
+        "name": "Up Down",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Up+Down"
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c5b00fa73c2e1f0575162658daea059.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Loved You, What Happened?"
+        },
+        "name": "Up Down",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Up+Down",
+        "date": {
+          "uts": "1751637597",
+          "#text": "04 Jul 2025, 13:59"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
+          }
+        ],
+        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
+        "album": {
+          "mbid": "",
+          "#text": "It Takes Two - Single"
+        },
+        "name": "It Takes Two",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
+        "date": {
+          "uts": "1751637422",
+          "#text": "04 Jul 2025, 13:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "535afeda-2538-435d-9dd1-5e10be586774",
           "#text": "Earth, Wind & Fire"
         },
@@ -31,117 +138,10 @@
           "#text": "The Essential Earth, Wind & Fire"
         },
         "name": "September",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Commodores"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a075b0707c5f4dfbbf468f1fac32c355.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a075b0707c5f4dfbbf468f1fac32c355.png"
-          }
-        ],
-        "mbid": "c15e8541-58da-46d6-8bd2-52ba446aae79",
-        "album": {
-          "mbid": "1fe916f8-e49f-4331-854b-3b1f652725a3",
-          "#text": "Commodores"
-        },
-        "name": "Easy",
-        "url": "https://www.last.fm/music/The+Commodores/_/Easy",
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September",
         "date": {
-          "uts": "1751636999",
-          "#text": "04 Jul 2025, 13:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
-          "#text": "Billie Eilish"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6db576307ee7bdd81056432542b6bab7.jpg"
-          }
-        ],
-        "mbid": "3a7e1970-069c-4761-a6b2-9046e54406bc",
-        "album": {
-          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
-          "#text": "Hit Me Hard and Soft"
-        },
-        "name": "BIRDS OF A FEATHER",
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
-        "date": {
-          "uts": "1751636765",
-          "#text": "04 Jul 2025, 13:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          }
-        ],
-        "mbid": "4863abc2-96d4-450e-bf2c-c8f96b28efd6",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Photograph",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
-        "date": {
-          "uts": "1751635622",
-          "#text": "04 Jul 2025, 13:27"
+          "uts": "1751637235",
+          "#text": "04 Jul 2025, 13:53"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7179"
+      "total": "7182"
     }
   }
 }
