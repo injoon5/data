@@ -31,10 +31,11 @@
           "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
         },
         "name": "Don't Look Back In Anger (Remastered)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)"
+        "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)",
+        "date": {
+          "uts": "1751622166",
+          "#text": "04 Jul 2025, 09:42"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7159"
+      "total": "7160"
     }
   }
 }
