@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
+          "#text": "The Band CAMINO"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "11a2e4aa-f4bb-496f-b2c9-dc047b97539a",
+        "album": {
+          "mbid": "",
+          "#text": "I Spend Too Much Time in My Room - Single"
+        },
+        "name": "I Spend Too Much Time in My Room",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
+          }
+        ],
+        "mbid": "02a95790-5546-4884-b413-1457fe3e4677",
+        "album": {
+          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
+          "#text": "gg bb xx"
+        },
+        "name": "up to me",
+        "url": "https://www.last.fm/music/Lany/_/up+to+me",
+        "date": {
+          "uts": "1751615801",
+          "#text": "04 Jul 2025, 07:56"
+        }
+      },
+      {
+        "artist": {
           "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
           "#text": "Maroon 5"
         },
@@ -31,10 +102,11 @@
           "#text": "Songs About Jane"
         },
         "name": "She Will Be Loved",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Maroon+5/_/She+Will+Be+Loved"
+        "url": "https://www.last.fm/music/Maroon+5/_/She+Will+Be+Loved",
+        "date": {
+          "uts": "1751615589",
+          "#text": "04 Jul 2025, 07:53"
+        }
       },
       {
         "artist": {
@@ -71,86 +143,14 @@
           "uts": "1751615370",
           "#text": "04 Jul 2025, 07:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31a2c273e50fa6ad181d5a190c251453.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31a2c273e50fa6ad181d5a190c251453.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31a2c273e50fa6ad181d5a190c251453.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31a2c273e50fa6ad181d5a190c251453.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Closely Far Away - Single"
-        },
-        "name": "Closely Far Away",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Closely+Far+Away",
-        "date": {
-          "uts": "1751615183",
-          "#text": "04 Jul 2025, 07:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a136b49b7c3701ae3529fff586c39c3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a136b49b7c3701ae3529fff586c39c3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a136b49b7c3701ae3529fff586c39c3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a136b49b7c3701ae3529fff586c39c3.jpg"
-          }
-        ],
-        "mbid": "4d5ea684-6127-4506-b7b3-c5ea5a1eb1d8",
-        "album": {
-          "mbid": "61d5cefb-f4f4-4902-b9e0-d9b613225cea",
-          "#text": "AUSTIN (Bonus)"
-        },
-        "name": "Chemical",
-        "url": "https://www.last.fm/music/Post+Malone/_/Chemical",
-        "date": {
-          "uts": "1751614992",
-          "#text": "04 Jul 2025, 07:43"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "143",
+      "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7150"
+      "total": "7152"
     }
   }
 }
