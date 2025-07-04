@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Chicago"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          }
+        ],
+        "mbid": "087bb470-4388-3071-906f-8e5ca069fd9d",
+        "album": {
+          "mbid": "",
+          "#text": "The Best of Chicago (40th Anniversary Edition) [Remastered]"
+        },
+        "name": "Love Me Tomorrow",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Chicago/_/Love+Me+Tomorrow"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chicago"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          }
+        ],
+        "mbid": "087bb470-4388-3071-906f-8e5ca069fd9d",
+        "album": {
+          "mbid": "",
+          "#text": "The Best of Chicago (40th Anniversary Edition) [Remastered]"
+        },
+        "name": "Love Me Tomorrow",
+        "url": "https://www.last.fm/music/Chicago/_/Love+Me+Tomorrow",
+        "date": {
+          "uts": "1751632544",
+          "#text": "04 Jul 2025, 12:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chicago"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          }
+        ],
+        "mbid": "af4f709c-2810-49e4-ad14-73f8b929ab6a",
+        "album": {
+          "mbid": "",
+          "#text": "The Best of Chicago (40th Anniversary Edition) [Remastered]"
+        },
+        "name": "Hard to Say I'm Sorry",
+        "url": "https://www.last.fm/music/Chicago/_/Hard+to+Say+I%27m+Sorry",
+        "date": {
+          "uts": "1751632299",
+          "#text": "04 Jul 2025, 12:31"
+        }
+      },
+      {
+        "artist": {
           "mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
           "#text": "sombr"
         },
@@ -36,114 +143,6 @@
           "uts": "1751623455",
           "#text": "04 Jul 2025, 10:04"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Oasis"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84ea1873007dbd2fe17b7c96650677f6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84ea1873007dbd2fe17b7c96650677f6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84ea1873007dbd2fe17b7c96650677f6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84ea1873007dbd2fe17b7c96650677f6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "(What's the Story) Morning Glory? [Deluxe Edition] [Remastered]"
-        },
-        "name": "Don't Look Back In Anger (Remastered)",
-        "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)",
-        "date": {
-          "uts": "1751622166",
-          "#text": "04 Jul 2025, 09:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "5d48e522-e7c9-4f72-88bb-8f4079f8aa5a",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Enemies",
-        "url": "https://www.last.fm/music/Lauv/_/Enemies",
-        "date": {
-          "uts": "1751621167",
-          "#text": "04 Jul 2025, 09:26"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
-          "#text": "Jason Mraz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b6274d0ae49bdc93a580d256ba332c2.jpg"
-          }
-        ],
-        "mbid": "45c3606c-77b0-4080-99d3-bcce6b98a5bd",
-        "album": {
-          "mbid": "06692eec-be74-439b-9ef6-4468707378a1",
-          "#text": "Know."
-        },
-        "name": "Unlonely",
-        "url": "https://www.last.fm/music/Jason+Mraz/_/Unlonely",
-        "date": {
-          "uts": "1751620954",
-          "#text": "04 Jul 2025, 09:22"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7161"
+      "total": "7163"
     }
   }
 }
