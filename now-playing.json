@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "535afeda-2538-435d-9dd1-5e10be586774",
+          "#text": "Earth, Wind & Fire"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea1478526a2947adb91787f63a5d96cb.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea1478526a2947adb91787f63a5d96cb.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea1478526a2947adb91787f63a5d96cb.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea1478526a2947adb91787f63a5d96cb.jpg"
+          }
+        ],
+        "mbid": "c17facb2-44a6-4846-b71a-0217a056dc6f",
+        "album": {
+          "mbid": "00d36368-87a1-4436-81bd-ae2142f8a0b5",
+          "#text": "The Essential Earth, Wind & Fire"
+        },
+        "name": "September",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Commodores"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a075b0707c5f4dfbbf468f1fac32c355.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a075b0707c5f4dfbbf468f1fac32c355.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a075b0707c5f4dfbbf468f1fac32c355.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a075b0707c5f4dfbbf468f1fac32c355.png"
+          }
+        ],
+        "mbid": "c15e8541-58da-46d6-8bd2-52ba446aae79",
+        "album": {
+          "mbid": "1fe916f8-e49f-4331-854b-3b1f652725a3",
+          "#text": "Commodores"
+        },
+        "name": "Easy",
+        "url": "https://www.last.fm/music/The+Commodores/_/Easy",
+        "date": {
+          "uts": "1751636999",
+          "#text": "04 Jul 2025, 13:49"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+          "#text": "Billie Eilish"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6db576307ee7bdd81056432542b6bab7.jpg"
+          }
+        ],
+        "mbid": "3a7e1970-069c-4761-a6b2-9046e54406bc",
+        "album": {
+          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
+          "#text": "Hit Me Hard and Soft"
+        },
+        "name": "BIRDS OF A FEATHER",
+        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
+        "date": {
+          "uts": "1751636765",
+          "#text": "04 Jul 2025, 13:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
           "#text": "Ed Sheeran"
         },
@@ -36,114 +143,6 @@
           "uts": "1751635622",
           "#text": "04 Jul 2025, 13:27"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "slchld"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "You Won't Be There For Me - Single"
-        },
-        "name": "you won't be there for me",
-        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
-        "date": {
-          "uts": "1751635401",
-          "#text": "04 Jul 2025, 13:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "slchld"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Don't Waste Your Time - Single"
-        },
-        "name": "don't waste your time",
-        "url": "https://www.last.fm/music/slchld/_/don%27t+waste+your+time",
-        "date": {
-          "uts": "1751635220",
-          "#text": "04 Jul 2025, 13:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
-          "#text": "Sam Smith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee7d0a835e77fc19132118757da62050.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee7d0a835e77fc19132118757da62050.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee7d0a835e77fc19132118757da62050.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee7d0a835e77fc19132118757da62050.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "The Thrill of It All (Special Video Edition)"
-        },
-        "name": "Too Good at Goodbyes",
-        "url": "https://www.last.fm/music/Sam+Smith/_/Too+Good+at+Goodbyes",
-        "date": {
-          "uts": "1751635023",
-          "#text": "04 Jul 2025, 13:17"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "144",
       "page": "1",
       "perPage": "50",
-      "total": "7177"
+      "total": "7179"
     }
   }
 }
