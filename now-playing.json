@@ -4,6 +4,42 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Don Toliver"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f636de488045a74b8cd3e4445f39600d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "F1 The Album (Cinematic Edition)"
+        },
+        "name": "Lose My Mind (feat. Doja Cat)",
+        "url": "https://www.last.fm/music/Don+Toliver/_/Lose+My+Mind+(feat.+Doja+Cat)",
+        "date": {
+          "uts": "1751702308",
+          "#text": "05 Jul 2025, 07:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "JANNABI"
         },
         "streamable": "0",
@@ -108,42 +144,6 @@
           "uts": "1751642657",
           "#text": "04 Jul 2025, 15:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jannabi's Small Pieces I - EP"
-        },
-        "name": "A thought on an autumn night",
-        "url": "https://www.last.fm/music/JANNABI/_/A+thought+on+an+autumn+night",
-        "date": {
-          "uts": "1751642427",
-          "#text": "04 Jul 2025, 15:20"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "145",
       "page": "1",
       "perPage": "50",
-      "total": "7204"
+      "total": "7205"
     }
   }
 }
