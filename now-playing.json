@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+          }
+        ],
+        "mbid": "a22ba641-6c93-43a4-8deb-f2910cded9d0",
+        "album": {
+          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
+          "#text": "Hollywood's Bleeding"
+        },
+        "name": "Myself",
+        "url": "https://www.last.fm/music/Post+Malone/_/Myself",
+        "date": {
+          "uts": "1751738752",
+          "#text": "05 Jul 2025, 18:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chicago"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c42786f7d647feba96dd743c22c3fcf.jpg"
+          }
+        ],
+        "mbid": "af4f709c-2810-49e4-ad14-73f8b929ab6a",
+        "album": {
+          "mbid": "",
+          "#text": "The Best of Chicago (40th Anniversary Edition) [Remastered]"
+        },
+        "name": "Hard to Say I'm Sorry",
+        "url": "https://www.last.fm/music/Chicago/_/Hard+to+Say+I%27m+Sorry",
+        "date": {
+          "uts": "1751738418",
+          "#text": "05 Jul 2025, 18:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
           "#text": "George Benson"
         },
@@ -72,78 +144,6 @@
           "uts": "1751737796",
           "#text": "05 Jul 2025, 17:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "b45853bd-d49d-411c-b4bf-82a66594f930",
-        "album": {
-          "mbid": "",
-          "#text": "Absence - EP"
-        },
-        "name": "My whole world",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/My+whole+world",
-        "date": {
-          "uts": "1751737561",
-          "#text": "05 Jul 2025, 17:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
-          "#text": "10cm"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f641f0e92f08664400fa82df8919195b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f641f0e92f08664400fa82df8919195b.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "5.3 (Gradation) - Single"
-        },
-        "name": "Gradation",
-        "url": "https://www.last.fm/music/10cm/_/Gradation",
-        "date": {
-          "uts": "1751737175",
-          "#text": "05 Jul 2025, 17:39"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "145",
       "page": "1",
       "perPage": "50",
-      "total": "7231"
+      "total": "7233"
     }
   }
 }
