@@ -3,146 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "58b599cd-b1de-45e3-863a-3b54194a0f20",
-          "#text": "HONNE"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f130146ce86a53a5a8495036bc62fe3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f130146ce86a53a5a8495036bc62fe3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f130146ce86a53a5a8495036bc62fe3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f130146ce86a53a5a8495036bc62fe3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
           }
         ],
-        "mbid": "3aa8e74b-4e10-4bb3-88ce-040cb12f21a3",
+        "mbid": "b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35",
         "album": {
-          "mbid": "",
-          "#text": "Warm on a Cold Night - EP"
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
         },
-        "name": "Warm On A Cold Night",
-        "url": "https://www.last.fm/music/HONNE/_/Warm+On+A+Cold+Night",
+        "name": "Perfect",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Perfect"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c808e167d1af3d4c89e711e3baaf8ab.jpg"
+          }
+        ],
+        "mbid": "b84dd2d1-2bf1-4fcc-aadc-6cc39c36ba35",
+        "album": {
+          "mbid": "9de16509-fc55-4622-821d-fe02da2857a0",
+          "#text": "\u00f7 (Deluxe)"
+        },
+        "name": "Perfect",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Perfect",
         "date": {
-          "uts": "1751809064",
-          "#text": "06 Jul 2025, 13:37"
+          "uts": "1751809720",
+          "#text": "06 Jul 2025, 13:48"
         }
       },
       {
         "artist": {
-          "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
-          "#text": "Pink Floyd"
+          "mbid": "a6f8a4b6-05c4-41c9-a948-6328ec4b4cd9",
+          "#text": "Zachary Knowles"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c93ba7040cd94cafccc9d80d30cd9259.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c93ba7040cd94cafccc9d80d30cd9259.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c93ba7040cd94cafccc9d80d30cd9259.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c93ba7040cd94cafccc9d80d30cd9259.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "",
+        "mbid": "be204e67-b335-4fe4-9d8e-3fadb5ab2a7a",
         "album": {
-          "mbid": "07be1acd-fc37-47ae-b69d-40352dc1c4e2",
-          "#text": "A Momentary Lapse of Reason"
+          "mbid": "",
+          "#text": "Honeydew - Single"
         },
-        "name": "Learning to Fly",
-        "url": "https://www.last.fm/music/Pink+Floyd/_/Learning+to+Fly",
+        "name": "Honeydew",
+        "url": "https://www.last.fm/music/Zachary+Knowles/_/Honeydew",
         "date": {
-          "uts": "1751808787",
-          "#text": "06 Jul 2025, 13:33"
+          "uts": "1751809485",
+          "#text": "06 Jul 2025, 13:44"
         }
       },
       {
         "artist": {
-          "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
-          "#text": "Peach Tree Rascals"
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3930b3e527b3ad224b31e0fe5630445d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3930b3e527b3ad224b31e0fe5630445d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "1a6898fd-140c-402e-b54d-1fdb02a5368e",
         "album": {
-          "mbid": "",
-          "#text": "Mariposa - Single"
+          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
+          "#text": "CHARLIE"
         },
-        "name": "Mariposa",
-        "url": "https://www.last.fm/music/Peach+Tree+Rascals/_/Mariposa",
+        "name": "Light Switch",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
         "date": {
-          "uts": "1751808535",
-          "#text": "06 Jul 2025, 13:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
-          "#text": "Nothing But Thieves"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f7127f10c6aa7620b5a10e0083234e70.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f7127f10c6aa7620b5a10e0083234e70.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f7127f10c6aa7620b5a10e0083234e70.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7127f10c6aa7620b5a10e0083234e70.jpg"
-          }
-        ],
-        "mbid": "f2e4c2e9-d403-45fe-adf6-b460c1e66dd1",
-        "album": {
-          "mbid": "",
-          "#text": "Dead Club City (Extended Deluxe)"
-        },
-        "name": "Tomorrow Is Closed",
-        "url": "https://www.last.fm/music/Nothing+But+Thieves/_/Tomorrow+Is+Closed",
-        "date": {
-          "uts": "1751808297",
-          "#text": "06 Jul 2025, 13:24"
+          "uts": "1751809288",
+          "#text": "06 Jul 2025, 13:41"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "146",
       "page": "1",
       "perPage": "50",
-      "total": "7270"
+      "total": "7273"
     }
   }
 }
