@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "155f1360-b709-4d77-8a31-2489694b03b6",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Modern Loneliness",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Modern+Loneliness"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "MONKEY HOTEL"
+        },
+        "name": "Summer",
+        "url": "https://www.last.fm/music/JANNABI/_/Summer",
+        "date": {
+          "uts": "1751801543",
+          "#text": "06 Jul 2025, 11:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
           "#text": "Post Malone"
         },
@@ -72,78 +143,6 @@
           "uts": "1751738418",
           "#text": "05 Jul 2025, 18:00"
         }
-      },
-      {
-        "artist": {
-          "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
-          "#text": "George Benson"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "1ecb4320-351f-4181-b3a8-c50421eeb0f8",
-          "#text": "20/20"
-        },
-        "name": "Nothing's Gonna Change My Love for You",
-        "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You",
-        "date": {
-          "uts": "1751738041",
-          "#text": "05 Jul 2025, 17:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e5bd4ce63677a94859dec019960a55e.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e5bd4ce63677a94859dec019960a55e.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e5bd4ce63677a94859dec019960a55e.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e5bd4ce63677a94859dec019960a55e.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "13fefe88-9f57-435e-9ffd-df4cb8c4d9da",
-          "#text": "Viva la Vida (Prospekt's March Edition)"
-        },
-        "name": "Viva la Vida",
-        "url": "https://www.last.fm/music/Coldplay/_/Viva+la+Vida",
-        "date": {
-          "uts": "1751737796",
-          "#text": "05 Jul 2025, 17:49"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "145",
       "page": "1",
       "perPage": "50",
-      "total": "7233"
+      "total": "7234"
     }
   }
 }
