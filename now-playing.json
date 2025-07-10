@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Don Toliver"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f636de488045a74b8cd3e4445f39600d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f636de488045a74b8cd3e4445f39600d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "F1 The Album (Cinematic Edition)"
+        },
+        "name": "Lose My Mind (feat. Doja Cat)",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Don+Toliver/_/Lose+My+Mind+(feat.+Doja+Cat)"
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1751818035",
           "#text": "06 Jul 2025, 16:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "2bee95a7-1c0e-4b3c-99a5-4857d9d776dd",
-          "#text": "Dayglow"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cad2d300376ed1e482123ca2bcadb0a3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cad2d300376ed1e482123ca2bcadb0a3.jpg"
-          }
-        ],
-        "mbid": "ff05a095-df0c-4d07-83a0-f73b851375b2",
-        "album": {
-          "mbid": "df94e017-d9ee-4559-9784-3a5022f78fdf",
-          "#text": "Fuzzybrain"
-        },
-        "name": "Can I Call You Tonight?",
-        "url": "https://www.last.fm/music/Dayglow/_/Can+I+Call+You+Tonight%3F",
-        "date": {
-          "uts": "1751817807",
-          "#text": "06 Jul 2025, 16:03"
         }
       }
     ],
