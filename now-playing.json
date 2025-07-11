@@ -4,6 +4,113 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Justin Bieber & Gunna"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9daaa94948cdd6438e24913f38fa3fd4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9daaa94948cdd6438e24913f38fa3fd4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9daaa94948cdd6438e24913f38fa3fd4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9daaa94948cdd6438e24913f38fa3fd4.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG"
+        },
+        "name": "WAY IT IS",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber+&+Gunna/_/WAY+IT+IS"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG"
+        },
+        "name": "BUTTERFLIES",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/BUTTERFLIES",
+        "date": {
+          "uts": "1752249183",
+          "#text": "11 Jul 2025, 15:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG"
+        },
+        "name": "THINGS YOU DO",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/THINGS+YOU+DO",
+        "date": {
+          "uts": "1752249032",
+          "#text": "11 Jul 2025, 15:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Justin Bieber"
         },
         "streamable": "0",
@@ -31,117 +138,10 @@
           "#text": "SWAG"
         },
         "name": "GO BABY",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/GO+BABY"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG"
-        },
-        "name": "YUKON",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/YUKON",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/GO+BABY",
         "date": {
-          "uts": "1752248700",
-          "#text": "11 Jul 2025, 15:45"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "78a19169-ac75-4868-b504-7e2e073118e0",
-          "#text": "Burna Boy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de1edbd8168eeff5c34730087011642a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de1edbd8168eeff5c34730087011642a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de1edbd8168eeff5c34730087011642a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de1edbd8168eeff5c34730087011642a.jpg"
-          }
-        ],
-        "mbid": "da580bd4-a00b-46a7-8a81-aa4f4b0fd1c5",
-        "album": {
-          "mbid": "",
-          "#text": "F1 The Album"
-        },
-        "name": "Don't Let Me Drown",
-        "url": "https://www.last.fm/music/Burna+Boy/_/Don%27t+Let+Me+Drown",
-        "date": {
-          "uts": "1752248525",
-          "#text": "11 Jul 2025, 15:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG"
-        },
-        "name": "DAISIES",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/DAISIES",
-        "date": {
-          "uts": "1752248344",
-          "#text": "11 Jul 2025, 15:39"
+          "uts": "1752248880",
+          "#text": "11 Jul 2025, 15:48"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "147",
       "page": "1",
       "perPage": "50",
-      "total": "7328"
+      "total": "7331"
     }
   }
 }
