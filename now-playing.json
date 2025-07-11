@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG"
+        },
+        "name": "WALKING AWAY",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/WALKING+AWAY",
+        "date": {
+          "uts": "1752249634",
+          "#text": "11 Jul 2025, 16:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Justin Bieber & Gunna"
         },
@@ -31,10 +67,11 @@
           "#text": "SWAG"
         },
         "name": "WAY IT IS",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber+&+Gunna/_/WAY+IT+IS"
+        "url": "https://www.last.fm/music/Justin+Bieber+&+Gunna/_/WAY+IT+IS",
+        "date": {
+          "uts": "1752249377",
+          "#text": "11 Jul 2025, 15:56"
+        }
       },
       {
         "artist": {
@@ -45,19 +82,19 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
           }
         ],
         "mbid": "",
@@ -81,19 +118,19 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
           }
         ],
         "mbid": "",
@@ -107,42 +144,6 @@
           "uts": "1752249032",
           "#text": "11 Jul 2025, 15:50"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/016995248e28f75d68504519e2898f3a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/016995248e28f75d68504519e2898f3a.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG"
-        },
-        "name": "GO BABY",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/GO+BABY",
-        "date": {
-          "uts": "1752248880",
-          "#text": "11 Jul 2025, 15:48"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "147",
       "page": "1",
       "perPage": "50",
-      "total": "7331"
+      "total": "7333"
     }
   }
 }
