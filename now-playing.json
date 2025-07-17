@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+          "#text": "Ariana Grande"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e94f5512275dae40317795918ef9a401.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e94f5512275dae40317795918ef9a401.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e94f5512275dae40317795918ef9a401.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e94f5512275dae40317795918ef9a401.png"
+          }
+        ],
+        "mbid": "98153a83-1718-4433-a397-1f8fa1f3750f",
+        "album": {
+          "mbid": "bf1749cb-da33-415b-a3c7-d2f941fd69e4",
+          "#text": "eternal sunshine deluxe: brighter days ahead"
+        },
+        "name": "twilight zone",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Ariana+Grande/_/twilight+zone"
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          }
+        ],
+        "mbid": "6be45a90-ae92-42ac-bc56-925e4454ba60",
+        "album": {
+          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
+          "#text": "SWAG"
+        },
+        "name": "DAISIES",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/DAISIES",
+        "date": {
+          "uts": "1752760145",
+          "#text": "17 Jul 2025, 13:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
           "#text": "Justin Bieber"
         },
@@ -72,78 +143,6 @@
           "uts": "1752495036",
           "#text": "14 Jul 2025, 12:10"
         }
-      },
-      {
-        "artist": {
-          "mbid": "437a0e49-c6ae-42f6-a6c1-84f25ed366bc",
-          "#text": "Bon Iver"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6d0c47617a6d68a033087fa0656f70e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6d0c47617a6d68a033087fa0656f70e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6d0c47617a6d68a033087fa0656f70e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6d0c47617a6d68a033087fa0656f70e.jpg"
-          }
-        ],
-        "mbid": "60a24f36-d33d-41c3-87bc-58305182f0eb",
-        "album": {
-          "mbid": "b2364016-e92e-47cd-84af-232e3ebb4f47",
-          "#text": "SABLE, fABLE"
-        },
-        "name": "Everything Is Peaceful Love",
-        "url": "https://www.last.fm/music/Bon+Iver/_/Everything+Is+Peaceful+Love",
-        "date": {
-          "uts": "1752494603",
-          "#text": "14 Jul 2025, 12:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          }
-        ],
-        "mbid": "231a2341-239c-4135-a17c-abd4f619fda0",
-        "album": {
-          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
-          "#text": "SWAG"
-        },
-        "name": "WALKING AWAY",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/WALKING+AWAY",
-        "date": {
-          "uts": "1752249634",
-          "#text": "11 Jul 2025, 16:00"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "147",
       "page": "1",
       "perPage": "50",
-      "total": "7336"
+      "total": "7337"
     }
   }
 }
