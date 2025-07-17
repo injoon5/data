@@ -3,38 +3,74 @@
     "track": [
       {
         "artist": {
-          "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-          "#text": "Ariana Grande"
+          "mbid": "",
+          "#text": "JANNABI"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e94f5512275dae40317795918ef9a401.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e94f5512275dae40317795918ef9a401.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e94f5512275dae40317795918ef9a401.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e94f5512275dae40317795918ef9a401.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
           }
         ],
-        "mbid": "98153a83-1718-4433-a397-1f8fa1f3750f",
+        "mbid": "",
         "album": {
-          "mbid": "bf1749cb-da33-415b-a3c7-d2f941fd69e4",
-          "#text": "eternal sunshine deluxe: brighter days ahead"
+          "mbid": "",
+          "#text": "LEGEND"
         },
-        "name": "twilight zone",
+        "name": "for lovers who hesitate",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Ariana+Grande/_/twilight+zone"
+        "url": "https://www.last.fm/music/JANNABI/_/for+lovers+who+hesitate"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "LEGEND"
+        },
+        "name": "for lovers who hesitate",
+        "url": "https://www.last.fm/music/JANNABI/_/for+lovers+who+hesitate",
+        "date": {
+          "uts": "1752760769",
+          "#text": "17 Jul 2025, 13:59"
+        }
       },
       {
         "artist": {
@@ -107,42 +143,6 @@
           "uts": "1752495250",
           "#text": "14 Jul 2025, 12:14"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          }
-        ],
-        "mbid": "669b0fc7-f5a2-4ca9-83ac-4fb8f3c4b40e",
-        "album": {
-          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
-          "#text": "SWAG"
-        },
-        "name": "ALL I CAN TAKE",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/ALL+I+CAN+TAKE",
-        "date": {
-          "uts": "1752495036",
-          "#text": "14 Jul 2025, 12:10"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "147",
       "page": "1",
       "perPage": "50",
-      "total": "7337"
+      "total": "7338"
     }
   }
 }
