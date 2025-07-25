@@ -31,41 +31,6 @@
           "#text": "Black Star Elephant"
         },
         "name": "Am I Wrong",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Nico+&+Vinz/_/Am+I+Wrong"
-      },
-      {
-        "artist": {
-          "mbid": "f8e8de78-2131-4e96-8829-ba3614f48a48",
-          "#text": "Nico & Vinz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "2bc73492-2383-4fc6-b5d6-abb97f47d9c3",
-          "#text": "Black Star Elephant"
-        },
-        "name": "Am I Wrong",
         "url": "https://www.last.fm/music/Nico+&+Vinz/_/Am+I+Wrong",
         "date": {
           "uts": "1753455459",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1753455072",
           "#text": "25 Jul 2025, 14:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "6e019bc6-5c23-4935-94f0-4a896631d846",
+          "#text": "Jonas Brothers"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/461e07702e419883e41140bf2902fa28.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/461e07702e419883e41140bf2902fa28.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/461e07702e419883e41140bf2902fa28.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/461e07702e419883e41140bf2902fa28.png"
+          }
+        ],
+        "mbid": "bde7d823-6486-47e7-863a-52339998feaf",
+        "album": {
+          "mbid": "1a004927-b667-4787-a8c5-2c8d9999ca99",
+          "#text": "Happiness Begins"
+        },
+        "name": "Sucker",
+        "url": "https://www.last.fm/music/Jonas+Brothers/_/Sucker",
+        "date": {
+          "uts": "1753454881",
+          "#text": "25 Jul 2025, 14:48"
         }
       }
     ],
