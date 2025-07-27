@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+          "#text": "Green Day"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72a314e1e9064a0418159b144fe1ad72.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg"
+          }
+        ],
+        "mbid": "1a1606a1-15d0-4393-a797-ce2cd5ef373f",
+        "album": {
+          "mbid": "113801de-cddc-40c5-99b7-766476e11e0d",
+          "#text": "21st Century Breakdown"
+        },
+        "name": "Last Night on Earth",
+        "url": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
+        "date": {
+          "uts": "1753625491",
+          "#text": "27 Jul 2025, 14:11"
+        }
+      },
+      {
+        "artist": {
           "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
           "#text": "10cm"
         },
@@ -31,10 +67,11 @@
           "#text": "Our Unwritten Seoul (Original Soundtrack) Part.2 - Single"
         },
         "name": "Hush of Sunset",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/10cm/_/Hush+of+Sunset"
+        "url": "https://www.last.fm/music/10cm/_/Hush+of+Sunset",
+        "date": {
+          "uts": "1753624885",
+          "#text": "27 Jul 2025, 14:01"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1753624451",
           "#text": "27 Jul 2025, 13:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f8e8de78-2131-4e96-8829-ba3614f48a48",
-          "#text": "Nico & Vinz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c5c09b8b709c4e7bce70e96189bafaba.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "2bc73492-2383-4fc6-b5d6-abb97f47d9c3",
-          "#text": "Black Star Elephant"
-        },
-        "name": "Am I Wrong",
-        "url": "https://www.last.fm/music/Nico+&+Vinz/_/Am+I+Wrong",
-        "date": {
-          "uts": "1753455459",
-          "#text": "25 Jul 2025, 14:57"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "148",
       "page": "1",
       "perPage": "50",
-      "total": "7378"
+      "total": "7380"
     }
   }
 }
