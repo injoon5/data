@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8",
+          "#text": "Panic! at the Disco"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15d962ee89b1690b3ad3abc9f558d4dd.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15d962ee89b1690b3ad3abc9f558d4dd.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15d962ee89b1690b3ad3abc9f558d4dd.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15d962ee89b1690b3ad3abc9f558d4dd.png"
+          }
+        ],
+        "mbid": "c1296fc9-08d8-4c4b-af8b-d92da5397850",
+        "album": {
+          "mbid": "10c2a6c1-ebcf-403d-b830-ea85d529235b",
+          "#text": "Pray for the Wicked"
+        },
+        "name": "High Hopes",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Panic!+at+the+Disco/_/High+Hopes"
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jon1 - EP"
+        },
+        "name": "Unze",
+        "url": "https://www.last.fm/music/O3OHN/_/Unze",
+        "date": {
+          "uts": "1754061590",
+          "#text": "01 Aug 2025, 15:19"
+        }
+      },
+      {
+        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -31,10 +102,11 @@
           "#text": "I Spend Too Much Time in My Room - Single"
         },
         "name": "I Spend Too Much Time in My Room",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room"
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room",
+        "date": {
+          "uts": "1754060420",
+          "#text": "01 Aug 2025, 15:00"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1754060206",
           "#text": "01 Aug 2025, 14:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Chris Brown"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
-          }
-        ],
-        "mbid": "769ae0d9-6441-43dc-bb30-9b0c2c54b3af",
-        "album": {
-          "mbid": "",
-          "#text": "11:11 (Deluxe)"
-        },
-        "name": "Residuals",
-        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
-        "date": {
-          "uts": "1754060020",
-          "#text": "01 Aug 2025, 14:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
-          }
-        ],
-        "mbid": "3e36c105-9560-4e87-9032-eba985e98cdf",
-        "album": {
-          "mbid": "",
-          "#text": "Because of You - Single"
-        },
-        "name": "Because of You",
-        "url": "https://www.last.fm/music/Lauv/_/Because+of+You",
-        "date": {
-          "uts": "1754059843",
-          "#text": "01 Aug 2025, 14:50"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "149",
       "page": "1",
       "perPage": "50",
-      "total": "7430"
+      "total": "7432"
     }
   }
 }
