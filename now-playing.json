@@ -3,77 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          }
-        ],
-        "mbid": "568610ce-91a3-42bd-b1ef-74c0e0e3f15d",
-        "album": {
-          "mbid": "",
-          "#text": "A Beautiful Blur (Deluxe)"
-        },
-        "name": "Alonica",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Alonica"
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0395cb5f6416987d9dd98868d47ec87a.jpg"
-          }
-        ],
-        "mbid": "568610ce-91a3-42bd-b1ef-74c0e0e3f15d",
-        "album": {
-          "mbid": "",
-          "#text": "A Beautiful Blur (Deluxe)"
-        },
-        "name": "Alonica",
-        "url": "https://www.last.fm/music/Lany/_/Alonica",
-        "date": {
-          "uts": "1754059654",
-          "#text": "01 Aug 2025, 14:47"
-        }
-      },
-      {
-        "artist": {
           "mbid": "fb4d3639-dac0-478e-8776-4417096d8381",
           "#text": "The Band CAMINO"
         },
@@ -81,67 +10,138 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76d550cb5979c99a5e460c9bbfcd85d5.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "b95bd361-a22f-4af3-8e75-fee67dcb228b",
+        "mbid": "11a2e4aa-f4bb-496f-b2c9-dc047b97539a",
         "album": {
-          "mbid": "06d906b8-2432-4db9-ae1b-49977bae24d2",
-          "#text": "The Band CAMINO"
+          "mbid": "",
+          "#text": "I Spend Too Much Time in My Room - Single"
         },
-        "name": "Who Do You Think You Are?",
-        "url": "https://www.last.fm/music/The+Band+CAMINO/_/Who+Do+You+Think+You+Are%3F",
-        "date": {
-          "uts": "1754059431",
-          "#text": "01 Aug 2025, 14:43"
-        }
+        "name": "I Spend Too Much Time in My Room",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Band+CAMINO/_/I+Spend+Too+Much+Time+in+My+Room"
       },
       {
         "artist": {
-          "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
-          "#text": "The Police"
+          "mbid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
+          "#text": "Turnstile"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bbf56b7df22d8044b0102c3ef12183a.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67e3d129294f6566907566bd24a97d8.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bbf56b7df22d8044b0102c3ef12183a.jpg"
           }
         ],
-        "mbid": "71819847-c925-30b1-828e-5c2d951b3db1",
+        "mbid": "276b4dd7-b108-48d9-b32f-1377ef629a24",
         "album": {
-          "mbid": "069eb645-f2b3-4277-96a7-d32eb7d8db9c",
-          "#text": "The Police"
+          "mbid": "8f914f2d-d449-4349-8463-f654867b0f35",
+          "#text": "GLOW ON"
         },
-        "name": "Every Breath You Take",
-        "url": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
+        "name": "MYSTERY",
+        "url": "https://www.last.fm/music/Turnstile/_/MYSTERY",
         "date": {
-          "uts": "1754059202",
-          "#text": "01 Aug 2025, 14:40"
+          "uts": "1754060206",
+          "#text": "01 Aug 2025, 14:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chris Brown"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
+          }
+        ],
+        "mbid": "769ae0d9-6441-43dc-bb30-9b0c2c54b3af",
+        "album": {
+          "mbid": "",
+          "#text": "11:11 (Deluxe)"
+        },
+        "name": "Residuals",
+        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
+        "date": {
+          "uts": "1754060020",
+          "#text": "01 Aug 2025, 14:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43cbf0e999e9ffec7baf8f5a15b0eccd.jpg"
+          }
+        ],
+        "mbid": "3e36c105-9560-4e87-9032-eba985e98cdf",
+        "album": {
+          "mbid": "",
+          "#text": "Because of You - Single"
+        },
+        "name": "Because of You",
+        "url": "https://www.last.fm/music/Lauv/_/Because+of+You",
+        "date": {
+          "uts": "1754059843",
+          "#text": "01 Aug 2025, 14:50"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "149",
       "page": "1",
       "perPage": "50",
-      "total": "7427"
+      "total": "7430"
     }
   }
 }
