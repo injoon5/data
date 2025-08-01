@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
+          }
+        ],
+        "mbid": "640cb2be-3f85-4234-afd4-33756c908d6b",
+        "album": {
+          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
+          "#text": "mama's boy (deluxe)"
+        },
+        "name": "you!",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/you!"
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lany"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1754032324",
           "#text": "01 Aug 2025, 07:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Soft"
-        },
-        "name": "Know You Naked",
-        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked",
-        "date": {
-          "uts": "1754031877",
-          "#text": "01 Aug 2025, 07:04"
         }
       }
     ],
