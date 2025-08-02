@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/973ef9eee5a2ada158a74b3015bddc91.jpg"
+          }
+        ],
+        "mbid": "5fcfb5b6-36f1-47cf-958a-d6a651b8d991",
+        "album": {
+          "mbid": "169dfb69-8fcc-43ee-8c67-cedc3d9e8ae2",
+          "#text": "Elemental (Original Motion Picture Soundtrack)"
+        },
+        "name": "Steal the Show",
+        "url": "https://www.last.fm/music/Lauv/_/Steal+the+Show",
+        "date": {
+          "uts": "1754115718",
+          "#text": "02 Aug 2025, 06:21"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2282ed66c52ae4822d6c2d7358479bbf.jpg"
+          }
+        ],
+        "mbid": "640cb2be-3f85-4234-afd4-33756c908d6b",
+        "album": {
+          "mbid": "",
+          "#text": "mama's boy"
+        },
+        "name": "you!",
+        "url": "https://www.last.fm/music/Lany/_/you!",
+        "date": {
+          "uts": "1754115216",
+          "#text": "02 Aug 2025, 06:13"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
           "#text": "Coldplay"
         },
@@ -72,78 +144,6 @@
           "uts": "1754113447",
           "#text": "02 Aug 2025, 05:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
-          "#text": "Elijah Woods"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "bright orange everglow (sunset sessions)"
-        },
-        "name": "24/7, 365 (sunset session)",
-        "url": "https://www.last.fm/music/Elijah+Woods/_/24%2F7,+365+(sunset+session)",
-        "date": {
-          "uts": "1754113295",
-          "#text": "02 Aug 2025, 05:41"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Soft"
-        },
-        "name": "Know You Naked",
-        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked",
-        "date": {
-          "uts": "1754107914",
-          "#text": "02 Aug 2025, 04:11"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "150",
       "page": "1",
       "perPage": "50",
-      "total": "7466"
+      "total": "7468"
     }
   }
 }
