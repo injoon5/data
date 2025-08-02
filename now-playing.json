@@ -3,38 +3,110 @@
     "track": [
       {
         "artist": {
-          "mbid": "02da8816-ceb8-445b-85a6-f619327d2c7f",
-          "#text": "Jub\u00ebl"
+          "mbid": "",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad90deda0ca949819245281ab445f6fd.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad90deda0ca949819245281ab445f6fd.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad90deda0ca949819245281ab445f6fd.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad90deda0ca949819245281ab445f6fd.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Dancing in the Moonlight (feat. NEIMY) - Single"
+          "#text": "Soft"
         },
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
+        "name": "Know You Naked",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Jub%C3%ABl/_/Dancing+In+The+Moonlight+(feat.+NEIMY)"
+        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked"
+      },
+      {
+        "artist": {
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
+          }
+        ],
+        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
+        "album": {
+          "mbid": "",
+          "#text": "Bad Habits - Single"
+        },
+        "name": "Bad Habits",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
+        "date": {
+          "uts": "1754120635",
+          "#text": "02 Aug 2025, 07:43"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "4c445344-9df2-407e-9bf3-8a5c0b86777e",
+          "#text": "Loud Luxury"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/546b8786add442ed8c7ef58589960cb1.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/546b8786add442ed8c7ef58589960cb1.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/546b8786add442ed8c7ef58589960cb1.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/546b8786add442ed8c7ef58589960cb1.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Body (feat. brando) - Single"
+        },
+        "name": "Body (feat. brando)",
+        "url": "https://www.last.fm/music/Loud+Luxury/_/Body+(feat.+brando)",
+        "date": {
+          "uts": "1754120482",
+          "#text": "02 Aug 2025, 07:41"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1754120235",
           "#text": "02 Aug 2025, 07:37"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Weeknd & Ariana Grande"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419086d31cc73d879e0a179dcdd1f138.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419086d31cc73d879e0a179dcdd1f138.jpg"
-          }
-        ],
-        "mbid": "8f7bd943-e528-4593-8ee9-79d5fcfe251b",
-        "album": {
-          "mbid": "",
-          "#text": "Save Your Tears (Remix) - Single"
-        },
-        "name": "Save Your Tears (Remix)",
-        "url": "https://www.last.fm/music/The+Weeknd+&+Ariana+Grande/_/Save+Your+Tears+(Remix)",
-        "date": {
-          "uts": "1754120031",
-          "#text": "02 Aug 2025, 07:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "David Guetta, Anne-Marie & Coi Leray"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5eb1202a96c76094b3a1b0b5d513f742.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5eb1202a96c76094b3a1b0b5d513f742.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5eb1202a96c76094b3a1b0b5d513f742.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5eb1202a96c76094b3a1b0b5d513f742.jpg"
-          }
-        ],
-        "mbid": "78598b3e-345d-4e24-8853-2146318c0111",
-        "album": {
-          "mbid": "",
-          "#text": "Baby Don't Hurt Me - Single"
-        },
-        "name": "Baby Don't Hurt Me",
-        "url": "https://www.last.fm/music/David+Guetta,+Anne-Marie+&+Coi+Leray/_/Baby+Don%27t+Hurt+Me",
-        "date": {
-          "uts": "1754119919",
-          "#text": "02 Aug 2025, 07:31"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "150",
       "page": "1",
       "perPage": "50",
-      "total": "7479"
+      "total": "7481"
     }
   }
 }
