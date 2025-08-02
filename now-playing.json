@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+          "#text": "Kansas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3cb1a85be3804060c1e5e6a507219f7d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3cb1a85be3804060c1e5e6a507219f7d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3cb1a85be3804060c1e5e6a507219f7d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3cb1a85be3804060c1e5e6a507219f7d.jpg"
+          }
+        ],
+        "mbid": "a3c5fd58-b310-4da1-9026-246986dbebe5",
+        "album": {
+          "mbid": "",
+          "#text": "Point Of Know Return (Expanded Edition)"
+        },
+        "name": "Dust in the Wind",
+        "url": "https://www.last.fm/music/Kansas/_/Dust+in+the+Wind",
+        "date": {
+          "uts": "1754113447",
+          "#text": "02 Aug 2025, 05:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
+          "#text": "Elijah Woods"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28d63b2481316e8addcd5aaf3be4d9c4.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "bright orange everglow (sunset sessions)"
+        },
+        "name": "24/7, 365 (sunset session)",
+        "url": "https://www.last.fm/music/Elijah+Woods/_/24%2F7,+365+(sunset+session)",
+        "date": {
+          "uts": "1754113295",
+          "#text": "02 Aug 2025, 05:41"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lany"
         },
@@ -72,78 +144,6 @@
           "uts": "1754107572",
           "#text": "02 Aug 2025, 04:06"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Soft"
-        },
-        "name": "Know You Naked",
-        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked",
-        "date": {
-          "uts": "1754107422",
-          "#text": "02 Aug 2025, 04:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jon1 - EP"
-        },
-        "name": "Unze",
-        "url": "https://www.last.fm/music/O3OHN/_/Unze",
-        "date": {
-          "uts": "1754068365",
-          "#text": "01 Aug 2025, 17:12"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "150",
       "page": "1",
       "perPage": "50",
-      "total": "7463"
+      "total": "7465"
     }
   }
 }
