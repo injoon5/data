@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+          "#text": "Eric Clapton"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd0826ec2b087119bd774ca02f3ea3c9.jpg"
+          }
+        ],
+        "mbid": "80c2a25f-a97c-3971-aa4f-27a17928825f",
+        "album": {
+          "mbid": "205b7b10-fcd6-35fa-86e2-0be09a1d1824",
+          "#text": "Clapton Chronicles: The Best of Eric Clapton"
+        },
+        "name": "Change The World",
+        "url": "https://www.last.fm/music/Eric+Clapton/_/Change+The+World",
+        "date": {
+          "uts": "1754121099",
+          "#text": "02 Aug 2025, 07:51"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lany"
         },
@@ -31,10 +67,11 @@
           "#text": "Soft"
         },
         "name": "Know You Naked",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked"
+        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked",
+        "date": {
+          "uts": "1754120844",
+          "#text": "02 Aug 2025, 07:47"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1754120482",
           "#text": "02 Aug 2025, 07:41"
         }
-      },
-      {
-        "artist": {
-          "mbid": "02da8816-ceb8-445b-85a6-f619327d2c7f",
-          "#text": "Jub\u00ebl"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad90deda0ca949819245281ab445f6fd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad90deda0ca949819245281ab445f6fd.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Dancing in the Moonlight (feat. NEIMY) - Single"
-        },
-        "name": "Dancing In The Moonlight (feat. NEIMY)",
-        "url": "https://www.last.fm/music/Jub%C3%ABl/_/Dancing+In+The+Moonlight+(feat.+NEIMY)",
-        "date": {
-          "uts": "1754120235",
-          "#text": "02 Aug 2025, 07:37"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "150",
       "page": "1",
       "perPage": "50",
-      "total": "7481"
+      "total": "7483"
     }
   }
 }
