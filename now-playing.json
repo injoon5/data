@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "37e87694-b263-4ff4-839f-463f78cfef54",
+          "#text": "Cleo Sol"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          }
+        ],
+        "mbid": "61953ef7-78bc-474b-acfc-961280429a84",
+        "album": {
+          "mbid": "fffcd689-a28a-4b4d-b596-088e1bbfee41",
+          "#text": "Heaven"
+        },
+        "name": "Self",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Cleo+Sol/_/Self"
+      },
+      {
+        "artist": {
+          "mbid": "37e87694-b263-4ff4-839f-463f78cfef54",
+          "#text": "Cleo Sol"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48a80e9a032a4a904e8cb6314921d0f9.jpg"
+          }
+        ],
+        "mbid": "61953ef7-78bc-474b-acfc-961280429a84",
+        "album": {
+          "mbid": "fffcd689-a28a-4b4d-b596-088e1bbfee41",
+          "#text": "Heaven"
+        },
+        "name": "Self",
+        "url": "https://www.last.fm/music/Cleo+Sol/_/Self",
+        "date": {
+          "uts": "1754672314",
+          "#text": "08 Aug 2025, 16:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+          "#text": "Mac DeMarco"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d55ba33a6dbe4d8842c25b97c43cf3ad.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d55ba33a6dbe4d8842c25b97c43cf3ad.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d55ba33a6dbe4d8842c25b97c43cf3ad.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d55ba33a6dbe4d8842c25b97c43cf3ad.png"
+          }
+        ],
+        "mbid": "c6f345a8-e6d6-40e6-9ebc-760f8fb07bfe",
+        "album": {
+          "mbid": "bf34910e-6a56-4cc5-ac30-8be36192612c",
+          "#text": "Five Easy Hot Dogs"
+        },
+        "name": "Rockaway",
+        "url": "https://www.last.fm/music/Mac+DeMarco/_/Rockaway",
+        "date": {
+          "uts": "1754672151",
+          "#text": "08 Aug 2025, 16:55"
+        }
+      },
+      {
+        "artist": {
           "mbid": "69d9dfd7-19b7-4a75-8a53-9f733fb5d774",
           "#text": "Leon Bridges"
         },
@@ -31,117 +138,10 @@
           "#text": "Leon"
         },
         "name": "Laredo",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Leon+Bridges/_/Laredo"
-      },
-      {
-        "artist": {
-          "mbid": "f7cc8cac-1710-437c-afdd-8d2370352563",
-          "#text": "Okonski"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8cc0072af6e71a238f7009d871bb133c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8cc0072af6e71a238f7009d871bb133c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8cc0072af6e71a238f7009d871bb133c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cc0072af6e71a238f7009d871bb133c.jpg"
-          }
-        ],
-        "mbid": "b5d89bca-c861-4c07-89bb-432a568e234e",
-        "album": {
-          "mbid": "",
-          "#text": "Trio Session Demos - EP"
-        },
-        "name": "Paradiso",
-        "url": "https://www.last.fm/music/Okonski/_/Paradiso",
+        "url": "https://www.last.fm/music/Leon+Bridges/_/Laredo",
         "date": {
-          "uts": "1754671805",
-          "#text": "08 Aug 2025, 16:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "fd14c280-36e8-4930-b44e-c556f85fe98f",
-          "#text": "Farr"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb4675a8e57efa2d67b087b61fd738b8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb4675a8e57efa2d67b087b61fd738b8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb4675a8e57efa2d67b087b61fd738b8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb4675a8e57efa2d67b087b61fd738b8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Bulletproof - Single"
-        },
-        "name": "Bulletproof",
-        "url": "https://www.last.fm/music/Farr/_/Bulletproof",
-        "date": {
-          "uts": "1754671613",
-          "#text": "08 Aug 2025, 16:46"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Dusty Boots, Kyle McEvoy & wowflower"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Still On My Mind - Single"
-        },
-        "name": "Still On My Mind",
-        "url": "https://www.last.fm/music/Dusty+Boots,+Kyle+McEvoy+&+wowflower/_/Still+On+My+Mind",
-        "date": {
-          "uts": "1754671396",
-          "#text": "08 Aug 2025, 16:43"
+          "uts": "1754671989",
+          "#text": "08 Aug 2025, 16:53"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "151",
       "page": "1",
       "perPage": "50",
-      "total": "7531"
+      "total": "7534"
     }
   }
 }
