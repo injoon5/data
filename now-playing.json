@@ -3,145 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Public Library Commute & Mills"
+          "mbid": "d762da0e-77b0-495d-9c68-c90f4864e3ee",
+          "#text": "Flor"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e14a8edec5cfc924e6ab3c5d82b2df39.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e14a8edec5cfc924e6ab3c5d82b2df39.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e14a8edec5cfc924e6ab3c5d82b2df39.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e14a8edec5cfc924e6ab3c5d82b2df39.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "fe73bf08-20a2-4299-a78b-39d70e71c1d4",
         "album": {
           "mbid": "",
-          "#text": "Mile High - Single"
+          "#text": "come out. you're hiding (Deluxe)"
         },
-        "name": "Mile High",
+        "name": "where do you go",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Public+Library+Commute+&+Mills/_/Mile+High"
+        "url": "https://www.last.fm/music/Flor/_/where+do+you+go"
       },
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "5fce6bcd-be89-4aa5-aa86-6d4e382d2621",
+          "#text": "Nightly"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ec3b1439682eb3ed563cc0f0961293.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ec3b1439682eb3ed563cc0f0961293.jpg"
-          }
-        ],
-        "mbid": "cfa0f14f-fe80-4339-a679-e18c66827e64",
-        "album": {
-          "mbid": "c47cea7d-f010-455a-9f40-eaa0adfe6bda",
-          "#text": "mama's boy (deluxe)"
-        },
-        "name": "heart won't let me",
-        "url": "https://www.last.fm/music/Lany/_/heart+won%27t+let+me",
-        "date": {
-          "uts": "1754667549",
-          "#text": "08 Aug 2025, 15:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "There\u2019s a First Time for Everything",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/There%E2%80%99s+a+First+Time+for+Everything",
-        "date": {
-          "uts": "1754667381",
-          "#text": "08 Aug 2025, 15:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f6686f2-7a23-4bf3-9d01-860e4ae9390f",
-          "#text": "10cm"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7cd2ccf2cc6f5af3d24ffda896842eb.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Follow Your Steps (feat. BIBI) - Single"
+          "#text": "I Wish You Loved Me - Single"
         },
-        "name": "Follow Your Steps (Feat. BIBI)",
-        "url": "https://www.last.fm/music/10cm/_/Follow+Your+Steps+(Feat.+BIBI)",
+        "name": "i wish you loved me",
+        "url": "https://www.last.fm/music/Nightly/_/i+wish+you+loved+me",
         "date": {
-          "uts": "1754667183",
-          "#text": "08 Aug 2025, 15:33"
+          "uts": "1754668303",
+          "#text": "08 Aug 2025, 15:51"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Chris Brown"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73304332315282df64bdc8b31833a855.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73304332315282df64bdc8b31833a855.jpg"
+          }
+        ],
+        "mbid": "769ae0d9-6441-43dc-bb30-9b0c2c54b3af",
+        "album": {
+          "mbid": "",
+          "#text": "11:11 (Deluxe)"
+        },
+        "name": "Residuals",
+        "url": "https://www.last.fm/music/Chris+Brown/_/Residuals",
+        "date": {
+          "uts": "1754668094",
+          "#text": "08 Aug 2025, 15:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          }
+        ],
+        "mbid": "f4f8cdea-ea03-48b8-9040-bc39bfe8b430",
+        "album": {
+          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
+          "#text": "SWAG"
+        },
+        "name": "THINGS YOU DO",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/THINGS+YOU+DO",
+        "date": {
+          "uts": "1754667913",
+          "#text": "08 Aug 2025, 15:45"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "151",
       "page": "1",
       "perPage": "50",
-      "total": "7508"
+      "total": "7512"
     }
   }
 }
