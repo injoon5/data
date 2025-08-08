@@ -31,41 +31,6 @@
           "#text": "Heaven"
         },
         "name": "Self",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Cleo+Sol/_/Self"
-      },
-      {
-        "artist": {
-          "mbid": "37e87694-b263-4ff4-839f-463f78cfef54",
-          "#text": "Cleo Sol"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48a80e9a032a4a904e8cb6314921d0f9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48a80e9a032a4a904e8cb6314921d0f9.jpg"
-          }
-        ],
-        "mbid": "61953ef7-78bc-474b-acfc-961280429a84",
-        "album": {
-          "mbid": "fffcd689-a28a-4b4d-b596-088e1bbfee41",
-          "#text": "Heaven"
-        },
-        "name": "Self",
         "url": "https://www.last.fm/music/Cleo+Sol/_/Self",
         "date": {
           "uts": "1754672314",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1754671989",
           "#text": "08 Aug 2025, 16:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f7cc8cac-1710-437c-afdd-8d2370352563",
+          "#text": "Okonski"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8cc0072af6e71a238f7009d871bb133c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8cc0072af6e71a238f7009d871bb133c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8cc0072af6e71a238f7009d871bb133c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cc0072af6e71a238f7009d871bb133c.jpg"
+          }
+        ],
+        "mbid": "b5d89bca-c861-4c07-89bb-432a568e234e",
+        "album": {
+          "mbid": "",
+          "#text": "Trio Session Demos - EP"
+        },
+        "name": "Paradiso",
+        "url": "https://www.last.fm/music/Okonski/_/Paradiso",
+        "date": {
+          "uts": "1754671805",
+          "#text": "08 Aug 2025, 16:50"
         }
       }
     ],
