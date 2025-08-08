@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
+          }
+        ],
+        "mbid": "ae1bafde-1b65-4213-b9c8-52ca1cc4c1b5",
+        "album": {
+          "mbid": "",
+          "#text": "Soft"
+        },
+        "name": "Know You Naked",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Know+You+Naked"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "keshi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5f1216daaf05d71adda51a259eab0c6.gif"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5f1216daaf05d71adda51a259eab0c6.gif"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5f1216daaf05d71adda51a259eab0c6.gif"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5f1216daaf05d71adda51a259eab0c6.gif"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "WANTCHU - Single"
+        },
+        "name": "WANTCHU",
+        "url": "https://www.last.fm/music/keshi/_/WANTCHU",
+        "date": {
+          "uts": "1754662810",
+          "#text": "08 Aug 2025, 14:20"
+        }
+      },
+      {
+        "artist": {
           "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
           "#text": "Eric Clapton"
         },
@@ -72,78 +143,6 @@
           "uts": "1754120844",
           "#text": "02 Aug 2025, 07:47"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e27dbe694525f8fa55821b403b9c6cc4.jpg"
-          }
-        ],
-        "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
-        "album": {
-          "mbid": "",
-          "#text": "Bad Habits - Single"
-        },
-        "name": "Bad Habits",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
-        "date": {
-          "uts": "1754120635",
-          "#text": "02 Aug 2025, 07:43"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4c445344-9df2-407e-9bf3-8a5c0b86777e",
-          "#text": "Loud Luxury"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/546b8786add442ed8c7ef58589960cb1.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/546b8786add442ed8c7ef58589960cb1.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/546b8786add442ed8c7ef58589960cb1.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/546b8786add442ed8c7ef58589960cb1.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Body (feat. brando) - Single"
-        },
-        "name": "Body (feat. brando)",
-        "url": "https://www.last.fm/music/Loud+Luxury/_/Body+(feat.+brando)",
-        "date": {
-          "uts": "1754120482",
-          "#text": "02 Aug 2025, 07:41"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "150",
       "page": "1",
       "perPage": "50",
-      "total": "7483"
+      "total": "7484"
     }
   }
 }
