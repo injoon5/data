@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
+          "#text": "keshi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/654dfd62f9b24a984c3d1a7d3569425e.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/654dfd62f9b24a984c3d1a7d3569425e.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/654dfd62f9b24a984c3d1a7d3569425e.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/654dfd62f9b24a984c3d1a7d3569425e.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Requiem"
+        },
+        "name": "Soft Spot",
+        "url": "https://www.last.fm/music/keshi/_/Soft+Spot",
+        "date": {
+          "uts": "1754838099",
+          "#text": "10 Aug 2025, 15:01"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "62b914a7-d775-4bb4-bb5e-d46e7df115b5",
+          "#text": "Benson Boone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf63c88da80201d92f733e51572dbd6e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf63c88da80201d92f733e51572dbd6e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf63c88da80201d92f733e51572dbd6e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf63c88da80201d92f733e51572dbd6e.jpg"
+          }
+        ],
+        "mbid": "02b50e16-9c33-48ec-8181-42b6e8b9434f",
+        "album": {
+          "mbid": "",
+          "#text": "Before You - Single"
+        },
+        "name": "Before You",
+        "url": "https://www.last.fm/music/Benson+Boone/_/Before+You",
+        "date": {
+          "uts": "1754837903",
+          "#text": "10 Aug 2025, 14:58"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Toto"
         },
@@ -10,19 +82,19 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ae9e48c7034db9b7b6d21037fde4c91.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ae9e48c7034db9b7b6d21037fde4c91.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ae9e48c7034db9b7b6d21037fde4c91.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ae9e48c7034db9b7b6d21037fde4c91.jpg"
           }
         ],
         "mbid": "7efa105d-97b1-43e5-9221-5122808abf9f",
@@ -31,10 +103,11 @@
           "#text": "Haynes Ultimate Guide to 80s"
         },
         "name": "Africa",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Toto/_/Africa"
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1754837678",
+          "#text": "10 Aug 2025, 14:54"
+        }
       },
       {
         "artist": {
@@ -71,78 +144,6 @@
           "uts": "1754837455",
           "#text": "10 Aug 2025, 14:50"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed",
-          "#text": "Two Door Cinema Club"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa9e02325be944cab8e4392f1948f5e0.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa9e02325be944cab8e4392f1948f5e0.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa9e02325be944cab8e4392f1948f5e0.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa9e02325be944cab8e4392f1948f5e0.png"
-          }
-        ],
-        "mbid": "cadde50b-8c42-4a16-af00-185fcc3827f4",
-        "album": {
-          "mbid": "54d5c88c-7a5b-4502-93ab-a6b245611a94",
-          "#text": "Tourist History"
-        },
-        "name": "What You Know",
-        "url": "https://www.last.fm/music/Two+Door+Cinema+Club/_/What+You+Know",
-        "date": {
-          "uts": "1754837265",
-          "#text": "10 Aug 2025, 14:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
-          }
-        ],
-        "mbid": "41ebde38-71d0-4504-82c6-ec5c956bccf5",
-        "album": {
-          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
-          "#text": "~how i'm feeling~"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Lauv/_/Changes",
-        "date": {
-          "uts": "1754837089",
-          "#text": "10 Aug 2025, 14:44"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "151",
       "page": "1",
       "perPage": "50",
-      "total": "7547"
+      "total": "7550"
     }
   }
 }
