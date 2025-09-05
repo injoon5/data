@@ -30,84 +30,11 @@
           "mbid": "",
           "#text": "SWAG II"
         },
-        "name": "MOTHER IN YOU",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/MOTHER+IN+YOU",
-        "date": {
-          "uts": "1757070737",
-          "#text": "05 Sep 2025, 11:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber & Tems"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG II"
-        },
-        "name": "I THINK YOU'RE SPECIAL",
-        "url": "https://www.last.fm/music/Justin+Bieber+&+Tems/_/I+THINK+YOU%27RE+SPECIAL",
-        "date": {
-          "uts": "1757070550",
-          "#text": "05 Sep 2025, 11:09"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG II"
-        },
         "name": "I DO",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO",
-        "date": {
-          "uts": "1757070248",
-          "#text": "05 Sep 2025, 11:04"
-        }
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO"
       },
       {
         "artist": {
@@ -141,8 +68,80 @@
         "name": "LOVE SONG",
         "url": "https://www.last.fm/music/Justin+Bieber/_/LOVE+SONG",
         "date": {
-          "uts": "1757070050",
-          "#text": "05 Sep 2025, 11:00"
+          "uts": "1757071512",
+          "#text": "05 Sep 2025, 11:25"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG II"
+        },
+        "name": "BETTER MAN",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/BETTER+MAN",
+        "date": {
+          "uts": "1757071341",
+          "#text": "05 Sep 2025, 11:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG II"
+        },
+        "name": "MOTHER IN YOU",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/MOTHER+IN+YOU",
+        "date": {
+          "uts": "1757070737",
+          "#text": "05 Sep 2025, 11:12"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "152",
       "page": "1",
       "perPage": "50",
-      "total": "7571"
+      "total": "7573"
     }
   }
 }
