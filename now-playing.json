@@ -31,10 +31,11 @@
           "#text": "SWAG II"
         },
         "name": "I DO",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO"
+        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO",
+        "date": {
+          "uts": "1757071711",
+          "#text": "05 Sep 2025, 11:28"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "152",
       "page": "1",
       "perPage": "50",
-      "total": "7573"
+      "total": "7574"
     }
   }
 }
