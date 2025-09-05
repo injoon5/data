@@ -30,11 +30,48 @@
           "mbid": "",
           "#text": "SWAG II"
         },
-        "name": "LOVE SONG",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "MOTHER IN YOU",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/MOTHER+IN+YOU",
+        "date": {
+          "uts": "1757070737",
+          "#text": "05 Sep 2025, 11:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber & Tems"
         },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/LOVE+SONG"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG II"
+        },
+        "name": "I THINK YOU'RE SPECIAL",
+        "url": "https://www.last.fm/music/Justin+Bieber+&+Tems/_/I+THINK+YOU%27RE+SPECIAL",
+        "date": {
+          "uts": "1757070550",
+          "#text": "05 Sep 2025, 11:09"
+        }
       },
       {
         "artist": {
@@ -65,83 +102,47 @@
           "mbid": "",
           "#text": "SWAG II"
         },
-        "name": "BETTER MAN",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/BETTER+MAN",
+        "name": "I DO",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO",
         "date": {
-          "uts": "1757069879",
-          "#text": "05 Sep 2025, 10:57"
+          "uts": "1757070248",
+          "#text": "05 Sep 2025, 11:04"
         }
       },
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "",
+          "#text": "Justin Bieber"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Soft"
+          "#text": "SWAG II"
         },
-        "name": "Last Forever",
-        "url": "https://www.last.fm/music/Lany/_/Last+Forever",
+        "name": "LOVE SONG",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/LOVE+SONG",
         "date": {
-          "uts": "1757069267",
-          "#text": "05 Sep 2025, 10:47"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Soft"
-        },
-        "name": "Last Forever",
-        "url": "https://www.last.fm/music/Lany/_/Last+Forever",
-        "date": {
-          "uts": "1757068989",
-          "#text": "05 Sep 2025, 10:43"
+          "uts": "1757070050",
+          "#text": "05 Sep 2025, 11:00"
         }
       }
     ],
@@ -150,7 +151,7 @@
       "totalPages": "152",
       "page": "1",
       "perPage": "50",
-      "total": "7567"
+      "total": "7571"
     }
   }
 }
