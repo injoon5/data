@@ -3,146 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
+          "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+          "#text": "Mac DeMarco"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af64653c641bcca98fd66f46a7da26d6.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af64653c641bcca98fd66f46a7da26d6.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af64653c641bcca98fd66f46a7da26d6.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png"
           }
         ],
-        "mbid": "",
+        "mbid": "75f3c785-2fd8-4bce-9a2a-2224739a867c",
+        "album": {
+          "mbid": "a7d3b497-d809-49f3-abf5-f7af9e0e445c",
+          "#text": "Another One"
+        },
+        "name": "Another One",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Mac+DeMarco/_/Another+One"
+      },
+      {
+        "artist": {
+          "mbid": "67c1cf68-fbdb-4cb8-9774-25cec93587d6",
+          "#text": "MeloMance"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/caabdf120089600db81c485f67e1cb3e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/caabdf120089600db81c485f67e1cb3e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/caabdf120089600db81c485f67e1cb3e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caabdf120089600db81c485f67e1cb3e.jpg"
+          }
+        ],
+        "mbid": "be4c2393-19fc-41c5-b81f-b084cb0bfdcb",
         "album": {
           "mbid": "",
-          "#text": "SWAG II"
+          "#text": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
         },
-        "name": "I DO",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/I+DO",
+        "name": "\uc0ac\ub791\uc778\uac00 \ubd10 Love, Maybe",
+        "url": "https://www.last.fm/music/MeloMance/_/%EC%82%AC%EB%9E%91%EC%9D%B8%EA%B0%80+%EB%B4%90+Love,+Maybe",
         "date": {
-          "uts": "1757071711",
-          "#text": "05 Sep 2025, 11:28"
+          "uts": "1757075965",
+          "#text": "05 Sep 2025, 12:39"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "Justin Bieber"
+          "#text": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ece36fde3bcf33a9bea0993aa1e679d.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ece36fde3bcf33a9bea0993aa1e679d.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ece36fde3bcf33a9bea0993aa1e679d.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ece36fde3bcf33a9bea0993aa1e679d.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "236ec836-75e0-46eb-8211-ee0237e15ef9",
         "album": {
           "mbid": "",
-          "#text": "SWAG II"
+          "#text": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
         },
-        "name": "LOVE SONG",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/LOVE+SONG",
+        "name": "Soda Pop",
+        "url": "https://www.last.fm/music/Saja+Boys,+Andrew+Choi,+Neckwav,+Danny+Chung,+Kevin+Woo,+samUIL+Lee+&+KPop+Demon+Hunters+Cast/_/Soda+Pop",
         "date": {
-          "uts": "1757071512",
-          "#text": "05 Sep 2025, 11:25"
+          "uts": "1757075777",
+          "#text": "05 Sep 2025, 12:36"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "Justin Bieber"
+          "#text": "HUNTR/X, Ejae, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/001e3afed0940a9a08bc4e017fd492a0.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/001e3afed0940a9a08bc4e017fd492a0.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/001e3afed0940a9a08bc4e017fd492a0.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/001e3afed0940a9a08bc4e017fd492a0.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "61f7da88-b161-445b-bc48-8ac574b48dc3",
         "album": {
           "mbid": "",
-          "#text": "SWAG II"
+          "#text": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
         },
-        "name": "BETTER MAN",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/BETTER+MAN",
+        "name": "Golden",
+        "url": "https://www.last.fm/music/HUNTR%2FX,+Ejae,+AUDREY+NUNA,+REI+AMI+&+KPop+Demon+Hunters+Cast/_/Golden",
         "date": {
-          "uts": "1757071341",
-          "#text": "05 Sep 2025, 11:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bc38ca2cf0e79ebf641a8002dd10fd6.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "SWAG II"
-        },
-        "name": "MOTHER IN YOU",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/MOTHER+IN+YOU",
-        "date": {
-          "uts": "1757070737",
-          "#text": "05 Sep 2025, 11:12"
+          "uts": "1757075602",
+          "#text": "05 Sep 2025, 12:33"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "152",
       "page": "1",
       "perPage": "50",
-      "total": "7574"
+      "total": "7587"
     }
   }
 }
