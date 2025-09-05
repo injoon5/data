@@ -31,41 +31,6 @@
           "#text": "Journals"
         },
         "name": "All That Matters",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Justin+Bieber/_/All+That+Matters"
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4874b5036240e02de2cab94943ee5bd3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4874b5036240e02de2cab94943ee5bd3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4874b5036240e02de2cab94943ee5bd3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4874b5036240e02de2cab94943ee5bd3.jpg"
-          }
-        ],
-        "mbid": "342a59a5-5cd7-4731-ba3f-b665e10da96a",
-        "album": {
-          "mbid": "03bdfdea-d9a7-4e8d-8da5-6fb1e264ed26",
-          "#text": "Journals"
-        },
-        "name": "All That Matters",
         "url": "https://www.last.fm/music/Justin+Bieber/_/All+That+Matters",
         "date": {
           "uts": "1757085716",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1757078122",
           "#text": "05 Sep 2025, 13:15"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber & Eddie Benjamin"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SWAG II"
+        },
+        "name": "OPEN UP YOUR HEART",
+        "url": "https://www.last.fm/music/Justin+Bieber+&+Eddie+Benjamin/_/OPEN+UP+YOUR+HEART",
+        "date": {
+          "uts": "1757078041",
+          "#text": "05 Sep 2025, 13:14"
         }
       }
     ],
