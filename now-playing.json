@@ -31,10 +31,11 @@
           "#text": "Numb - Single"
         },
         "name": "Numb",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Men+I+Trust/_/Numb"
+        "url": "https://www.last.fm/music/Men+I+Trust/_/Numb",
+        "date": {
+          "uts": "1757242134",
+          "#text": "07 Sep 2025, 10:48"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "153",
       "page": "1",
       "perPage": "50",
-      "total": "7621"
+      "total": "7622"
     }
   }
 }
