@@ -3,146 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "25ab7547-a4d2-480b-b028-c7f3497bc858",
-          "#text": "Men I Trust"
+          "mbid": "",
+          "#text": "Lauv & LANY"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f8ab9f6cbb9744c917a7dcae26180c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f8ab9f6cbb9744c917a7dcae26180c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f8ab9f6cbb9744c917a7dcae26180c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f8ab9f6cbb9744c917a7dcae26180c8f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abf7159cdc261dfd3023b2b2e7f0ddeb.jpg"
           }
         ],
-        "mbid": "32e2b469-1c66-4c19-a48e-51ea5151d144",
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
         "album": {
           "mbid": "",
-          "#text": "Numb - Single"
+          "#text": "~how i'm feeling~"
         },
-        "name": "Numb",
-        "url": "https://www.last.fm/music/Men+I+Trust/_/Numb",
+        "name": "Mean It",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
+          }
+        ],
+        "mbid": "4bf4400c-ae6c-41ca-9294-738aac30a4a4",
+        "album": {
+          "mbid": "",
+          "#text": "Malibu Nights"
+        },
+        "name": "Thick And Thin",
+        "url": "https://www.last.fm/music/Lany/_/Thick+And+Thin",
         "date": {
-          "uts": "1757242134",
-          "#text": "07 Sep 2025, 10:48"
+          "uts": "1757326007",
+          "#text": "08 Sep 2025, 10:06"
         }
       },
       {
         "artist": {
-          "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
-          "#text": "Mac DeMarco"
+          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+          "#text": "Ed Sheeran"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af64653c641bcca98fd66f46a7da26d6.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d904dd085fb44fabcfd0834b8d2a5d92.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af64653c641bcca98fd66f46a7da26d6.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d904dd085fb44fabcfd0834b8d2a5d92.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af64653c641bcca98fd66f46a7da26d6.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d904dd085fb44fabcfd0834b8d2a5d92.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af64653c641bcca98fd66f46a7da26d6.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d904dd085fb44fabcfd0834b8d2a5d92.png"
           }
         ],
-        "mbid": "75f3c785-2fd8-4bce-9a2a-2224739a867c",
+        "mbid": "cb2cc207-8125-445c-9ef9-6ea44eee959a",
         "album": {
-          "mbid": "a7d3b497-d809-49f3-abf5-f7af9e0e445c",
-          "#text": "Another One"
+          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
+          "#text": "x (Deluxe Edition)"
         },
-        "name": "Another One",
-        "url": "https://www.last.fm/music/Mac+DeMarco/_/Another+One",
+        "name": "Thinking Out Loud",
+        "url": "https://www.last.fm/music/Ed+Sheeran/_/Thinking+Out+Loud",
         "date": {
-          "uts": "1757241944",
-          "#text": "07 Sep 2025, 10:45"
+          "uts": "1757325666",
+          "#text": "08 Sep 2025, 10:01"
         }
       },
       {
         "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0742b5d1bf1c00d23424e1a01f36a906.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0742b5d1bf1c00d23424e1a01f36a906.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "LEGEND"
+          "#text": "Soft"
         },
-        "name": "TOGETHER!",
-        "url": "https://www.last.fm/music/JANNABI/_/TOGETHER!",
+        "name": "Last Forever",
+        "url": "https://www.last.fm/music/Lany/_/Last+Forever",
         "date": {
-          "uts": "1757241769",
-          "#text": "07 Sep 2025, 10:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
-          "#text": "Justin Bieber"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19906a6c864b374ec3f9f30b2eb9a28b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19906a6c864b374ec3f9f30b2eb9a28b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19906a6c864b374ec3f9f30b2eb9a28b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19906a6c864b374ec3f9f30b2eb9a28b.png"
-          }
-        ],
-        "mbid": "166aa1b3-b7fb-48a5-87a0-8d51b2a5a369",
-        "album": {
-          "mbid": "3dd782d7-4cbd-446d-b0c8-c133bc3e93c8",
-          "#text": "SWAG II"
-        },
-        "name": "EVERYTHING HALLELUJAH",
-        "url": "https://www.last.fm/music/Justin+Bieber/_/EVERYTHING+HALLELUJAH",
-        "date": {
-          "uts": "1757241496",
-          "#text": "07 Sep 2025, 10:38"
+          "uts": "1757325458",
+          "#text": "08 Sep 2025, 09:57"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "153",
       "page": "1",
       "perPage": "50",
-      "total": "7622"
+      "total": "7625"
     }
   }
 }
