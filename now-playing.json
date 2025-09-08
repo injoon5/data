@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+          "#text": "Billie Eilish"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6db576307ee7bdd81056432542b6bab7.jpg"
+          }
+        ],
+        "mbid": "3b719bfd-903b-48fe-9935-d465bee62745",
+        "album": {
+          "mbid": "43869ac5-c515-41a4-8ce1-d4a0c67e30c1",
+          "#text": "HIT ME HARD AND SOFT"
+        },
+        "name": "BIRDS OF A FEATHER",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+      },
+      {
+        "artist": {
+          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+          "#text": "Conan Gray"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
+          "#text": "Kid Krow"
+        },
+        "name": "Heather",
+        "url": "https://www.last.fm/music/Conan+Gray/_/Heather",
+        "date": {
+          "uts": "1757339597",
+          "#text": "08 Sep 2025, 13:53"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
           "#text": "Lany"
         },
@@ -31,10 +102,11 @@
           "#text": "Alonica - Single"
         },
         "name": "Alonica",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lany/_/Alonica"
+        "url": "https://www.last.fm/music/Lany/_/Alonica",
+        "date": {
+          "uts": "1757339380",
+          "#text": "08 Sep 2025, 13:49"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1757339115",
           "#text": "08 Sep 2025, 13:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Post Malone & The Weeknd"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bfb7d892f00d1ad48ac5bd9235095eb3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bfb7d892f00d1ad48ac5bd9235095eb3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bfb7d892f00d1ad48ac5bd9235095eb3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfb7d892f00d1ad48ac5bd9235095eb3.jpg"
-          }
-        ],
-        "mbid": "65fe6fab-2cf6-433e-8bfa-0e89b8ab7a60",
-        "album": {
-          "mbid": "",
-          "#text": "One Right Now - Single"
-        },
-        "name": "One Right Now",
-        "url": "https://www.last.fm/music/Post+Malone+&+The+Weeknd/_/One+Right+Now",
-        "date": {
-          "uts": "1757338875",
-          "#text": "08 Sep 2025, 13:41"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4d106bfc5a4d0e8dcec8490630fab3.jpg"
-          }
-        ],
-        "mbid": "082630d2-615a-4e68-aab6-23488b9055a7",
-        "album": {
-          "mbid": "f1df0b2e-d00c-4686-810d-1f633ecb4aee",
-          "#text": "CHARLIE"
-        },
-        "name": "I Don\u2019t Think That I Like Her",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Don%E2%80%99t+Think+That+I+Like+Her",
-        "date": {
-          "uts": "1757338683",
-          "#text": "08 Sep 2025, 13:38"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "154",
       "page": "1",
       "perPage": "50",
-      "total": "7671"
+      "total": "7673"
     }
   }
 }
