@@ -3,115 +3,43 @@
     "track": [
       {
         "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
+          "mbid": "",
+          "#text": "HYUKOH"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b8595c474a8a828f1452cc73eaf4ba6.jpg"
           }
         ],
-        "mbid": "0025eb0c-9832-4446-b5cd-90f7f5cca285",
+        "mbid": "4cf180c9-ee80-4bdb-93a1-ce0e2f9a3fe1",
         "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
+          "mbid": "01d3a83b-bbe1-4db5-a913-bf0856308f44",
+          "#text": "23"
         },
-        "name": "Circles",
+        "name": "TOMBOY",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles"
+        "url": "https://www.last.fm/music/HYUKOH/_/TOMBOY"
       },
       {
         "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53f65efa74120514ef6c94d1fa30580d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53f65efa74120514ef6c94d1fa30580d.jpg"
-          }
-        ],
-        "mbid": "0025eb0c-9832-4446-b5cd-90f7f5cca285",
-        "album": {
-          "mbid": "0b751b1b-f420-46e9-b2b5-108615b8427f",
-          "#text": "Hollywood's Bleeding"
-        },
-        "name": "Circles",
-        "url": "https://www.last.fm/music/Post+Malone/_/Circles",
-        "date": {
-          "uts": "1757334195",
-          "#text": "08 Sep 2025, 12:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab7c81fd71314a42f3f14a05641b246.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab7c81fd71314a42f3f14a05641b246.jpg"
-          }
-        ],
-        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
-        "album": {
-          "mbid": "",
-          "#text": "It Takes Two - Single"
-        },
-        "name": "It Takes Two",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
-        "date": {
-          "uts": "1757334008",
-          "#text": "08 Sep 2025, 12:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f985932b-3ed2-462c-a102-74533c475ecf",
-          "#text": "Public Library Commute"
+          "mbid": "7cabaf05-e88f-45b4-bc58-c0e26cc1a728",
+          "#text": "Elijah Woods"
         },
         "streamable": "0",
         "image": [
@@ -135,22 +63,94 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "1000 Summers - EP"
+          "#text": "Ilu - Single"
         },
-        "name": "You Been On My Mind",
-        "url": "https://www.last.fm/music/Public+Library+Commute/_/You+Been+On+My+Mind",
+        "name": "ilu",
+        "url": "https://www.last.fm/music/Elijah+Woods/_/ilu",
         "date": {
-          "uts": "1757333848",
-          "#text": "08 Sep 2025, 12:17"
+          "uts": "1757336423",
+          "#text": "08 Sep 2025, 13:00"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+          "#text": "Justin Bieber"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          }
+        ],
+        "mbid": "e3f8c90a-afcf-48c4-9345-83f3f8436d53",
+        "album": {
+          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
+          "#text": "SWAG"
+        },
+        "name": "GO BABY",
+        "url": "https://www.last.fm/music/Justin+Bieber/_/GO+BABY",
+        "date": {
+          "uts": "1757336241",
+          "#text": "08 Sep 2025, 12:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c6aaaea2-7559-4511-a5e2-8335e078e7ff",
+          "#text": "EASY FREAK"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ddeb06d19ef03e225769da9f3653f73.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Everything's Blurred But You"
+        },
+        "name": "Forever On My Mind",
+        "url": "https://www.last.fm/music/EASY+FREAK/_/Forever+On+My+Mind",
+        "date": {
+          "uts": "1757336041",
+          "#text": "08 Sep 2025, 12:54"
         }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "153",
+      "totalPages": "154",
       "page": "1",
       "perPage": "50",
-      "total": "7647"
+      "total": "7658"
     }
   }
 }
