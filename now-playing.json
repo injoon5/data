@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
+          "#text": "Keane"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4d48c7e6c74d5c4bb30ea087712bedd.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "00cc55b5-ad1e-31a2-86e1-bef39e86005e",
+          "#text": "Hopes and Fears"
+        },
+        "name": "Somewhere Only We Know",
+        "url": "https://www.last.fm/music/Keane/_/Somewhere+Only+We+Know",
+        "date": {
+          "uts": "1757340026",
+          "#text": "08 Sep 2025, 14:00"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
           "#text": "Billie Eilish"
         },
@@ -31,10 +67,11 @@
           "#text": "HIT ME HARD AND SOFT"
         },
         "name": "BIRDS OF A FEATHER",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+        "url": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER",
+        "date": {
+          "uts": "1757339802",
+          "#text": "08 Sep 2025, 13:56"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1757339380",
           "#text": "08 Sep 2025, 13:49"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Goo Goo Dolls"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "cef4d7e6-5f96-40ad-8841-e870a06e36e1",
-        "album": {
-          "mbid": "",
-          "#text": "Stay With You - Single"
-        },
-        "name": "Iris",
-        "url": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris",
-        "date": {
-          "uts": "1757339115",
-          "#text": "08 Sep 2025, 13:45"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "154",
       "page": "1",
       "perPage": "50",
-      "total": "7673"
+      "total": "7675"
     }
   }
 }
