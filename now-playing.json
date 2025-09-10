@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          }
+        ],
+        "mbid": "4c43aafa-3d34-47f0-a635-965e183e182b",
+        "album": {
+          "mbid": "",
+          "#text": "Love Is a Four Letter Word (Deluxe Version)"
+        },
+        "name": "I Won't Give Up",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Jason+Mraz/_/I+Won%27t+Give+Up"
+      },
+      {
+        "artist": {
+          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+          "#text": "Jason Mraz"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84bc3c8c6e9b477dbfb7620447a37c7b.png"
+          }
+        ],
+        "mbid": "4c43aafa-3d34-47f0-a635-965e183e182b",
+        "album": {
+          "mbid": "",
+          "#text": "Love Is a Four Letter Word (Deluxe Version)"
+        },
+        "name": "I Won't Give Up",
+        "url": "https://www.last.fm/music/Jason+Mraz/_/I+Won%27t+Give+Up",
+        "date": {
+          "uts": "1757499188",
+          "#text": "10 Sep 2025, 10:13"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
           "#text": "Keane"
         },
@@ -72,78 +143,6 @@
           "uts": "1757339802",
           "#text": "08 Sep 2025, 13:56"
         }
-      },
-      {
-        "artist": {
-          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
-          "#text": "Conan Gray"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
-          "#text": "Kid Krow"
-        },
-        "name": "Heather",
-        "url": "https://www.last.fm/music/Conan+Gray/_/Heather",
-        "date": {
-          "uts": "1757339597",
-          "#text": "08 Sep 2025, 13:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da7c413009f5360b99c1dd6a6d99205c.jpg"
-          }
-        ],
-        "mbid": "568610ce-91a3-42bd-b1ef-74c0e0e3f15d",
-        "album": {
-          "mbid": "",
-          "#text": "Alonica - Single"
-        },
-        "name": "Alonica",
-        "url": "https://www.last.fm/music/Lany/_/Alonica",
-        "date": {
-          "uts": "1757339380",
-          "#text": "08 Sep 2025, 13:49"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "154",
       "page": "1",
       "perPage": "50",
-      "total": "7675"
+      "total": "7676"
     }
   }
 }
