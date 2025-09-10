@@ -31,41 +31,6 @@
           "#text": "Love Is a Four Letter Word (Deluxe Version)"
         },
         "name": "I Won't Give Up",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jason+Mraz/_/I+Won%27t+Give+Up"
-      },
-      {
-        "artist": {
-          "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
-          "#text": "Jason Mraz"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/84bc3c8c6e9b477dbfb7620447a37c7b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/84bc3c8c6e9b477dbfb7620447a37c7b.png"
-          }
-        ],
-        "mbid": "4c43aafa-3d34-47f0-a635-965e183e182b",
-        "album": {
-          "mbid": "",
-          "#text": "Love Is a Four Letter Word (Deluxe Version)"
-        },
-        "name": "I Won't Give Up",
         "url": "https://www.last.fm/music/Jason+Mraz/_/I+Won%27t+Give+Up",
         "date": {
           "uts": "1757499188",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1757339802",
           "#text": "08 Sep 2025, 13:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+          "#text": "Conan Gray"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f133a7c64471f91a30bf6ae80946c8c.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "14e089b2-a2c7-4db0-88de-2f90dc036c50",
+          "#text": "Kid Krow"
+        },
+        "name": "Heather",
+        "url": "https://www.last.fm/music/Conan+Gray/_/Heather",
+        "date": {
+          "uts": "1757339597",
+          "#text": "08 Sep 2025, 13:53"
         }
       }
     ],
