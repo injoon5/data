@@ -31,10 +31,11 @@
           "#text": "lonely together - Single"
         },
         "name": "lonely together",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Public+Library+Commute/_/lonely+together"
+        "url": "https://www.last.fm/music/Public+Library+Commute/_/lonely+together",
+        "date": {
+          "uts": "1758194552",
+          "#text": "18 Sep 2025, 11:22"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "154",
       "page": "1",
       "perPage": "50",
-      "total": "7681"
+      "total": "7682"
     }
   }
 }
