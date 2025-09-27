@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+          "#text": "Pink Floyd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/546df98105a551801e0f92de7389cc0a.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/546df98105a551801e0f92de7389cc0a.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/546df98105a551801e0f92de7389cc0a.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/546df98105a551801e0f92de7389cc0a.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "02a26364-1e0c-434b-bbba-c5d28fa91a4a",
+          "#text": "The Wall"
+        },
+        "name": "In the Flesh",
+        "url": "https://www.last.fm/music/Pink+Floyd/_/In+the+Flesh",
+        "date": {
+          "uts": "1758984103",
+          "#text": "27 Sep 2025, 14:41"
+        }
+      },
+      {
+        "artist": {
           "mbid": "847e8a0c-cc20-4213-9e16-975515c2a926",
           "#text": "C\u00e9line Dion"
         },
@@ -31,10 +67,11 @@
           "#text": "Deadpool 2 (Original Motion Picture Soundtrack) - EP"
         },
         "name": "Ashes",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/C%C3%A9line+Dion/_/Ashes"
+        "url": "https://www.last.fm/music/C%C3%A9line+Dion/_/Ashes",
+        "date": {
+          "uts": "1758983806",
+          "#text": "27 Sep 2025, 14:36"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1758983390",
           "#text": "27 Sep 2025, 14:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "MONKEY HOTEL"
-        },
-        "name": "Summer",
-        "url": "https://www.last.fm/music/JANNABI/_/Summer",
-        "date": {
-          "uts": "1758983139",
-          "#text": "27 Sep 2025, 14:25"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "155",
       "page": "1",
       "perPage": "50",
-      "total": "7714"
+      "total": "7716"
     }
   }
 }
