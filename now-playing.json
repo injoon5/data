@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Lee Mujin"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "e42d20f9-8b8c-4713-a09e-1090f26c08f7",
+        "album": {
+          "mbid": "",
+          "#text": "Youth - EP"
+        },
+        "name": "Coming Of Age Story",
+        "url": "https://www.last.fm/music/Lee+Mujin/_/Coming+Of+Age+Story",
+        "date": {
+          "uts": "1758984373",
+          "#text": "27 Sep 2025, 14:46"
+        }
+      },
+      {
+        "artist": {
           "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
           "#text": "Pink Floyd"
         },
@@ -108,42 +144,6 @@
           "uts": "1758983552",
           "#text": "27 Sep 2025, 14:32"
         }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d904dd085fb44fabcfd0834b8d2a5d92.png"
-          }
-        ],
-        "mbid": "83183d93-a7ec-4470-95f7-25a99156eba3",
-        "album": {
-          "mbid": "3ec0cc3a-d3ff-4dff-8509-a133637debca",
-          "#text": "x (Deluxe Edition)"
-        },
-        "name": "Photograph",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Photograph",
-        "date": {
-          "uts": "1758983390",
-          "#text": "27 Sep 2025, 14:29"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "155",
       "page": "1",
       "perPage": "50",
-      "total": "7716"
+      "total": "7717"
     }
   }
 }
