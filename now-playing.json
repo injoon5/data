@@ -3,146 +3,145 @@
     "track": [
       {
         "artist": {
-          "mbid": "084308bd-1654-436f-ba03-df6697104e19",
-          "#text": "Green Day"
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72a314e1e9064a0418159b144fe1ad72.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
           }
         ],
-        "mbid": "1a1606a1-15d0-4393-a797-ce2cd5ef373f",
+        "mbid": "5d48e522-e7c9-4f72-88bb-8f4079f8aa5a",
         "album": {
-          "mbid": "113801de-cddc-40c5-99b7-766476e11e0d",
-          "#text": "21st Century Breakdown"
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
         },
-        "name": "Last Night on Earth",
-        "url": "https://www.last.fm/music/Green+Day/_/Last+Night+on+Earth",
+        "name": "Enemies",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lauv/_/Enemies"
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "5d48e522-e7c9-4f72-88bb-8f4079f8aa5a",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Enemies",
+        "url": "https://www.last.fm/music/Lauv/_/Enemies",
         "date": {
-          "uts": "1759394776",
-          "#text": "02 Oct 2025, 08:46"
+          "uts": "1759397369",
+          "#text": "02 Oct 2025, 09:29"
         }
       },
       {
         "artist": {
-          "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
-          "#text": "Billy Joel"
+          "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
+          "#text": "keshi"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d94bac20a25b305e539b1b3ec62c6928.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d772bb42aed3467eec7d553988f49b7.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d94bac20a25b305e539b1b3ec62c6928.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d772bb42aed3467eec7d553988f49b7.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d94bac20a25b305e539b1b3ec62c6928.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d772bb42aed3467eec7d553988f49b7.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d94bac20a25b305e539b1b3ec62c6928.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d772bb42aed3467eec7d553988f49b7.jpg"
+          }
+        ],
+        "mbid": "bfe8177d-2d78-4a83-a3bc-a3f7d21ef570",
+        "album": {
+          "mbid": "",
+          "#text": "GABRIEL"
+        },
+        "name": "UNDERSTAND",
+        "url": "https://www.last.fm/music/keshi/_/UNDERSTAND",
+        "date": {
+          "uts": "1759397197",
+          "#text": "02 Oct 2025, 09:26"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "038c5ae4-c510-48f4-9729-f89b7c7b2805",
-          "#text": "The Stranger"
-        },
-        "name": "Just the Way You Are",
-        "url": "https://www.last.fm/music/Billy+Joel/_/Just+the+Way+You+Are",
-        "date": {
-          "uts": "1759394512",
-          "#text": "02 Oct 2025, 08:41"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "37bfcf04-4194-4f6b-bdd4-279787112d09",
-          "#text": "Kairo"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a446c2ff68f86b5aff29efc10d2106d9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a446c2ff68f86b5aff29efc10d2106d9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a446c2ff68f86b5aff29efc10d2106d9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a446c2ff68f86b5aff29efc10d2106d9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
           "mbid": "",
-          "#text": "Return To Sender - EP"
+          "#text": "Jannabi\u2019s small pieces  ll : GRIPPIN\u2019THEGREEN - EP"
         },
-        "name": "over",
-        "url": "https://www.last.fm/music/Kairo/_/over",
+        "name": "GRIPPIN\u2019THEGREEN",
+        "url": "https://www.last.fm/music/JANNABI/_/GRIPPIN%E2%80%99THEGREEN",
         "date": {
-          "uts": "1759394217",
-          "#text": "02 Oct 2025, 08:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Kelsea Ballerini & LANY"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ecc393c3dfaf94f4fdcf38c789134272.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ecc393c3dfaf94f4fdcf38c789134272.jpg"
-          }
-        ],
-        "mbid": "5b10d0fa-99e8-4dc5-bdf3-cff3e03051dc",
-        "album": {
-          "mbid": "",
-          "#text": "I Quit Drinking - Single"
-        },
-        "name": "I Quit Drinking",
-        "url": "https://www.last.fm/music/Kelsea+Ballerini+&+LANY/_/I+Quit+Drinking",
-        "date": {
-          "uts": "1759394041",
-          "#text": "02 Oct 2025, 08:34"
+          "uts": "1759397116",
+          "#text": "02 Oct 2025, 09:25"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "155",
       "page": "1",
       "perPage": "50",
-      "total": "7727"
+      "total": "7730"
     }
   }
 }
