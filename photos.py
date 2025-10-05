@@ -2,7 +2,7 @@ import requests
 import json
 
 def get_recent_photos():
-    api_url = "https://photos.injoon5.com/api"
+    api_url = "https://photos.injoon5.com/feed.json"
     response = requests.get(api_url)
     
     if response.status_code == 200:
