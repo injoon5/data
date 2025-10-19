@@ -31,41 +31,6 @@
           "#text": "Forever Young"
         },
         "name": "Forever Young",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Alphaville/_/Forever+Young"
-      },
-      {
-        "artist": {
-          "mbid": "169796ba-8669-4121-a91b-39b75b01cd57",
-          "#text": "Alphaville"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfeb124c4afcdcbeba14f3122c7fb1ff.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfeb124c4afcdcbeba14f3122c7fb1ff.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfeb124c4afcdcbeba14f3122c7fb1ff.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfeb124c4afcdcbeba14f3122c7fb1ff.png"
-          }
-        ],
-        "mbid": "6da0803c-53db-475b-bbb1-80dcb00afaaa",
-        "album": {
-          "mbid": "009c67ef-7577-4098-abd5-c0df66fd7c83",
-          "#text": "Forever Young"
-        },
-        "name": "Forever Young",
         "url": "https://www.last.fm/music/Alphaville/_/Forever+Young",
         "date": {
           "uts": "1760863550",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1760862901",
           "#text": "19 Oct 2025, 08:35"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
+          "#text": "Phil Collins"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg"
+          }
+        ],
+        "mbid": "a013795c-4378-4607-9b47-d3472f6f3cda",
+        "album": {
+          "mbid": "",
+          "#text": "...But Seriously (2016 Remaster)"
+        },
+        "name": "Do You Remember? - 2016 Remaster",
+        "url": "https://www.last.fm/music/Phil+Collins/_/Do+You+Remember%3F+-+2016+Remaster",
+        "date": {
+          "uts": "1760862272",
+          "#text": "19 Oct 2025, 08:24"
         }
       }
     ],
