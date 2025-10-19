@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Soft"
+        },
+        "name": "Soft",
+        "url": "https://www.last.fm/music/Lany/_/Soft",
+        "date": {
+          "uts": "1760916230",
+          "#text": "19 Oct 2025, 23:23"
+        }
+      },
+      {
+        "artist": {
           "mbid": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
           "#text": "Aerosmith"
         },
@@ -108,42 +144,6 @@
           "uts": "1760880015",
           "#text": "19 Oct 2025, 13:20"
         }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/218c8b93710f892bd9fa0e942afe0fa1.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/218c8b93710f892bd9fa0e942afe0fa1.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/218c8b93710f892bd9fa0e942afe0fa1.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/218c8b93710f892bd9fa0e942afe0fa1.png"
-          }
-        ],
-        "mbid": "298f9046-a6f4-4738-928f-f1890ee654cc",
-        "album": {
-          "mbid": "da74cd8f-59d4-4c3e-9e17-66dc99809d64",
-          "#text": "Changes"
-        },
-        "name": "Changes",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/Changes",
-        "date": {
-          "uts": "1760879762",
-          "#text": "19 Oct 2025, 13:16"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7752"
+      "total": "7753"
     }
   }
 }
