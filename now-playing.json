@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "adfff063-402d-4e97-a34d-c1cb6adaa7a1",
+          "#text": "Chrisye"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "14d986fd-7540-4fe5-a5c6-7dd26c5dec8b",
+        "album": {
+          "mbid": "",
+          "#text": "Chrisye \"Untukku\""
+        },
+        "name": "Kala Cinta Menggoda",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Chrisye/_/Kala+Cinta+Menggoda"
+      },
+      {
+        "artist": {
+          "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
+          "#text": "Phil Collins"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a64cd0c90af35283c38b24fe42057df8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg"
+          }
+        ],
+        "mbid": "a013795c-4378-4607-9b47-d3472f6f3cda",
+        "album": {
+          "mbid": "",
+          "#text": "...But Seriously (2016 Remaster)"
+        },
+        "name": "Do You Remember? - 2016 Remaster",
+        "url": "https://www.last.fm/music/Phil+Collins/_/Do+You+Remember%3F+-+2016+Remaster",
+        "date": {
+          "uts": "1760878284",
+          "#text": "19 Oct 2025, 12:51"
+        }
+      },
+      {
+        "artist": {
           "mbid": "169796ba-8669-4121-a91b-39b75b01cd57",
           "#text": "Alphaville"
         },
@@ -72,78 +143,6 @@
           "uts": "1760863240",
           "#text": "19 Oct 2025, 08:40"
         }
-      },
-      {
-        "artist": {
-          "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
-          "#text": "U2"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3ebcc226f01555237d9a4ef106c5bb4e.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3ebcc226f01555237d9a4ef106c5bb4e.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3ebcc226f01555237d9a4ef106c5bb4e.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3ebcc226f01555237d9a4ef106c5bb4e.png"
-          }
-        ],
-        "mbid": "4d908c22-abf7-41b7-bbed-15e37d9c8df4",
-        "album": {
-          "mbid": "",
-          "#text": "The Joshua Tree (Super Deluxe)"
-        },
-        "name": "With or Without You",
-        "url": "https://www.last.fm/music/U2/_/With+or+Without+You",
-        "date": {
-          "uts": "1760862901",
-          "#text": "19 Oct 2025, 08:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
-          "#text": "Phil Collins"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a64cd0c90af35283c38b24fe42057df8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a64cd0c90af35283c38b24fe42057df8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a64cd0c90af35283c38b24fe42057df8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a64cd0c90af35283c38b24fe42057df8.jpg"
-          }
-        ],
-        "mbid": "a013795c-4378-4607-9b47-d3472f6f3cda",
-        "album": {
-          "mbid": "",
-          "#text": "...But Seriously (2016 Remaster)"
-        },
-        "name": "Do You Remember? - 2016 Remaster",
-        "url": "https://www.last.fm/music/Phil+Collins/_/Do+You+Remember%3F+-+2016+Remaster",
-        "date": {
-          "uts": "1760862272",
-          "#text": "19 Oct 2025, 08:24"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "155",
       "page": "1",
       "perPage": "50",
-      "total": "7743"
+      "total": "7744"
     }
   }
 }
