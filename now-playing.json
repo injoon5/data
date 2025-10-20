@@ -3,109 +3,73 @@
     "track": [
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
+          "#text": "Joan"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b67140fa5ab3fdaf0d807a7504078f4c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b67140fa5ab3fdaf0d807a7504078f4c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b67140fa5ab3fdaf0d807a7504078f4c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b67140fa5ab3fdaf0d807a7504078f4c.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "dea93309-3109-4787-b3b6-b86f57dc514a",
         "album": {
           "mbid": "",
-          "#text": "Soft"
+          "#text": "this won't last forever"
         },
-        "name": "Good Parts",
+        "name": "this won't last forever",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Lany/_/Good+Parts"
+        "url": "https://www.last.fm/music/Joan/_/this+won%27t+last+forever"
       },
       {
         "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
+          "mbid": "70b2ee5f-e215-4d1c-9365-b87182acf1f0",
+          "#text": "Hauskey"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fce9cb581f8357499d6f50600ce80a63.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fce9cb581f8357499d6f50600ce80a63.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fce9cb581f8357499d6f50600ce80a63.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b3b095a0c96db1f7291758e3e447eda.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce9cb581f8357499d6f50600ce80a63.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "3bd5baaa-a744-4cdb-a73a-a9f70d3bafe1",
         "album": {
           "mbid": "",
-          "#text": "Soft"
+          "#text": "Slow - EP"
         },
-        "name": "Soft",
-        "url": "https://www.last.fm/music/Lany/_/Soft",
+        "name": "Somewhere",
+        "url": "https://www.last.fm/music/Hauskey/_/Somewhere",
         "date": {
-          "uts": "1760916230",
-          "#text": "19 Oct 2025, 23:23"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
-          "#text": "Aerosmith"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed96d97ccda3857cbf8144789122d310.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed96d97ccda3857cbf8144789122d310.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed96d97ccda3857cbf8144789122d310.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed96d97ccda3857cbf8144789122d310.png"
-          }
-        ],
-        "mbid": "2e2e66bd-a016-4713-bd7f-dbb4037cc9b8",
-        "album": {
-          "mbid": "",
-          "#text": "i don't want to miss a thing ep"
-        },
-        "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-        "url": "https://www.last.fm/music/Aerosmith/_/I+Don%27t+Want+to+Miss+a+Thing+-+From+%22Armageddon%22+Soundtrack",
-        "date": {
-          "uts": "1760880448",
-          "#text": "19 Oct 2025, 13:27"
+          "uts": "1760978359",
+          "#text": "20 Oct 2025, 16:39"
         }
       },
       {
@@ -140,8 +104,44 @@
         "name": "Good Parts",
         "url": "https://www.last.fm/music/Lany/_/Good+Parts",
         "date": {
-          "uts": "1760880150",
-          "#text": "19 Oct 2025, 13:22"
+          "uts": "1760978178",
+          "#text": "20 Oct 2025, 16:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/548ddc92a61f79f77e832ad3d66d110f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/548ddc92a61f79f77e832ad3d66d110f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/548ddc92a61f79f77e832ad3d66d110f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/548ddc92a61f79f77e832ad3d66d110f.jpg"
+          }
+        ],
+        "mbid": "f4fec700-2c57-4828-8e58-482acc9f03f4",
+        "album": {
+          "mbid": "1d906de8-a701-4c5f-9663-f74fdd8ffe53",
+          "#text": "Voicenotes"
+        },
+        "name": "Change (feat. James Taylor)",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/Change+(feat.+James+Taylor)",
+        "date": {
+          "uts": "1760977974",
+          "#text": "20 Oct 2025, 16:32"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7753"
+      "total": "7759"
     }
   }
 }
