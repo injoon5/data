@@ -3,38 +3,39 @@
     "track": [
       {
         "artist": {
-          "mbid": "9f9683e5-6a7a-4d89-b998-8432d90b0765",
-          "#text": "Jake Miller"
+          "mbid": "",
+          "#text": "Magnus Ludvigsson"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e5f5388904071685fd90a34057aab0c.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e5f5388904071685fd90a34057aab0c.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e5f5388904071685fd90a34057aab0c.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9042290efb9ecc6a02088aebbf7d91e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e5f5388904071685fd90a34057aab0c.jpg"
           }
         ],
-        "mbid": "16570d61-033a-406c-b038-0180e3c1f860",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "ROSS AND RACHEL - Single"
+          "#text": "Postcard from June - Single"
         },
-        "name": "ROSS AND RACHEL",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Jake+Miller/_/ROSS+AND+RACHEL"
+        "name": "Postcard from June",
+        "url": "https://www.last.fm/music/Magnus+Ludvigsson/_/Postcard+from+June",
+        "date": {
+          "uts": "1760979352",
+          "#text": "20 Oct 2025, 16:55"
+        }
       },
       {
         "artist": {
@@ -150,7 +151,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7763"
+      "total": "7764"
     }
   }
 }
