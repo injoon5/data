@@ -30,6 +30,41 @@
           "mbid": "",
           "#text": "Soft"
         },
+        "name": "Good Parts",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lany/_/Good+Parts"
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b3b095a0c96db1f7291758e3e447eda.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Soft"
+        },
         "name": "Soft",
         "url": "https://www.last.fm/music/Lany/_/Soft",
         "date": {
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1760880150",
           "#text": "19 Oct 2025, 13:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "e2c00c56-8365-4160-9f40-a64682917633",
-          "#text": "Goo Goo Dolls"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7115714c7101454ec57ceca6e2a6dc5c.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7115714c7101454ec57ceca6e2a6dc5c.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7115714c7101454ec57ceca6e2a6dc5c.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7115714c7101454ec57ceca6e2a6dc5c.png"
-          }
-        ],
-        "mbid": "49c04d28-280a-4bfb-afb5-a5affcb373e9",
-        "album": {
-          "mbid": "",
-          "#text": "Dizzy Up the Girl"
-        },
-        "name": "Iris",
-        "url": "https://www.last.fm/music/Goo+Goo+Dolls/_/Iris",
-        "date": {
-          "uts": "1760880015",
-          "#text": "19 Oct 2025, 13:20"
         }
       }
     ],
