@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
+          }
+        ],
+        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
+        "album": {
+          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
+          "#text": "LANY"
+        },
+        "name": "13",
+        "url": "https://www.last.fm/music/Lany/_/13",
+        "date": {
+          "uts": "1761211933",
+          "#text": "23 Oct 2025, 09:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cd0b7242-9de1-4934-8d05-643f6a692831",
           "#text": "Rhineland"
         },
@@ -108,42 +144,6 @@
           "uts": "1760979352",
           "#text": "20 Oct 2025, 16:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "9f9683e5-6a7a-4d89-b998-8432d90b0765",
-          "#text": "Jake Miller"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9042290efb9ecc6a02088aebbf7d91e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9042290efb9ecc6a02088aebbf7d91e.jpg"
-          }
-        ],
-        "mbid": "16570d61-033a-406c-b038-0180e3c1f860",
-        "album": {
-          "mbid": "",
-          "#text": "ROSS AND RACHEL - Single"
-        },
-        "name": "ROSS AND RACHEL",
-        "url": "https://www.last.fm/music/Jake+Miller/_/ROSS+AND+RACHEL",
-        "date": {
-          "uts": "1760979151",
-          "#text": "20 Oct 2025, 16:52"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7766"
+      "total": "7767"
     }
   }
 }
