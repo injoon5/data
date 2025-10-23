@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "f985932b-3ed2-462c-a102-74533c475ecf",
+          "#text": "Public Library Commute"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6bb12c6a9ac458001530d143ec89086.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6bb12c6a9ac458001530d143ec89086.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6bb12c6a9ac458001530d143ec89086.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6bb12c6a9ac458001530d143ec89086.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Close to the Sun"
+        },
+        "name": "Brand New",
+        "url": "https://www.last.fm/music/Public+Library+Commute/_/Brand+New",
+        "date": {
+          "uts": "1761212968",
+          "#text": "23 Oct 2025, 09:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "dc303714-d974-4a5c-b0c4-4c489c99322f",
           "#text": "The Ivy"
         },
@@ -31,10 +67,11 @@
           "#text": "Have You Ever Been in Love"
         },
         "name": "Have You Ever Been in Love",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love"
+        "url": "https://www.last.fm/music/The+Ivy/_/Have+You+Ever+Been+in+Love",
+        "date": {
+          "uts": "1761212785",
+          "#text": "23 Oct 2025, 09:46"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1761212182",
           "#text": "23 Oct 2025, 09:36"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05bb1eb0c675aee90af90dc5c544397.jpg"
-          }
-        ],
-        "mbid": "37873dff-b187-459e-b620-1b74b1d4fcf7",
-        "album": {
-          "mbid": "1eddad44-aebc-49b7-903b-08de6ae225ff",
-          "#text": "LANY"
-        },
-        "name": "13",
-        "url": "https://www.last.fm/music/Lany/_/13",
-        "date": {
-          "uts": "1761211933",
-          "#text": "23 Oct 2025, 09:32"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7769"
+      "total": "7771"
     }
   }
 }
