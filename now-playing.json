@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "5dfa70d0-d170-4b5d-a901-e6c2edc96dd1",
+          "#text": "Vladimir Cosma"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/943f53060ffc259808e1c317479fbf98.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/943f53060ffc259808e1c317479fbf98.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/943f53060ffc259808e1c317479fbf98.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/943f53060ffc259808e1c317479fbf98.jpg"
+          }
+        ],
+        "mbid": "a6878928-bf0e-32c2-957f-6769e32fbef7",
+        "album": {
+          "mbid": "",
+          "#text": "L'\u00e9tudiante (Bande originale du film de Claude Pinoteau)"
+        },
+        "name": "Ned Compose",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Ned+Compose"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Bread"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6078860aff65404b8372242eb4675120.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6078860aff65404b8372242eb4675120.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6078860aff65404b8372242eb4675120.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6078860aff65404b8372242eb4675120.png"
+          }
+        ],
+        "mbid": "0629b445-5524-44fc-b834-426d01b3bab0",
+        "album": {
+          "mbid": "15d87502-992d-43ac-a223-9a7ace048388",
+          "#text": "Guitar Man"
+        },
+        "name": "Aubrey",
+        "url": "https://www.last.fm/music/Bread/_/Aubrey",
+        "date": {
+          "uts": "1761391327",
+          "#text": "25 Oct 2025, 11:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "37ee3fa8-e36e-4139-b739-4f5ac4359dcd",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "I Won't Hold You Back",
+        "url": "https://www.last.fm/music/Toto/_/I+Won%27t+Hold+You+Back",
+        "date": {
+          "uts": "1761391071",
+          "#text": "25 Oct 2025, 11:17"
+        }
+      },
+      {
+        "artist": {
           "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
           "#text": "John Lennon"
         },
@@ -31,117 +138,10 @@
           "#text": "Double Fantasy: Stripped Down"
         },
         "name": "Woman - Remastered 2010",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+Lennon/_/Woman+-+Remastered+2010"
-      },
-      {
-        "artist": {
-          "mbid": "5dfa70d0-d170-4b5d-a901-e6c2edc96dd1",
-          "#text": "Vladimir Cosma"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/943f53060ffc259808e1c317479fbf98.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/943f53060ffc259808e1c317479fbf98.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/943f53060ffc259808e1c317479fbf98.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/943f53060ffc259808e1c317479fbf98.jpg"
-          }
-        ],
-        "mbid": "3ad69383-39d2-3ea4-a297-48ed3275affd",
-        "album": {
-          "mbid": "",
-          "#text": "L'\u00e9tudiante (Bande originale du film de Claude Pinoteau)"
-        },
-        "name": "Premier baiser",
-        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Premier+baiser",
+        "url": "https://www.last.fm/music/John+Lennon/_/Woman+-+Remastered+2010",
         "date": {
-          "uts": "1761390655",
-          "#text": "25 Oct 2025, 11:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
-          "#text": "John Lennon"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b77a8a007f65193401c62345e3f37b9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b77a8a007f65193401c62345e3f37b9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b77a8a007f65193401c62345e3f37b9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b77a8a007f65193401c62345e3f37b9.jpg"
-          }
-        ],
-        "mbid": "ec04e3c5-0548-4e73-bfc3-19a26108f302",
-        "album": {
-          "mbid": "06ac3e39-54fb-46eb-b40b-9345b7d2a23d",
-          "#text": "Imagine"
-        },
-        "name": "Imagine - Remastered 2010",
-        "url": "https://www.last.fm/music/John+Lennon/_/Imagine+-+Remastered+2010",
-        "date": {
-          "uts": "1761390505",
-          "#text": "25 Oct 2025, 11:08"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "5dfa70d0-d170-4b5d-a901-e6c2edc96dd1",
-          "#text": "Vladimir Cosma"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12359f272a0ceec5dbdf2755b1827773.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12359f272a0ceec5dbdf2755b1827773.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12359f272a0ceec5dbdf2755b1827773.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12359f272a0ceec5dbdf2755b1827773.jpg"
-          }
-        ],
-        "mbid": "2d11d5ab-5473-4db9-ae70-ff2f62658923",
-        "album": {
-          "mbid": "",
-          "#text": "La boum 2 (Bande originale du film de Claude Pinoteau)"
-        },
-        "name": "Your Eyes",
-        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Your+Eyes",
-        "date": {
-          "uts": "1761390269",
-          "#text": "25 Oct 2025, 11:04"
+          "uts": "1761390817",
+          "#text": "25 Oct 2025, 11:13"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7778"
+      "total": "7781"
     }
   }
 }
