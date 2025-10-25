@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
+          "#text": "George Benson"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d00bf4b170cfa67c2f47b2401e119664.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d00bf4b170cfa67c2f47b2401e119664.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d00bf4b170cfa67c2f47b2401e119664.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d00bf4b170cfa67c2f47b2401e119664.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "1ecb4320-351f-4181-b3a8-c50421eeb0f8",
+          "#text": "20/20"
+        },
+        "name": "Nothing's Gonna Change My Love for You",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You"
+      },
+      {
+        "artist": {
+          "mbid": "420c6768-0885-415a-bb59-d6a275121125",
+          "#text": "Paul Anka"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5313f01784744faaa6815b3f45e75ff.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5313f01784744faaa6815b3f45e75ff.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5313f01784744faaa6815b3f45e75ff.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5313f01784744faaa6815b3f45e75ff.jpg"
+          }
+        ],
+        "mbid": "1b3a539f-56a3-4d44-8df9-340fb58b6189",
+        "album": {
+          "mbid": "618d2944-7aa9-4756-9085-454fa5258db6",
+          "#text": "Feelings"
+        },
+        "name": "I Don't Like To Sleep Alone",
+        "url": "https://www.last.fm/music/Paul+Anka/_/I+Don%27t+Like+To+Sleep+Alone",
+        "date": {
+          "uts": "1761391726",
+          "#text": "25 Oct 2025, 11:28"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5dfa70d0-d170-4b5d-a901-e6c2edc96dd1",
           "#text": "Vladimir Cosma"
         },
@@ -31,10 +102,11 @@
           "#text": "L'\u00e9tudiante (Bande originale du film de Claude Pinoteau)"
         },
         "name": "Ned Compose",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Ned+Compose"
+        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Ned+Compose",
+        "date": {
+          "uts": "1761391519",
+          "#text": "25 Oct 2025, 11:25"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1761391327",
           "#text": "25 Oct 2025, 11:22"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Toto"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
-          }
-        ],
-        "mbid": "37ee3fa8-e36e-4139-b739-4f5ac4359dcd",
-        "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
-        },
-        "name": "I Won't Hold You Back",
-        "url": "https://www.last.fm/music/Toto/_/I+Won%27t+Hold+You+Back",
-        "date": {
-          "uts": "1761391071",
-          "#text": "25 Oct 2025, 11:17"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
-          "#text": "John Lennon"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/366909a9e6afb9e13d75a01dfd717cf8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/366909a9e6afb9e13d75a01dfd717cf8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/366909a9e6afb9e13d75a01dfd717cf8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/366909a9e6afb9e13d75a01dfd717cf8.jpg"
-          }
-        ],
-        "mbid": "34885e35-4428-40ae-9e59-e44d35adc414",
-        "album": {
-          "mbid": "",
-          "#text": "Double Fantasy: Stripped Down"
-        },
-        "name": "Woman - Remastered 2010",
-        "url": "https://www.last.fm/music/John+Lennon/_/Woman+-+Remastered+2010",
-        "date": {
-          "uts": "1761390817",
-          "#text": "25 Oct 2025, 11:13"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "156",
       "page": "1",
       "perPage": "50",
-      "total": "7781"
+      "total": "7783"
     }
   }
 }
