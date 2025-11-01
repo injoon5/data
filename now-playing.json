@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
+          "#text": "Phil Collins"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2269d19214f35168b3a325fca4f07240.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2269d19214f35168b3a325fca4f07240.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2269d19214f35168b3a325fca4f07240.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2269d19214f35168b3a325fca4f07240.jpg"
+          }
+        ],
+        "mbid": "b89ec85a-d6b3-495d-b580-f7dcdf8f99c7",
+        "album": {
+          "mbid": "",
+          "#text": "No Jacket Required (2016 Remaster)"
+        },
+        "name": "One More Night - 2016 Remaster",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Phil+Collins/_/One+More+Night+-+2016+Remaster"
+      },
+      {
+        "artist": {
           "mbid": "2e44786f-133f-4fcd-92d0-4a9dbc7b9d23",
           "#text": "Glenn Frey"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1761973866",
           "#text": "01 Nov 2025, 05:11"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "eb45032c-80da-469c-be20-1d09f08ef37f",
-          "#text": "Natalie Cole"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3cc6fdd28995345184b07c43384bb3e8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3cc6fdd28995345184b07c43384bb3e8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3cc6fdd28995345184b07c43384bb3e8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3cc6fdd28995345184b07c43384bb3e8.jpg"
-          }
-        ],
-        "mbid": "9f1da585-3847-437f-a3a7-2ca907efa3e8",
-        "album": {
-          "mbid": "087abe02-c46c-4dec-b7b3-ea806bd25d68",
-          "#text": "Good to Be Back"
-        },
-        "name": "Starting Over Again",
-        "url": "https://www.last.fm/music/Natalie+Cole/_/Starting+Over+Again",
-        "date": {
-          "uts": "1761973606",
-          "#text": "01 Nov 2025, 05:06"
         }
       }
     ],
