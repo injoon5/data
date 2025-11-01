@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "5dfa70d0-d170-4b5d-a901-e6c2edc96dd1",
+          "#text": "Vladimir Cosma"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12359f272a0ceec5dbdf2755b1827773.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12359f272a0ceec5dbdf2755b1827773.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12359f272a0ceec5dbdf2755b1827773.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12359f272a0ceec5dbdf2755b1827773.jpg"
+          }
+        ],
+        "mbid": "2d11d5ab-5473-4db9-ae70-ff2f62658923",
+        "album": {
+          "mbid": "",
+          "#text": "La boum 2 (Bande originale du film de Claude Pinoteau)"
+        },
+        "name": "Your Eyes",
+        "url": "https://www.last.fm/music/Vladimir+Cosma/_/Your+Eyes",
+        "date": {
+          "uts": "1761973072",
+          "#text": "01 Nov 2025, 04:57"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
           "#text": "Michael Jackson"
         },
@@ -31,10 +67,11 @@
           "#text": "Thriller"
         },
         "name": "Human Nature",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Michael+Jackson/_/Human+Nature"
+        "url": "https://www.last.fm/music/Michael+Jackson/_/Human+Nature",
+        "date": {
+          "uts": "1761972808",
+          "#text": "01 Nov 2025, 04:53"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1761972275",
           "#text": "01 Nov 2025, 04:44"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Phil Collins"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dab8e0a07ab43c88bcf8dd2e5f5df50.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dab8e0a07ab43c88bcf8dd2e5f5df50.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dab8e0a07ab43c88bcf8dd2e5f5df50.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dab8e0a07ab43c88bcf8dd2e5f5df50.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "The Singles (Expanded)"
-        },
-        "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-        "url": "https://www.last.fm/music/Phil+Collins/_/Against+All+Odds+(Take+a+Look+at+Me+Now)+-+2016+Remaster",
-        "date": {
-          "uts": "1761972038",
-          "#text": "01 Nov 2025, 04:40"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "157",
       "page": "1",
       "perPage": "50",
-      "total": "7837"
+      "total": "7839"
     }
   }
 }
