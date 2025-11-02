@@ -31,41 +31,6 @@
           "#text": "Silent Letter"
         },
         "name": "All My Life",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/America/_/All+My+Life"
-      },
-      {
-        "artist": {
-          "mbid": "34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
-          "#text": "America"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e5722d4275014afb86d3a7a6e4585277.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e5722d4275014afb86d3a7a6e4585277.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e5722d4275014afb86d3a7a6e4585277.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5722d4275014afb86d3a7a6e4585277.jpg"
-          }
-        ],
-        "mbid": "0936ac64-a990-4348-b055-cb22929e03ed",
-        "album": {
-          "mbid": "18b94e72-4568-4e97-a840-76243751f48a",
-          "#text": "Silent Letter"
-        },
-        "name": "All My Life",
         "url": "https://www.last.fm/music/America/_/All+My+Life",
         "date": {
           "uts": "1762083513",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1762066442",
           "#text": "02 Nov 2025, 06:54"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
+          "#text": "George Benson"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82e4d43f4cce6bbeba59d37024b0459c.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82e4d43f4cce6bbeba59d37024b0459c.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82e4d43f4cce6bbeba59d37024b0459c.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82e4d43f4cce6bbeba59d37024b0459c.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "11c2bd2b-5918-41f9-896b-f50ed747b5de",
+          "#text": "In Your Eyes"
+        },
+        "name": "In Your Eyes",
+        "url": "https://www.last.fm/music/George+Benson/_/In+Your+Eyes",
+        "date": {
+          "uts": "1762058980",
+          "#text": "02 Nov 2025, 04:49"
         }
       }
     ],
