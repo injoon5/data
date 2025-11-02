@@ -4,6 +4,77 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "David Slater"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          }
+        ],
+        "mbid": "2784d8c2-a27f-373a-b54b-db1f81f3694f",
+        "album": {
+          "mbid": "ccf9c5a5-ae5a-4a04-967b-6d4730dca933",
+          "#text": "Exchange Of Hearts"
+        },
+        "name": "Exchange Of Hearts",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/David+Slater/_/Exchange+Of+Hearts"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "David Slater"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
+          }
+        ],
+        "mbid": "2784d8c2-a27f-373a-b54b-db1f81f3694f",
+        "album": {
+          "mbid": "ccf9c5a5-ae5a-4a04-967b-6d4730dca933",
+          "#text": "Exchange Of Hearts"
+        },
+        "name": "Exchange Of Hearts",
+        "url": "https://www.last.fm/music/David+Slater/_/Exchange+Of+Hearts",
+        "date": {
+          "uts": "1762091639",
+          "#text": "02 Nov 2025, 13:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "David Foster"
         },
         "streamable": "0",
@@ -31,10 +102,11 @@
           "#text": "River of Love"
         },
         "name": "This Must Be Love",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/David+Foster/_/This+Must+Be+Love"
+        "url": "https://www.last.fm/music/David+Foster/_/This+Must+Be+Love",
+        "date": {
+          "uts": "1762091395",
+          "#text": "02 Nov 2025, 13:49"
+        }
       },
       {
         "artist": {
@@ -71,78 +143,6 @@
           "uts": "1762091129",
           "#text": "02 Nov 2025, 13:45"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Bread"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74aec56bbd57e38855e470358e612339.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74aec56bbd57e38855e470358e612339.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74aec56bbd57e38855e470358e612339.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74aec56bbd57e38855e470358e612339.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "07a39391-317a-481d-9881-f3ed06850afe",
-          "#text": "Baby I'm-A Want You"
-        },
-        "name": "Baby I'm-A Want You",
-        "url": "https://www.last.fm/music/Bread/_/Baby+I%27m-A+Want+You",
-        "date": {
-          "uts": "1762090922",
-          "#text": "02 Nov 2025, 13:42"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "883e4ba4-8ccc-47ed-81df-df51e41792a9",
-          "#text": "Christopher Cross"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/113ed25e70e0bd10afed2f395944d939.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/113ed25e70e0bd10afed2f395944d939.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/113ed25e70e0bd10afed2f395944d939.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/113ed25e70e0bd10afed2f395944d939.jpg"
-          }
-        ],
-        "mbid": "1396ff46-dc7f-4080-89a8-847237909aac",
-        "album": {
-          "mbid": "4df6a37f-6e8f-4d4b-a5c8-7e5fc859137f",
-          "#text": "Back of My Mind"
-        },
-        "name": "Swept Away",
-        "url": "https://www.last.fm/music/Christopher+Cross/_/Swept+Away",
-        "date": {
-          "uts": "1762090711",
-          "#text": "02 Nov 2025, 13:38"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +150,7 @@
       "totalPages": "158",
       "page": "1",
       "perPage": "50",
-      "total": "7883"
+      "total": "7885"
     }
   }
 }
