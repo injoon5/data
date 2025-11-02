@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+          "#text": "Christopher Cross"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/113ed25e70e0bd10afed2f395944d939.jpg"
+          }
+        ],
+        "mbid": "1396ff46-dc7f-4080-89a8-847237909aac",
+        "album": {
+          "mbid": "4df6a37f-6e8f-4d4b-a5c8-7e5fc859137f",
+          "#text": "Back of My Mind"
+        },
+        "name": "Swept Away",
+        "url": "https://www.last.fm/music/Christopher+Cross/_/Swept+Away",
+        "date": {
+          "uts": "1762090711",
+          "#text": "02 Nov 2025, 13:38"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
+          "#text": "America"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/afc1dfb12c4d6d753eea65405e76417e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/afc1dfb12c4d6d753eea65405e76417e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/afc1dfb12c4d6d753eea65405e76417e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/afc1dfb12c4d6d753eea65405e76417e.jpg"
+          }
+        ],
+        "mbid": "0e48ee45-81be-4a5b-b6f3-c217f138e305",
+        "album": {
+          "mbid": "2851cd0e-b96e-4951-8ca0-3653eecf4d75",
+          "#text": "View From The Ground"
+        },
+        "name": "Right Before Your Eyes",
+        "url": "https://www.last.fm/music/America/_/Right+Before+Your+Eyes",
+        "date": {
+          "uts": "1762090443",
+          "#text": "02 Nov 2025, 13:34"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6bf591c4-b050-478e-9d9f-167394d66c90",
           "#text": "S\u00e9rgio Mendes"
         },
@@ -72,78 +144,6 @@
           "uts": "1762089940",
           "#text": "02 Nov 2025, 13:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "64bddf6f-ae06-4970-96e8-e171cd21292e",
-          "#text": "Fra Lippo Lippi"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ed82c19c3c6098d683473bc68922f46.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ed82c19c3c6098d683473bc68922f46.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ed82c19c3c6098d683473bc68922f46.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ed82c19c3c6098d683473bc68922f46.jpg"
-          }
-        ],
-        "mbid": "5392bc9b-7bc7-3c3a-ace7-0f428de3183b",
-        "album": {
-          "mbid": "e5fe2026-abcc-4526-9ec0-8537dabf8e72",
-          "#text": "Light and Shade"
-        },
-        "name": "Beauty and Madness",
-        "url": "https://www.last.fm/music/Fra+Lippo+Lippi/_/Beauty+and+Madness",
-        "date": {
-          "uts": "1762089721",
-          "#text": "02 Nov 2025, 13:22"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Bread"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dabbc8c769d74df8893f3fc746bb5ec8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dabbc8c769d74df8893f3fc746bb5ec8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dabbc8c769d74df8893f3fc746bb5ec8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dabbc8c769d74df8893f3fc746bb5ec8.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a42c646-9c6e-4aeb-90e5-d257e4232368",
-          "#text": "On the Waters"
-        },
-        "name": "Make It With You",
-        "url": "https://www.last.fm/music/Bread/_/Make+It+With+You",
-        "date": {
-          "uts": "1762089494",
-          "#text": "02 Nov 2025, 13:18"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "158",
       "page": "1",
       "perPage": "50",
-      "total": "7879"
+      "total": "7881"
     }
   }
 }
