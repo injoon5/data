@@ -3,113 +3,6 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "David Slater"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          }
-        ],
-        "mbid": "2784d8c2-a27f-373a-b54b-db1f81f3694f",
-        "album": {
-          "mbid": "ccf9c5a5-ae5a-4a04-967b-6d4730dca933",
-          "#text": "Exchange Of Hearts"
-        },
-        "name": "Exchange Of Hearts",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/David+Slater/_/Exchange+Of+Hearts"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "David Slater"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/882eedd7def4ffa7cd9a06310cbd31cc.jpg"
-          }
-        ],
-        "mbid": "2784d8c2-a27f-373a-b54b-db1f81f3694f",
-        "album": {
-          "mbid": "ccf9c5a5-ae5a-4a04-967b-6d4730dca933",
-          "#text": "Exchange Of Hearts"
-        },
-        "name": "Exchange Of Hearts",
-        "url": "https://www.last.fm/music/David+Slater/_/Exchange+Of+Hearts",
-        "date": {
-          "uts": "1762091639",
-          "#text": "02 Nov 2025, 13:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "David Foster"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c068f6700001381f38ba6a17ae99220.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c068f6700001381f38ba6a17ae99220.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c068f6700001381f38ba6a17ae99220.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c068f6700001381f38ba6a17ae99220.jpg"
-          }
-        ],
-        "mbid": "00d51d57-ca1c-3d8b-aa50-0703b4f402f7",
-        "album": {
-          "mbid": "27d95525-3032-44f9-ac4f-983a2425b0a4",
-          "#text": "River of Love"
-        },
-        "name": "This Must Be Love",
-        "url": "https://www.last.fm/music/David+Foster/_/This+Must+Be+Love",
-        "date": {
-          "uts": "1762091395",
-          "#text": "02 Nov 2025, 13:49"
-        }
-      },
-      {
-        "artist": {
           "mbid": "64bddf6f-ae06-4970-96e8-e171cd21292e",
           "#text": "Fra Lippo Lippi"
         },
@@ -117,31 +10,138 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/151e9a4db8ed68ac339aee1bcbcad525.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ed82c19c3c6098d683473bc68922f46.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/151e9a4db8ed68ac339aee1bcbcad525.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ed82c19c3c6098d683473bc68922f46.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/151e9a4db8ed68ac339aee1bcbcad525.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ed82c19c3c6098d683473bc68922f46.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/151e9a4db8ed68ac339aee1bcbcad525.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ed82c19c3c6098d683473bc68922f46.jpg"
           }
         ],
-        "mbid": "680c1bdd-eb8a-3b5a-8e75-10bc957c524b",
+        "mbid": "4a1c7107-bbf4-33c0-a0cb-925b03b3700d",
         "album": {
-          "mbid": "e87b7f09-cadd-4114-a2d6-9a523780d9ee",
-          "#text": "Dreams"
+          "mbid": "e5fe2026-abcc-4526-9ec0-8537dabf8e72",
+          "#text": "Light and Shade"
         },
-        "name": "Stitches And Burns",
-        "url": "https://www.last.fm/music/Fra+Lippo+Lippi/_/Stitches+And+Burns",
+        "name": "Angel",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Fra+Lippo+Lippi/_/Angel"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Bread"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38fb1a6d12a9639433a2fa7393b7e952.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38fb1a6d12a9639433a2fa7393b7e952.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38fb1a6d12a9639433a2fa7393b7e952.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38fb1a6d12a9639433a2fa7393b7e952.png"
+          }
+        ],
+        "mbid": "a54d5cb8-7c70-4d3c-bc20-1fdb99bf5791",
+        "album": {
+          "mbid": "02eb2a08-649c-4fe3-94e0-97eff58b4a39",
+          "#text": "Manna"
+        },
+        "name": "If",
+        "url": "https://www.last.fm/music/Bread/_/If",
         "date": {
-          "uts": "1762091129",
-          "#text": "02 Nov 2025, 13:45"
+          "uts": "1762092374",
+          "#text": "02 Nov 2025, 14:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "883e4ba4-8ccc-47ed-81df-df51e41792a9",
+          "#text": "Christopher Cross"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/113ed25e70e0bd10afed2f395944d939.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/113ed25e70e0bd10afed2f395944d939.jpg"
+          }
+        ],
+        "mbid": "123a079d-3404-4399-97d3-af3ba826b41f",
+        "album": {
+          "mbid": "4df6a37f-6e8f-4d4b-a5c8-7e5fc859137f",
+          "#text": "Back of My Mind"
+        },
+        "name": "I Will (Take You Forever)",
+        "url": "https://www.last.fm/music/Christopher+Cross/_/I+Will+(Take+You+Forever)",
+        "date": {
+          "uts": "1762092176",
+          "#text": "02 Nov 2025, 14:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Ambrosia"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f31ce1a205ba6eca014ef4dc29a1c4d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f31ce1a205ba6eca014ef4dc29a1c4d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f31ce1a205ba6eca014ef4dc29a1c4d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f31ce1a205ba6eca014ef4dc29a1c4d.jpg"
+          }
+        ],
+        "mbid": "c683ab58-6f2e-4ba6-b18b-46bbe0f917d6",
+        "album": {
+          "mbid": "7a49f63f-aff9-4c02-ac95-27e11b012aa8",
+          "#text": "Life Beyond L.A."
+        },
+        "name": "How Much I Feel",
+        "url": "https://www.last.fm/music/Ambrosia/_/How+Much+I+Feel",
+        "date": {
+          "uts": "1762091888",
+          "#text": "02 Nov 2025, 13:58"
         }
       }
     ],
@@ -150,7 +150,7 @@
       "totalPages": "158",
       "page": "1",
       "perPage": "50",
-      "total": "7885"
+      "total": "7888"
     }
   }
 }
