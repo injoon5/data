@@ -3,6 +3,77 @@
     "track": [
       {
         "artist": {
+          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+          "#text": "Lionel Richie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          }
+        ],
+        "mbid": "9f6b62c4-0539-45f7-aaec-634bbd21dc03",
+        "album": {
+          "mbid": "05cd6a6d-bfb8-45a0-bf07-cc3053b2c1ec",
+          "#text": "Back to Front"
+        },
+        "name": "Endless Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Lionel+Richie/_/Endless+Love"
+      },
+      {
+        "artist": {
+          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+          "#text": "Lionel Richie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89663ec97a90229af13bfa8f0baddcc.jpg"
+          }
+        ],
+        "mbid": "9f6b62c4-0539-45f7-aaec-634bbd21dc03",
+        "album": {
+          "mbid": "05cd6a6d-bfb8-45a0-bf07-cc3053b2c1ec",
+          "#text": "Back to Front"
+        },
+        "name": "Endless Love",
+        "url": "https://www.last.fm/music/Lionel+Richie/_/Endless+Love",
+        "date": {
+          "uts": "1762517969",
+          "#text": "07 Nov 2025, 12:19"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cdcd53c9-f37c-48cc-b7e3-dfe34be22e92",
           "#text": "Peter Cetera"
         },
@@ -72,86 +143,14 @@
           "uts": "1762331679",
           "#text": "05 Nov 2025, 08:34"
         }
-      },
-      {
-        "artist": {
-          "mbid": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
-          "#text": "Spandau Ballet"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e74c3bc592f07858be907f08abcecfb1.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e74c3bc592f07858be907f08abcecfb1.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e74c3bc592f07858be907f08abcecfb1.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e74c3bc592f07858be907f08abcecfb1.png"
-          }
-        ],
-        "mbid": "97fe99da-d84c-452f-b586-6eca7e9aa457",
-        "album": {
-          "mbid": "50f8b526-985a-4d09-b912-82664768e78a",
-          "#text": "True - The Digital E.P."
-        },
-        "name": "True - Single Edit",
-        "url": "https://www.last.fm/music/Spandau+Ballet/_/True+-+Single+Edit",
-        "date": {
-          "uts": "1762331375",
-          "#text": "05 Nov 2025, 08:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Chicago"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7aae4756a384f3826ccb8fecac95abde.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7aae4756a384f3826ccb8fecac95abde.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7aae4756a384f3826ccb8fecac95abde.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7aae4756a384f3826ccb8fecac95abde.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "89892ac5-9997-42b2-9794-7ea1ad37ae1a",
-          "#text": "Chicago 17 (Expanded & Remastered)"
-        },
-        "name": "You're the Inspiration - 2006 Remaster",
-        "url": "https://www.last.fm/music/Chicago/_/You%27re+the+Inspiration+-+2006+Remaster",
-        "date": {
-          "uts": "1762331071",
-          "#text": "05 Nov 2025, 08:24"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "158",
+      "totalPages": "159",
       "page": "1",
       "perPage": "50",
-      "total": "7900"
+      "total": "7901"
     }
   }
 }
