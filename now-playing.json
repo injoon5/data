@@ -31,41 +31,6 @@
           "#text": "Sergio Mendes"
         },
         "name": "Never Gonna Let You Go",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/S%C3%A9rgio+Mendes/_/Never+Gonna+Let+You+Go"
-      },
-      {
-        "artist": {
-          "mbid": "6bf591c4-b050-478e-9d9f-167394d66c90",
-          "#text": "S\u00e9rgio Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          }
-        ],
-        "mbid": "5f2b18f5-f9e5-413f-bcea-97decfc63ee0",
-        "album": {
-          "mbid": "09e01816-8ddc-419f-97ac-66a2a7fd4bc6",
-          "#text": "Sergio Mendes"
-        },
-        "name": "Never Gonna Let You Go",
         "url": "https://www.last.fm/music/S%C3%A9rgio+Mendes/_/Never+Gonna+Let+You+Go",
         "date": {
           "uts": "1763127726",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1762773278",
           "#text": "10 Nov 2025, 11:14"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+          "#text": "Lionel Richie"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f02fe130044bb3a802839505232bb87.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f02fe130044bb3a802839505232bb87.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f02fe130044bb3a802839505232bb87.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f02fe130044bb3a802839505232bb87.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "01ef6926-30dc-4e78-93ed-3adc3d1ce66e",
+          "#text": "Can't Slow Down"
+        },
+        "name": "Stuck on You",
+        "url": "https://www.last.fm/music/Lionel+Richie/_/Stuck+on+You",
+        "date": {
+          "uts": "1762519250",
+          "#text": "07 Nov 2025, 12:40"
         }
       }
     ],
