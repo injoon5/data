@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "2e44786f-133f-4fcd-92d0-4a9dbc7b9d23",
+          "#text": "Glenn Frey"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c46246e9d81ad6d299694b729e2352.jpg"
+          }
+        ],
+        "mbid": "7f583312-3ad0-47a9-864a-f9e1a64dc8e8",
+        "album": {
+          "mbid": "1bed207e-d663-3fde-ade4-e8cba32472ed",
+          "#text": "No Fun Aloud"
+        },
+        "name": "The One You Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Glenn+Frey/_/The+One+You+Love"
+      },
+      {
+        "artist": {
+          "mbid": "2e44786f-133f-4fcd-92d0-4a9dbc7b9d23",
+          "#text": "Glenn Frey"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c46246e9d81ad6d299694b729e2352.jpg"
+          }
+        ],
+        "mbid": "7f583312-3ad0-47a9-864a-f9e1a64dc8e8",
+        "album": {
+          "mbid": "1bed207e-d663-3fde-ade4-e8cba32472ed",
+          "#text": "No Fun Aloud"
+        },
+        "name": "The One You Love",
+        "url": "https://www.last.fm/music/Glenn+Frey/_/The+One+You+Love",
+        "date": {
+          "uts": "1763904462",
+          "#text": "23 Nov 2025, 13:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "5803c81e-739a-4057-9a5c-cf84e55db630",
+          "#text": "Quincy Jones"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d94b756f2bd208b978d15e5f4c7833d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d94b756f2bd208b978d15e5f4c7833d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d94b756f2bd208b978d15e5f4c7833d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d94b756f2bd208b978d15e5f4c7833d.jpg"
+          }
+        ],
+        "mbid": "057f4328-8642-47a8-a34e-e6461b2650dd",
+        "album": {
+          "mbid": "04384ab7-1d4e-47e5-8c8e-2fe23be713da",
+          "#text": "The Dude"
+        },
+        "name": "Just Once",
+        "url": "https://www.last.fm/music/Quincy+Jones/_/Just+Once",
+        "date": {
+          "uts": "1763904112",
+          "#text": "23 Nov 2025, 13:21"
+        }
+      },
+      {
+        "artist": {
           "mbid": "6bf591c4-b050-478e-9d9f-167394d66c90",
           "#text": "S\u00e9rgio Mendes"
         },
@@ -36,114 +143,6 @@
           "uts": "1763127726",
           "#text": "14 Nov 2025, 13:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "fbf445c0-11ae-4d3e-af1a-c6e2783e447c",
-          "#text": "Starship"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4b991fd169886485706b59750962bd8.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4b991fd169886485706b59750962bd8.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4b991fd169886485706b59750962bd8.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4b991fd169886485706b59750962bd8.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "07bbfee6-c0d3-4227-add5-c1a8681384fc",
-          "#text": "No Protection"
-        },
-        "name": "Nothing's Gonna Stop Us Now",
-        "url": "https://www.last.fm/music/Starship/_/Nothing%27s+Gonna+Stop+Us+Now",
-        "date": {
-          "uts": "1763127432",
-          "#text": "14 Nov 2025, 13:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Ambrosia"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06d1c43f31e64abdca77ef19e272efbe.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06d1c43f31e64abdca77ef19e272efbe.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06d1c43f31e64abdca77ef19e272efbe.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06d1c43f31e64abdca77ef19e272efbe.jpg"
-          }
-        ],
-        "mbid": "afdb7f18-d144-4eae-a521-d205b6caecc4",
-        "album": {
-          "mbid": "42f054cd-7426-4c1e-b173-5b6841aa6adc",
-          "#text": "One Eighty"
-        },
-        "name": "Biggest Part of Me",
-        "url": "https://www.last.fm/music/Ambrosia/_/Biggest+Part+of+Me",
-        "date": {
-          "uts": "1762773278",
-          "#text": "10 Nov 2025, 11:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
-          "#text": "Lionel Richie"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f02fe130044bb3a802839505232bb87.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f02fe130044bb3a802839505232bb87.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f02fe130044bb3a802839505232bb87.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f02fe130044bb3a802839505232bb87.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "01ef6926-30dc-4e78-93ed-3adc3d1ce66e",
-          "#text": "Can't Slow Down"
-        },
-        "name": "Stuck on You",
-        "url": "https://www.last.fm/music/Lionel+Richie/_/Stuck+on+You",
-        "date": {
-          "uts": "1762519250",
-          "#text": "07 Nov 2025, 12:40"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +150,7 @@
       "totalPages": "159",
       "page": "1",
       "perPage": "50",
-      "total": "7909"
+      "total": "7911"
     }
   }
 }
