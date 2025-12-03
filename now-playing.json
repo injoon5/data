@@ -3,6 +3,41 @@
     "track": [
       {
         "artist": {
+          "mbid": "2e44786f-133f-4fcd-92d0-4a9dbc7b9d23",
+          "#text": "Glenn Frey"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80c46246e9d81ad6d299694b729e2352.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c46246e9d81ad6d299694b729e2352.jpg"
+          }
+        ],
+        "mbid": "7f583312-3ad0-47a9-864a-f9e1a64dc8e8",
+        "album": {
+          "mbid": "1bed207e-d663-3fde-ade4-e8cba32472ed",
+          "#text": "No Fun Aloud"
+        },
+        "name": "The One You Love",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Glenn+Frey/_/The+One+You+Love"
+      },
+      {
+        "artist": {
           "mbid": "6bf591c4-b050-478e-9d9f-167394d66c90",
           "#text": "S\u00e9rgio Mendes"
         },
@@ -107,42 +142,6 @@
         "date": {
           "uts": "1763904112",
           "#text": "23 Nov 2025, 13:21"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6bf591c4-b050-478e-9d9f-167394d66c90",
-          "#text": "S\u00e9rgio Mendes"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c92eb78f5f645fe93c82a795ce5c0e3.jpg"
-          }
-        ],
-        "mbid": "5f2b18f5-f9e5-413f-bcea-97decfc63ee0",
-        "album": {
-          "mbid": "09e01816-8ddc-419f-97ac-66a2a7fd4bc6",
-          "#text": "Sergio Mendes"
-        },
-        "name": "Never Gonna Let You Go",
-        "url": "https://www.last.fm/music/S%C3%A9rgio+Mendes/_/Never+Gonna+Let+You+Go",
-        "date": {
-          "uts": "1763127726",
-          "#text": "14 Nov 2025, 13:42"
         }
       }
     ],
