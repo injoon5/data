@@ -10,31 +10,104 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2c50329c27704664959333048d0c0c43.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c69ea76b81404184c11b1e717d8fe513.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2c50329c27704664959333048d0c0c43.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c69ea76b81404184c11b1e717d8fe513.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2c50329c27704664959333048d0c0c43.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c69ea76b81404184c11b1e717d8fe513.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c50329c27704664959333048d0c0c43.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c69ea76b81404184c11b1e717d8fe513.jpg"
           }
         ],
-        "mbid": "a01b2377-a2aa-3344-b270-cb2a7f2a3ab2",
+        "mbid": "f2b8d9df-1bb9-4184-af14-eae1f841e1b4",
         "album": {
-          "mbid": "0c363653-4534-4f8b-b172-7c6545a8e3ef",
-          "#text": "Breathless"
+          "mbid": "7d2b73d7-7c5e-422c-bb96-e34badd58466",
+          "#text": "Ultimate Kenny G"
         },
-        "name": "The Wedding Song",
-        "@attr": {
-          "nowplaying": "true"
+        "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+        "url": "https://www.last.fm/music/Kenny+G/_/My+Heart+Will+Go+On+(Love+Theme+from+%22Titanic%22)",
+        "date": {
+          "uts": "1770606452",
+          "#text": "09 Feb 2026, 03:07"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
+          "#text": "Kenny G"
         },
-        "url": "https://www.last.fm/music/Kenny+G/_/The+Wedding+Song"
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c4fac541012accf776bbf8b6bf24245.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c4fac541012accf776bbf8b6bf24245.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c4fac541012accf776bbf8b6bf24245.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c4fac541012accf776bbf8b6bf24245.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "0ccbcbbb-b792-41a1-9259-7aed86d141cf",
+          "#text": "Duotones"
+        },
+        "name": "Songbird",
+        "url": "https://www.last.fm/music/Kenny+G/_/Songbird",
+        "date": {
+          "uts": "1770606169",
+          "#text": "09 Feb 2026, 03:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
+          "#text": "Kenny G"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3316d9b153c126b5cdfcd0e7cd6830a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3316d9b153c126b5cdfcd0e7cd6830a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3316d9b153c126b5cdfcd0e7cd6830a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3316d9b153c126b5cdfcd0e7cd6830a.jpg"
+          }
+        ],
+        "mbid": "8ed083e9-99de-4777-9dca-d7f5eba7a0a9",
+        "album": {
+          "mbid": "8065ecfb-cd29-43c0-9a33-5881554e4e47",
+          "#text": "New Standards"
+        },
+        "name": "Anthem",
+        "url": "https://www.last.fm/music/Kenny+G/_/Anthem",
+        "date": {
+          "uts": "1770605881",
+          "#text": "09 Feb 2026, 02:58"
+        }
       },
       {
         "artist": {
@@ -71,86 +144,14 @@
           "uts": "1770605643",
           "#text": "09 Feb 2026, 02:54"
         }
-      },
-      {
-        "artist": {
-          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
-          "#text": "Kenny G"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4450f5f8e1394404c430d9bf4b2ed0dd.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4450f5f8e1394404c430d9bf4b2ed0dd.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4450f5f8e1394404c430d9bf4b2ed0dd.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4450f5f8e1394404c430d9bf4b2ed0dd.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "3e5c6aa2-6bf4-4a38-a96e-94595e69df13",
-          "#text": "The Greatest Holiday Classics"
-        },
-        "name": "Medley: Deck the Halls / The Twelve Days of Christmas",
-        "url": "https://www.last.fm/music/Kenny+G/_/Medley:+Deck+the+Halls+%2F+The+Twelve+Days+of+Christmas",
-        "date": {
-          "uts": "1770605453",
-          "#text": "09 Feb 2026, 02:50"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
-          "#text": "Kenny G"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b252620e6c10c139a563e861ced88f3a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b252620e6c10c139a563e861ced88f3a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b252620e6c10c139a563e861ced88f3a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b252620e6c10c139a563e861ced88f3a.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "The Classic Christmas Album"
-        },
-        "name": "White Christmas",
-        "url": "https://www.last.fm/music/Kenny+G/_/White+Christmas",
-        "date": {
-          "uts": "1770605272",
-          "#text": "09 Feb 2026, 02:47"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "159",
+      "totalPages": "160",
       "page": "1",
       "perPage": "50",
-      "total": "7948"
+      "total": "7951"
     }
   }
 }
