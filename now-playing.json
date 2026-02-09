@@ -10,31 +10,66 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c69ea76b81404184c11b1e717d8fe513.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d6ad6d36acdafcd2692d4f0f2969832e.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c69ea76b81404184c11b1e717d8fe513.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d6ad6d36acdafcd2692d4f0f2969832e.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c69ea76b81404184c11b1e717d8fe513.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d6ad6d36acdafcd2692d4f0f2969832e.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c69ea76b81404184c11b1e717d8fe513.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6ad6d36acdafcd2692d4f0f2969832e.jpg"
           }
         ],
-        "mbid": "f2b8d9df-1bb9-4184-af14-eae1f841e1b4",
+        "mbid": "",
         "album": {
-          "mbid": "7d2b73d7-7c5e-422c-bb96-e34badd58466",
-          "#text": "Ultimate Kenny G"
+          "mbid": "425396fa-3c1d-4da7-a850-c6bfe77684ff",
+          "#text": "Innocence"
         },
-        "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
-        "url": "https://www.last.fm/music/Kenny+G/_/My+Heart+Will+Go+On+(Love+Theme+from+%22Titanic%22)",
+        "name": "A Mother\u2019s Lullaby",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Kenny+G/_/A+Mother%E2%80%99s+Lullaby"
+      },
+      {
+        "artist": {
+          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
+          "#text": "Kenny G"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f6629c9ba8fc44c7b14a4a820336761d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f6629c9ba8fc44c7b14a4a820336761d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f6629c9ba8fc44c7b14a4a820336761d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6629c9ba8fc44c7b14a4a820336761d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "5a7e35bb-a79c-4914-8a95-b54ad7fc3180",
+          "#text": "Silhouette"
+        },
+        "name": "Silhouette",
+        "url": "https://www.last.fm/music/Kenny+G/_/Silhouette",
         "date": {
-          "uts": "1770606452",
-          "#text": "09 Feb 2026, 03:07"
+          "uts": "1770631738",
+          "#text": "09 Feb 2026, 10:08"
         }
       },
       {
@@ -46,31 +81,31 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c4fac541012accf776bbf8b6bf24245.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14d86241283c2c51f6a18e06f7cdc44b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c4fac541012accf776bbf8b6bf24245.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14d86241283c2c51f6a18e06f7cdc44b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c4fac541012accf776bbf8b6bf24245.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14d86241283c2c51f6a18e06f7cdc44b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c4fac541012accf776bbf8b6bf24245.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14d86241283c2c51f6a18e06f7cdc44b.jpg"
           }
         ],
         "mbid": "",
         "album": {
-          "mbid": "0ccbcbbb-b792-41a1-9259-7aed86d141cf",
-          "#text": "Duotones"
+          "mbid": "62714bca-fad4-4e5c-ba31-8023996b998c",
+          "#text": "Kenny G Live"
         },
-        "name": "Songbird",
-        "url": "https://www.last.fm/music/Kenny+G/_/Songbird",
+        "name": "Going Home (Studio Recording)",
+        "url": "https://www.last.fm/music/Kenny+G/_/Going+Home+(Studio+Recording)",
         "date": {
-          "uts": "1770606169",
-          "#text": "09 Feb 2026, 03:02"
+          "uts": "1770631408",
+          "#text": "09 Feb 2026, 10:03"
         }
       },
       {
@@ -97,52 +132,16 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3316d9b153c126b5cdfcd0e7cd6830a.jpg"
           }
         ],
-        "mbid": "8ed083e9-99de-4777-9dca-d7f5eba7a0a9",
+        "mbid": "e0d4504a-4cd0-49fa-91f9-be8ade240a05",
         "album": {
           "mbid": "8065ecfb-cd29-43c0-9a33-5881554e4e47",
           "#text": "New Standards"
         },
-        "name": "Anthem",
-        "url": "https://www.last.fm/music/Kenny+G/_/Anthem",
+        "name": "Emeline",
+        "url": "https://www.last.fm/music/Kenny+G/_/Emeline",
         "date": {
-          "uts": "1770605881",
-          "#text": "09 Feb 2026, 02:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "4cd556a5-db82-43f6-8d55-99598b42da8f",
-          "#text": "Kenny G"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2c50329c27704664959333048d0c0c43.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2c50329c27704664959333048d0c0c43.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2c50329c27704664959333048d0c0c43.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c50329c27704664959333048d0c0c43.jpg"
-          }
-        ],
-        "mbid": "a01b2377-a2aa-3344-b270-cb2a7f2a3ab2",
-        "album": {
-          "mbid": "0c363653-4534-4f8b-b172-7c6545a8e3ef",
-          "#text": "Breathless"
-        },
-        "name": "The Wedding Song",
-        "url": "https://www.last.fm/music/Kenny+G/_/The+Wedding+Song",
-        "date": {
-          "uts": "1770605643",
-          "#text": "09 Feb 2026, 02:54"
+          "uts": "1770631131",
+          "#text": "09 Feb 2026, 09:58"
         }
       }
     ],
@@ -151,7 +150,7 @@
       "totalPages": "160",
       "page": "1",
       "perPage": "50",
-      "total": "7951"
+      "total": "7957"
     }
   }
 }
