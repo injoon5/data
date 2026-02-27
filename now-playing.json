@@ -31,41 +31,6 @@
           "#text": "songs i couldn't forget - EP"
         },
         "name": "mariah",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Lauv/_/mariah"
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "bca1307b-9516-401e-b7d4-2bb4c714bc6c",
-        "album": {
-          "mbid": "",
-          "#text": "songs i couldn't forget - EP"
-        },
-        "name": "mariah",
         "url": "https://www.last.fm/music/Lauv/_/mariah",
         "date": {
           "uts": "1772176224",
@@ -142,6 +107,42 @@
         "date": {
           "uts": "1772175852",
           "#text": "27 Feb 2026, 07:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "55150486-35a7-48a5-9ffb-557bb2061191",
+        "album": {
+          "mbid": "",
+          "#text": "songs i couldn't forget - EP"
+        },
+        "name": "Fake It",
+        "url": "https://www.last.fm/music/Lauv/_/Fake+It",
+        "date": {
+          "uts": "1772175685",
+          "#text": "27 Feb 2026, 07:01"
         }
       }
     ],
