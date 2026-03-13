@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "#text": "Bruno Mars"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          }
+        ],
+        "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+        "album": {
+          "mbid": "",
+          "#text": "The Romantic"
+        },
+        "name": "Risk It All",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+        "date": {
+          "uts": "1773422963",
+          "#text": "13 Mar 2026, 17:29"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Lany"
         },
@@ -108,42 +144,6 @@
           "uts": "1773420496",
           "#text": "13 Mar 2026, 16:48"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27e554ae95df2e266bafcddddc084f33.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27e554ae95df2e266bafcddddc084f33.jpg"
-          }
-        ],
-        "mbid": "02a95790-5546-4884-b413-1457fe3e4677",
-        "album": {
-          "mbid": "59b026dd-4191-42a4-885a-b6926c06b69f",
-          "#text": "gg bb xx"
-        },
-        "name": "up to me",
-        "url": "https://www.last.fm/music/Lany/_/up+to+me",
-        "date": {
-          "uts": "1773235003",
-          "#text": "11 Mar 2026, 13:16"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "160",
       "page": "1",
       "perPage": "50",
-      "total": "7975"
+      "total": "7976"
     }
   }
 }
