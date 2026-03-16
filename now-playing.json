@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "e527e6a8-4b5a-491c-8709-123f92fdc0e5",
+          "#text": "Johnny Stimson"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b00425dd292222de82c3f556223666ab.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b00425dd292222de82c3f556223666ab.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b00425dd292222de82c3f556223666ab.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b00425dd292222de82c3f556223666ab.jpg"
+          }
+        ],
+        "mbid": "b37a40be-98ff-43a2-be37-18667a4e5327",
+        "album": {
+          "mbid": "",
+          "#text": "Smile - Single"
+        },
+        "name": "Smile",
+        "url": "https://www.last.fm/music/Johnny+Stimson/_/Smile",
+        "date": {
+          "uts": "1773665346",
+          "#text": "16 Mar 2026, 12:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
           "#text": "The 1975"
         },
@@ -108,42 +144,6 @@
           "uts": "1773559764",
           "#text": "15 Mar 2026, 07:29"
         }
-      },
-      {
-        "artist": {
-          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
-          "#text": "Bruno Mars"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b0ed289f604d7fe09080da4f05e1ead.jpg"
-          }
-        ],
-        "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
-        "album": {
-          "mbid": "0297e26e-de26-4c25-acd9-f72b55eaf271",
-          "#text": "The Romantic"
-        },
-        "name": "Risk It All",
-        "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
-        "date": {
-          "uts": "1773422963",
-          "#text": "13 Mar 2026, 17:29"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "160",
       "page": "1",
       "perPage": "50",
-      "total": "7979"
+      "total": "7980"
     }
   }
 }
