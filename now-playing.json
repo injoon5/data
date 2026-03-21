@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "e527e6a8-4b5a-491c-8709-123f92fdc0e5",
+          "#text": "Johnny Stimson"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "db06178a-26dc-4bfc-9aab-97053e8e66e4",
+        "album": {
+          "mbid": "",
+          "#text": "Honeymoon - Single"
+        },
+        "name": "Honeymoon",
+        "url": "https://www.last.fm/music/Johnny+Stimson/_/Honeymoon",
+        "date": {
+          "uts": "1774107243",
+          "#text": "21 Mar 2026, 15:34"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -31,10 +67,11 @@
           "#text": "love + everything else"
         },
         "name": "parachute",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/John+K/_/parachute"
+        "url": "https://www.last.fm/music/John+K/_/parachute",
+        "date": {
+          "uts": "1774107051",
+          "#text": "21 Mar 2026, 15:30"
+        }
       },
       {
         "artist": {
@@ -107,42 +144,6 @@
           "uts": "1774106728",
           "#text": "21 Mar 2026, 15:25"
         }
-      },
-      {
-        "artist": {
-          "mbid": "e527e6a8-4b5a-491c-8709-123f92fdc0e5",
-          "#text": "Johnny Stimson"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b00425dd292222de82c3f556223666ab.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b00425dd292222de82c3f556223666ab.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b00425dd292222de82c3f556223666ab.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b00425dd292222de82c3f556223666ab.jpg"
-          }
-        ],
-        "mbid": "b37a40be-98ff-43a2-be37-18667a4e5327",
-        "album": {
-          "mbid": "",
-          "#text": "Smile - Single"
-        },
-        "name": "Smile",
-        "url": "https://www.last.fm/music/Johnny+Stimson/_/Smile",
-        "date": {
-          "uts": "1774106545",
-          "#text": "21 Mar 2026, 15:22"
-        }
       }
     ],
     "@attr": {
@@ -150,7 +151,7 @@
       "totalPages": "160",
       "page": "1",
       "perPage": "50",
-      "total": "7990"
+      "total": "7992"
     }
   }
 }
