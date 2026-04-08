@@ -3,6 +3,114 @@
     "track": [
       {
         "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/931b66df2652b311fb1078ac189a2e96.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/931b66df2652b311fb1078ac189a2e96.jpg"
+          }
+        ],
+        "mbid": "ca05e074-1c11-4587-ba3d-cc6c8b8c3714",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "As It Was",
+        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
+        "date": {
+          "uts": "1775655727",
+          "#text": "08 Apr 2026, 13:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Jesse Barrera, Johnny Stimson & Jeff Bernat"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Casual - Single"
+        },
+        "name": "Casual",
+        "url": "https://www.last.fm/music/Jesse+Barrera,+Johnny+Stimson+&+Jeff+Bernat/_/Casual",
+        "date": {
+          "uts": "1775655543",
+          "#text": "08 Apr 2026, 13:39"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
+          "#text": "Lany"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6c33ae7215181697acfb8fde7780b20.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6c33ae7215181697acfb8fde7780b20.jpg"
+          }
+        ],
+        "mbid": "02c44f63-031e-4937-a405-b302d588cf83",
+        "album": {
+          "mbid": "184d08b5-1e0e-45ba-9dd1-ff2a912c4dfb",
+          "#text": "gg bb xx (deluxe)"
+        },
+        "name": "dna",
+        "url": "https://www.last.fm/music/Lany/_/dna",
+        "date": {
+          "uts": "1775655354",
+          "#text": "08 Apr 2026, 13:35"
+        }
+      },
+      {
+        "artist": {
           "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
           "#text": "John K"
         },
@@ -36,114 +144,6 @@
           "uts": "1775385803",
           "#text": "05 Apr 2026, 10:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          }
-        ],
-        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
-        "album": {
-          "mbid": "",
-          "#text": "something special (hi) - Single"
-        },
-        "name": "something special",
-        "url": "https://www.last.fm/music/Joan/_/something+special",
-        "date": {
-          "uts": "1775385634",
-          "#text": "05 Apr 2026, 10:40"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Millennial Club"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/131169d243f59dccc31ad30ac2f4a128.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/131169d243f59dccc31ad30ac2f4a128.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/131169d243f59dccc31ad30ac2f4a128.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/131169d243f59dccc31ad30ac2f4a128.jpg"
-          }
-        ],
-        "mbid": "d8b49498-dcc4-4b49-bcc2-0ee77ef80516",
-        "album": {
-          "mbid": "",
-          "#text": "Summer Nights - EP"
-        },
-        "name": "summer nights",
-        "url": "https://www.last.fm/music/The+Millennial+Club/_/summer+nights",
-        "date": {
-          "uts": "1775385431",
-          "#text": "05 Apr 2026, 10:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "be465d46-9615-4722-b828-ea531ff97ea3",
-          "#text": "John K"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4df630ab7937c56e2964fff5c03798d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4df630ab7937c56e2964fff5c03798d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Be Alright // U Sometimes - Single"
-        },
-        "name": "U Sometimes",
-        "url": "https://www.last.fm/music/John+K/_/U+Sometimes",
-        "date": {
-          "uts": "1775385241",
-          "#text": "05 Apr 2026, 10:34"
-        }
       }
     ],
     "@attr": {
@@ -151,7 +151,7 @@
       "totalPages": "161",
       "page": "1",
       "perPage": "50",
-      "total": "8002"
+      "total": "8005"
     }
   }
 }
