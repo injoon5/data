@@ -3,8 +3,116 @@
     "track": [
       {
         "artist": {
-          "mbid": "95d5cabd-1539-4887-86b1-4f492d3c5cf4",
-          "#text": "Etham"
+          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
+          "#text": "Fiji Blue"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c5b00fa73c2e1f0575162658daea059.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c5b00fa73c2e1f0575162658daea059.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "I Loved You, What Happened?"
+        },
+        "name": "Up Down",
+        "url": "https://www.last.fm/music/Fiji+Blue/_/Up+Down",
+        "date": {
+          "uts": "1776768761",
+          "#text": "21 Apr 2026, 10:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+          "#text": "The Weeknd"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/08e3f15aca0423b084fb49f342756f3b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/08e3f15aca0423b084fb49f342756f3b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/08e3f15aca0423b084fb49f342756f3b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/08e3f15aca0423b084fb49f342756f3b.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "08791ceb-9f2a-4f48-9fb7-9eab2df6fc6e",
+          "#text": "Starboy"
+        },
+        "name": "I Feel It Coming (feat. Daft Punk)",
+        "url": "https://www.last.fm/music/The+Weeknd/_/I+Feel+It+Coming+(feat.+Daft+Punk)",
+        "date": {
+          "uts": "1776768530",
+          "#text": "21 Apr 2026, 10:48"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Lauv & LANY"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fff716db0b935ab873c03e7b95fca9e3.jpg"
+          }
+        ],
+        "mbid": "0f77ce5d-0ff2-4696-8780-38915db06cac",
+        "album": {
+          "mbid": "10540bc4-38c8-498d-83e3-5c7b23a5245e",
+          "#text": "~how i'm feeling~"
+        },
+        "name": "Mean It",
+        "url": "https://www.last.fm/music/Lauv+&+LANY/_/Mean+It",
+        "date": {
+          "uts": "1776768277",
+          "#text": "21 Apr 2026, 10:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f985932b-3ed2-462c-a102-74533c475ecf",
+          "#text": "Public Library Commute"
         },
         "streamable": "0",
         "image": [
@@ -25,123 +133,16 @@
             "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
-        "mbid": "dcbb11ae-eef5-4305-bfa7-f1f8e8349e39",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Purpose (Stripped) - Single"
+          "#text": "Take Your Time - Single"
         },
-        "name": "Purpose (Stripped)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Etham/_/Purpose+(Stripped)"
-      },
-      {
-        "artist": {
-          "mbid": "95d5cabd-1539-4887-86b1-4f492d3c5cf4",
-          "#text": "Etham"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "dcbb11ae-eef5-4305-bfa7-f1f8e8349e39",
-        "album": {
-          "mbid": "",
-          "#text": "Purpose (Stripped) - Single"
-        },
-        "name": "Purpose (Stripped)",
-        "url": "https://www.last.fm/music/Etham/_/Purpose+(Stripped)",
+        "name": "take your time",
+        "url": "https://www.last.fm/music/Public+Library+Commute/_/take+your+time",
         "date": {
-          "uts": "1776767900",
-          "#text": "21 Apr 2026, 10:38"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "994fd4c8-a7d0-4a08-9f3a-7ad22aadd437",
-          "#text": "Joan"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fa94b781d9452ab91a7ee9872951d17.jpg"
-          }
-        ],
-        "mbid": "28add9a3-d242-4886-a1de-70457b7d67b5",
-        "album": {
-          "mbid": "",
-          "#text": "something special (hi) - Single"
-        },
-        "name": "something special",
-        "url": "https://www.last.fm/music/Joan/_/something+special",
-        "date": {
-          "uts": "1776767723",
-          "#text": "21 Apr 2026, 10:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "dhruv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/087c84df33fd5010cf79bbad8c4c136b.jpg"
-          }
-        ],
-        "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
-        "album": {
-          "mbid": "",
-          "#text": "Double Take - Single"
-        },
-        "name": "double take",
-        "url": "https://www.last.fm/music/dhruv/_/double+take",
-        "date": {
-          "uts": "1776767558",
-          "#text": "21 Apr 2026, 10:32"
+          "uts": "1776768079",
+          "#text": "21 Apr 2026, 10:41"
         }
       }
     ],
@@ -150,7 +151,7 @@
       "totalPages": "161",
       "page": "1",
       "perPage": "50",
-      "total": "8019"
+      "total": "8023"
     }
   }
 }
