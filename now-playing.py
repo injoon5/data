@@ -26,7 +26,7 @@ if __name__ == '__main__':
     response = get_now_playing().json()
     
     # Ensure we only have 4 tracks
-    response['recenttracks']['track'] = response['recenttracks']['track'][:4]
+    response['recenttracks']['track'] = response['recenttracks']['track'][:20]
     
     with open('now-playing.json', 'w') as f:
         json.dump(response, f, indent=2)
