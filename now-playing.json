@@ -3,73 +3,38 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
+          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+          "#text": "wave to earth"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b64b052f31fb04331386cf1d9fa86a9.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "4608bb5f-8b9e-4868-aba7-4e8a97738af0",
         "album": {
-          "mbid": "",
-          "#text": "Jannabi's Small Pieces I - EP"
+          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
+          "#text": "0.1 flaws and all."
         },
-        "name": "Sweet Memories",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/JANNABI/_/Sweet+Memories"
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b64b052f31fb04331386cf1d9fa86a9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jannabi's Small Pieces I - EP"
-        },
-        "name": "Sweet Memories",
-        "url": "https://www.last.fm/music/JANNABI/_/Sweet+Memories",
+        "name": "sunny days",
+        "url": "https://www.last.fm/music/wave+to+earth/_/sunny+days",
         "date": {
-          "uts": "1782315310",
-          "#text": "24 Jun 2026, 15:35"
+          "uts": "1782320000",
+          "#text": "24 Jun 2026, 16:53"
         }
       },
       {
@@ -81,283 +46,31 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b584db38f127e3c9609106a0c923bf37.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c75635e6b8be4c9bab634509f4638d8.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b584db38f127e3c9609106a0c923bf37.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c75635e6b8be4c9bab634509f4638d8.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b584db38f127e3c9609106a0c923bf37.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c75635e6b8be4c9bab634509f4638d8.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b584db38f127e3c9609106a0c923bf37.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c75635e6b8be4c9bab634509f4638d8.jpg"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Yours - Single"
+          "#text": "Josee! - Single"
         },
-        "name": "Yours",
-        "url": "https://www.last.fm/music/Damons+year/_/Yours",
+        "name": "Josee!",
+        "url": "https://www.last.fm/music/Damons+year/_/Josee!",
         "date": {
-          "uts": "1782315145",
-          "#text": "24 Jun 2026, 15:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "You Raise Me Up (From 'the FAN 3ROUND, Pt. 1') - Single"
-        },
-        "name": "You Raise Me Up (From 'the FAN 3ROUND, Pt. 1')",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/You+Raise+Me+Up+(From+%27the+FAN+3ROUND,+Pt.+1%27)",
-        "date": {
-          "uts": "1782314947",
-          "#text": "24 Jun 2026, 15:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "LEGEND"
-        },
-        "name": "dreams, books, power and walls",
-        "url": "https://www.last.fm/music/JANNABI/_/dreams,+books,+power+and+walls",
-        "date": {
-          "uts": "1782314682",
-          "#text": "24 Jun 2026, 15:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
-          }
-        ],
-        "mbid": "d0c94638-dd41-4f85-b82a-adaa7a339d30",
-        "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret of Association"
-        },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
-        "date": {
-          "uts": "1782314375",
-          "#text": "24 Jun 2026, 15:19"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5dd7b73e1aaa37f8df260de463bda579.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5dd7b73e1aaa37f8df260de463bda579.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5dd7b73e1aaa37f8df260de463bda579.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dd7b73e1aaa37f8df260de463bda579.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "31 - Single"
-        },
-        "name": "31",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/31",
-        "date": {
-          "uts": "1782314119",
-          "#text": "24 Jun 2026, 15:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Jon1 - EP"
-        },
-        "name": "Somehow",
-        "url": "https://www.last.fm/music/O3OHN/_/Somehow",
-        "date": {
-          "uts": "1782313926",
-          "#text": "24 Jun 2026, 15:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ac486447-f5e9-4c4c-90f2-ef6f0486ff5b",
-        "album": {
-          "mbid": "",
-          "#text": "Absence - EP"
-        },
-        "name": "Doesn't matter",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Doesn%27t+matter",
-        "date": {
-          "uts": "1782036731",
-          "#text": "21 Jun 2026, 10:12"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Lee Jun Hyung"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0347edc6736f9cde34a79122aa0bd52.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0347edc6736f9cde34a79122aa0bd52.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0347edc6736f9cde34a79122aa0bd52.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0347edc6736f9cde34a79122aa0bd52.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Igloo - Single"
-        },
-        "name": "Igloo",
-        "url": "https://www.last.fm/music/Lee+Jun+Hyung/_/Igloo",
-        "date": {
-          "uts": "1782036465",
-          "#text": "21 Jun 2026, 10:07"
+          "uts": "1782319818",
+          "#text": "24 Jun 2026, 16:50"
         }
       },
       {
@@ -392,14 +105,50 @@
         "name": "A thought on an autumn night",
         "url": "https://www.last.fm/music/JANNABI/_/A+thought+on+an+autumn+night",
         "date": {
-          "uts": "1782036212",
-          "#text": "21 Jun 2026, 10:03"
+          "uts": "1782319673",
+          "#text": "24 Jun 2026, 16:47"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "Boohwal"
+          "#text": "The Black Skirts"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Team Baby"
+        },
+        "name": "Everything",
+        "url": "https://www.last.fm/music/The+Black+Skirts/_/Everything",
+        "date": {
+          "uts": "1782319446",
+          "#text": "24 Jun 2026, 16:44"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "f2ba0737-6707-4051-935d-26b6cfb4d2a3",
+          "#text": "\uc774\uc2b9\ucca0"
         },
         "streamable": "0",
         "image": [
@@ -423,121 +172,13 @@
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "\ubd80\ud65c Collaboration Project + (Plus) - Single"
+          "#text": "Blue Swallow (Original Sound Track)"
         },
-        "name": "\ube44\ubc00 (feat. \ubc15\uc644\uaddc)",
-        "url": "https://www.last.fm/music/Boohwal/_/%EB%B9%84%EB%B0%80+(feat.+%EB%B0%95%EC%99%84%EA%B7%9C)",
+        "name": "Jasmine",
+        "url": "https://www.last.fm/music/%EC%9D%B4%EC%8A%B9%EC%B2%A0/_/Jasmine",
         "date": {
-          "uts": "1782034780",
-          "#text": "21 Jun 2026, 09:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
-          "#text": "O3OHN"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7e0268e95e5cf2627d091d740163361.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7e0268e95e5cf2627d091d740163361.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "co - EP"
-        },
-        "name": "Night",
-        "url": "https://www.last.fm/music/O3OHN/_/Night",
-        "date": {
-          "uts": "1782034564",
-          "#text": "21 Jun 2026, 09:36"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "a697464c-69b1-4bbc-88cc-570c025a25e5",
-          "#text": "\uac80\uc815\uce58\ub9c8"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
-          }
-        ],
-        "mbid": "dfdb6fc8-6d22-4f3a-ad83-896845344fcd",
-        "album": {
-          "mbid": "",
-          "#text": "Hollywood - Single"
-        },
-        "name": "Hollywood",
-        "url": "https://www.last.fm/music/%EA%B2%80%EC%A0%95%EC%B9%98%EB%A7%88/_/Hollywood",
-        "date": {
-          "uts": "1781882924",
-          "#text": "19 Jun 2026, 15:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "LEEHEESANG"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77f53b975f572ccef94a06721f42d1e9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "HOWEVER"
-        },
-        "name": "Everlasting Love",
-        "url": "https://www.last.fm/music/LEEHEESANG/_/Everlasting+Love",
-        "date": {
-          "uts": "1781868489",
-          "#text": "19 Jun 2026, 11:28"
+          "uts": "1782319157",
+          "#text": "24 Jun 2026, 16:39"
         }
       },
       {
@@ -572,44 +213,116 @@
         "name": "for lovers who hesitate",
         "url": "https://www.last.fm/music/JANNABI/_/for+lovers+who+hesitate",
         "date": {
-          "uts": "1781787412",
-          "#text": "18 Jun 2026, 12:56"
+          "uts": "1782318884",
+          "#text": "24 Jun 2026, 16:34"
         }
       },
       {
         "artist": {
           "mbid": "",
-          "#text": "The Black Skirts"
+          "#text": "slchld"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
           }
         ],
         "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Team Baby"
+          "#text": "You Won't Be There For Me - Single"
         },
-        "name": "Confetti and Balloons",
-        "url": "https://www.last.fm/music/The+Black+Skirts/_/Confetti+and+Balloons",
+        "name": "you won't be there for me",
+        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
         "date": {
-          "uts": "1781787185",
-          "#text": "18 Jun 2026, 12:53"
+          "uts": "1782318667",
+          "#text": "24 Jun 2026, 16:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c1304bf7-1002-493c-af8f-47a950813f6a",
+          "#text": "Nerd Connection"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "If I have you only (My love) - Single"
+        },
+        "name": "If I have you only (My love)",
+        "url": "https://www.last.fm/music/Nerd+Connection/_/If+I+have+you+only+(My+love)",
+        "date": {
+          "uts": "1782318457",
+          "#text": "24 Jun 2026, 16:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c162b6f7d2f3d1e2e584d7959871e6d7.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c162b6f7d2f3d1e2e584d7959871e6d7.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c162b6f7d2f3d1e2e584d7959871e6d7.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c162b6f7d2f3d1e2e584d7959871e6d7.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Simple Songs - EP"
+        },
+        "name": "Annabel",
+        "url": "https://www.last.fm/music/O3OHN/_/Annabel",
+        "date": {
+          "uts": "1782318247",
+          "#text": "24 Jun 2026, 16:24"
         }
       },
       {
@@ -644,80 +357,368 @@
         "name": "Nothing's Gonna Change My Love for You",
         "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You",
         "date": {
-          "uts": "1781786978",
-          "#text": "18 Jun 2026, 12:49"
+          "uts": "1782318041",
+          "#text": "24 Jun 2026, 16:20"
         }
       },
       {
         "artist": {
-          "mbid": "a697464c-69b1-4bbc-88cc-570c025a25e5",
-          "#text": "\uac80\uc815\uce58\ub9c8"
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a99c5a8f69072cb2483de19af4ec955.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8171c8a17b7c5b9c9d3a2303270d3f58.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a99c5a8f69072cb2483de19af4ec955.jpg"
           }
         ],
-        "mbid": "dfdb6fc8-6d22-4f3a-ad83-896845344fcd",
+        "mbid": "",
         "album": {
           "mbid": "",
-          "#text": "Hollywood - Single"
+          "#text": "Jon1 - EP"
         },
-        "name": "Hollywood",
-        "url": "https://www.last.fm/music/%EA%B2%80%EC%A0%95%EC%B9%98%EB%A7%88/_/Hollywood",
+        "name": "Oooh",
+        "url": "https://www.last.fm/music/O3OHN/_/Oooh",
         "date": {
-          "uts": "1781786495",
-          "#text": "18 Jun 2026, 12:41"
+          "uts": "1782317848",
+          "#text": "24 Jun 2026, 16:17"
         }
       },
       {
         "artist": {
-          "mbid": "967002b0-58ef-4b22-a58c-fbc631ff695c",
-          "#text": "Paul Young"
+          "mbid": "",
+          "#text": "The Black Skirts"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/055885ac702c449ca6a7bfcf65c4289f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/055885ac702c449ca6a7bfcf65c4289f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/055885ac702c449ca6a7bfcf65c4289f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/055885ac702c449ca6a7bfcf65c4289f.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
           }
         ],
-        "mbid": "d0c94638-dd41-4f85-b82a-adaa7a339d30",
+        "mbid": "",
         "album": {
-          "mbid": "1e5c4aa0-c75f-479b-bc88-42228ec6efab",
-          "#text": "The Secret of Association"
+          "mbid": "",
+          "#text": "Team Baby"
         },
-        "name": "Every Time You Go Away",
-        "url": "https://www.last.fm/music/Paul+Young/_/Every+Time+You+Go+Away",
+        "name": "Big Love",
+        "url": "https://www.last.fm/music/The+Black+Skirts/_/Big+Love",
         "date": {
-          "uts": "1781785883",
-          "#text": "18 Jun 2026, 12:31"
+          "uts": "1782317656",
+          "#text": "24 Jun 2026, 16:14"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Black Skirts"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Team Baby"
+        },
+        "name": "Who Do You Love",
+        "url": "https://www.last.fm/music/The+Black+Skirts/_/Who+Do+You+Love",
+        "date": {
+          "uts": "1782317402",
+          "#text": "24 Jun 2026, 16:10"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Black Skirts"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Team Baby"
+        },
+        "name": "1:05",
+        "url": "https://www.last.fm/music/The+Black+Skirts/_/1:05",
+        "date": {
+          "uts": "1782317150",
+          "#text": "24 Jun 2026, 16:05"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Boohwal"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "\ubd80\ud65c Collaboration Project + (Plus) - Single"
+        },
+        "name": "\ube44\ubc00 (feat. \ubc15\uc644\uaddc)",
+        "url": "https://www.last.fm/music/Boohwal/_/%EB%B9%84%EB%B0%80+(feat.+%EB%B0%95%EC%99%84%EA%B7%9C)",
+        "date": {
+          "uts": "1782316896",
+          "#text": "24 Jun 2026, 16:01"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "a76b1adf-66bb-46a0-b270-a1bdd271bba2",
+          "#text": "O3OHN"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7e0268e95e5cf2627d091d740163361.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7e0268e95e5cf2627d091d740163361.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7e0268e95e5cf2627d091d740163361.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7e0268e95e5cf2627d091d740163361.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "co - EP"
+        },
+        "name": "Night",
+        "url": "https://www.last.fm/music/O3OHN/_/Night",
+        "date": {
+          "uts": "1782316683",
+          "#text": "24 Jun 2026, 15:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "MONKEY HOTEL"
+        },
+        "name": "Summer",
+        "url": "https://www.last.fm/music/JANNABI/_/Summer",
+        "date": {
+          "uts": "1782316487",
+          "#text": "24 Jun 2026, 15:54"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
+          "#text": "Car, The Garden"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5603e8448f149c24aaa0d68f56d5eace.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5603e8448f149c24aaa0d68f56d5eace.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5603e8448f149c24aaa0d68f56d5eace.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5603e8448f149c24aaa0d68f56d5eace.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Memorize Our Night - Single"
+        },
+        "name": "Memorize Our Night",
+        "url": "https://www.last.fm/music/Car,+The+Garden/_/Memorize+Our+Night",
+        "date": {
+          "uts": "1782316252",
+          "#text": "24 Jun 2026, 15:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
+          "#text": "Car, The Garden"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "ac486447-f5e9-4c4c-90f2-ef6f0486ff5b",
+        "album": {
+          "mbid": "",
+          "#text": "Absence - EP"
+        },
+        "name": "Doesn't matter",
+        "url": "https://www.last.fm/music/Car,+The+Garden/_/Doesn%27t+matter",
+        "date": {
+          "uts": "1782316026",
+          "#text": "24 Jun 2026, 15:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "The Black Skirts"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Team Baby"
+        },
+        "name": "Confetti and Balloons",
+        "url": "https://www.last.fm/music/The+Black+Skirts/_/Confetti+and+Balloons",
+        "date": {
+          "uts": "1782315819",
+          "#text": "24 Jun 2026, 15:43"
         }
       }
     ],
@@ -726,7 +727,7 @@
       "totalPages": "164",
       "page": "1",
       "perPage": "50",
-      "total": "8177"
+      "total": "8198"
     }
   }
 }
