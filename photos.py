@@ -1,22 +1,24 @@
-import requests
 import json
+import requests
 
-def get_recent_photos():
+
+def get_recent_photos() -> dict:
     api_url = "https://photos.injoon5.com/feed.json"
-    response = requests.get(api_url)
-    
-    if response.status_code == 200:
-        data = response.json()
-        
-        # Ensure we only have 6 photos
-        data["photos"] = data["photos"][:8]
-        
-        with open("photos.json", "w") as f:
-            json.dump(data, f, indent=2)
-        
-        print("Saved recent photos to photos.json")
-    else:
-        print(f"Failed to fetch photos: {response.status_code}")
+    response = requests.get(api_url, timeout=30)
+    response.raise_for_status()
+    data = response.json()
+
+    photos = data.get("photos")
+    if photos is None:
+        raise RuntimeError("Photos feed missing photos array")
+
+    # Keep the 8 most recent photos
+    data["photos"] = photos[:8]
+    return data
+
 
 if __name__ == "__main__":
-    get_recent_photos()
+    payload = get_recent_photos()
+    with open("photos.json", "w") as f:
+        json.dump(payload, f, indent=2)
+    print("Saved recent photos to photos.json")

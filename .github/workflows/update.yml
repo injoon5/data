@@ -6,39 +6,43 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   get-current-tracks:
     environment: production
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
+
       - name: Set Up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: '3.10'
+
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Rebase Before Running
-        run: |
-          git config pull.rebase true
-          git pull
+
       - name: Get Recent Photos
         run: python3 photos.py
+
       - name: Get Current Tracks
         run: python3 now-playing.py
         env:
           LAST_FM_PUBLIC_API_KEY: ${{ secrets.LAST_FM_PUBLIC_API_KEY }}
-      - name: Commit as Bot
+
+      - name: Commit and push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Update data"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.REPO_SECRET }}
-          branch: main
+          if git diff-index --quiet HEAD; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "Update data"
+          git push
