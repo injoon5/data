@@ -10,6 +10,42 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
+          }
+        ],
+        "mbid": "4afcfffa-11df-4ee1-8860-5e8e8a37a7f6",
+        "album": {
+          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
+          "#text": "0.1 flaws and all."
+        },
+        "name": "pink horizon",
+        "url": "https://www.last.fm/music/wave+to+earth/_/pink+horizon",
+        "date": {
+          "uts": "1784976825",
+          "#text": "25 Jul 2026, 10:53"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+          "#text": "wave to earth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77cbf079cbed894d7618edabda3adcc1.jpg"
           },
           {
@@ -684,42 +720,6 @@
           "uts": "1784797238",
           "#text": "23 Jul 2026, 09:00"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Black Skirts"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Team Baby"
-        },
-        "name": "Everything",
-        "url": "https://www.last.fm/music/The+Black+Skirts/_/Everything",
-        "date": {
-          "uts": "1784796982",
-          "#text": "23 Jul 2026, 08:56"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "168",
       "page": "1",
       "perPage": "50",
-      "total": "8395"
+      "total": "8396"
     }
   }
 }
