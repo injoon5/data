@@ -3,6 +3,150 @@
     "track": [
       {
         "artist": {
+          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+          "#text": "Charlie Puth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/82616abadfa0ed206e1c1e1531cbf773.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/82616abadfa0ed206e1c1e1531cbf773.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/82616abadfa0ed206e1c1e1531cbf773.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/82616abadfa0ed206e1c1e1531cbf773.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Whatever's Clever! (Expanded)"
+        },
+        "name": "I Used To Be Cringe",
+        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Used+To+Be+Cringe",
+        "date": {
+          "uts": "1786354466",
+          "#text": "10 Aug 2026, 09:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Nicky Youre & hey daisy"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5f86ab14f28f74c4134365222d97e850.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5f86ab14f28f74c4134365222d97e850.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5f86ab14f28f74c4134365222d97e850.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f86ab14f28f74c4134365222d97e850.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Sunroof (Remixes) - EP"
+        },
+        "name": "Sunroof",
+        "url": "https://www.last.fm/music/Nicky+Youre+&+hey+daisy/_/Sunroof",
+        "date": {
+          "uts": "1786354314",
+          "#text": "10 Aug 2026, 09:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+          "#text": "Lauv"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
+          }
+        ],
+        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
+        "album": {
+          "mbid": "",
+          "#text": "I met you when I was 18. (the playlist)"
+        },
+        "name": "Paris in the Rain",
+        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
+        "date": {
+          "uts": "1786354135",
+          "#text": "10 Aug 2026, 09:28"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+          "#text": "Harry Styles"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1534f4871b5acfffb2d621047a771fa0.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1534f4871b5acfffb2d621047a771fa0.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1534f4871b5acfffb2d621047a771fa0.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1534f4871b5acfffb2d621047a771fa0.jpg"
+          }
+        ],
+        "mbid": "ca05e074-1c11-4587-ba3d-cc6c8b8c3714",
+        "album": {
+          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
+          "#text": "Harry's House"
+        },
+        "name": "As It Was",
+        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
+        "date": {
+          "uts": "1786353956",
+          "#text": "10 Aug 2026, 09:25"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "The Black Skirts"
         },
@@ -576,150 +720,6 @@
           "uts": "1786075039",
           "#text": "07 Aug 2026, 03:57"
         }
-      },
-      {
-        "artist": {
-          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
-          "#text": "wave to earth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f0e592dffaabc412c3ee2dc18bfc1fa2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f0e592dffaabc412c3ee2dc18bfc1fa2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f0e592dffaabc412c3ee2dc18bfc1fa2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f0e592dffaabc412c3ee2dc18bfc1fa2.jpg"
-          }
-        ],
-        "mbid": "68485961-a95e-4dd6-8d74-5446d9e11849",
-        "album": {
-          "mbid": "",
-          "#text": "bad pieces"
-        },
-        "name": "heaven and hell",
-        "url": "https://www.last.fm/music/wave+to+earth/_/heaven+and+hell",
-        "date": {
-          "uts": "1786074739",
-          "#text": "07 Aug 2026, 03:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "LEGEND"
-        },
-        "name": "for lovers who hesitate",
-        "url": "https://www.last.fm/music/JANNABI/_/for+lovers+who+hesitate",
-        "date": {
-          "uts": "1785403960",
-          "#text": "30 Jul 2026, 09:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
-          "#text": "wave to earth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
-          }
-        ],
-        "mbid": "4aca2ba6-ca51-4016-81f5-d32f01f999ca",
-        "album": {
-          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
-          "#text": "0.1 flaws and all."
-        },
-        "name": "peach eyes",
-        "url": "https://www.last.fm/music/wave+to+earth/_/peach+eyes",
-        "date": {
-          "uts": "1785403742",
-          "#text": "30 Jul 2026, 09:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "MONKEY HOTEL"
-        },
-        "name": "Summer",
-        "url": "https://www.last.fm/music/JANNABI/_/Summer",
-        "date": {
-          "uts": "1785403535",
-          "#text": "30 Jul 2026, 09:25"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "170",
       "page": "1",
       "perPage": "50",
-      "total": "8468"
+      "total": "8472"
     }
   }
 }
