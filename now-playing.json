@@ -3,6 +3,653 @@
     "track": [
       {
         "artist": {
+          "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+          "#text": "The Alan Parsons Project"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ed7c2b94e1ab36865693fe88637c0fc9.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ed7c2b94e1ab36865693fe88637c0fc9.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed7c2b94e1ab36865693fe88637c0fc9.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ed7c2b94e1ab36865693fe88637c0fc9.png"
+          }
+        ],
+        "mbid": "e9209cce-7b98-4d7e-ba62-779374272de6",
+        "album": {
+          "mbid": "0a75b325-95e7-45ac-b944-5e606e0ecf18",
+          "#text": "Eye in the Sky"
+        },
+        "name": "Eye in the Sky",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/The+Alan+Parsons+Project/_/Eye+in+the+Sky"
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "Perfume (feat. Nucksal)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Perfume+(feat.+Nucksal)",
+        "date": {
+          "uts": "1786693632",
+          "#text": "14 Aug 2026, 07:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3189d591e2b559f20943ddced2e48129.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "fed68faf-6833-4572-af14-fe8b6fa6aab7",
+          "#text": "PEOPLE"
+        },
+        "name": "O (feat. LeeHi)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/O+(feat.+LeeHi)",
+        "date": {
+          "uts": "1786693328",
+          "#text": "14 Aug 2026, 07:42"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Bless - Single"
+        },
+        "name": "Bless (feat. Loco & Woo Won Jae)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Bless+(feat.+Loco+&+Woo+Won+Jae)",
+        "date": {
+          "uts": "1786693217",
+          "#text": "14 Aug 2026, 07:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "StrOngerrr (feat. Loco & MINO)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/StrOngerrr+(feat.+Loco+&+MINO)",
+        "date": {
+          "uts": "1786692971",
+          "#text": "14 Aug 2026, 07:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3189d591e2b559f20943ddced2e48129.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "fed68faf-6833-4572-af14-fe8b6fa6aab7",
+          "#text": "PEOPLE"
+        },
+        "name": "Let U In (feat. Colde & DeVita)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Let+U+In+(feat.+Colde+&+DeVita)",
+        "date": {
+          "uts": "1786692753",
+          "#text": "14 Aug 2026, 07:32"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/9b8ed4c19cd89087702baf88fda2a3e8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/9b8ed4c19cd89087702baf88fda2a3e8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/9b8ed4c19cd89087702baf88fda2a3e8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9b8ed4c19cd89087702baf88fda2a3e8.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "XI - Single"
+        },
+        "name": "XI (feat. Lee Hi)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/XI+(feat.+Lee+Hi)",
+        "date": {
+          "uts": "1786692570",
+          "#text": "14 Aug 2026, 07:29"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "Lounge (feat. Hwaji)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Lounge+(feat.+Hwaji)",
+        "date": {
+          "uts": "1786692363",
+          "#text": "14 Aug 2026, 07:26"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3189d591e2b559f20943ddced2e48129.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "fed68faf-6833-4572-af14-fe8b6fa6aab7",
+          "#text": "PEOPLE"
+        },
+        "name": "KnoCK (Feat. Yerin Baek)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/KnoCK+(Feat.+Yerin+Baek)",
+        "date": {
+          "uts": "1786692161",
+          "#text": "14 Aug 2026, 07:22"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/8686d4a072b5969630fdaa5c4556b373.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/8686d4a072b5969630fdaa5c4556b373.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/8686d4a072b5969630fdaa5c4556b373.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8686d4a072b5969630fdaa5c4556b373.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "rain bird - Single"
+        },
+        "name": "Rain Bird (feat. Tablo & Colde)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Rain+Bird+(feat.+Tablo+&+Colde)",
+        "date": {
+          "uts": "1786691972",
+          "#text": "14 Aug 2026, 07:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "FIRE WATER (feat. Tablo & G.Soul)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/FIRE+WATER+(feat.+Tablo+&+G.Soul)",
+        "date": {
+          "uts": "1786691790",
+          "#text": "14 Aug 2026, 07:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3189d591e2b559f20943ddced2e48129.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3189d591e2b559f20943ddced2e48129.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "fed68faf-6833-4572-af14-fe8b6fa6aab7",
+          "#text": "PEOPLE"
+        },
+        "name": "Flower (feat. Jay Park, Woo & GIRIBOY)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Flower+(feat.+Jay+Park,+Woo+&+GIRIBOY)",
+        "date": {
+          "uts": "1786691562",
+          "#text": "14 Aug 2026, 07:12"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "Parachute (feat. Ohhyuk & Dok2)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Parachute+(feat.+Ohhyuk+&+Dok2)",
+        "date": {
+          "uts": "1786691290",
+          "#text": "14 Aug 2026, 07:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Muggles' Mansion"
+        },
+        "name": "X (feat. Lee Hi)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/X+(feat.+Lee+Hi)",
+        "date": {
+          "uts": "1786690997",
+          "#text": "14 Aug 2026, 07:03"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
+          "#text": "Remember Archive"
+        },
+        "name": "55 (feat. Yerin Baek & WENDY)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/55+(feat.+Yerin+Baek+&+WENDY)",
+        "date": {
+          "uts": "1786690748",
+          "#text": "14 Aug 2026, 06:59"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
+          "#text": "Remember Archive"
+        },
+        "name": "HoMe boy (Feat. LeeHi)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/HoMe+boy+(Feat.+LeeHi)",
+        "date": {
+          "uts": "1786690553",
+          "#text": "14 Aug 2026, 06:55"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
+          "#text": "Remember Archive"
+        },
+        "name": "Slip (Feat. BIG Naughty)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Slip+(Feat.+BIG+Naughty)",
+        "date": {
+          "uts": "1786690357",
+          "#text": "14 Aug 2026, 06:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "CODE KUNST"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
+          "#text": "Remember Archive"
+        },
+        "name": "Jumper (feat. Gaeko & MINO)",
+        "url": "https://www.last.fm/music/CODE+KUNST/_/Jumper+(feat.+Gaeko+&+MINO)",
+        "date": {
+          "uts": "1786690165",
+          "#text": "14 Aug 2026, 06:49"
+        }
+      },
+      {
+        "artist": {
           "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
           "#text": "CODE KUNST"
         },
@@ -72,662 +719,14 @@
           "uts": "1786599490",
           "#text": "13 Aug 2026, 05:38"
         }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "911 (Feat. Jackson Wang)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/911+(Feat.+Jackson+Wang)",
-        "date": {
-          "uts": "1786599311",
-          "#text": "13 Aug 2026, 05:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Terminal (feat. SUMIN, Kid Milli & CHAI)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Terminal+(feat.+SUMIN,+Kid+Milli+&+CHAI)",
-        "date": {
-          "uts": "1786598880",
-          "#text": "13 Aug 2026, 05:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "55 (feat. Yerin Baek & WENDY)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/55+(feat.+Yerin+Baek+&+WENDY)",
-        "date": {
-          "uts": "1786598665",
-          "#text": "13 Aug 2026, 05:24"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "little bit (Feat. DeVita)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/little+bit+(Feat.+DeVita)",
-        "date": {
-          "uts": "1786598432",
-          "#text": "13 Aug 2026, 05:20"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Slip (Feat. BIG Naughty)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Slip+(Feat.+BIG+Naughty)",
-        "date": {
-          "uts": "1786598204",
-          "#text": "13 Aug 2026, 05:16"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Page 1 (feat. Yerin Baek & pH-1)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Page+1+(feat.+Yerin+Baek+&+pH-1)",
-        "date": {
-          "uts": "1786598021",
-          "#text": "13 Aug 2026, 05:13"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "in the attic",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/in+the+attic",
-        "date": {
-          "uts": "1786597848",
-          "#text": "13 Aug 2026, 05:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "HoMe boy (Feat. LeeHi)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/HoMe+boy+(Feat.+LeeHi)",
-        "date": {
-          "uts": "1786597655",
-          "#text": "13 Aug 2026, 05:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "CIRCLE (Feat. Crush)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/CIRCLE+(Feat.+Crush)",
-        "date": {
-          "uts": "1786597448",
-          "#text": "13 Aug 2026, 05:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Jumper (feat. Gaeko & MINO)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Jumper+(feat.+Gaeko+&+MINO)",
-        "date": {
-          "uts": "1786597254",
-          "#text": "13 Aug 2026, 05:00"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Remember Archive",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Remember+Archive",
-        "date": {
-          "uts": "1786597107",
-          "#text": "13 Aug 2026, 04:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "HoMe boy (Feat. LeeHi)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/HoMe+boy+(Feat.+LeeHi)",
-        "date": {
-          "uts": "1786596926",
-          "#text": "13 Aug 2026, 04:55"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "CIRCLE (Feat. Crush)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/CIRCLE+(Feat.+Crush)",
-        "date": {
-          "uts": "1786596708",
-          "#text": "13 Aug 2026, 04:51"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-          "#text": "Charlie Puth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/82616abadfa0ed206e1c1e1531cbf773.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/82616abadfa0ed206e1c1e1531cbf773.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/82616abadfa0ed206e1c1e1531cbf773.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/82616abadfa0ed206e1c1e1531cbf773.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Whatever's Clever! (Expanded)"
-        },
-        "name": "I Used To Be Cringe",
-        "url": "https://www.last.fm/music/Charlie+Puth/_/I+Used+To+Be+Cringe",
-        "date": {
-          "uts": "1786354466",
-          "#text": "10 Aug 2026, 09:34"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Nicky Youre & hey daisy"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5f86ab14f28f74c4134365222d97e850.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5f86ab14f28f74c4134365222d97e850.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5f86ab14f28f74c4134365222d97e850.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5f86ab14f28f74c4134365222d97e850.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Sunroof (Remixes) - EP"
-        },
-        "name": "Sunroof",
-        "url": "https://www.last.fm/music/Nicky+Youre+&+hey+daisy/_/Sunroof",
-        "date": {
-          "uts": "1786354314",
-          "#text": "10 Aug 2026, 09:31"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-          "#text": "Lauv"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1191e058732a5bb5eb8722e09330a58b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1191e058732a5bb5eb8722e09330a58b.jpg"
-          }
-        ],
-        "mbid": "13ad1a5c-458a-47d3-aba6-0d2e6727fac0",
-        "album": {
-          "mbid": "",
-          "#text": "I met you when I was 18. (the playlist)"
-        },
-        "name": "Paris in the Rain",
-        "url": "https://www.last.fm/music/Lauv/_/Paris+in+the+Rain",
-        "date": {
-          "uts": "1786354135",
-          "#text": "10 Aug 2026, 09:28"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1534f4871b5acfffb2d621047a771fa0.jpg"
-          }
-        ],
-        "mbid": "ca05e074-1c11-4587-ba3d-cc6c8b8c3714",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "As It Was",
-        "url": "https://www.last.fm/music/Harry+Styles/_/As+It+Was",
-        "date": {
-          "uts": "1786353956",
-          "#text": "10 Aug 2026, 09:25"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Black Skirts"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Team Baby"
-        },
-        "name": "1:05",
-        "url": "https://www.last.fm/music/The+Black+Skirts/_/1:05",
-        "date": {
-          "uts": "1786078433",
-          "#text": "07 Aug 2026, 04:53"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "170",
+      "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8487"
+      "total": "8504"
     }
   }
 }
