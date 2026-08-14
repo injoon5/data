@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "eb5d7ca2-6171-4682-a30a-c31c6f6e5e9b",
+          "#text": "Sir Was"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
+          }
+        ],
+        "mbid": "f49e166b-51a2-41cc-a1a1-7bd92c884bdd",
+        "album": {
+          "mbid": "e80a5c89-b9bd-421e-9329-175227c4baaa",
+          "#text": "Holding On To A Dream"
+        },
+        "name": "No Giving Up",
+        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up",
+        "date": {
+          "uts": "1786724975",
+          "#text": "14 Aug 2026, 16:29"
+        }
+      },
+      {
+        "artist": {
           "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
           "#text": "The Alan Parsons Project"
         },
@@ -684,42 +720,6 @@
           "uts": "1786622759",
           "#text": "13 Aug 2026, 12:05"
         }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "Rec Stop (Feat. meenoi)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Rec+Stop+(Feat.+meenoi)",
-        "date": {
-          "uts": "1786599490",
-          "#text": "13 Aug 2026, 05:38"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8505"
+      "total": "8506"
     }
   }
 }
