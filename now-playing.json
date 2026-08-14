@@ -31,10 +31,11 @@
           "#text": "Eye in the Sky"
         },
         "name": "Eye in the Sky",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/The+Alan+Parsons+Project/_/Eye+in+the+Sky"
+        "url": "https://www.last.fm/music/The+Alan+Parsons+Project/_/Eye+in+the+Sky",
+        "date": {
+          "uts": "1786694194",
+          "#text": "14 Aug 2026, 07:56"
+        }
       },
       {
         "artist": {
@@ -726,7 +727,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8504"
+      "total": "8505"
     }
   }
 }
