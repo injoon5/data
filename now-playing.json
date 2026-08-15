@@ -3,38 +3,254 @@
     "track": [
       {
         "artist": {
-          "mbid": "",
-          "#text": "Toto"
+          "mbid": "3bdf9667-3205-4c5b-865b-ca3bb33fc5ac",
+          "#text": "Toploader"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
           }
         ],
-        "mbid": "5cd9cd6e-d9d3-4930-8274-775d38172167",
+        "mbid": "",
         "album": {
-          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
-          "#text": "Toto IV"
+          "mbid": "",
+          "#text": "Dancing In the Moonlight - The Best of Toploader"
         },
-        "name": "Africa",
+        "name": "Dancing in the Moonlight",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Toto/_/Africa"
+        "url": "https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight"
+      },
+      {
+        "artist": {
+          "mbid": "3bdf9667-3205-4c5b-865b-ca3bb33fc5ac",
+          "#text": "Toploader"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb2ba72f2d71221b7a969b4cdf1fe518.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Dancing In the Moonlight - The Best of Toploader"
+        },
+        "name": "Dancing in the Moonlight",
+        "url": "https://www.last.fm/music/Toploader/_/Dancing+in+the+Moonlight",
+        "date": {
+          "uts": "1786770491",
+          "#text": "15 Aug 2026, 05:08"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "0fe35655-3896-46d9-a9de-f96e040acd29",
+          "#text": "Rangga Jones"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Call Me - Single"
+        },
+        "name": "Call Me",
+        "url": "https://www.last.fm/music/Rangga+Jones/_/Call+Me",
+        "date": {
+          "uts": "1786770290",
+          "#text": "15 Aug 2026, 05:04"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+          "#text": "wave to earth"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
+          }
+        ],
+        "mbid": "4aca2ba6-ca51-4016-81f5-d32f01f999ca",
+        "album": {
+          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
+          "#text": "0.1 flaws and all."
+        },
+        "name": "peach eyes",
+        "url": "https://www.last.fm/music/wave+to+earth/_/peach+eyes",
+        "date": {
+          "uts": "1786770112",
+          "#text": "15 Aug 2026, 05:01"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+          "#text": "Post Malone"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2f0dc76b385692ea991e5a64769b7ade.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2f0dc76b385692ea991e5a64769b7ade.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2f0dc76b385692ea991e5a64769b7ade.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2f0dc76b385692ea991e5a64769b7ade.png"
+          }
+        ],
+        "mbid": "16335b4e-ab05-420b-8940-1ebfcc4489a1",
+        "album": {
+          "mbid": "8e5281b4-1ffc-4c6f-a8ef-36d2459bce9e",
+          "#text": "F-1 Trillion (Long Bed)"
+        },
+        "name": "I Had Some Help (feat. Morgan Wallen)",
+        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
+        "date": {
+          "uts": "1786769917",
+          "#text": "15 Aug 2026, 04:58"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
+          "#text": "Car, The Garden"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/10e942af0b4c11820652d933f9de4cde.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/10e942af0b4c11820652d933f9de4cde.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/10e942af0b4c11820652d933f9de4cde.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/10e942af0b4c11820652d933f9de4cde.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Blue Heart - EP"
+        },
+        "name": "LOVERS",
+        "url": "https://www.last.fm/music/Car,+The+Garden/_/LOVERS",
+        "date": {
+          "uts": "1786769737",
+          "#text": "15 Aug 2026, 04:55"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Justin Bieber & Dijon"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
+          }
+        ],
+        "mbid": "0a387fbc-78a9-45bb-916f-ec454d3389de",
+        "album": {
+          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
+          "#text": "SWAG"
+        },
+        "name": "DEVOTION",
+        "url": "https://www.last.fm/music/Justin+Bieber+&+Dijon/_/DEVOTION",
+        "date": {
+          "uts": "1786769530",
+          "#text": "15 Aug 2026, 04:52"
+        }
       },
       {
         "artist": {
@@ -503,222 +719,6 @@
           "uts": "1786765933",
           "#text": "15 Aug 2026, 03:52"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0d36c13c-eb19-4052-be39-c47965d45c65",
-          "#text": "Fiji Blue"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/dfa87f995ae17ab026145793f6a724e3.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dfa87f995ae17ab026145793f6a724e3.jpg"
-          }
-        ],
-        "mbid": "c5eb310b-6509-4d95-a565-dd18a43be2c2",
-        "album": {
-          "mbid": "",
-          "#text": "Reasons You Should Care - EP"
-        },
-        "name": "It Takes Two",
-        "url": "https://www.last.fm/music/Fiji+Blue/_/It+Takes+Two",
-        "date": {
-          "uts": "1786765784",
-          "#text": "15 Aug 2026, 03:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
-          "#text": "Dua Lipa"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/38406b13a38d14fde551f7a2f124fa04.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/38406b13a38d14fde551f7a2f124fa04.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/38406b13a38d14fde551f7a2f124fa04.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38406b13a38d14fde551f7a2f124fa04.png"
-          }
-        ],
-        "mbid": "76ac63ee-9b00-4f70-b443-1c0c3bd1e445",
-        "album": {
-          "mbid": "0806229a-8598-404d-812b-0267e956b9e5",
-          "#text": "Dua Lipa (Complete Edition)"
-        },
-        "name": "New Rules",
-        "url": "https://www.last.fm/music/Dua+Lipa/_/New+Rules",
-        "date": {
-          "uts": "1786765059",
-          "#text": "15 Aug 2026, 03:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
-          "#text": "Electric Light Orchestra"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/999f26234f9c4e0db4997363bdf60087.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png"
-          }
-        ],
-        "mbid": "6e33056b-2a34-4ed0-b49c-f7a8ae2c5bcc",
-        "album": {
-          "mbid": "36594124-8097-3af9-891a-8a03b154c79b",
-          "#text": "Out of the Blue"
-        },
-        "name": "Mr. Blue Sky",
-        "url": "https://www.last.fm/music/Electric+Light+Orchestra/_/Mr.+Blue+Sky",
-        "date": {
-          "uts": "1786764803",
-          "#text": "15 Aug 2026, 03:33"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-          "#text": "The Chainsmokers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/96ce941e795755d46ce76c092732d7d0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/96ce941e795755d46ce76c092732d7d0.jpg"
-          }
-        ],
-        "mbid": "cf83834e-86c9-4bff-a115-dac833cb2367",
-        "album": {
-          "mbid": "",
-          "#text": "Memories...Do Not Open"
-        },
-        "name": "Paris",
-        "url": "https://www.last.fm/music/The+Chainsmokers/_/Paris",
-        "date": {
-          "uts": "1786763228",
-          "#text": "15 Aug 2026, 03:07"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Chainsmokers & Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4997292f8cbf3d0a0176f6d1b7983e5f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4997292f8cbf3d0a0176f6d1b7983e5f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4997292f8cbf3d0a0176f6d1b7983e5f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4997292f8cbf3d0a0176f6d1b7983e5f.jpg"
-          }
-        ],
-        "mbid": "81c1ca0c-69eb-444c-9f1d-27731a53d9c3",
-        "album": {
-          "mbid": "",
-          "#text": "Memories...Do Not Open"
-        },
-        "name": "Something Just Like This",
-        "url": "https://www.last.fm/music/The+Chainsmokers+&+Coldplay/_/Something+Just+Like+This",
-        "date": {
-          "uts": "1786763013",
-          "#text": "15 Aug 2026, 03:03"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-          "#text": "The Chainsmokers"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/caa484f9d5987cb2a34046eac22fa24d.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/caa484f9d5987cb2a34046eac22fa24d.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/caa484f9d5987cb2a34046eac22fa24d.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/caa484f9d5987cb2a34046eac22fa24d.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Collage - EP"
-        },
-        "name": "Closer (feat. Halsey)",
-        "url": "https://www.last.fm/music/The+Chainsmokers/_/Closer+(feat.+Halsey)",
-        "date": {
-          "uts": "1786762778",
-          "#text": "15 Aug 2026, 02:59"
-        }
       }
     ],
     "@attr": {
@@ -726,7 +726,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8529"
+      "total": "8535"
     }
   }
 }
