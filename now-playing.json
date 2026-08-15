@@ -4,6 +4,257 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "5cd9cd6e-d9d3-4930-8274-775d38172167",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Toto/_/Africa"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Toto"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/862779ab445949bac9067a3cd472c34b.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/862779ab445949bac9067a3cd472c34b.png"
+          }
+        ],
+        "mbid": "5cd9cd6e-d9d3-4930-8274-775d38172167",
+        "album": {
+          "mbid": "05cd5bb6-83bc-486c-99ec-a36494891a7a",
+          "#text": "Toto IV"
+        },
+        "name": "Africa",
+        "url": "https://www.last.fm/music/Toto/_/Africa",
+        "date": {
+          "uts": "1786769270",
+          "#text": "15 Aug 2026, 04:47"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+          "#text": "Westlife"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/483f484c34f542fa93e010ee06a90523.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/483f484c34f542fa93e010ee06a90523.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/483f484c34f542fa93e010ee06a90523.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/483f484c34f542fa93e010ee06a90523.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Westlife: Greatest Hits"
+        },
+        "name": "My Love (Radio Edit)",
+        "url": "https://www.last.fm/music/Westlife/_/My+Love+(Radio+Edit)",
+        "date": {
+          "uts": "1786768282",
+          "#text": "15 Aug 2026, 04:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "LEGEND"
+        },
+        "name": "TOGETHER!",
+        "url": "https://www.last.fm/music/JANNABI/_/TOGETHER!",
+        "date": {
+          "uts": "1786768078",
+          "#text": "15 Aug 2026, 04:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "#text": "Bruno Mars"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4b0ed289f604d7fe09080da4f05e1ead.jpg"
+          }
+        ],
+        "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+        "album": {
+          "mbid": "0297e26e-de26-4c25-acd9-f72b55eaf271",
+          "#text": "The Romantic"
+        },
+        "name": "Risk It All",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+        "date": {
+          "uts": "1786767885",
+          "#text": "15 Aug 2026, 04:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "ce10465f-3f89-4777-8909-298d95e92a9c",
+          "#text": "Virginia to Vegas"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "ea857ad5-46ed-4cdf-8f17-6471faec366c",
+        "album": {
+          "mbid": "",
+          "#text": "l.a. in the rear view - EP"
+        },
+        "name": "what are we",
+        "url": "https://www.last.fm/music/Virginia+to+Vegas/_/what+are+we",
+        "date": {
+          "uts": "1786767592",
+          "#text": "15 Aug 2026, 04:19"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+          "#text": "Troye Sivan"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f018307055339656a43de6f27b992268.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f018307055339656a43de6f27b992268.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f018307055339656a43de6f27b992268.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f018307055339656a43de6f27b992268.jpg"
+          }
+        ],
+        "mbid": "0ac42915-c526-4d51-a2e4-b72f617f53f8",
+        "album": {
+          "mbid": "",
+          "#text": "Blue Neighbourhood (Deluxe)"
+        },
+        "name": "YOUTH",
+        "url": "https://www.last.fm/music/Troye+Sivan/_/YOUTH",
+        "date": {
+          "uts": "1786767417",
+          "#text": "15 Aug 2026, 04:16"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Cheat Codes & AJ Mitchell"
         },
         "streamable": "0",
@@ -31,10 +282,11 @@
           "#text": "Hate You + Love You (feat. AJ Mitchell) - Single"
         },
         "name": "Hate You + Love You (feat. AJ Mitchell)",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Cheat+Codes+&+AJ+Mitchell/_/Hate+You+%252B+Love+You+(feat.+AJ+Mitchell)"
+        "url": "https://www.last.fm/music/Cheat+Codes+&+AJ+Mitchell/_/Hate+You+%252B+Love+You+(feat.+AJ+Mitchell)",
+        "date": {
+          "uts": "1786767305",
+          "#text": "15 Aug 2026, 04:15"
+        }
       },
       {
         "artist": {
@@ -467,258 +719,6 @@
           "uts": "1786762778",
           "#text": "15 Aug 2026, 02:59"
         }
-      },
-      {
-        "artist": {
-          "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-          "#text": "Harry Styles"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1534f4871b5acfffb2d621047a771fa0.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1534f4871b5acfffb2d621047a771fa0.jpg"
-          }
-        ],
-        "mbid": "fadbe78b-7421-46da-802a-f72d139ea15f",
-        "album": {
-          "mbid": "6d8f2455-baa3-423c-8607-b7ea4a560fe3",
-          "#text": "Harry's House"
-        },
-        "name": "Late Night Talking",
-        "url": "https://www.last.fm/music/Harry+Styles/_/Late+Night+Talking",
-        "date": {
-          "uts": "1786762493",
-          "#text": "15 Aug 2026, 02:54"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "77191d5f-1045-4b3b-ad7f-12ea398db929",
-          "#text": "DAY6"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3fe36d92adcf7044d434e84dd76daa11.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3fe36d92adcf7044d434e84dd76daa11.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3fe36d92adcf7044d434e84dd76daa11.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3fe36d92adcf7044d434e84dd76daa11.jpg"
-          }
-        ],
-        "mbid": "0f48f8ed-4e5b-4dc8-803b-de83e93c2275",
-        "album": {
-          "mbid": "2f250295-0a91-4be5-b95c-26f0271967da",
-          "#text": "Remember Us : Youth Part 2"
-        },
-        "name": "days gone by",
-        "url": "https://www.last.fm/music/DAY6/_/days+gone+by",
-        "date": {
-          "uts": "1786762377",
-          "#text": "15 Aug 2026, 02:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a104cc15e806a28e9a450c6698577430.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a104cc15e806a28e9a450c6698577430.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6a515110-d9b1-4e7c-bf82-c6917574c9f3",
-          "#text": "Remember Archive"
-        },
-        "name": "CIRCLE (Feat. Crush)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/CIRCLE+(Feat.+Crush)",
-        "date": {
-          "uts": "1786762194",
-          "#text": "15 Aug 2026, 02:49"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
-          "#text": "The Alan Parsons Project"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          }
-        ],
-        "mbid": "e9209cce-7b98-4d7e-ba62-779374272de6",
-        "album": {
-          "mbid": "0a75b325-95e7-45ac-b944-5e606e0ecf18",
-          "#text": "Eye in the Sky"
-        },
-        "name": "Eye in the Sky",
-        "url": "https://www.last.fm/music/The+Alan+Parsons+Project/_/Eye+in+the+Sky",
-        "date": {
-          "uts": "1786761946",
-          "#text": "15 Aug 2026, 02:45"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "eb5d7ca2-6171-4682-a30a-c31c6f6e5e9b",
-          "#text": "Sir Was"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          }
-        ],
-        "mbid": "f49e166b-51a2-41cc-a1a1-7bd92c884bdd",
-        "album": {
-          "mbid": "e80a5c89-b9bd-421e-9329-175227c4baaa",
-          "#text": "Holding On To A Dream"
-        },
-        "name": "No Giving Up",
-        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up",
-        "date": {
-          "uts": "1786724975",
-          "#text": "14 Aug 2026, 16:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
-          "#text": "The Alan Parsons Project"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ed7c2b94e1ab36865693fe88637c0fc9.png"
-          }
-        ],
-        "mbid": "e9209cce-7b98-4d7e-ba62-779374272de6",
-        "album": {
-          "mbid": "0a75b325-95e7-45ac-b944-5e606e0ecf18",
-          "#text": "Eye in the Sky"
-        },
-        "name": "Eye in the Sky",
-        "url": "https://www.last.fm/music/The+Alan+Parsons+Project/_/Eye+in+the+Sky",
-        "date": {
-          "uts": "1786694194",
-          "#text": "14 Aug 2026, 07:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "bb1b90a4-1374-4e6b-94c8-eda8d951f4cd",
-          "#text": "CODE KUNST"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/20173d04f97d035ec013db3bb3eb7ed9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/20173d04f97d035ec013db3bb3eb7ed9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Muggles' Mansion"
-        },
-        "name": "Perfume (feat. Nucksal)",
-        "url": "https://www.last.fm/music/CODE+KUNST/_/Perfume+(feat.+Nucksal)",
-        "date": {
-          "uts": "1786693632",
-          "#text": "14 Aug 2026, 07:47"
-        }
       }
     ],
     "@attr": {
@@ -726,7 +726,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8522"
+      "total": "8529"
     }
   }
 }
