@@ -10,6 +10,42 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "Sparks",
+        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
+        "date": {
+          "uts": "1786899995",
+          "#text": "16 Aug 2026, 17:06"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
           },
           {
@@ -684,42 +720,6 @@
           "uts": "1786769737",
           "#text": "15 Aug 2026, 04:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Justin Bieber & Dijon"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4255e1d33c6a0b62f08ea96890caa407.jpg"
-          }
-        ],
-        "mbid": "0a387fbc-78a9-45bb-916f-ec454d3389de",
-        "album": {
-          "mbid": "561c8bbe-26f6-4232-93a7-735186b34456",
-          "#text": "SWAG"
-        },
-        "name": "DEVOTION",
-        "url": "https://www.last.fm/music/Justin+Bieber+&+Dijon/_/DEVOTION",
-        "date": {
-          "uts": "1786769530",
-          "#text": "15 Aug 2026, 04:52"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8549"
+      "total": "8550"
     }
   }
 }
