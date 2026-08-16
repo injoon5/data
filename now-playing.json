@@ -3,6 +3,113 @@
     "track": [
       {
         "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
+          "#text": "A Rush of Blood to the Head"
+        },
+        "name": "The Scientist",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Coldplay/_/The+Scientist"
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
+          "#text": "A Rush of Blood to the Head"
+        },
+        "name": "The Scientist",
+        "url": "https://www.last.fm/music/Coldplay/_/The+Scientist",
+        "date": {
+          "uts": "1786873936",
+          "#text": "16 Aug 2026, 09:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
+          "#text": "A Rush of Blood to the Head"
+        },
+        "name": "In My Place",
+        "url": "https://www.last.fm/music/Coldplay/_/In+My+Place",
+        "date": {
+          "uts": "1786873656",
+          "#text": "16 Aug 2026, 09:47"
+        }
+      },
+      {
+        "artist": {
           "mbid": "9854d99f-d954-4c0f-9ae5-58a0cdd885f5",
           "#text": "Crowded House"
         },
@@ -612,114 +719,6 @@
           "uts": "1786766911",
           "#text": "15 Aug 2026, 04:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "6e91d65a-ab21-49b7-b81d-11c53c65601a",
-          "#text": "Valley"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/102eb123822c1d986641a5580e0632cf.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/102eb123822c1d986641a5580e0632cf.jpg"
-          }
-        ],
-        "mbid": "fb44a403-7543-4c79-a316-6dd03c23ce11",
-        "album": {
-          "mbid": "",
-          "#text": "sucks to see you doing better (extended)"
-        },
-        "name": "homebody",
-        "url": "https://www.last.fm/music/Valley/_/homebody",
-        "date": {
-          "uts": "1786766732",
-          "#text": "15 Aug 2026, 04:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
-          "#text": "Ed Sheeran"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/dee3357fdad7fac25a9d51d5ea18adfd.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/dee3357fdad7fac25a9d51d5ea18adfd.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/dee3357fdad7fac25a9d51d5ea18adfd.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dee3357fdad7fac25a9d51d5ea18adfd.png"
-          }
-        ],
-        "mbid": "0359109b-4808-42ae-b7fd-fce15f10e604",
-        "album": {
-          "mbid": "",
-          "#text": "= (Tour Edition)"
-        },
-        "name": "Overpass Graffiti",
-        "url": "https://www.last.fm/music/Ed+Sheeran/_/Overpass+Graffiti",
-        "date": {
-          "uts": "1786766531",
-          "#text": "15 Aug 2026, 04:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Bruno Mars, Anderson .Paak & Silk Sonic"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d8b724176b9b330f9150e4f847d52dec.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d8b724176b9b330f9150e4f847d52dec.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d8b724176b9b330f9150e4f847d52dec.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d8b724176b9b330f9150e4f847d52dec.jpg"
-          }
-        ],
-        "mbid": "171f4a2c-9476-4027-8359-27d38938de8a",
-        "album": {
-          "mbid": "",
-          "#text": "An Evening With Silk Sonic"
-        },
-        "name": "Skate",
-        "url": "https://www.last.fm/music/Bruno+Mars,+Anderson+.Paak+&+Silk+Sonic/_/Skate",
-        "date": {
-          "uts": "1786766103",
-          "#text": "15 Aug 2026, 03:55"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +726,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8537"
+      "total": "8539"
     }
   }
 }
