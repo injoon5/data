@@ -10,31 +10,67 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
           }
         ],
-        "mbid": "",
+        "mbid": "89664386-9d99-32c9-b658-20fa37490300",
         "album": {
-          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
-          "#text": "A Rush of Blood to the Head"
+          "mbid": "",
+          "#text": "X & Y"
         },
-        "name": "The Scientist",
+        "name": "Fix You",
         "@attr": {
           "nowplaying": "true"
         },
-        "url": "https://www.last.fm/music/Coldplay/_/The+Scientist"
+        "url": "https://www.last.fm/music/Coldplay/_/Fix+You"
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "Sparks",
+        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
+        "date": {
+          "uts": "1786874483",
+          "#text": "16 Aug 2026, 10:01"
+        }
       },
       {
         "artist": {
@@ -683,42 +719,6 @@
           "uts": "1786767066",
           "#text": "15 Aug 2026, 04:11"
         }
-      },
-      {
-        "artist": {
-          "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
-          "#text": "Conan Gray"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5417c571eb604985d1fe29b236261a2f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5417c571eb604985d1fe29b236261a2f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5417c571eb604985d1fe29b236261a2f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5417c571eb604985d1fe29b236261a2f.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Kid Krow (Bonus Videos Edition)"
-        },
-        "name": "Maniac",
-        "url": "https://www.last.fm/music/Conan+Gray/_/Maniac",
-        "date": {
-          "uts": "1786766911",
-          "#text": "15 Aug 2026, 04:08"
-        }
       }
     ],
     "@attr": {
@@ -726,7 +726,7 @@
       "totalPages": "171",
       "page": "1",
       "perPage": "50",
-      "total": "8539"
+      "total": "8540"
     }
   }
 }
