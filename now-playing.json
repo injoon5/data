@@ -10,6 +10,149 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1cf47ae5836c144211e8fc1a40087a0a.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1cf47ae5836c144211e8fc1a40087a0a.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1cf47ae5836c144211e8fc1a40087a0a.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1cf47ae5836c144211e8fc1a40087a0a.png"
+          }
+        ],
+        "mbid": "d2538789-3146-4b60-9d8a-c12733b97298",
+        "album": {
+          "mbid": "08ffff44-2226-4f39-9fb7-559bf30d1729",
+          "#text": "Mylo Xyloto"
+        },
+        "name": "Every Teardrop Is a Waterfall",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Coldplay/_/Every+Teardrop+Is+a+Waterfall"
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
+          }
+        ],
+        "mbid": "76ffda6e-dc91-4e1a-a26f-15834343b632",
+        "album": {
+          "mbid": "",
+          "#text": "X & Y"
+        },
+        "name": "Talk",
+        "url": "https://www.last.fm/music/Coldplay/_/Talk",
+        "date": {
+          "uts": "1787040149",
+          "#text": "18 Aug 2026, 08:02"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "e4f478a9-7d72-4697-a049-109047c467a7",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "We Never Change",
+        "url": "https://www.last.fm/music/Coldplay/_/We+Never+Change",
+        "date": {
+          "uts": "1787039797",
+          "#text": "18 Aug 2026, 07:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "Sparks",
+        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
+        "date": {
+          "uts": "1787039548",
+          "#text": "18 Aug 2026, 07:52"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
           },
           {
@@ -576,158 +719,14 @@
           "uts": "1786770491",
           "#text": "15 Aug 2026, 05:08"
         }
-      },
-      {
-        "artist": {
-          "mbid": "0fe35655-3896-46d9-a9de-f96e040acd29",
-          "#text": "Rangga Jones"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Call Me - Single"
-        },
-        "name": "Call Me",
-        "url": "https://www.last.fm/music/Rangga+Jones/_/Call+Me",
-        "date": {
-          "uts": "1786770290",
-          "#text": "15 Aug 2026, 05:04"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
-          "#text": "wave to earth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
-          }
-        ],
-        "mbid": "4aca2ba6-ca51-4016-81f5-d32f01f999ca",
-        "album": {
-          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
-          "#text": "0.1 flaws and all."
-        },
-        "name": "peach eyes",
-        "url": "https://www.last.fm/music/wave+to+earth/_/peach+eyes",
-        "date": {
-          "uts": "1786770112",
-          "#text": "15 Aug 2026, 05:01"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
-          "#text": "Post Malone"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2f0dc76b385692ea991e5a64769b7ade.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2f0dc76b385692ea991e5a64769b7ade.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2f0dc76b385692ea991e5a64769b7ade.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2f0dc76b385692ea991e5a64769b7ade.png"
-          }
-        ],
-        "mbid": "16335b4e-ab05-420b-8940-1ebfcc4489a1",
-        "album": {
-          "mbid": "8e5281b4-1ffc-4c6f-a8ef-36d2459bce9e",
-          "#text": "F-1 Trillion (Long Bed)"
-        },
-        "name": "I Had Some Help (feat. Morgan Wallen)",
-        "url": "https://www.last.fm/music/Post+Malone/_/I+Had+Some+Help+(feat.+Morgan+Wallen)",
-        "date": {
-          "uts": "1786769917",
-          "#text": "15 Aug 2026, 04:58"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/10e942af0b4c11820652d933f9de4cde.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/10e942af0b4c11820652d933f9de4cde.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/10e942af0b4c11820652d933f9de4cde.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/10e942af0b4c11820652d933f9de4cde.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Blue Heart - EP"
-        },
-        "name": "LOVERS",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/LOVERS",
-        "date": {
-          "uts": "1786769737",
-          "#text": "15 Aug 2026, 04:55"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "171",
+      "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8550"
+      "total": "8553"
     }
   }
 }
