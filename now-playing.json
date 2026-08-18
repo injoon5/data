@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
+          }
+        ],
+        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
+        "album": {
+          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
+          "#text": "Parachutes"
+        },
+        "name": "Sparks",
+        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
+        "date": {
+          "uts": "1787043102",
+          "#text": "18 Aug 2026, 08:51"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "JANNABI"
         },
@@ -684,42 +720,6 @@
           "uts": "1786875820",
           "#text": "16 Aug 2026, 10:23"
         }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
-          }
-        ],
-        "mbid": "37eaf66a-b749-4c8f-a6f9-2b965c5259ab",
-        "album": {
-          "mbid": "",
-          "#text": "X & Y"
-        },
-        "name": "X & Y",
-        "url": "https://www.last.fm/music/Coldplay/_/X+&+Y",
-        "date": {
-          "uts": "1786875539",
-          "#text": "16 Aug 2026, 10:18"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8562"
+      "total": "8563"
     }
   }
 }
