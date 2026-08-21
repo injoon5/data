@@ -31,10 +31,11 @@
           "#text": "A Rush of Blood to the Head"
         },
         "name": "Clocks",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Coldplay/_/Clocks"
+        "url": "https://www.last.fm/music/Coldplay/_/Clocks",
+        "date": {
+          "uts": "1787306283",
+          "#text": "21 Aug 2026, 09:58"
+        }
       },
       {
         "artist": {
@@ -726,7 +727,7 @@
       "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8568"
+      "total": "8569"
     }
   }
 }
