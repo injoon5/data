@@ -3,6 +3,221 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
+          }
+        ],
+        "mbid": "cabd7684-fc73-459c-8ae1-1aaa6efa1fc9",
+        "album": {
+          "mbid": "07a4c80f-a75f-4767-a1d0-f1e77b7cb64c",
+          "#text": "QUIT QUIETLY"
+        },
+        "name": "Humor Tumor",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Humor+Tumor"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "HYUKOH & Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
+          }
+        ],
+        "mbid": "c91d4916-1a6d-4fec-8154-90d0eb907ace",
+        "album": {
+          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
+          "#text": "AAA"
+        },
+        "name": "Glue",
+        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Glue",
+        "date": {
+          "uts": "1787398288",
+          "#text": "22 Aug 2026, 11:31"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ecdf5a9a9a958d7d3545f5d5002ec556.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ecdf5a9a9a958d7d3545f5d5002ec556.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ecdf5a9a9a958d7d3545f5d5002ec556.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ecdf5a9a9a958d7d3545f5d5002ec556.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "SOFT STORM"
+        },
+        "name": "Candlelight (feat. OHHYUK)",
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Candlelight+(feat.+OHHYUK)",
+        "date": {
+          "uts": "1787398066",
+          "#text": "22 Aug 2026, 11:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "HYUKOH & Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "45328008-178c-40f3-b64a-af0684667fd1",
+        "album": {
+          "mbid": "",
+          "#text": "AAA (LIVE)"
+        },
+        "name": "Let There Be Light Again",
+        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Let+There+Be+Light+Again",
+        "date": {
+          "uts": "1787397846",
+          "#text": "22 Aug 2026, 11:24"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "HYUKOH & Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
+          }
+        ],
+        "mbid": "acc5cf0f-2989-4e7b-8b2c-a7e37682fd32",
+        "album": {
+          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
+          "#text": "AAA"
+        },
+        "name": "Do Nothing",
+        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Do+Nothing",
+        "date": {
+          "uts": "1787397609",
+          "#text": "22 Aug 2026, 11:20"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "HYUKOH & Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3dbd8ac28f1340b5f474c9a34456f66a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3dbd8ac28f1340b5f474c9a34456f66a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3dbd8ac28f1340b5f474c9a34456f66a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3dbd8ac28f1340b5f474c9a34456f66a.jpg"
+          }
+        ],
+        "mbid": "2eb5f44d-448b-4888-ae09-81becb19f24a",
+        "album": {
+          "mbid": "",
+          "#text": "Young Man - Single"
+        },
+        "name": "Young Man",
+        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Young+Man",
+        "date": {
+          "uts": "1787397368",
+          "#text": "22 Aug 2026, 11:16"
+        }
+      },
+      {
+        "artist": {
           "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
           "#text": "Coldplay"
         },
@@ -504,222 +719,6 @@
           "uts": "1787041488",
           "#text": "18 Aug 2026, 08:24"
         }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
-          "#text": "A Rush of Blood to the Head"
-        },
-        "name": "In My Place",
-        "url": "https://www.last.fm/music/Coldplay/_/In+My+Place",
-        "date": {
-          "uts": "1787040899",
-          "#text": "18 Aug 2026, 08:14"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/1cf47ae5836c144211e8fc1a40087a0a.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/1cf47ae5836c144211e8fc1a40087a0a.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/1cf47ae5836c144211e8fc1a40087a0a.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1cf47ae5836c144211e8fc1a40087a0a.png"
-          }
-        ],
-        "mbid": "d2538789-3146-4b60-9d8a-c12733b97298",
-        "album": {
-          "mbid": "08ffff44-2226-4f39-9fb7-559bf30d1729",
-          "#text": "Mylo Xyloto"
-        },
-        "name": "Every Teardrop Is a Waterfall",
-        "url": "https://www.last.fm/music/Coldplay/_/Every+Teardrop+Is+a+Waterfall",
-        "date": {
-          "uts": "1787040345",
-          "#text": "18 Aug 2026, 08:05"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
-          }
-        ],
-        "mbid": "76ffda6e-dc91-4e1a-a26f-15834343b632",
-        "album": {
-          "mbid": "",
-          "#text": "X & Y"
-        },
-        "name": "Talk",
-        "url": "https://www.last.fm/music/Coldplay/_/Talk",
-        "date": {
-          "uts": "1787040149",
-          "#text": "18 Aug 2026, 08:02"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          }
-        ],
-        "mbid": "e4f478a9-7d72-4697-a049-109047c467a7",
-        "album": {
-          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
-          "#text": "Parachutes"
-        },
-        "name": "We Never Change",
-        "url": "https://www.last.fm/music/Coldplay/_/We+Never+Change",
-        "date": {
-          "uts": "1787039797",
-          "#text": "18 Aug 2026, 07:56"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          }
-        ],
-        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
-        "album": {
-          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
-          "#text": "Parachutes"
-        },
-        "name": "Sparks",
-        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
-        "date": {
-          "uts": "1787039548",
-          "#text": "18 Aug 2026, 07:52"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg"
-          }
-        ],
-        "mbid": "22d49305-4e35-4a69-8638-05ac5f734065",
-        "album": {
-          "mbid": "0ec052ee-8c50-48f3-8682-501778dfc823",
-          "#text": "Parachutes"
-        },
-        "name": "Sparks",
-        "url": "https://www.last.fm/music/Coldplay/_/Sparks",
-        "date": {
-          "uts": "1786899995",
-          "#text": "16 Aug 2026, 17:06"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +726,7 @@
       "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8569"
+      "total": "8574"
     }
   }
 }
