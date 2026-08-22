@@ -10,6 +10,149 @@
         "image": [
           {
             "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/82f541a67623211d072c9027bd9bdb33.jpg"
+          }
+        ],
+        "mbid": "8cab237b-07b5-481b-b5de-72e2e54f31db",
+        "album": {
+          "mbid": "",
+          "#text": "Let There Be Light Again - Single"
+        },
+        "name": "Let There Be Light Again",
+        "@attr": {
+          "nowplaying": "true"
+        },
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Let+There+Be+Light+Again"
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/82f541a67623211d072c9027bd9bdb33.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/82f541a67623211d072c9027bd9bdb33.jpg"
+          }
+        ],
+        "mbid": "8cab237b-07b5-481b-b5de-72e2e54f31db",
+        "album": {
+          "mbid": "",
+          "#text": "Let There Be Light Again - Single"
+        },
+        "name": "Let There Be Light Again",
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Let+There+Be+Light+Again",
+        "date": {
+          "uts": "1787399416",
+          "#text": "22 Aug 2026, 11:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/124d539ee46495e29d512020a6d294ee.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/124d539ee46495e29d512020a6d294ee.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/124d539ee46495e29d512020a6d294ee.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/124d539ee46495e29d512020a6d294ee.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Jinji Kikko - Single"
+        },
+        "name": "My Jinji",
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/My+Jinji",
+        "date": {
+          "uts": "1787399106",
+          "#text": "22 Aug 2026, 11:45"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b6c46f20ca390677e240e70c5f836d0b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b6c46f20ca390677e240e70c5f836d0b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b6c46f20ca390677e240e70c5f836d0b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b6c46f20ca390677e240e70c5f836d0b.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "388b31b6-4386-4d93-bf9d-e2f609efdae1",
+          "#text": "Cassa Nova"
+        },
+        "name": "Angel Disco Love",
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Angel+Disco+Love",
+        "date": {
+          "uts": "1787398785",
+          "#text": "22 Aug 2026, 11:39"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
           },
           {
@@ -31,10 +174,11 @@
           "#text": "QUIT QUIETLY"
         },
         "name": "Humor Tumor",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Humor+Tumor"
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Humor+Tumor",
+        "date": {
+          "uts": "1787398539",
+          "#text": "22 Aug 2026, 11:35"
+        }
       },
       {
         "artist": {
@@ -575,150 +719,6 @@
           "uts": "1787042381",
           "#text": "18 Aug 2026, 08:39"
         }
-      },
-      {
-        "artist": {
-          "mbid": "f1cc066a-6dd1-4b18-ae68-3708472ab4b1",
-          "#text": "Lany"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/75db353fa83e63cddb65bdbf90f58e5d.jpg"
-          }
-        ],
-        "mbid": "02c5b6de-4713-4023-a0d2-f50aa4670f8e",
-        "album": {
-          "mbid": "",
-          "#text": "Malibu Nights"
-        },
-        "name": "Malibu Nights",
-        "url": "https://www.last.fm/music/Lany/_/Malibu+Nights",
-        "date": {
-          "uts": "1787042227",
-          "#text": "18 Aug 2026, 08:37"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Black Skirts"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Team Baby"
-        },
-        "name": "Confetti and Balloons",
-        "url": "https://www.last.fm/music/The+Black+Skirts/_/Confetti+and+Balloons",
-        "date": {
-          "uts": "1787041969",
-          "#text": "18 Aug 2026, 08:32"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "eb5d7ca2-6171-4682-a30a-c31c6f6e5e9b",
-          "#text": "Sir Was"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2bafe3d3fbed135ae4c8447c2a9319e8.jpg"
-          }
-        ],
-        "mbid": "f49e166b-51a2-41cc-a1a1-7bd92c884bdd",
-        "album": {
-          "mbid": "e80a5c89-b9bd-421e-9329-175227c4baaa",
-          "#text": "Holding On To A Dream"
-        },
-        "name": "No Giving Up",
-        "url": "https://www.last.fm/music/Sir+Was/_/No+Giving+Up",
-        "date": {
-          "uts": "1787041746",
-          "#text": "18 Aug 2026, 08:29"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "JANNABI"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/73777ca2cfbecdda879f1d93d977455d.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/73777ca2cfbecdda879f1d93d977455d.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "LEGEND"
-        },
-        "name": "for lovers who hesitate",
-        "url": "https://www.last.fm/music/JANNABI/_/for+lovers+who+hesitate",
-        "date": {
-          "uts": "1787041488",
-          "#text": "18 Aug 2026, 08:24"
-        }
       }
     ],
     "@attr": {
@@ -726,7 +726,7 @@
       "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8574"
+      "total": "8578"
     }
   }
 }
