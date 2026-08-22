@@ -4,37 +4,74 @@
       {
         "artist": {
           "mbid": "",
+          "#text": "HYUKOH & Sunset Rollercoaster"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
+          }
+        ],
+        "mbid": "3f01b199-8246-4b2e-94d9-319457adf4d2",
+        "album": {
+          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
+          "#text": "AAA"
+        },
+        "name": "Antenna",
+        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Antenna",
+        "date": {
+          "uts": "1787399836",
+          "#text": "22 Aug 2026, 11:57"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
           "#text": "Sunset Rollercoaster"
         },
         "streamable": "0",
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/82f541a67623211d072c9027bd9bdb33.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/82f541a67623211d072c9027bd9bdb33.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/82f541a67623211d072c9027bd9bdb33.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/82f541a67623211d072c9027bd9bdb33.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
           }
         ],
-        "mbid": "8cab237b-07b5-481b-b5de-72e2e54f31db",
+        "mbid": "bf930dae-50f5-4f0b-9690-6d80a185d572",
         "album": {
-          "mbid": "",
-          "#text": "Let There Be Light Again - Single"
+          "mbid": "07a4c80f-a75f-4767-a1d0-f1e77b7cb64c",
+          "#text": "QUIT QUIETLY"
         },
-        "name": "Let There Be Light Again",
-        "@attr": {
-          "nowplaying": "true"
-        },
-        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Let+There+Be+Light+Again"
+        "name": "Bluebird",
+        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Bluebird",
+        "date": {
+          "uts": "1787399633",
+          "#text": "22 Aug 2026, 11:53"
+        }
       },
       {
         "artist": {
@@ -683,42 +720,6 @@
           "uts": "1787042559",
           "#text": "18 Aug 2026, 08:42"
         }
-      },
-      {
-        "artist": {
-          "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
-          "#text": "wave to earth"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/312d04191a575f71f2c743fca3bb596f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/312d04191a575f71f2c743fca3bb596f.jpg"
-          }
-        ],
-        "mbid": "4afcfffa-11df-4ee1-8860-5e8e8a37a7f6",
-        "album": {
-          "mbid": "29b52234-1013-4b6e-9414-7fd0719c1922",
-          "#text": "0.1 flaws and all."
-        },
-        "name": "pink horizon",
-        "url": "https://www.last.fm/music/wave+to+earth/_/pink+horizon",
-        "date": {
-          "uts": "1787042381",
-          "#text": "18 Aug 2026, 08:39"
-        }
       }
     ],
     "@attr": {
@@ -726,7 +727,7 @@
       "totalPages": "172",
       "page": "1",
       "perPage": "50",
-      "total": "8578"
+      "total": "8580"
     }
   }
 }
