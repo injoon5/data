@@ -3,6 +3,150 @@
     "track": [
       {
         "artist": {
+          "mbid": "c1304bf7-1002-493c-af8f-47a950813f6a",
+          "#text": "Nerd Connection"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3066a9be60a9d064d3ba0a16f14ebe38.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "If I have you only (My love) - Single"
+        },
+        "name": "If I have you only (My love)",
+        "url": "https://www.last.fm/music/Nerd+Connection/_/If+I+have+you+only+(My+love)",
+        "date": {
+          "uts": "1787574873",
+          "#text": "24 Aug 2026, 12:34"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "JANNABI"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/66b113078b1b2facb6290296a7d2f728.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/66b113078b1b2facb6290296a7d2f728.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "MONKEY HOTEL"
+        },
+        "name": "Summer",
+        "url": "https://www.last.fm/music/JANNABI/_/Summer",
+        "date": {
+          "uts": "1787574632",
+          "#text": "24 Aug 2026, 12:30"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "slchld"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "You Won't Be There For Me - Single"
+        },
+        "name": "you won't be there for me",
+        "url": "https://www.last.fm/music/slchld/_/you+won%27t+be+there+for+me",
+        "date": {
+          "uts": "1787574426",
+          "#text": "24 Aug 2026, 12:27"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+          "#text": "Coldplay"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/069f66f86b4b432d8ef2e143270571fa.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/069f66f86b4b432d8ef2e143270571fa.png"
+          }
+        ],
+        "mbid": "76ffda6e-dc91-4e1a-a26f-15834343b632",
+        "album": {
+          "mbid": "",
+          "#text": "X & Y"
+        },
+        "name": "Talk",
+        "url": "https://www.last.fm/music/Coldplay/_/Talk",
+        "date": {
+          "uts": "1787574180",
+          "#text": "24 Aug 2026, 12:23"
+        }
+      },
+      {
+        "artist": {
           "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
           "#text": "The Weeknd"
         },
@@ -576,158 +720,14 @@
           "uts": "1787450117",
           "#text": "23 Aug 2026, 01:55"
         }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "HYUKOH & Sunset Rollercoaster"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
-          }
-        ],
-        "mbid": "6e9c2446-a472-4c17-b5eb-d952848a5215",
-        "album": {
-          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
-          "#text": "AAA"
-        },
-        "name": "Kite War",
-        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Kite+War",
-        "date": {
-          "uts": "1787400929",
-          "#text": "22 Aug 2026, 12:15"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Sunset Rollercoaster"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e1c3ea7e25c1b753dc6e4e051a83042f.jpg"
-          }
-        ],
-        "mbid": "dc083a54-201a-40fa-a3fd-2148b1971c57",
-        "album": {
-          "mbid": "07a4c80f-a75f-4767-a1d0-f1e77b7cb64c",
-          "#text": "QUIT QUIETLY"
-        },
-        "name": "Wind of Tomorrow",
-        "url": "https://www.last.fm/music/Sunset+Rollercoaster/_/Wind+of+Tomorrow",
-        "date": {
-          "uts": "1787400653",
-          "#text": "22 Aug 2026, 12:10"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "HYUKOH & Sunset Rollercoaster"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
-          }
-        ],
-        "mbid": "b080794b-99ae-44b6-9b9d-a0e90047cace",
-        "album": {
-          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
-          "#text": "AAA"
-        },
-        "name": "Y",
-        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Y",
-        "date": {
-          "uts": "1787400379",
-          "#text": "22 Aug 2026, 12:06"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "HYUKOH & Sunset Rollercoaster"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b68f99f3b16eed607d21352dcd390a44.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b68f99f3b16eed607d21352dcd390a44.jpg"
-          }
-        ],
-        "mbid": "3f01b199-8246-4b2e-94d9-319457adf4d2",
-        "album": {
-          "mbid": "9e7f02a9-fe72-4bdd-b3df-919dc00d9239",
-          "#text": "AAA"
-        },
-        "name": "Antenna",
-        "url": "https://www.last.fm/music/HYUKOH+&+Sunset+Rollercoaster/_/Antenna",
-        "date": {
-          "uts": "1787399836",
-          "#text": "22 Aug 2026, 11:57"
-        }
       }
     ],
     "@attr": {
       "user": "injoon5",
-      "totalPages": "172",
+      "totalPages": "173",
       "page": "1",
       "perPage": "50",
-      "total": "8599"
+      "total": "8603"
     }
   }
 }
