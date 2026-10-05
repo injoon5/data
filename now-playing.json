@@ -3,6 +3,114 @@
     "track": [
       {
         "artist": {
+          "mbid": "",
+          "#text": "Pat Metheny & Brad Mehldau"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e16a9b911f52ed700b96971528da8d49.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e16a9b911f52ed700b96971528da8d49.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e16a9b911f52ed700b96971528da8d49.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e16a9b911f52ed700b96971528da8d49.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "40f3cd02-2350-40e8-b634-168860a73fff",
+          "#text": "Metheny Mehldau"
+        },
+        "name": "Ring of Life",
+        "url": "https://www.last.fm/music/Pat+Metheny+&+Brad+Mehldau/_/Ring+of+Life",
+        "date": {
+          "uts": "1791212162",
+          "#text": "05 Oct 2026, 14:56"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+          "#text": "Norah Jones"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg"
+          }
+        ],
+        "mbid": "3f3e93df-b934-35eb-898f-67e8e0012ff1",
+        "album": {
+          "mbid": "",
+          "#text": "Come Away With Me (Super Deluxe Edition)"
+        },
+        "name": "Seven Years",
+        "url": "https://www.last.fm/music/Norah+Jones/_/Seven+Years",
+        "date": {
+          "uts": "1791211849",
+          "#text": "05 Oct 2026, 14:50"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+          "#text": "Norah Jones"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/0d1f44fadc571df60099abeee01ffe58.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0d1f44fadc571df60099abeee01ffe58.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Come Away With Me (Super Deluxe Edition)"
+        },
+        "name": "Don't Know Why",
+        "url": "https://www.last.fm/music/Norah+Jones/_/Don%27t+Know+Why",
+        "date": {
+          "uts": "1791211679",
+          "#text": "05 Oct 2026, 14:47"
+        }
+      },
+      {
+        "artist": {
           "mbid": "ebeaed03-60b8-4aa8-8819-3b4cd3e03f46",
           "#text": "Steve Kuhn Trio"
         },
@@ -612,114 +720,6 @@
           "uts": "1787989418",
           "#text": "29 Aug 2026, 07:43"
         }
-      },
-      {
-        "artist": {
-          "mbid": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
-          "#text": "George Benson"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d00bf4b170cfa67c2f47b2401e119664.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "1ecb4320-351f-4181-b3a8-c50421eeb0f8",
-          "#text": "20/20"
-        },
-        "name": "Nothing's Gonna Change My Love for You",
-        "url": "https://www.last.fm/music/George+Benson/_/Nothing%27s+Gonna+Change+My+Love+for+You",
-        "date": {
-          "uts": "1787989156",
-          "#text": "29 Aug 2026, 07:39"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "Ne-Yo"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e3d5f74f5a1b324a48d9ba5c1afe8868.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e3d5f74f5a1b324a48d9ba5c1afe8868.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e3d5f74f5a1b324a48d9ba5c1afe8868.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e3d5f74f5a1b324a48d9ba5c1afe8868.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "6b4de8a2-42f3-4c9f-9f14-464150666169",
-          "#text": "In My Own Words"
-        },
-        "name": "So Sick",
-        "url": "https://www.last.fm/music/Ne-Yo/_/So+Sick",
-        "date": {
-          "uts": "1787988932",
-          "#text": "29 Aug 2026, 07:35"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "9f2862c0-22a9-4fd2-9f1c-07e17f356137",
-          "#text": "Car, The Garden"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "ac486447-f5e9-4c4c-90f2-ef6f0486ff5b",
-        "album": {
-          "mbid": "",
-          "#text": "Absence - EP"
-        },
-        "name": "Doesn't matter",
-        "url": "https://www.last.fm/music/Car,+The+Garden/_/Doesn%27t+matter",
-        "date": {
-          "uts": "1787988721",
-          "#text": "29 Aug 2026, 07:32"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "173",
       "page": "1",
       "perPage": "50",
-      "total": "8630"
+      "total": "8633"
     }
   }
 }
