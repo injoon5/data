@@ -3,6 +3,114 @@
     "track": [
       {
         "artist": {
+          "mbid": "05b5488d-7141-4b21-819b-d4713abf2a98",
+          "#text": "Vince Guaraldi"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/78727ddce87b4a77a414dfc2ea57517e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/78727ddce87b4a77a414dfc2ea57517e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/78727ddce87b4a77a414dfc2ea57517e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/78727ddce87b4a77a414dfc2ea57517e.jpg"
+          }
+        ],
+        "mbid": "01c86b76-56b8-3009-91ae-87360f7c9717",
+        "album": {
+          "mbid": "",
+          "#text": "Sweet & Lovely"
+        },
+        "name": "Django",
+        "url": "https://www.last.fm/music/Vince+Guaraldi/_/Django",
+        "date": {
+          "uts": "1791366052",
+          "#text": "07 Oct 2026, 09:40"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Joe Alterman"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Solo Joe: Songs You Know"
+        },
+        "name": "Lean On Me",
+        "url": "https://www.last.fm/music/Joe+Alterman/_/Lean+On+Me",
+        "date": {
+          "uts": "1791365809",
+          "#text": "07 Oct 2026, 09:36"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "",
+          "#text": "Joe Alterman"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "Solo Joe: Songs You Know"
+        },
+        "name": "Your Song",
+        "url": "https://www.last.fm/music/Joe+Alterman/_/Your+Song",
+        "date": {
+          "uts": "1791365655",
+          "#text": "07 Oct 2026, 09:34"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "Pat Metheny & Brad Mehldau"
         },
@@ -612,114 +720,6 @@
           "uts": "1788623195",
           "#text": "05 Sep 2026, 15:46"
         }
-      },
-      {
-        "artist": {
-          "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-          "#text": "Coldplay"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a61e3c7b85303555ebac49fa460a17c3.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a61e3c7b85303555ebac49fa460a17c3.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "03c93d2c-430c-4961-97b0-56e0d7cb754b",
-          "#text": "A Rush of Blood to the Head"
-        },
-        "name": "In My Place",
-        "url": "https://www.last.fm/music/Coldplay/_/In+My+Place",
-        "date": {
-          "uts": "1787989994",
-          "#text": "29 Aug 2026, 07:53"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "LEEHEESANG"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/77f53b975f572ccef94a06721f42d1e9.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/77f53b975f572ccef94a06721f42d1e9.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "HOWEVER"
-        },
-        "name": "Everlasting Love",
-        "url": "https://www.last.fm/music/LEEHEESANG/_/Everlasting+Love",
-        "date": {
-          "uts": "1787989720",
-          "#text": "29 Aug 2026, 07:48"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "",
-          "#text": "The Black Skirts"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a9282810434a6bc55dbac69598f53b0e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a9282810434a6bc55dbac69598f53b0e.jpg"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Team Baby"
-        },
-        "name": "Everything",
-        "url": "https://www.last.fm/music/The+Black+Skirts/_/Everything",
-        "date": {
-          "uts": "1787989418",
-          "#text": "29 Aug 2026, 07:43"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "173",
       "page": "1",
       "perPage": "50",
-      "total": "8633"
+      "total": "8636"
     }
   }
 }
