@@ -3,6 +3,42 @@
     "track": [
       {
         "artist": {
+          "mbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
+          "#text": "John Mayer"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/70abbd0a4b1ab3354dd5a8130d779b34.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/70abbd0a4b1ab3354dd5a8130d779b34.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/70abbd0a4b1ab3354dd5a8130d779b34.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/70abbd0a4b1ab3354dd5a8130d779b34.jpg"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "028dc4cf-a971-4143-b22f-fbe2f17d5e51",
+          "#text": "Where The Light Is: John Mayer Live In Los Angeles"
+        },
+        "name": "Gravity (Live at the Nokia Theatre, Los Angeles, CA - December 2007)",
+        "url": "https://www.last.fm/music/John+Mayer/_/Gravity+(Live+at+the+Nokia+Theatre,+Los+Angeles,+CA+-+December+2007)",
+        "date": {
+          "uts": "1792112893",
+          "#text": "16 Oct 2026, 01:08"
+        }
+      },
+      {
+        "artist": {
           "mbid": "7daac7f9-8fcc-485f-a14f-f8091d98cf25",
           "#text": "Pat Metheny"
         },
@@ -684,42 +720,6 @@
           "uts": "1791169741",
           "#text": "05 Oct 2026, 03:09"
         }
-      },
-      {
-        "artist": {
-          "mbid": "92d9b014-5978-4b0b-8b7a-a464b89e2b5c",
-          "#text": "Dena DeRose"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "",
-          "#text": "Sweet Spring - EP"
-        },
-        "name": "Polkadots and Moonbeams",
-        "url": "https://www.last.fm/music/Dena+DeRose/_/Polkadots+and+Moonbeams",
-        "date": {
-          "uts": "1791169463",
-          "#text": "05 Oct 2026, 03:04"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "173",
       "page": "1",
       "perPage": "50",
-      "total": "8647"
+      "total": "8648"
     }
   }
 }
