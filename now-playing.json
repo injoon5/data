@@ -3,6 +3,78 @@
     "track": [
       {
         "artist": {
+          "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+          "#text": "Bruno Mars"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f18dc30b48412484b34ebff24ba615be.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f18dc30b48412484b34ebff24ba615be.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f18dc30b48412484b34ebff24ba615be.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f18dc30b48412484b34ebff24ba615be.jpg"
+          }
+        ],
+        "mbid": "4ec76419-5b8a-4772-8756-8cda577680a4",
+        "album": {
+          "mbid": "36d50a3d-839b-40fb-9e94-2f665eda0c63",
+          "#text": "24K Magic"
+        },
+        "name": "Too Good to Say Goodbye",
+        "url": "https://www.last.fm/music/Bruno+Mars/_/Too+Good+to+Say+Goodbye",
+        "date": {
+          "uts": "1795768653",
+          "#text": "27 Nov 2026, 08:37"
+        }
+      },
+      {
+        "artist": {
+          "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+          "#text": "Hoobastank"
+        },
+        "streamable": "0",
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a611f617897daf14cc8681f7bdc6182f.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a611f617897daf14cc8681f7bdc6182f.png"
+          }
+        ],
+        "mbid": "",
+        "album": {
+          "mbid": "",
+          "#text": "The Reason - Single"
+        },
+        "name": "The Reason",
+        "url": "https://www.last.fm/music/Hoobastank/_/The+Reason",
+        "date": {
+          "uts": "1795768367",
+          "#text": "27 Nov 2026, 08:32"
+        }
+      },
+      {
+        "artist": {
           "mbid": "",
           "#text": "The Cars"
         },
@@ -25,7 +97,7 @@
             "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/247a4b9168784290a4e58495e20af480.jpg"
           }
         ],
-        "mbid": "",
+        "mbid": "124fac8c-18c9-4711-a73a-78e1f5f7909b",
         "album": {
           "mbid": "",
           "#text": "Heartbeat City (Expanded Edition)"
@@ -648,78 +720,6 @@
           "uts": "1791633597",
           "#text": "10 Oct 2026, 11:59"
         }
-      },
-      {
-        "artist": {
-          "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
-          "#text": "Billy Joel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6a0581da482a7a6b2b637554babc65a0.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6a0581da482a7a6b2b637554babc65a0.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6a0581da482a7a6b2b637554babc65a0.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6a0581da482a7a6b2b637554babc65a0.png"
-          }
-        ],
-        "mbid": "658fd994-36c3-4a27-92aa-c520466cda05",
-        "album": {
-          "mbid": "00bbf072-3177-49c0-8662-8bc88d0cb1d0",
-          "#text": "Storm Front"
-        },
-        "name": "We Didn't Start the Fire",
-        "url": "https://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+the+Fire",
-        "date": {
-          "uts": "1791632466",
-          "#text": "10 Oct 2026, 11:41"
-        }
-      },
-      {
-        "artist": {
-          "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
-          "#text": "Billy Joel"
-        },
-        "streamable": "0",
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/80462d454c7249b0aca60a4014b3552a.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/80462d454c7249b0aca60a4014b3552a.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/80462d454c7249b0aca60a4014b3552a.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/80462d454c7249b0aca60a4014b3552a.png"
-          }
-        ],
-        "mbid": "",
-        "album": {
-          "mbid": "038c5ae4-c510-48f4-9729-f89b7c7b2805",
-          "#text": "The Stranger"
-        },
-        "name": "She's Always a Woman",
-        "url": "https://www.last.fm/music/Billy+Joel/_/She%27s+Always+a+Woman",
-        "date": {
-          "uts": "1791632221",
-          "#text": "10 Oct 2026, 11:37"
-        }
       }
     ],
     "@attr": {
@@ -727,7 +727,7 @@
       "totalPages": "174",
       "page": "1",
       "perPage": "50",
-      "total": "8657"
+      "total": "8659"
     }
   }
 }
